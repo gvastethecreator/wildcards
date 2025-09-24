@@ -1,0 +1,54 @@
+times square broadway
+piccadilly circus london
+champs elysees paris
+shibuya crossing tokyo
+red square moscow
+trafalgar square london
+federation square melbourne
+union square san francisco
+dam square amsterdam
+main square krakow
+st peter's square vatican
+tiananmen square beijing
+independence square kiev
+tahrir square cairo
+zocalo mexico city
+plaza de armas cusco
+grand place brussels
+marienplatz munich
+old town square prague
+wenceslas square prague
+parliament square london
+leicester square london
+covent garden london
+camden market london
+portobello road london
+brick lane london
+shoreditch london
+soho london
+greenwich village new york
+tribeca new york
+soho new york
+little italy new york
+chinatown new york
+harlem new york
+brooklyn bridge new york
+manhattan bridge new york
+williamsburg bridge new york
+golden gate bridge san francisco
+bay bridge san francisco
+tower bridge london
+london bridge london
+westminster bridge london
+millennium bridge london
+brooklyn promenade new york
+high line new york
+central park new york
+hyde park london
+regents park london
+hampstead heath london
+richmond park london
+kensington gardens london
+st james park london
+green park london
+battersea park london

@@ -1,0 +1,167 @@
+Bluefin tuna
+Atlantic bluefin tuna
+Pacific bluefin tuna
+Southern bluefin tuna
+Yellowfin tuna
+Bigeye tuna
+Albacore tuna
+Skipjack tuna
+Dogtooth tuna
+Longtail tuna
+Blackfin tuna
+Little tunny
+Bullet tuna
+Frigate tuna
+Kawakawa
+Black skipjack
+Slender tuna
+Mackerel
+Atlantic mackerel
+Pacific mackerel
+Spanish mackerel
+King mackerel
+Cero mackerel
+Narrow-barred Spanish mackerel
+Broad-barred Spanish mackerel
+Spotted Spanish mackerel
+Japanese Spanish mackerel
+Wahoo
+Indo-Pacific king mackerel
+Chub mackerel
+Blue mackerel
+Horse mackerel
+Jack mackerel
+Japanese horse mackerel
+Mediterranean horse mackerel
+Cape horse mackerel
+Chilean jack mackerel
+Green jack mackerel
+Japanese jack mackerel
+New Zealand jack mackerel
+Southern African jack mackerel
+Marlin
+Blue marlin
+Atlantic blue marlin
+Pacific blue marlin
+Black marlin
+Striped marlin
+White marlin
+Roundscale spearfish
+Longbill spearfish
+Shortbill spearfish
+Mediterranean spearfish
+Sailfish
+Indo-Pacific sailfish
+Atlantic sailfish
+Swordfish
+Billfish
+Mahi-mahi
+Dolphinfish
+Pompano dolphinfish
+Cobia
+Remora
+Sharksucker
+Common remora
+Whitefin sharksucker
+Spearfish remora
+Marlin sucker
+Live sharksucker
+Slender suckerfish
+White suckerfish
+Barracuda
+Great barracuda
+Chevron barracuda
+Yellowtail barracuda
+Mexican barracuda
+Pelican barracuda
+Guachanche barracuda
+Southern sennet
+Northern sennet
+Sphyraena barracuda
+Red snapper
+Northern red snapper
+Southern red snapper
+Caribbean red snapper
+Pacific red snapper
+Mutton snapper
+Lane snapper
+Gray snapper
+Mangrove snapper
+Yellowtail snapper
+Vermilion snapper
+Silk snapper
+Queen snapper
+Blackfin snapper
+Cubera snapper
+Dog snapper
+Mahogany snapper
+Schoolmaster snapper
+Two-spot red snapper
+Emperor red snapper
+Bourgeois red snapper
+Crimson snapper
+Long-tail red snapper
+Malabar blood snapper
+Russell's snapper
+Golden snapper
+Flame snapper
+Papuan red snapper
+Checkered snapper
+Grouper
+Goliath grouper
+Atlantic goliath grouper
+Pacific goliath grouper
+Giant grouper
+Queensland grouper
+Broomtail grouper
+Warsaw grouper
+Speckled hind
+Yellowedge grouper
+Snowy grouper
+Misty grouper
+Yellowfin grouper
+Tiger grouper
+Nassau grouper
+Black grouper
+Gag grouper
+Red grouper
+Scamp grouper
+Rock hind
+Red hind
+Coney grouper
+Graysby grouper
+Butter hamlet
+Yellowtail hamlet
+Barred hamlet
+Shy hamlet
+Golden hamlet
+Masked hamlet
+Mutton hamlet
+Coral grouper
+Strawberry grouper
+Miniata grouper
+Squaretail coral grouper
+Leopard coral grouper
+Camouflage grouper
+Honeycomb grouper
+Malabar grouper
+Giant moray
+Green moray
+Snowflake moray
+Zebra moray
+Dragon moray
+Ribbon moray
+Snake moray
+Chain moray
+Spotted snake eel
+American conger
+European conger
+Conger eel
+Japanese conger
+Beach conger
+Longfin African conger
+Cape conger
+Bandtooth conger
+Mustache conger
+Whitespotted conger
+Grey conger

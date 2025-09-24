@@ -1,0 +1,103 @@
+Honeybee
+European honeybee
+Africanized honeybee
+Italian honeybee
+Carniolan honeybee
+Caucasian honeybee
+Russian honeybee
+Buckfast honeybee
+Bumblebee
+Common eastern bumblebee
+Common carder bumblebee
+White-tailed bumblebee
+Buff-tailed bumblebee
+Tree bumblebee
+Garden bumblebee
+Red-tailed bumblebee
+Early bumblebee
+Heath bumblebee
+Moss carder bumblebee
+Brown-banded carder bumblebee
+Shrill carder bumblebee
+Great yellow bumblebee
+Northern white-tailed bumblebee
+Cryptic bumblebee
+Bombus terrestris
+Bombus lucorum
+Bombus pascuorum
+Bombus lapidarius
+Bombus hortorum
+Bombus ruderatus
+Bombus hypnorum
+Bombus pratorum
+Bombus jonellus
+Bombus monticola
+Bombus muscorum
+Bombus humilis
+Bombus sylvarum
+Bombus distinguendus
+Bombus subterraneus
+Bombus cullumanus
+Bombus soroeensis
+Bombus ruderarius
+Bombus rupestris
+Bombus vestalis
+Bombus bohemicus
+Bombus norvegicus
+Bombus campestris
+Bombus flavidus
+Bombus barbutellus
+Carpenter bee
+Eastern carpenter bee
+California carpenter bee
+Southern carpenter bee
+Western carpenter bee
+Large carpenter bee
+Small carpenter bee
+Golden carpenter bee
+Wallace's carpenter bee
+Violet carpenter bee
+Mason bee
+Red mason bee
+Blue mason bee
+Hornfaced bee
+Orchard mason bee
+European orchard bee
+Japanese hornfaced bee
+Leafcutter bee
+Alfalfa leafcutter bee
+Rose leafcutter bee
+Willowherb leafcutter bee
+Giant resin bee
+Wool carder bee
+Large wool carder bee
+European wool carder bee
+Sweat bee
+Green sweat bee
+Metallic green sweat bee
+Pure green sweat bee
+Golden green sweat bee
+Bronze sweat bee
+Yellow-faced bumblebee
+Nomad bee
+Digger bee
+Mining bee
+Andrena mining bee
+Yellow-legged mining bee
+Tawny mining bee
+Chocolate mining bee
+Grey-patched mining bee
+Orange-legged furrow bee
+Long-horned bee
+Squash bee
+Gourd bee
+Sunflower bee
+Plasterer bee
+Masked bee
+Yellow-faced bee
+Cuckoo bee
+Blood bee
+Sharp-tailed bee
+Blunt-tailed bee
+Long-tongued bee
+Short-tongued bee

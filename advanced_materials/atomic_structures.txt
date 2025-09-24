@@ -1,0 +1,92 @@
+graphene sheets
+carbon nanotubes
+fullerene structures
+diamond nanowires
+silicon carbide
+boron nitride
+molybdenum disulfide
+tungsten diselenide
+black phosphorus
+phosphorene
+silicene
+germanene
+stanene
+borophene
+antimonene
+bismuthene
+arsenene
+tellurene
+selenene
+gallenene
+indiene
+thallene
+plumbene
+alpha tin
+beta tin
+gamma tin
+delta tin
+white tin
+grey tin
+liquid tin
+gaseous tin
+plasma tin
+crystalline structures
+amorphous forms
+nanocrystalline
+microcrystalline
+polycrystalline
+single crystal
+monocrystalline
+polymorph variants
+allotropes
+isomers
+stereoisomers
+enantiomers
+diastereomers
+conformers
+tautomers
+rotamers
+atropisomers
+topoisomers
+constitutional isomers
+structural isomers
+positional isomers
+functional isomers
+chain isomers
+skeletal isomers
+ring chain isomers
+metamerism
+tautomerism
+valence tautomerism
+annular tautomerism
+ring chain tautomerism
+prototropy
+sigmatropy
+electrocyclic reactions
+cycloadditions
+rearrangements
+eliminations
+substitutions
+additions
+oxidations
+reductions
+hydrogenations
+dehydrogenations
+cyclizations
+polymerizations
+condensations
+hydrolyses
+esterifications
+etherifications
+alkylations
+acylations
+sulfonations
+nitrations
+halogenations
+dehalogenations
+methylations
+demethylations
+acetylations
+deacetylations
+phosphorylations
+dephosphorylations

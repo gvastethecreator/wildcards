@@ -1,0 +1,108 @@
+medical specializations
+cardiology heart
+pulmonology lungs
+gastroenterology digestive
+neurology nervous system
+nephrology kidneys
+endocrinology hormones
+rheumatology joints
+dermatology skin
+ophthalmology eyes
+otolaryngology ear nose throat
+urology urinary
+gynecology women
+obstetrics pregnancy
+pediatrics children
+geriatrics elderly
+psychiatry mental health
+anesthesiology pain management
+radiology imaging
+pathology disease diagnosis
+emergency medicine
+family medicine
+internal medicine
+sports medicine
+occupational medicine
+preventive medicine
+rehabilitation medicine
+palliative care
+intensive care
+surgical specialties
+orthopedic surgery
+plastic surgery
+cardiac surgery
+neurosurgery
+trauma surgery
+pediatric surgery
+transplant surgery
+robotic surgery
+minimally invasive
+laparoscopic procedures
+endoscopic techniques
+arthroscopic surgery
+microsurgery precision
+interventional procedures
+diagnostic imaging
+magnetic resonance
+computed tomography
+positron emission
+single photon emission
+ultrasound scanning
+x-ray radiography
+fluoroscopy real-time
+mammography screening
+bone density scanning
+echocardiography heart
+electrocardiography
+electroencephalography
+electromyography
+nerve conduction studies
+pulmonary function tests
+stress testing
+holter monitoring
+blood pressure monitoring
+glucose monitoring
+oxygen saturation
+pulse oximetry
+respiratory therapy
+physical therapy
+occupational therapy
+speech therapy
+recreational therapy
+music therapy
+art therapy
+dance therapy
+massage therapy
+acupuncture treatment
+chiropractic care
+osteopathic medicine
+naturopathic medicine
+homeopathic remedies
+herbal medicine
+nutritional therapy
+vitamin supplementation
+mineral supplementation
+probiotic therapy
+enzyme therapy
+hormone replacement
+gene therapy
+stem cell therapy
+immunotherapy
+chemotherapy
+radiation therapy
+targeted therapy
+precision medicine
+personalized treatment
+pharmacogenomics
+biomarker testing
+liquid biopsies
+molecular diagnostics
+genetic counseling
+clinical trials
+evidence based medicine
+quality improvement
+patient safety
+infection control
+medication safety
+surgical safety
+diagnostic accuracy

@@ -1,0 +1,103 @@
+Electric guitar
+Bass guitar
+Electric bass
+Synthesizer
+Keyboard
+Digital piano
+Electric piano
+Hammond organ
+Rhodes piano
+Moog synthesizer
+Analog synthesizer
+Digital synthesizer
+Sampler
+Sequencer
+Drum machine
+Electronic drums
+MIDI controller
+Audio interface
+Mixing console
+Recording equipment
+Microphone
+Dynamic microphone
+Condenser microphone
+Ribbon microphone
+Lavalier microphone
+Shotgun microphone
+Studio monitor
+Headphones
+Studio headphones
+DJ headphones
+Turntable
+DJ mixer
+CDJ player
+MIDI turntable
+Loop station
+Effect pedals
+Distortion pedal
+Overdrive pedal
+Fuzz pedal
+Reverb pedal
+Delay pedal
+Echo pedal
+Chorus pedal
+Flanger pedal
+Phaser pedal
+Tremolo pedal
+Vibrato pedal
+Compressor pedal
+Limiter pedal
+Gate pedal
+Octave pedal
+Pitch shifter
+Harmonizer pedal
+Multi-effects pedal
+Pedalboard
+Guitar amplifier
+Bass amplifier
+Tube amplifier
+Solid state amplifier
+Modeling amplifier
+Practice amplifier
+Stack amplifier
+Combo amplifier
+Speaker cabinet
+PA system
+Monitor speakers
+Subwoofer
+Audio mixer
+Digital mixer
+Analog mixer
+Audio processor
+Equalizer
+Compressor
+Limiter
+Gate
+Reverb unit
+Delay unit
+Multi-track recorder
+Digital recorder
+Analog recorder
+Tape machine
+Reel-to-reel
+Cassette deck
+CD player
+Vinyl player
+MP3 player
+Digital audio player
+Streaming device
+Audio workstation
+DAW software
+Audio software
+Plugin effects
+Virtual instruments
+Sample libraries
+Loop libraries
+Beat making software
+DJ software
+Music production
+Home studio
+Professional studio
+Recording studio
+Mixing studio
+Mastering studio

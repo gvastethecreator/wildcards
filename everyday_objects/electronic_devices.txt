@@ -1,0 +1,100 @@
+Smartphone
+iPhone
+Android phone
+Samsung Galaxy
+Google Pixel
+OnePlus device
+Huawei phone
+Xiaomi device
+Nokia phone
+Motorola phone
+LG smartphone
+Sony Xperia
+HTC device
+BlackBerry
+Flip phone
+Feature phone
+Basic phone
+Burner phone
+Prepaid phone
+Contract phone
+Unlocked phone
+Carrier locked
+5G phone
+4G phone
+3G phone
+Dual SIM phone
+Single SIM
+Waterproof phone
+Rugged phone
+Gaming phone
+Camera phone
+Music phone
+Business phone
+Senior phone
+Kids phone
+Smartwatch
+Apple Watch
+Samsung Watch
+Fitbit
+Garmin watch
+Polar watch
+Suunto watch
+Amazfit watch
+Huawei Watch
+Wear OS watch
+Tizen watch
+watchOS device
+Fitness tracker
+Activity tracker
+Step counter
+Heart rate monitor
+Sleep tracker
+GPS tracker
+Smart ring
+Smart glasses
+AR glasses
+VR headset
+Mixed reality
+Bluetooth headphones
+Wireless earbuds
+AirPods
+Galaxy Buds
+Pixel Buds
+Noise canceling
+Over-ear headphones
+On-ear headphones
+In-ear headphones
+Gaming headset
+Studio headphones
+DJ headphones
+Sports headphones
+Workout earbuds
+Running headphones
+Waterproof earbuds
+Bone conduction
+Open-ear headphones
+True wireless
+Semi-wireless
+Wired headphones
+Lightning connector
+USB-C connector
+3.5mm jack
+Wireless charging
+Fast charging
+Qi charging
+MagSafe charging
+Reverse charging
+Power bank
+Portable charger
+Wall charger
+Car charger
+Wireless charger
+Charging cable
+Lightning cable
+USB-C cable
+Micro USB cable
+Magnetic cable
+Braided cable
+Coiled cable
+Retractable cable

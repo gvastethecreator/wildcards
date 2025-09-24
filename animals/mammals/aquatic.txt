@@ -1,0 +1,109 @@
+Blue whale
+Fin whale
+Sei whale
+Bryde's whale
+Omura's whale
+Minke whale
+Antarctic minke whale
+Humpback whale
+Gray whale
+North Atlantic right whale
+North Pacific right whale
+Southern right whale
+Bowhead whale
+Pygmy right whale
+Sperm whale
+Pygmy sperm whale
+Dwarf sperm whale
+Narwhal
+Beluga whale
+Killer whale
+Orca
+False killer whale
+Pilot whale
+Long-finned pilot whale
+Short-finned pilot whale
+Melon-headed whale
+Pygmy killer whale
+Bottlenose dolphin
+Common dolphin
+Short-beaked common dolphin
+Long-beaked common dolphin
+Striped dolphin
+Spotted dolphin
+Pantropical spotted dolphin
+Atlantic spotted dolphin
+Spinner dolphin
+Clymene dolphin
+Fraser's dolphin
+Pacific white-sided dolphin
+Atlantic white-sided dolphin
+White-beaked dolphin
+Peale's dolphin
+Hourglass dolphin
+Dusky dolphin
+Risso's dolphin
+Rough-toothed dolphin
+Irrawaddy dolphin
+Australian snubfin dolphin
+Tucuxi
+Guiana dolphin
+La Plata dolphin
+Amazon river dolphin
+Chinese river dolphin
+Ganges river dolphin
+Indus river dolphin
+Manatee
+West Indian manatee
+Amazonian manatee
+African manatee
+Dugong
+Steller's sea cow
+California sea lion
+Australian sea lion
+New Zealand sea lion
+South American sea lion
+Galapagos sea lion
+Stellar sea lion
+Northern fur seal
+Antarctic fur seal
+Subantarctic fur seal
+New Zealand fur seal
+Australian fur seal
+South African fur seal
+South American fur seal
+Galapagos fur seal
+Guadalupe fur seal
+Harbor seal
+Spotted seal
+Ringed seal
+Baikal seal
+Caspian seal
+Grey seal
+Harp seal
+Ribbon seal
+Bearded seal
+Hooded seal
+Hawaiian monk seal
+Mediterranean monk seal
+Caribbean monk seal
+Northern elephant seal
+Southern elephant seal
+Leopard seal
+Weddell seal
+Crabeater seal
+Ross seal
+Walrus
+Sea otter
+Marine otter
+Eurasian otter
+North American river otter
+Southern river otter
+Neotropical otter
+Spotted-necked otter
+Asian small-clawed otter
+Smooth-coated otter
+Hairy-nosed otter
+Giant otter
+Congo clawless otter
+African clawless otter

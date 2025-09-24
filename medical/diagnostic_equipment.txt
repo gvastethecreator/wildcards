@@ -1,0 +1,111 @@
+diagnostic equipment
+stethoscope acoustic
+blood pressure cuff
+thermometer digital
+otoscope ear examination
+ophthalmoscope eye examination
+reflex hammer
+tuning fork
+penlight flashlight
+tongue depressor
+examination gloves
+face masks
+hand sanitizer
+antiseptic solutions
+gauze pads
+medical tape
+bandages elastic
+splints immobilization
+crutches mobility
+wheelchair transport
+stretcher emergency
+gurney hospital
+defibrillator cardiac
+ventilator respiratory
+oxygen concentrator
+nebulizer medication
+pulse oximeter
+blood glucose meter
+insulin pen
+epipen auto-injector
+inhaler bronchodilator
+peak flow meter
+spirometer lung function
+electrocardiograph
+holter monitor
+blood pressure monitor
+infusion pump
+syringe pump
+feeding pump
+dialysis machine
+hemodialysis
+peritoneal dialysis
+plasma exchange
+blood transfusion equipment
+centrifuge laboratory
+microscope examination
+incubator bacterial culture
+autoclave sterilization
+ultrasonic cleaner
+surgical instruments
+scalpel blade
+forceps grasping
+scissors cutting
+needle holder
+suture materials
+hemostats bleeding control
+retractors exposure
+clamps vascular
+electrocautery
+laser surgical
+endoscope visualization
+laparoscope minimally invasive
+arthroscope joint
+bronchoscope airway
+colonoscope colon
+gastroscope stomach
+cystoscope bladder
+hysteroscope uterine
+dermatoscope skin
+fundoscope retinal
+slit lamp eye
+tonometer pressure
+audiometer hearing
+tympanometer eardrum
+visual field analyzer
+bone densitometer
+mammography unit
+fluoroscopy machine
+angiography equipment
+cardiac catheterization
+interventional radiology
+biopsy needle
+fine needle aspiration
+core needle biopsy
+vacuum assisted biopsy
+stereotactic biopsy
+mri guided biopsy
+ct guided biopsy
+ultrasound guided biopsy
+endoscopic biopsy
+surgical biopsy
+frozen section analysis
+histopathology examination
+cytology screening
+immunohistochemistry
+flow cytometry
+molecular diagnostics
+pcr amplification
+dna sequencing
+chromosome analysis
+genetic testing
+pharmacogenetic testing
+tumor markers
+cardiac enzymes
+liver function tests
+kidney function tests
+thyroid function tests
+hormone levels
+electrolyte balance
+blood gas analysis
+coagulation studies

@@ -1,0 +1,116 @@
+Ostrich
+Emu
+Southern cassowary
+Dwarf cassowary
+Northern cassowary
+Greater rhea
+Lesser rhea
+Darwin's rhea
+Puna rhea
+Brown kiwi
+Great spotted kiwi
+Little spotted kiwi
+Rowi
+Tokoeka
+Haast tokoeka
+Stewart Island tokoeka
+Okarito brown kiwi
+Great auk
+Little auk
+Razorbill
+Common murre
+Thick-billed murre
+Brünnich's guillemot
+Black guillemot
+Pigeon guillemot
+Spectacled guillemot
+Cepphus guillemot
+Marbled murrelet
+Kittlitz's murrelet
+Xantus's murrelet
+Craveri's murrelet
+Ancient murrelet
+Japanese murrelet
+Long-billed murrelet
+Cassin's auklet
+Parakeet auklet
+Least auklet
+Whiskered auklet
+Crested auklet
+Rhinoceros auklet
+Atlantic puffin
+Horned puffin
+Tufted puffin
+Dodo
+Rodrigues solitaire
+Reunion solitaire
+Inaccessible Island rail
+Aldabra rail
+Lord Howe woodhen
+Guam rail
+Wake Island rail
+Laysan rail
+Hawaiian rail
+Kosrae crake
+Miller's rail
+Samoan wood rail
+Tahiti rail
+Ascension crake
+St. Helena crake
+Tristan moorhen
+Gough moorhen
+Henderson crake
+White gallinule
+Lord Howe gallinule
+Réunion gallinule
+Mauritius red hen
+Rodriguez rail
+New Caledonian rail
+Fiji bar-winged rail
+Calayan rail
+Luzon rail
+Platen's rail
+Woodford's rail
+New Guinea flightless rail
+Invisible rail
+Chestnut rail
+New Britain rail
+Bald-faced rail
+Roviana rail
+Guadalcanal rail
+San Cristóbal rail
+Henderson Island crake
+Zapata rail
+Bogota rail
+Colombian crake
+Paint-billed crake
+Rusty-flanked crake
+White-throated crake
+Yellow-breasted crake
+Ash-throated crake
+Ocellated crake
+Chestnut-headed crake
+Red-and-white crake
+Red-winged crake
+Rufous-faced crake
+Uniform crake
+Sakalava rail
+Grey-throated rail
+Slender-billed flufftail
+White-winged flufftail
+Buff-spotted flufftail
+Chestnut-headed flufftail
+Streaky-breasted flufftail
+Striped flufftail
+Madagascar flufftail
+Weka
+Buff weka
+Western weka
+North Island weka
+Stewart Island weka
+Takahe
+North Island takahe
+South Island takahe
+Kakapo
+Flightless cormorant
+Galápagos cormorant

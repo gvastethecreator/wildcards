@@ -1,0 +1,117 @@
+Sunny skies
+Partly cloudy
+Mostly cloudy
+Overcast
+Clear skies
+Bright sunshine
+Filtered sunlight
+Hazy conditions
+Light rain
+Moderate rain
+Heavy rain
+Drizzling
+Sprinkling
+Pouring
+Downpour
+Showers
+Scattered showers
+Isolated showers
+Thundershowers
+Rain squalls
+Light snow
+Moderate snow
+Heavy snow
+Flurries
+Snow showers
+Blizzard conditions
+Sleet falling
+Freezing rain
+Ice pellets
+Hail stones
+Graupel
+Snow pellets
+Windy conditions
+Breezy
+Gusty winds
+Strong winds
+Gale force winds
+Hurricane winds
+Calm air
+Still conditions
+Muggy weather
+Humid conditions
+Dry air
+Arid conditions
+Comfortable humidity
+High pressure
+Low pressure
+Rising pressure
+Falling pressure
+Stable pressure
+Temperature rising
+Temperature falling
+Warm front
+Cold front
+Occluded front
+Stationary front
+High temperature
+Low temperature
+Record high
+Record low
+Heat wave
+Cold snap
+Frost warning
+Freeze warning
+Wind chill
+Heat index
+Feels like temperature
+Dew point
+Relative humidity
+Visibility
+Fog
+Dense fog
+Patchy fog
+Ground fog
+Radiation fog
+Advection fog
+Steam fog
+Freezing fog
+Mist
+Haze
+Smoke
+Dust
+Sand storm
+Dust devil
+Whirlwind
+Waterspout
+Funnel cloud
+Tornado
+Supercell
+Squall line
+Derecho
+Microburst
+Downdraft
+Updraft
+Convection
+Thermal
+Ridge
+Trough
+Jet stream
+Polar vortex
+Heat dome
+Atmospheric river
+Monsoon
+Trade winds
+Westerlies
+Easterlies
+Sea breeze
+Land breeze
+Mountain breeze
+Valley breeze
+Chinook winds
+Santa Ana winds
+Nor'easter
+Polar express
+Arctic blast
+Indian summer
+Dog days

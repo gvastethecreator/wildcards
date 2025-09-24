@@ -1,0 +1,112 @@
+Acoustic guitar
+Electric guitar
+Bass guitar
+Classical guitar
+Steel guitar
+Slide guitar
+Resonator guitar
+Twelve-string guitar
+Banjo
+Mandolin
+Ukulele
+Harp
+Celtic harp
+Concert harp
+Pedal harp
+Lap harp
+Lyre
+Psaltery
+Dulcimer
+Zither
+Koto
+Shamisen
+Sitar
+Tabla
+Tambura
+Veena
+Sarod
+Santoor
+Erhu
+Guzheng
+Pipa
+Dizi
+Xiao
+Shakuhachi
+Koto
+Biwa
+Taiko drums
+Djembe
+Conga drums
+Bongo drums
+Timpani
+Snare drum
+Bass drum
+Tom-tom
+Floor tom
+Cymbals
+Hi-hat
+Crash cymbal
+Ride cymbal
+China cymbal
+Splash cymbal
+Gong
+Triangle
+Tambourine
+Maracas
+Shakers
+Claves
+Woodblock
+Cowbell
+Vibraphone
+Marimba
+Xylophone
+Glockenspiel
+Chimes
+Bells
+Tubular bells
+Singing bowl
+Rain stick
+Ocean drum
+Thunder sheet
+Wind chimes
+Violin
+Viola
+Cello
+Double bass
+Fiddle
+Mandolin
+Banjo
+Guitar
+Electric bass
+Upright bass
+Flute
+Piccolo
+Alto flute
+Bass flute
+Recorder
+Penny whistle
+Ocarina
+Pan flute
+Native flute
+Oboe
+English horn
+Clarinet
+Bass clarinet
+Bassoon
+Contrabassoon
+Saxophone
+Alto sax
+Tenor sax
+Baritone sax
+Soprano sax
+Trumpet
+Cornet
+Flugelhorn
+French horn
+Trombone
+Tuba
+Euphonium
+Bugle
+Didgeridoo
+Vuvuzela
+Conch shell

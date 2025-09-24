@@ -1,0 +1,86 @@
+smart home devices
+smart thermostat
+smart doorbell
+security camera
+motion detector
+door sensor
+window sensor
+smoke detector
+carbon monoxide detector
+water leak sensor
+smart lock
+garage door opener
+smart switch
+dimmer switch
+smart outlet
+power strip
+extension cord
+surge protector
+UPS battery backup
+smart bulb
+LED strip lights
+ceiling fan
+space heater
+air purifier
+humidifier
+dehumidifier
+air conditioner
+window unit
+portable AC
+evaporative cooler
+electric fireplace
+electric blanket
+heating pad
+massager
+tens unit
+blood pressure monitor
+thermometer
+scale
+fitness tracker
+smartwatch
+tablet
+smartphone
+laptop
+desktop computer
+monitor
+keyboard
+mouse
+webcam
+microphone
+headphones
+speakers
+soundbar
+streaming device
+game console
+VR headset
+smart TV
+projector
+blu-ray player
+DVD player
+stereo system
+turntable
+radio
+alarm clock
+lamp
+desk lamp
+floor lamp
+table lamp
+night light
+flashlight
+lantern
+candles
+diffuser
+air freshener
+vacuum cleaner
+steam mop
+iron
+steamer
+sewing machine
+hair dryer
+curling iron
+straightener
+electric toothbrush
+water flosser
+electric razor
+epilator
+nail care kit

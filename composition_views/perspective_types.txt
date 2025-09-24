@@ -1,0 +1,98 @@
+Single point perspective
+Two point perspective
+Three point perspective
+Four point perspective
+Five point perspective
+Six point perspective
+Curvilinear perspective
+Cylindrical perspective
+Spherical perspective
+Fisheye perspective
+Panoramic perspective
+Anamorphic perspective
+Forced perspective
+Atmospheric perspective
+Aerial perspective
+Color perspective
+Linear perspective
+Parallel perspective
+Angular perspective
+Oblique perspective
+Isometric perspective
+Orthographic perspective
+Axonometric perspective
+Dimetric perspective
+Trimetric perspective
+Cabinet perspective
+Cavalier perspective
+Military perspective
+Planometric perspective
+Worm's eye perspective
+Bird's eye perspective
+Horizon line high
+Horizon line low
+Horizon line centered
+Horizon line tilted
+Vanishing point left
+Vanishing point right
+Vanishing point center
+Vanishing point off-frame
+Multiple vanishing points
+No vanishing point
+Infinity focus
+Macro perspective
+Micro perspective
+Telescopic perspective
+Wide angle perspective
+Normal perspective
+Telephoto perspective
+Ultra wide perspective
+Super telephoto perspective
+Zoom perspective
+Prime lens perspective
+Tilt-shift perspective
+Miniature effect
+Shallow depth
+Deep depth
+Infinite depth
+Layered depth
+Compressed depth
+Exaggerated depth
+Subtle depth
+Dramatic depth
+Foreground emphasis
+Middle ground emphasis
+Background emphasis
+Multi-plane composition
+Single plane composition
+Overlapping planes
+Separated planes
+Intersecting planes
+Parallel planes
+Converging planes
+Diverging planes
+Receding planes
+Advancing planes
+Flat composition
+Dimensional composition
+Relief composition
+Sculptural composition
+Painterly composition
+Photographic composition
+Cinematic composition
+Theatrical composition
+Documentary composition
+Portrait composition
+Landscape composition
+Still life composition
+Abstract composition
+Geometric composition
+Organic composition
+Dynamic composition
+Static composition
+Flowing composition
+Rigid composition
+Loose composition
+Tight composition
+Open composition
+Closed composition

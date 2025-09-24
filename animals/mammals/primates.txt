@@ -1,0 +1,107 @@
+Orangutan
+Sumatran orangutan
+Bornean orangutan
+Tapanuli orangutan
+Chimpanzee
+Bonobo
+Western gorilla
+Eastern gorilla
+Mountain gorilla
+Cross River gorilla
+Gibbon
+Siamang
+White-handed gibbon
+Agile gibbon
+Muller's gibbon
+Silvery gibbon
+Pileated gibbon
+Kloss's gibbon
+Hoolock gibbon
+Squirrel monkey
+Spider monkey
+Howler monkey
+Capuchin monkey
+Woolly monkey
+Uakari
+Saki monkey
+Titi monkey
+Night monkey
+Marmoset
+Tamarin
+Golden lion tamarin
+Cotton-top tamarin
+Emperor tamarin
+Moustached tamarin
+Goeldi's monkey
+Baboon
+Hamadryas baboon
+Olive baboon
+Yellow baboon
+Chacma baboon
+Guinea baboon
+Mandrill
+Drill
+Gelada
+Macaque
+Rhesus macaque
+Japanese macaque
+Long-tailed macaque
+Pig-tailed macaque
+Barbary macaque
+Bonnet macaque
+Toque macaque
+Lion-tailed macaque
+Celebes crested macaque
+Vervet monkey
+Green monkey
+Grivet
+Tantalus monkey
+Malbrouck
+Blue monkey
+Red-tailed monkey
+L'Hoest's monkey
+Preuss's monkey
+Sun-tailed monkey
+Golden monkey
+Sykes' monkey
+Silver monkey
+Mona monkey
+Campbell's monkey
+Lesser spot-nosed monkey
+Greater spot-nosed monkey
+Redtail monkey
+Diana monkey
+Roloway monkey
+King colobus
+Western red colobus
+Eastern red colobus
+Olive colobus
+Black-and-white colobus
+Angolan colobus
+Guereza
+Mantled guereza
+White-thighed colobus
+Ursine colobus
+Proboscis monkey
+Silvered langur
+Dusky langur
+Thomas's langur
+Francois' langur
+White-headed langur
+Golden langur
+Capped langur
+Phayre's langur
+Douc langur
+Snub-nosed monkey
+Yunnan snub-nosed monkey
+Sichuan snub-nosed monkey
+Hanuman langur
+Purple-faced langur
+Tufted capuchin
+White-fronted capuchin
+Kaapori capuchin
+Golden-bellied capuchin
+Blond capuchin
+Black capuchin
+Black-striped capuchin
+Chestnut capuchin

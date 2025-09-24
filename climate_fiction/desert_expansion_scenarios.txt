@@ -1,0 +1,87 @@
+desert expansion
+sahara advancement
+gobi growth
+mojave extension
+sonoran spread
+chihuahuan enlargement
+great basin expansion
+kalahari growth
+namib extension
+atacama spread
+arabian enlargement
+thar expansion
+taklamakan growth
+karakum extension
+kyzylkum spread
+dasht e kavir enlargement
+dasht e lut expansion
+registan growth
+kharan extension
+cholistan spread
+thal enlargement
+strzelecki expansion
+great victoria growth
+little sandy extension
+gibson spread
+great western enlargement
+pedirka expansion
+carcross growth
+alvord extension
+black rock spread
+smoke creek enlargement
+forty mile expansion
+Carson growth
+humboldt extension
+alvord spread
+Christmas valley enlargement
+fort rock expansion
+silver lake growth
+soda lake extension
+searles lake spread
+owens lake enlargement
+mono lake expansion
+pyramid lake growth
+walker lake extension
+lake tahoe spread
+great salt lake enlargement
+bonneville expansion
+lahontan growth
+missoula extension
+agassiz spread
+ojibway enlargement
+barlow expansion
+mcconnell growth
+cordilleran extension
+laurentide spread
+fennoscandian enlargement
+british ice expansion
+irish ice growth
+scandinavian extension
+greenland spread
+antarctic enlargement
+patagonian expansion
+new zealand growth
+himalayan extension
+tibetan spread
+altai enlargement
+ural expansion
+caucasus growth
+carpathian extension
+pyrenees spread
+alps enlargement
+apennine expansion
+atlas growth
+ethiopian extension
+kilimanjaro spread
+rwenzori enlargement
+drakensberg expansion
+great dividing growth
+blue ridge extension
+appalachian spread
+rocky mountain enlargement
+cascade expansion
+sierra nevada growth
+coast range extension
+alaska range spread
+brooks range enlargement
+mackenzie expansion

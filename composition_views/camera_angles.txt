@@ -1,0 +1,80 @@
+Wide shot
+Medium shot
+Close-up shot
+Extreme close-up
+Long shot
+Establishing shot
+Master shot
+Two shot
+Three shot
+Group shot
+Over-the-shoulder shot
+Point of view shot
+Reaction shot
+Insert shot
+Cutaway shot
+Coverage shot
+Tracking shot
+Dolly shot
+Pan shot
+Tilt shot
+Zoom shot
+Pull focus
+Rack focus
+Deep focus
+Shallow focus
+Split focus
+Soft focus
+Hard focus
+Selective focus
+Gaussian blur
+Motion blur
+Radial blur
+Zoom blur
+Background blur
+Foreground blur
+Bokeh circles
+Bokeh hexagons
+Creamy bokeh
+Sharp bokeh
+Smooth bokeh
+Busy bokeh
+Clean bokeh
+Artistic bokeh
+Natural bokeh
+Lens flare
+Sun flare
+Star flare
+Hex flare
+Anamorphic flare
+Rainbow flare
+Ghosting flare
+Chromatic aberration
+Barrel distortion
+Pincushion distortion
+Keystone distortion
+Perspective correction
+Lens compression
+Telephoto compression
+Wide angle distortion
+Fisheye distortion
+Panoramic view
+360 degree view
+Aerial view
+Bird's eye view
+Worm's eye view
+Ground level view
+Eye level view
+High angle
+Low angle
+Dutch angle
+Canted angle
+Tilted horizon
+Level horizon
+Dynamic angle
+Static angle
+Frontal view
+Profile view
+Three-quarter view
+Back view
+Side view
