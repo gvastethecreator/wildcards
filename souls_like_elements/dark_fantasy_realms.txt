@@ -1,0 +1,158 @@
+hollowed knight undead-warrior endless-torment
+ashen one unkindled-flame dying-light-keeper
+chosen undead curse-bearer hollow-destiny
+bearer of curse multiple-death-resurrection
+tarnished grace-lost exile-returned-lands
+lords of cinder flame-linking-great-souls
+old ones great-soul-ancient-power
+skeleton lords bone-army-commanding
+capra demon narrow-bridge-ambush
+bell gargoyle twin-guardian-parish
+iron golem fortress-guardian-giant
+ornstein dragonslayer lightning-spear
+smough executioner great-hammer-crusher
+four kings abyss-dwellers-dark-void
+seath scaleless dragon-crystal-research
+nito first-dead gravelord-disease
+bed of chaos life-source-corruption
+gwyn lord cinder final-boss-lightning
+artorias abysswalker corrupted-knight-legend
+sif great grey wolf companion-sword-guardian
+manus father abyss primeval-human-darkness
+kalameet black dragon ancient-flying-terror
+sanctuary guardian butterfly-boss-crystal
+black dragon kalameet ancient-evil-flight
+asylum demon tutorial-boss-great-hammer
+taurus demon bridge-boss-large-axe
+moonlight butterfly ranged-magic-attacks
+stray demon explosive-magic-area
+demon firesage lava-environment-flames
+centipede demon lava-body-segments
+ceaseless discharge lava-arm-reach
+old demon king flame-diminished-power
+yhorm giant lord storm-ruler-weakness
+aldrich saint-devourer dark-miracle-sludge
+dancer boreal valley grace-twisted-corruption
+pontiff sulyvahn frost-flame-dual-swords
+abyss watchers farron-legion-shared-soul
+crystal sage twin-teleporting-sorcerer
+deacons deep cathedral-mass-resurrection
+high lord wolnir skeleton-king-bracelets
+old demon king izalith-flame-fading
+champion gundyr tutorial-boss-aggressive
+iudex gundyr first-boss-transformation
+vordt boreal valley frost-charge-boss
+curse-rotted greatwood hollow-tree-boss
+dragonslayer armour animated-armor-lightning
+twin princes lothric-lorian-cooperation
+nameless king dragon-rider-storm
+soul of cinder final-boss-all-movesets
+sister friede scythe-frost-triple-phase
+champion gravetender wolf-companion-boss
+demon prince twin-demon-merger-boss
+darkeater midir ancient-dragon-abyss
+slave knight gael crossbow-dark-soul
+crucifixion woods twisted-tree-forest
+cathedral depths sewer-rat-poison
+catacombs of carthus skeleton-necromancer-maze
+smouldering lake demon-ruins-lava
+irithyll boreal valley frozen-beautiful-city
+profaned capital flame-curse-prison
+lothric castle twin-prince-library
+archdragon peak ancient-dragon-worship
+painted world ariandel snow-corruption-rot
+ringed city dark-soul-final-location
+firelink shrine hub-area-level-up
+majula nexus-area-emerald-herald
+roundtable hold tarnished-gathering-hub
+undead asylum tutorial-prison-escape
+undead burg lower-upper-merchant
+depths sewer-gaping-dragon
+blighttown poison-swamp-difficulty-spike
+quelaag domain spider-demon-lava
+demon ruins lava-capra-taurus
+lost izalith bed-chaos-dragon-legs
+new londo ruins ghost-four-kings
+darkroot garden sif-forest-hunters
+darkroot basin hydra-crystal-golems
+oolacile past-present-abyss-manus
+painted world priscilla-lifehunt-scythe
+kiln first flame gwyn-final-area
+things betwixt tutorial-area-hags
+forest fallen giants giant-lord-memories
+heide tower flame blue-cathedral-knights
+no-man's wharf ship-graveyard-flexile
+huntsman copse executioner-chariot
+harvest valley poison-mill-covetous
+earthen peak poison-tower-mytha
+iron keep lava-castle-iron-king
+shaded woods invisible-enemies-scorpioness
+doors pharros rat-covenant-authority
+brightstone cove tseldora spider-duke-freja
+drangleic castle looking-glass-knight
+shrine amana caster-enemies-demon-song
+undead crypt velstadt-royal-aegis
+aldia keep guardian-dragon-ancient
+dragon aerie crystal-dragon-eggs
+dragon shrine ancient-dragon-boss
+memory giant last-giant-flashback
+memory jeigh giant-lord-final-boss
+memory vammar giant-soldiers-war
+throne watcher defender nashandra-final
+undead crypt agdayne-hexer-navlaan
+brume tower fume-knight-alonne
+shulva sanctum sinh-poison-dragon
+ivory king crown burnt-ivory-king
+frozen eleum loyce chaos-old-one
+limgrave starting-area-tree-sentinel
+caelid scarlet-rot-radahn-festival
+liurnia lakes raya-lucaria-rennala
+altus plateau leyndell-capital-morgott
+mt gelmir volcano-manor-rykard
+forbidden lands mountaintops-giants-fire
+consecrated snowfield miquella-haligtree
+crumbling farum azula maliketh-destiny-death
+elden throne radagon-elden-beast-final
+weeping peninsula castle-morne-leonine
+siofra river ancestral-spirit-underground
+nokron eternal-city-mimic-tear
+deeproot depths fia-godwyn-deathroot
+lake rot malenia-goddess-scarlet
+haligtree malenia-bloom-needle-knight
+mohgwyn palace mohg-lord-blood
+castle sol commander-niall-eclipse
+raya lucaria academy rennala-full-moon
+volcano manor rykard-serpent-blasphemy
+leyndell capital morgott-omen-king
+farum azula maliketh-black-blade
+subterranean inquisition chamber torture-basement-fear
+prehevil festival grounds termina-moonscorched
+ma'habre city desert-sulfur-god
+dungeon nightmares claustrophobic-stone-corridors
+ancient library forbidden-knowledge-madness
+ritual circles blood-sacrifice-summoning
+torture chambers medieval-interrogation-devices
+plague-ridden streets disease-contamination-death
+abandoned hospitals medical-horror-experiments
+cursed forests twisted-trees-hanging-bodies
+bone churches skeletal-architecture-worship
+flesh caverns living-walls-pulsing-organic
+nightmare realm distorted-reality-psychological
+purgatory limbo suffering-souls-eternal
+gehenna valley hinnom burning-garbage-hell
+sheol underworld shadowy-existence-death
+tartarus deepest-hell-punishment-titans
+asphodel meadows neutral-afterlife-greek
+erebus primordial-darkness-personified-void
+nyx primordial-night-goddess-darkness
+chaos primordial-void-before-creation
+abyss bottomless-pit-endless-darkness
+void empty-space-nothingness-vacuum
+limbo uncertain-state-between-worlds
+purgatory purification-temporary-suffering
+inferno dante-nine-circles-hell
+pandemonium all-demons-capital-chaos
+dis city-lower-hell-dante
+malebolge evil-pouches-fraud-punishment
+cocytus frozen-lake-traitors-hell
+acheron river-woe-underworld-crossing

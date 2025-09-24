@@ -1,23 +1,143 @@
-power stance legs apart
-casual stance hip cocked
-attention stance feet together
-at ease stance relaxed
-parade rest formal
-military bearing rigid
-dancer turnout graceful
-ballet position elegant
-yoga mountain pose centered
-warrior pose strong
-tree pose balanced
-downward dog stretching
-child pose surrendering
-corpse pose relaxed
-lotus position meditative
-cross legged comfortable
-kneeling respectful
-genuflecting reverent
-prostrating submissive
-bowing polite
+Upright confident stance
+Slouched relaxed posture
+Military rigid posture
+Casual loose stance
+Tense ready position
+Relaxed calm posture
+Forward leaning engaged
+Backward leaning distant
+Straight spine aligned
+Curved spine hunched
+Shoulders back proud
+Shoulders forward defensive
+Shoulders raised tense
+Shoulders dropped relaxed
+Shoulders squared confident
+Shoulders uneven casual
+Weight on one foot
+Weight evenly distributed
+Hip cocked sassy
+Hips square balanced
+Chest out proud
+Chest in modest
+Chest expanded confident
+Chest compressed shy
+Arms crossed defensive
+Arms loose relaxed
+Arms rigid tense
+Arms swinging natural
+Arms at sides formal
+Arms behind back formal
+Arms in front protective
+Arms akimbo assertive
+Hands on hips confident
+Hands clasped nervous
+Hands in pockets casual
+Hands behind head relaxed
+Head held high proud
+Head lowered humble
+Head tilted curious
+Head straight neutral
+Head forward attentive
+Head back cautious
+Chin up defiant
+Chin down submissive
+Chin out aggressive
+Chin tucked defensive
+Neck straight aligned
+Neck craned forward
+Neck pulled back
+Neck tilted sideways
+Standing tall proud
+Crouched low defensive
+Bent forward interested
+Leaning back skeptical
+Sitting upright alert
+Sitting slouched relaxed
+Sitting forward engaged
+Sitting back distant
+Perched edge ready
+Settled deep comfortable
+Legs crossed casual
+Legs apart stable
+Legs together formal
+Legs extended relaxed
+Legs tucked under
+Feet planted firmly
+Feet shuffling nervous
+Feet tapping impatient
+Feet still calm
+Ankles crossed casual
+Ankles apart stable
+Toes pointed outward
+Toes pointed inward
+Heel raised ready
+Flat footed grounded
+On tiptoes reaching
+Knees bent ready
+Knees locked rigid
+Knees together modest
+Knees apart relaxed
+Power stance legs apart
+Casual stance hip cocked
+Attention stance feet together
+At ease stance relaxed
+Parade rest formal
+Military bearing rigid
+Dancer turnout graceful
+Ballet position elegant
+Yoga mountain pose centered
+Warrior pose strong
+Tree pose balanced
+Downward dog stretching
+Child pose surrendering
+Corpse pose relaxed
+Lotus position meditative
+Cross legged comfortable
+Kneeling respectful
+Genuflecting reverent
+Prostrating submissive
+Bowing polite
+Full body tension
+Partial body tension
+Complete relaxation
+Selective relaxation
+Dynamic ready posture
+Static stable posture
+Asymmetrical casual stance
+Symmetrical formal stance
+Open welcoming posture
+Closed defensive posture
+Expanded confident bearing
+Contracted shy bearing
+Balanced centered stance
+Unbalanced casual stance
+Grounded stable posture
+Floating light posture
+Solid firm stance
+Fluid flexible posture
+Rigid controlled bearing
+Loose natural posture
+Athletic ready position
+Resting passive posture
+Alert vigilant stance
+Tired drooping posture
+Energetic vibrant bearing
+Lethargic sluggish posture
+Confident assertive stance
+Insecure withdrawn posture
+Dominant commanding presence
+Submissive yielding posture
+Professional formal bearing
+Casual informal stance
+Elegant graceful posture
+Awkward uncomfortable stance
+Smooth coordinated bearing
+Jerky uncoordinated posture
+Stable rooted stance
+Unstable wavering posture
+Centered balanced bearing
+Off-center tilted stance
 curtsying formal
 saluting respectful
 genuflecting religious

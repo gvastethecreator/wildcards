@@ -1,0 +1,254 @@
+Medieval Castle stone fortress
+Gothic Cathedral soaring spires
+Norman Keep defensive tower
+Saxon Hall timber frame
+Viking Longhouse timber dwelling
+Byzantine Church dome architecture
+Romanesque Monastery stone arches
+Celtic Roundhouse circular dwelling
+Anglo-Saxon Mead Hall
+Frankish Palace royal residence
+Carolingian Architecture
+Ottonian Style imperial
+Cluniac Reform monastic
+Cistercian Simplicity austere
+Benedictine Monastery
+Augustinian Priory
+Dominican Convent
+Franciscan Friary
+Knights Templar Commandery
+Hospitaller Preceptory
+Teutonic Castle fortress
+Crusader Fortress holy land
+Moorish Palace andalusian
+Mudéjar Architecture hybrid
+Mozarabic Style christian
+Visigothic Church early
+Asturian Architecture pre-romanesque
+Repoblación Settlement
+Reconquista Fortress
+Almohad Minaret tower
+Almoravid Mosque prayer
+Nasrid Palace granada
+Alhambra Complex moorish
+Alcázar Royal Palace
+Alcazaba Fortress citadel
+Medina Old City
+Kasbah Fortified Quarter
+Riad Courtyard House
+Hammam Bath House
+Souk Marketplace covered
+Khan Caravanserai inn
+Madrasa Islamic School
+Ribat Fortress monastery
+Dar House dwelling
+Qasr Palace castle
+Burj Tower fortress
+Murabba Square fort
+Hisn Castle fortress
+Qal'a Citadel fortress
+Husun Castles plural
+Manara Lighthouse tower
+Funduq Inn caravanserai
+Wakala Warehouse inn
+Okelle Merchants inn
+Caravanserai Silk Road
+Medieval Manor feudal
+Manorial Hall lord residence
+Peasant Cottage humble
+Serf Hovel poor
+Villein House tenant
+Burgher House merchant
+Artisan Workshop craft
+Guild Hall association
+Market Square commerce
+Town Wall defensive
+City Gate entrance
+Watchtower observation
+Barbican Gatehouse
+Portcullis Iron Gate
+Drawbridge moveable
+Moat Water Defense
+Bailey Castle Yard
+Ward Enclosure court
+Great Hall main room
+Solar Private Chamber
+Garderobe Medieval Toilet
+Oubliette Dungeon pit
+Crypt Underground burial
+Chapel Private worship
+Scriptorium Writing room
+Library Book storage
+Armory Weapons storage
+Smithy Metalwork shop
+Stable Horse shelter
+Granary Grain storage
+Cellar Underground storage
+Pantry Food storage
+Kitchen Cooking area
+Buttery Wine storage
+Scullery Dish washing
+Bakehouse Bread making
+Brewhouse Beer making
+Dairy Milk processing
+Henhouse Chicken coop
+Pigsty Pig enclosure
+Sheepfold Sheep pen
+Dovecote Pigeon house
+Apiary Bee keeping
+Herb Garden medicinal
+Vegetable Garden food
+Orchard Fruit trees
+Vineyard Grape growing
+Mill Grain grinding
+Watermill Water powered
+Windmill Wind powered
+Fulling Mill cloth
+Tannery Leather making
+Pottery Kiln clay firing
+Lime Kiln stone burning
+Charcoal Kiln wood burning
+Blacksmith Forge metal
+Carpenter Workshop wood
+Mason Lodge stone
+Thatcher Cottage straw roof
+Weaver House cloth
+Dyer Workshop color
+Fuller House cloth
+Cordwainer Shoe maker
+Cobbler Shoe repair
+Tailor Shop clothing
+Seamstress Atelier
+Spinner House thread
+Embroiderer Workshop
+Tapestry Loom weaving
+Illuminator Scriptorium
+Scribe Workshop writing
+Bookbinder Shop binding
+Parchment Maker vellum
+Ink Maker writing
+Quill Cutter pen making
+Candle Maker light
+Chandler Shop candles
+Soap Maker cleaning
+Perfumer Fragrance shop
+Apothecary Medicine shop
+Herbalist Plant healer
+Barber Surgeon medical
+Physician House healing
+Midwife Cottage birth
+Wise Woman healing
+Witch Hovel hedge
+Hermit Cell solitary
+Anchorite Cell enclosed
+Pilgrim Hostel travelers
+Hospital Care facility
+Leper House isolation
+Almshouse Poor relief
+Orphanage Child care
+School House education
+University Medieval learning
+Cathedral School education
+Monastic School religious
+Court School noble
+Chantry Chapel prayers
+Shrine Sacred site
+Pilgrimage Church journey
+Relic Chapel holy
+Saint Shrine veneration
+Miracle Site wonder
+Holy Well sacred water
+Sacred Grove trees
+Stone Circle ancient
+Barrow Burial mound
+Dolmen Stone tomb
+Menhir Standing stone
+Cromlech Stone circle
+Henge Earthwork circle
+Hill Fort ancient
+Oppidum Fortified town
+Broch Stone tower
+Dun Hill fort
+Rath Ring fort
+Cashel Stone fort
+Crannog Lake dwelling
+Souterrain Underground
+Fogou Cornish tunnel
+Earth House underground
+Wheelhouse Round building
+Pictish Symbol Stone
+Ogham Stone script
+Rune Stone nordic
+Cross Slab christian
+High Cross tall
+Market Cross town
+Boundary Stone marker
+Mile Stone distance
+Standing Stone marker
+Gallows Hill execution
+Gibbet Post hanging
+Pillory Stocks punishment
+Ducking Stool water
+Scold's Bridle silence
+Stocks Leg restraint
+Whipping Post flogging
+Execution Block beheading
+Scaffold Platform hanging
+Torture Chamber pain
+Rack Stretching device
+Iron Maiden spikes
+Judas Cradle pyramid
+Breaking Wheel bones
+Brazen Bull roasting
+Pear of Anguish expansion
+Thumbscrew Compression
+Scavenger's Daughter compression
+Head Crusher skull
+Heretic's Fork chin
+Breast Ripper torture
+Spanish Spider claw
+Cat's Paw claw
+Lead Sprinkler molten
+Crocodile Shears cutting
+Coffin Torture confinement
+Spanish Donkey splitting
+Wooden Horse riding
+Impalement Stakes piercing
+Flaying Alive skinning
+Drawing and Quartering dismemberment
+Burning at Stake fire
+Drowning Water execution
+Stoning Rock throwing
+Crucifixion Cross death
+Hanging Rope neck
+Beheading Axe neck
+Garrote Wire strangulation
+Poisoning Toxic death
+Suffocation Air deprivation
+Burial Alive earth
+Exposure Elements death
+Starvation Food deprivation
+Dehydration Water deprivation
+Sleep Deprivation rest
+Sensory Deprivation isolation
+Solitary Confinement alone
+Oubliette Forgetting pit
+Dungeon Underground prison
+Tower Prison high security
+Keep Prison castle
+Jail Cell confinement
+Prison Chain restraint
+Shackles Leg iron
+Manacles Hand iron
+Ball and Chain weight
+Collar Neck restraint
+Yoke Shoulder burden
+Pillory Head restraint
+Stocks Foot restraint
+Gibbet Cage hanging
+Crow Cage exposure
+Shame Flute musical
+Drunkard's Cloak barrel
+Branks Scold bridle
+Ducking Stool water punishment
+Cucking Stool commode

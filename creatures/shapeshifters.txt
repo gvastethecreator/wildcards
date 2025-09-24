@@ -1,0 +1,216 @@
+Werewolf Human beast duality
+Vampire Bat blood form
+Doppelganger Perfect human mimic
+Mimic Chest object trap
+Were Tiger Feline predator
+Were Bear Ursine strength
+Were Raven Corvid intelligence
+Were Wolf Alpha pack
+Were Shark Aquatic hunter
+Were Eagle Aerial predator
+Were Snake Serpentine stealth
+Were Spider Arachnid weaver
+Were Rat Rodent swarm
+Were Cat Feline grace
+Were Owl Nocturnal wisdom
+Were Fox Cunning trickster
+Were Crow Death harbinger
+Were Falcon Swift hunter
+Were Hawk Sharp sight
+Were Vulture Carrion feeder
+Were Panther Shadow stalker
+Were Lion Pride ruler
+Were Leopard Spotted hunter
+Were Cheetah Speed incarnate
+Were Jaguar Jungle apex
+Were Lynx Silent stalker
+Were Bobcat Wild hunter
+Were Cougar Mountain ghost
+Were Ocelot Spotted beauty
+Were Serval African grace
+Were Caracal Desert lynx
+Were Margay Tree dweller
+Were Jaguarundi Gray hunter
+Were Sand Cat Desert phantom
+Were Black Footed Cat African killer
+Were Rusty Spotted Cat Tiny predator
+Were Pallas Cat Mountain fluff
+Were Manul Steppe hunter
+Were Kodkod Chilean ghost
+Were Guina Mountain cat
+Were Geoffroy Cat River hunter
+Were Oncilla Tree leopard
+Were Pampas Cat Grassland prowler
+Were Andean Cat High altitude
+Were Sand Dune Cat Desert specialist
+Were Chinese Mountain Cat Tibetan ghost
+Were Flat Headed Cat Aquatic hunter
+Were Fishing Cat Water predator
+Were Leopard Cat Asian beauty
+Were Rusty Spotted Cat Indian tiny
+Were Black Footed Cat African small
+Were Sand Cat Sahara ghost
+Were Pallas Cat Asian fluff
+Were Marbled Cat Tree dancer
+Were Bay Cat Borneo mystery
+Were Asian Golden Cat Temple guardian
+Were African Golden Cat Forest king
+Were Caracal Desert lynx
+Were Serval African jumper
+Were Ocelot American beauty
+Were Margay Tree acrobat
+Were Jaguarundi Flexible hunter
+Were Kodkod Southern ghost
+Were Guina Andean prowler
+Were Geoffroy Cat Wetland fisher
+Were Oncilla Cloud forest cat
+Were Pampas Cat Prairie hunter
+Were Andean Cat Mountain spirit
+Were Sand Dune Cat Sahara phantom
+Were Chinese Mountain Cat Tibet ghost
+Were Manul Mongolian fluff
+Were Eurasian Lynx Forest phantom
+Were Iberian Lynx Spanish ghost
+Were Canada Lynx Snow hunter
+Were Bobcat American wild
+Were Dragon Human dragon hybrid
+Were Phoenix Fire bird form
+Were Griffin Lion eagle mix
+Were Sphinx Human lion riddle
+Were Manticore Human lion scorpion
+Were Chimera Multi animal beast
+Were Hydra Multi headed serpent
+Were Cerberus Three headed dog
+Were Banshee Wailing spirit form
+Were Kelpie Water horse trap
+Were Selkie Seal human love
+Were Swan Maiden Bird human beauty
+Were Raven Maiden Dark bird woman
+Were Crow Maiden Death bird lady
+Were Hawk Maiden Sky bird hunter
+Were Eagle Maiden Royal bird form
+Were Owl Maiden Wisdom bird shape
+Were Falcon Maiden Speed bird form
+Were Vulture Maiden Carrion bird shape
+Were Peacock Maiden Pride bird beauty
+Were Phoenix Maiden Fire bird rebirth
+Shapeshifter Identity fluid being
+Changeling Fae replacement child
+Doppelganger Perfect duplicate being
+Skinwalker Native American witch
+Wendigo Cannibalistic spirit
+Nagual Mesoamerican spirit animal
+Berserker Bear warrior form
+Hamrammr Norse shape changer
+Huli Jing Chinese fox spirit
+Kitsune Japanese fox spirit
+Tanuki Japanese raccoon dog
+Bakeneko Japanese cat spirit
+Nekomata Japanese twin tail cat
+Inugami Japanese dog spirit
+Tengu Japanese bird demon
+Yuki Onna Japanese snow woman
+Jorōgumo Japanese spider woman
+Tsuchigumo Japanese earth spider
+Yamata no Orochi Eight headed serpent
+Kappa Japanese water imp
+Oni Japanese demon form
+Rakshas Indian demon shapeshifter
+Naga Indian serpent being
+Garuda Indian eagle deity
+Vanara Indian monkey warrior
+Pishacha Indian flesh eating demon
+Vetala Indian vampire spirit
+Rakshasa Indian tiger demon
+Narasimha Indian lion avatar
+Kurma Indian turtle avatar
+Matsya Indian fish avatar
+Varaha Indian boar avatar
+Vamana Indian dwarf avatar
+Hanuman Indian monkey deity
+Jatayu Indian eagle hero
+Sampati Indian eagle king
+Maricha Indian deer demon
+Kabandha Indian headless demon
+Ravana Indian ten headed king
+Kumbhakarna Indian giant demon
+Surpanakha Indian demoness
+Tattaka Indian demoness
+Subahu Indian demon archer
+Khara Indian demon warrior
+Dushana Indian demon general
+Akampana Indian demon scout
+Prahasta Indian demon minister
+Khar Dushan Indian demon duo
+Mahiravana Indian underworld king
+Ahiravan Indian serpent demon
+Mandodari Indian demon queen
+Shurpanakha Indian shapeshifter
+Hidimba Indian forest demon
+Hidimbi Indian demoness wife
+Ghatotkacha Indian half demon
+Bakasura Indian crane demon
+Aghasura Indian serpent demon
+Vatapi Indian demon brother
+Ilvala Indian demon conjurer
+Kalakeya Indian ocean demon
+Hiranyakashipu Indian golden demon
+Hiranyaksha Indian golden eye
+Holika Indian fire demoness
+Putana Indian poison demoness
+Shumbha Indian demon king
+Nishumbha Indian demon prince
+Chanda Indian fierce demon
+Munda Indian bald demon
+Raktabija Indian blood seed
+Mahishasura Indian buffalo demon
+Dhumralochana Indian smoke eye
+Banasura Indian thousand arm
+Jalandhara Indian ocean born
+Andhakasura Indian blind demon
+Gayasura Indian elephant demon
+Bhasmasura Indian ash demon
+Vritra Indian drought dragon
+Namuchi Indian drought demon
+Puloman Indian storm demon
+Vala Demon cave dweller
+Danu Mother demon goddess
+Diti Mother demon queen
+Aditi Mother divine goddess
+Kashyapa Sage father being
+Rahu Eclipse demon head
+Ketu Eclipse demon tail
+Shani Saturn planet deity
+Mangal Mars planet deity
+Budh Mercury planet deity
+Guru Jupiter planet deity
+Shukra Venus planet deity
+Surya Sun deity form
+Chandra Moon deity form
+Vayu Wind deity form
+Agni Fire deity form
+Varuna Water deity form
+Prithvi Earth deity form
+Akash Space deity form
+Indra Thunder deity form
+Yama Death deity form
+Kubera Wealth deity form
+Ganesha Elephant deity form
+Karttikeya Peacock deity form
+Brahma Creator deity form
+Vishnu Preserver deity form
+Shiva Destroyer deity form
+Lakshmi Wealth goddess form
+Saraswati Knowledge goddess form
+Parvati Mountain goddess form
+Durga Warrior goddess form
+Kali Destroyer goddess form
+Tara Star goddess form
+Chinnamasta Headless goddess form
+Dhumavati Smoke goddess form
+Bagalamukhi Crane goddess form
+Matangi Elephant goddess form
+Kamala Lotus goddess form
+Bhuvaneshwari World goddess form
+Sodashi Beautiful goddess form
+Tripura Sundari Triple beauty form

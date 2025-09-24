@@ -1,0 +1,230 @@
+Flying Buttress external support
+Pointed Arch gothic signature
+Ribbed Vault ceiling structure
+Rose Window circular stained
+Clerestory Upper windows
+Triforium Gallery level
+Nave Central aisle
+Transept Cross arms
+Apse Semicircular end
+Ambulatory Walking passage
+Radiating Chapels surrounding
+Chevet East end
+Narthex Entrance vestibule
+Galilee Chapel entrance
+Porch Covered entrance
+Portal Decorated doorway
+Tympanum Door pediment
+Archivolt Arch molding
+Jamb Door side
+Lintel Door header
+Trumeau Door center post
+Voussoir Arch stone
+Keystone Arch center
+Impost Block arch support
+Capital Column top
+Shaft Column body
+Base Column bottom
+Pier Composite support
+Compound Pier clustered
+Responds Half columns
+Engaged Column attached
+Detached Column free standing
+Colonnade Column row
+Arcade Arched openings
+Blind Arcade decorative
+Wall Arcade interior
+Triumphal Arch entrance
+Chancel Arch sanctuary
+Rood Screen choir division
+Rood Loft gallery
+Rood Beam cross beam
+Crucifix Cross sculpture
+Altar Table sacrifice
+Reredos Altar screen
+Retable Altar piece
+Tabernacle Sacred storage
+Ciborium Altar canopy
+Baldachin Processional canopy
+Pulpit Preaching platform
+Lectern Reading stand
+Font Baptismal basin
+Piscina Wash basin
+Sedilia Priest seats
+Misericord Mercy seat
+Choir Stalls singing seats
+Organ Loft music gallery
+Bell Tower campanile
+Belfry Bell chamber
+Spire Tall point
+Fleche Small spire
+Pinnacle Decorative point
+Finial Crowning ornament
+Crocket Leafy ornament
+Gargoyle Water spout
+Grotesque Decorative figure
+Boss Vault intersection
+Corbel Wall bracket
+Modillion Cornice bracket
+Dentil Tooth ornament
+Egg and Dart molding
+Billet Molding cylindrical
+Chevron Zigzag pattern
+Dogtooth Pointed ornament
+Nail-head Square studs
+Star Pattern geometric
+Quatrefoil Four lobes
+Trefoil Three lobes
+Cinquefoil Five lobes
+Sexfoil Six lobes
+Multifoil Many lobes
+Cusping Pointed arcs
+Tracery Window stonework
+Plate Tracery early
+Bar Tracery developed
+Geometric Tracery patterns
+Flowing Tracery curved
+Flamboyant Tracery flame-like
+Perpendicular Tracery vertical
+Panel Tracery rectangular
+Curvilinear Tracery curved
+Reticulated Tracery net-like
+Intersecting Tracery crossing
+Y-tracery Early geometric
+Lancet Window narrow
+Oculus Circular window
+Wheel Window spoked
+Marigold Window petalled
+Catherine Wheel window
+Compass Window radiating
+Doom Painting judgment
+Wall Painting fresco
+Tempera Painting egg-based
+Illuminated Manuscript decorated
+Gold Leaf gilding
+Silver Leaf metallic
+Vermillion Red pigment
+Ultramarine Blue precious
+Verdigris Green copper
+Orpiment Yellow arsenic
+Realgar Red arsenic
+Cinnabar Red mercury
+Malachite Green copper
+Azurite Blue copper
+Lapis Lazuli Blue stone
+Madder Red dye
+Weld Yellow dye
+Woad Blue dye
+Indigo Blue plant
+Cochineal Red insect
+Kermes Red insect
+Murex Purple mollusk
+Tyrian Purple ancient
+Imperial Purple royal
+Royal Blue noble
+Heraldic Colors blazonry
+Gules Red heraldic
+Azure Blue heraldic
+Vert Green heraldic
+Purpure Purple heraldic
+Sable Black heraldic
+Argent Silver heraldic
+Or Gold heraldic
+Proper Natural colors
+Ermine White black
+Vair Blue white
+Counter-vair reversed
+Erminois Gold black
+Ermines Black white
+Pean Black gold
+Tenne Orange brown
+Sanguine Blood red
+Cendrée Ash gray
+Bleu Celeste Sky blue
+Rose Pink heraldic
+Carnation Flesh colored
+Brunette Brown heraldic
+Collar of Esses chain
+Collar of Roses flower
+Order of Garter english
+Order of Golden Fleece burgundy
+Order of Saint Michael french
+Order of Holy Spirit french
+Order of Calatrava spanish
+Order of Santiago spanish
+Order of Alcántara spanish
+Order of Montesa spanish
+Order of Christ portuguese
+Order of Avis portuguese
+Order of Tower and Sword portuguese
+Order of Saint Benedict of Avis
+Teutonic Order german
+Order of Saint John
+Knights Hospitaller
+Knights Templar
+Order of Lazarus
+Order of Saint Maurice
+Order of Annunciation savoy
+Order of Saint Hubert bavaria
+Order of Black Eagle prussia
+Order of Red Eagle prussia
+Order of Crown prussia
+Pour le Mérite prussian
+Iron Cross german
+Victoria Cross british
+Distinguished Service Order
+Military Cross british
+Distinguished Flying Cross
+Air Force Cross
+George Cross civilian
+Order of Merit british
+Companionship of Honour
+Royal Victorian Order
+Order of British Empire
+Distinguished Service Medal
+Croix de Guerre french
+Légion d'honneur french
+Ordre national du Mérite
+Croix de la Valeur Militaire
+Médaille militaire french
+Croix du combattant
+Croix de guerre des TOE
+Order of Leopold belgian
+Order of Crown belgian
+Order of Leopold II
+Military Decoration belgian
+Croix de guerre belgian
+Order of Orange-Nassau dutch
+Order of Lion dutch
+Military Order of William
+Resistance Cross dutch
+Order of Dannebrog danish
+Order of Elephant danish
+Order of Vasa swedish
+Order of Sword swedish
+Order of Polar Star
+Order of Saint Olav norwegian
+Order of Lion norwegian
+Order of Falcon icelandic
+Order of White Rose finnish
+Order of Lion finland
+Cross of Liberty finnish
+Order of White Eagle polish
+Order of Merit polish
+Virtuti Militari polish
+Cross of Valor polish
+Order of Holy Sepulchre
+Order of Pope Pius IX
+Order of Saint Gregory
+Order of Saint Sylvester
+Order of Golden Spur
+Order of Christ papal
+Order of Pious IX
+Pro Ecclesia et Pontifice
+Bene Merenti papal
+Order of Malta sovereign
+Order of Holy Sepulchre papal
+Equestrian Order papal
+Pontifical Order papal
+Papal Knighthood orders
+Papal Decoration honors

@@ -1,0 +1,186 @@
+Corrupted Paladin Fallen knight
+Twisted Cleric Dark priest
+Possessed Ranger Demon hunter
+Mind Controlled Wizard Enslaved mage
+Charmed Bard Enchanted musician
+Dominated Fighter Controlled warrior
+Brainwashed Rogue Programmed thief
+Cursed Druid Blighted guardian
+Infected Barbarian Disease warrior
+Plagued Monk Sick martial
+Vampiric Sorcerer Blood mage
+Lycanthropic Warlock Beast pact
+Undead Artificer Necro engineer
+Ghostly Familiar Spirit companion
+Zombie Pet Undead animal
+Skeleton Mount Bone horse
+Wraith Companion Ethereal friend
+Spectral Guide Ghost helper
+Possessed Weapon Sentient blade
+Cursed Armor Haunted protection
+Tainted Potion Corrupted healing
+Poisoned Food Toxic sustenance
+Diseased Water Infected liquid
+Contaminated Air Polluted breath
+Radioactive Soil Glowing earth
+Acidic Rain Corrosive water
+Toxic Fog Poisonous mist
+Burning Wind Fire breeze
+Freezing Gale Ice storm
+Lightning Storm Electric weather
+Earthquake Tremor Ground shake
+Volcanic Eruption Lava explosion
+Tsunami Wave Ocean wall
+Hurricane Wind Spiral storm
+Tornado Funnel Twisting wind
+Blizzard Snow Ice storm
+Hailstorm Ice Rain frozen balls
+Sandstorm Desert Wind gritty cloud
+Dust Devil Wind Spiral sand
+Mudslide Earth Flow liquid soil
+Rockslide Stone Fall mountain debris
+Avalanche Snow Fall frozen cascade
+Landslide Earth Movement soil shift
+Sinkhole Ground Collapse earth void
+Crater Impact Meteor strike
+Fissure Earth Crack ground split
+Canyon Earth Gap deep cut
+Cliff Earth Drop sheer fall
+Precipice Edge Drop danger edge
+Abyss Void Gap bottomless pit
+Chasm Earth Split wide gap
+Gorge Water Cut river canyon
+Valley Low Ground mountain hollow
+Ravine Water Cut narrow gorge
+Gulch Dry Creek desert hollow
+Arroyo Flash Flood seasonal stream
+Wash Desert Stream dry riverbed
+Creek Small Stream water flow
+Brook Tiny Stream babbling water
+Stream Water Flow moving liquid
+River Water Course flowing stream
+Lake Water Body still liquid
+Pond Small Lake tiny water
+Pool Water Hole contained liquid
+Well Water Source deep hole
+Spring Water Origin natural source
+Geyser Hot Spring explosive water
+Hot Spring Thermal Water heated source
+Waterfall Water Drop cascade fall
+Rapids Fast Water turbulent flow
+Whirlpool Water Spiral circular current
+Maelstrom Giant Whirlpool massive spiral
+Undertow Water Current dangerous pull
+Riptide Strong Current dangerous flow
+Tsunami Wave Wall massive water
+Tidal Wave Water Wall ocean surge
+Storm Surge Water Rise hurricane push
+Flash Flood Sudden Water rapid rise
+Flood Water Overflow river burst
+Drought Water Lack moisture absence
+Famine Food Lack nutrition shortage
+Plague Disease Spread illness epidemic
+Pandemic Global Disease worldwide illness
+Epidemic Disease Outbreak regional illness
+Outbreak Disease Start illness beginning
+Contagion Disease Spread illness transfer
+Infection Disease Invasion germ attack
+Contamination Pollution Spread toxin distribution
+Toxicity Poison Level venom concentration
+Radiation Energy Emission atomic decay
+Fallout Nuclear Dust radioactive particles
+Mutation Gene Change DNA alteration
+Transformation Body Change form shift
+Metamorphosis Complete Change total alteration
+Evolution Gradual Change slow development
+Devolution Reverse Change backward development
+Adaptation Environmental Change survival adjustment
+Survival Instinct Response danger reaction
+Fight Flight Response threat reaction
+Panic Fear Response terror reaction
+Anxiety Worry Response concern reaction
+Stress Pressure Response strain reaction
+Trauma Injury Response damage reaction
+Shock Sudden Response surprise reaction
+Horror Fear Response dread reaction
+Terror Extreme Fear ultimate dread
+Phobia Irrational Fear unreasonable dread
+Paranoia Excessive Suspicion unreasonable distrust
+Delusion False Belief incorrect perception
+Hallucination False Perception unreal sensation
+Illusion Deceptive Perception misleading sensation
+Mirage Heat Illusion desert deception
+Phantom False Image ghost appearance
+Apparition Ghost Appearance spirit manifestation
+Vision Prophetic Sight future glimpse
+Dream Sleep Image unconscious experience
+Nightmare Terror Dream frightening sleep
+Night Terror Sleep Panic unconscious fear
+Sleep Paralysis Motion Lock conscious paralysis
+Lucid Dream Aware Sleep conscious dreaming
+Sleepwalking Unconscious Movement sleep motion
+Sleep Talking Unconscious Speech sleep words
+Insomnia Sleep Lack rest absence
+Narcolepsy Sudden Sleep uncontrolled rest
+Hypersomnia Excessive Sleep too much rest
+Sleep Apnea Breathing Stop sleep interruption
+Snoring Loud Breathing noisy sleep
+Teeth Grinding Sleep Pressure jaw tension
+Restless Legs Sleep Movement limb activity
+Periodic Limb Movement Sleep twitch
+REM Disorder Dream Acting physical dreaming
+Circadian Rhythm Disorder Sleep Timing schedule disruption
+Jet Lag Time Zone travel disruption
+Shift Work Disorder Schedule Change work disruption
+Seasonal Affective Disorder Light Lack mood disruption
+Depression Mood Disorder emotional illness
+Anxiety Disorder Worry Illness excessive concern
+Bipolar Disorder Mood Swing emotional fluctuation
+Schizophrenia Reality Disorder perception illness
+Multiple Personality Disorder Identity Split personality division
+Dissociative Disorder Reality Disconnect perception separation
+Post Traumatic Stress Disorder Memory Replay trauma repetition
+Obsessive Compulsive Disorder Behavior Repetition action fixation
+Attention Deficit Disorder Focus Lack concentration absence
+Hyperactivity Disorder Excessive Energy motion surplus
+Learning Disability Knowledge Difficulty information struggle
+Memory Loss Information Forget data disappearance
+Amnesia Complete Memory complete forgetting
+Dementia Memory Decline cognitive deterioration
+Alzheimer Memory Disease specific dementia
+Parkinson Movement Disease motion disorder
+Huntington Genetic Disease hereditary illness
+ALS Motor Disease muscle deterioration
+Multiple Sclerosis Nerve Disease neural damage
+Epilepsy Seizure Disorder brain electrical
+Stroke Blood Flow brain circulation
+Heart Attack Blood Flow heart circulation
+Aneurysm Blood Vessel vessel weakness
+Embolism Blood Clot circulation blockage
+Thrombosis Blood Clot vessel blockage
+Hemorrhage Blood Loss vessel rupture
+Shock Blood Pressure circulation failure
+Cardiac Arrest Heart Stop circulation halt
+Respiratory Failure Breathing Stop air halt
+Kidney Failure Filter Stop waste halt
+Liver Failure Process Stop metabolism halt
+Brain Death Neural Stop consciousness halt
+Clinical Death Vital Stop life halt
+Biological Death Decay Start decomposition beginning
+Rigor Mortis Muscle Stiffness death rigidity
+Livor Mortis Blood Pooling death settling
+Algor Mortis Body Cooling death temperature
+Decomposition Body Decay death breakdown
+Putrefaction Tissue Decay bacterial breakdown
+Mummification Body Preservation death drying
+Fossilization Bone Preservation death mineralization
+Cremation Body Burning death fire
+Burial Body Interment death earth
+Entombment Body Sealing death stone
+Embalming Body Preservation death chemical
+Autopsy Body Examination death investigation
+Necropsy Animal Autopsy death study
+Postmortem After Death examination timing
+Forensic Death Investigation crime study
+Coroner Death Official legal examiner
+Medical Examiner Death Doctor legal physician

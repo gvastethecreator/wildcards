@@ -1,0 +1,323 @@
+bfg 9000 plasma cannon
+super shotgun double barrel
+chaingun rotary fury
+rocket launcher explosive
+plasma rifle energy beam
+chainsaw ripping teeth
+pistol starting weapon
+shotgun pump action
+heavy assault rifle
+combat shotgun tactical
+machine gun rapid fire
+railgun electromagnetic
+lightning gun electric
+flamethrower burning fuel
+grenade launcher explosive
+minigun spinning barrels
+sniper rifle precision
+assault rifle automatic
+submachine gun compact
+heavy machine gun mounted
+gatling gun rotating
+autocannon explosive shells
+mortar launcher arcing
+bazooka shoulder fired
+recoilless rifle backblast
+anti tank rifle piercing
+elephant gun massive
+hunting rifle scoped
+battle rifle selective
+carbine shortened
+musket black powder
+blunderbuss wide spread
+arquebus early firearm
+matchlock ignition system
+wheellock mechanical spark
+flintlock steel striker
+percussion cap impact
+breech loading rear entry
+muzzle loading front entry
+single shot one round
+semi automatic self loading
+full automatic continuous
+burst fire three round
+select fire mode choice
+bolt action manual
+lever action western
+pump action slide
+break action hinge
+revolver cylinder
+semi auto pistol
+single action trigger
+double action trigger
+derringer pocket
+pepperbox multi barrel
+volcanic repeating
+spencer repeating
+henry repeating
+winchester lever
+remington rolling
+sharps single
+springfield trapdoor
+martini henry falling
+mauser bolt
+lee enfield
+mosin nagant
+kar98k german
+garand semi auto
+m1 carbine
+thompson submachine
+grease gun simple
+sten gun british
+mp40 german
+ppsh soviet
+ak47 kalashnikov
+m16 vietnam
+ar15 civilian
+m4 carbine
+scar modular
+hk416 piston
+fal battle
+g3 roller
+aug bullpup
+tavor israeli
+famas french
+sa80 british
+an94 russian
+xm8 experimental
+oicw integrated
+m14 battle
+m1a civilian
+mini14 ranch
+garand reproduction
+m1903 springfield
+remington 700
+savage 110
+winchester 70
+tikka t3
+bergara b14
+ruger american
+weatherby mark
+christensen arms
+custom shop
+precision rifle
+sniper system
+designated marksman
+scout rifle
+brush gun
+guide gun
+dangerous game
+african hunting
+alaska guide
+brown bear
+grizzly stopping
+cape buffalo
+elephant rifle
+rhino stopper
+nitro express
+holland holland
+purdy shotgun
+boss double
+westley richards
+rigby mauser
+dakota arms
+kimber montana
+cooper firearms
+fierce firearms
+gunwerks precision
+proof research
+seekins precision
+daniel defense
+noveske rifleworks
+knights armament
+larue tactical
+geissele automatics
+trigger tech
+timney triggers
+jewel triggers
+huber concepts
+rifle basix
+shilen barrels
+kreiger barrels
+bartlein barrels
+benchmark barrels
+douglas barrels
+mcgowen precision
+pac nor barrels
+lilja precision
+hart barrels
+rock creek
+brux barrels
+carbon six
+proof carbon
+christensen carbon
+hells canyon
+sendero profile
+magnum contour
+heavy barrel
+bull barrel
+fluted barrel
+threaded muzzle
+muzzle brake
+compensator device
+flash hider
+silencer suppressor
+sound moderator
+titanium can
+carbon fiber
+stainless steel
+chrome moly
+match grade
+button rifled
+cut rifled
+hammer forged
+cold hammer
+polygonal rifling
+gain twist
+progressive twist
+fast twist
+slow twist
+one in seven
+one in eight
+one in nine
+one in ten
+one in twelve
+freebore throat
+chamber dimensions
+headspace gauge
+go no go
+field gauge
+case length
+overall length
+bullet seating
+crimp tension
+neck tension
+bullet jump
+lands grooves
+bore diameter
+groove diameter
+twist rate
+muzzle velocity
+kinetic energy
+ballistic coefficient
+sectional density
+retained velocity
+wind drift
+drop compensation
+trajectory arc
+zero range
+point blank
+maximum range
+effective range
+lethal range
+minute of angle
+sub moa
+half moa
+quarter moa
+benchrest accuracy
+f class precision
+palma competition
+service rifle
+high power
+smallbore prone
+air rifle
+pellet gun
+bb gun
+paintball marker
+airsoft replica
+cap gun
+water gun
+nerf blaster
+laser tag
+training simulator
+dry fire
+snap caps
+dummy rounds
+blank cartridge
+crimped case
+primer pocket
+flash hole
+case head
+rim thickness
+extractor groove
+cannelure groove
+boat tail
+spitzer point
+hollow point
+soft point
+full metal
+ballistic tip
+partition bullet
+bonded core
+monolithic solid
+barnes tsx
+nosler accubond
+hornady interbond
+swift scirocco
+federal trophy
+remington core
+winchester power
+speer gold
+sierra gameking
+berger hybrid
+lapua scenar
+hornady eld
+match hollow
+target wadcutter
+semi wadcutter
+round nose
+flat nose
+truncated cone
+keith bullet
+gas check
+hard cast
+powder coated
+polymer coated
+moly coated
+wax lubricated
+tumble lubed
+pan lubed
+sized diameter
+unsized cast
+water dropped
+heat treated
+wheel weights
+linotype metal
+pure lead
+antimony hardened
+tin alloy
+bismuth non toxic
+tungsten matrix
+copper solid
+gilding metal
+brass jacket
+steel core
+tungsten penetrator
+depleted uranium
+armor piercing
+incendiary tracer
+explosive tip
+frangible safety
+reduced ricochet
+indoor range
+lead free
+california legal
+hevishot waterfowl
+bismuth waterfowl
+tungsten super
+federal premium
+hornady superformance
+remington express
+winchester supreme
+nosler custom
+weatherby magnum
+crucible energy sword
+unmaykr plasma lattice
+sentinel hammer shockwave
+heat blast shoulder pod
+microwave beam tormentor
+remote detonate charge
+ice bomb cryo burst
+blood punch gauntlet
+flame belch projector
+berserk rune injector

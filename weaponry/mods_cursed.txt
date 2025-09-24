@@ -1,0 +1,134 @@
+Soul Leech Attachment vampire modification
+Blood Hunger Rune thirst enhancement
+Death Touch Coating instant kill poison
+Bane Enchantment enemy specific bonus
+Slaying Edge category destruction
+Vorpal Sharpening decapitation chance
+Keen Whetstone accuracy improvement
+Brutal Spike critical damage
+Vicious Barb bleeding enhancement
+Wounding Tip constitution damage
+Maiming Edge permanent injury
+Crippling Weight movement reduction
+Stunning Pommel knockout chance
+Paralyzing Venom nerve damage
+Freezing Shard cold damage
+Burning Oil fire damage
+Shocking Wire electric damage
+Acidic Coating corrosive damage
+Poisonous Extract toxic coating
+Venomous Gland deadly toxin
+Diseased Spore infection spread
+Plagued Essence mass contagion
+Corrupted Core moral taint
+Blighted Sap nature corruption
+Withered Branch life drain
+Rotting Flesh decay spread
+Festering Wound infection source
+Gangrenous Tissue death spread
+Necrotic Touch death magic
+Unholy Water divine opposite
+Profane Oil sacred violation
+Blasphemous Inscription religious mockery
+Heretical Carving doctrine challenge
+Apostate Mark faith abandoning
+Damned Seal eternal punishment
+Doomed Sigil inevitable destruction
+Cursed Rune supernatural affliction
+Jinxed Symbol bad luck
+Hexed Glyph magic corruption
+Bewitched Charm fascination effect
+Malevolent Spirit hostile possession
+Vengeful Ghost revenge seeking
+Wrathful Phantom anger incarnate
+Spiteful Specter malice embodiment
+Hateful Wraith loathing manifest
+Malicious Banshee ill-will crying
+Vindictive Poltergeist revenge haunting
+Resentful Revenant grudge bearing
+Bitter Zombie sourness spreading
+Cruel Skeleton heartlessness walking
+Merciless Mummy compassion absent
+Ruthless Lich pity eliminated
+Heartless Vampire empathy drained
+Soulless Demon conscience absent
+Mindless Fiend reason eliminated
+Thoughtless Imp consideration lacking
+Careless Devil attention absent
+Reckless Succubus caution thrown
+Heedless Incubus warning ignored
+Thoughtless Harpy reflection absent
+Mindless Siren intelligence drowned
+Brainless Lamia wisdom eliminated
+Witless Medusa cleverness petrified
+Foolish Gorgon wisdom turned stone
+Stupid Chimera intelligence confused
+Idiotic Hydra thoughts multiplied stupidly
+Moronic Dragon wisdom burned
+Imbecilic Wyrm intelligence corrupted
+Dull Wyvern sharpness eliminated
+Slow Drake speed reduced
+Sluggish Serpent movement impaired
+Lethargic Snake energy drained
+Torpid Viper alertness numbed
+Dormant Cobra activity suspended
+Inactive Python movement ceased
+Inert Boa motion eliminated
+Static Anaconda flow stopped
+Motionless Rattlesnake vibration silenced
+Still Adder movement frozen
+Stationary Asp position fixed
+Fixed Mamba mobility eliminated
+Immobile Krait movement impossible
+Paralyzed Coral snake motion blocked
+Frozen Copperhead temperature dropped
+Rigid Cottonmouth flexibility lost
+Stiff Bushmaster suppleness gone
+Inflexible Fer-de-lance adaptability lost
+Unbending Taipan compromise impossible
+Uncompromising Tiger snake negotiation refused
+Stubborn Death adder persistence excessive
+Obstinate Sea snake opinion fixed
+Pig-headed Tree snake reason ignored
+Mulish Vine snake cooperation refused
+Bullheaded Branch snake advice rejected
+Headstrong Leaf snake guidance ignored
+Willful Flower snake direction refused
+Contrary Grass snake opposition chosen
+Perverse Rock stone natural order inverted
+Wayward Stone snake path abandoned
+Errant Mountain snake course deviated
+Stray Valley snake group left
+Lost River snake direction unknown
+Wandering Stream snake path unclear
+Drifting Lake snake purpose floating
+Floating Ocean snake goal submerged
+Sinking Sea snake hope drowning
+Drowning Deep snake breath eliminated
+Suffocating Abyss snake air absent
+Choking Void snake space compressed
+Strangling Null snake existence squeezed
+Crushing Zero snake value eliminated
+Destroying Final snake ending everything
+Annihilating Ultimate snake existence erased
+Obliterating Supreme snake reality deleted
+Erasing Perfect snake memory wiped
+Deleting Complete snake data removed
+Removing Total snake presence eliminated
+Eliminating Absolute snake trace gone
+Banishing Utter snake completely expelled
+Exiling Complete snake permanently removed
+Ostracizing Total snake socially eliminated
+Shunning Absolute snake contact avoided
+Avoiding Perfect snake proximity prevented
+Preventing Complete snake occurrence stopped
+Stopping Total snake motion ceased
+Halting Absolute snake progress ended
+Ending Perfect snake conclusion reached
+Finishing Complete snake task accomplished
+Completing Total snake goal achieved
+Achieving Absolute snake success attained
+Attaining Perfect snake objective reached
+Reaching Complete snake destination arrived
+Arriving Total snake journey ended
+Concluding Absolute snake story finished

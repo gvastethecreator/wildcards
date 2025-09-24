@@ -1,0 +1,18 @@
+1/8000s freeze bullets
+1/4000s freeze sports
+1/2000s freeze action
+1/1000s freeze motion
+1/500s sharp handheld
+1/250s safe handheld
+1/125s classic street
+1/60s motion-aware
+1/30s intentional blur
+1/15s panning sweet
+1/8s painterly motion
+1/4s ghostly trails
+1/2s silky water
+1s night baseline
+5s light trails
+15s star points
+30s astro max
+Bulb long exposure

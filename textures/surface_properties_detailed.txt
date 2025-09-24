@@ -1,0 +1,322 @@
+ribbed corduroy texture
+crosshatch pen strokes
+stippled dotted surface
+hatched parallel lines
+scumbled broken color
+impasto thick paint
+glazed transparent layer
+wet on wet bleeding
+dry brush rough
+sgraffito scratched through
+frottage rubbing technique
+grattage scraping paint
+decalcomania transfer
+fumage smoke effects
+parsemage systematic dots
+oscillation vibrating
+granulation watercolor
+backruns cauliflower
+blooms water marks
+salt texture speckled
+alcohol drops circular
+masking fluid resist
+lifting wet pigment
+negative painting
+positive painting
+alla prima wet
+fat over lean
+chiaroscuro light dark
+sfumato smoky
+cangiante iridescent
+unione unified color
+morbidezza softness
+sprezzatura effortlessness
+pentimento visible changes
+craquelure age cracks
+alligatoring paint scales
+blanching whitish haze
+bloom surface haze
+blistering paint bubbles
+chalking powder surface
+checking fine cracks
+flaking peeling paint
+fading color loss
+mildew fungal growth
+oxidation metal corrosion
+patina green copper
+rust iron oxide
+tarnish silver sulfide
+verdigris copper carbonate
+weathering natural aging
+erosion gradual wearing
+abrasion surface wearing
+scratching linear marks
+gouging deep cuts
+chipping paint loss
+denting metal depression
+warping wood distortion
+splitting wood separation
+checking wood cracks
+cupping wood curving
+twisting wood spiral
+bowing wood bending
+case hardening surface
+compression wood stress
+tension pulling force
+shear sideways force
+torsion twisting force
+fatigue repeated stress
+creep slow deformation
+relaxation stress relief
+hysteresis energy loss
+elasticity spring back
+plasticity permanent change
+brittleness sudden failure
+ductility stretching ability
+malleability hammering
+hardness indentation resistance
+toughness impact resistance
+stiffness deflection resistance
+strength load capacity
+density mass volume
+porosity void space
+permeability fluid flow
+capillarity surface tension
+adhesion sticking together
+cohesion internal bonding
+surface tension liquid
+viscosity flow resistance
+thixotropy stirring thinning
+dilatancy shear thickening
+viscoelasticity time dependent
+creep time deformation
+stress relaxation
+dynamic mechanical
+loss modulus
+storage modulus
+glass transition
+melting point
+boiling point
+freezing point
+sublimation direct
+condensation vapor
+evaporation liquid
+crystallization solid
+amorphous non crystalline
+polymorphism crystal forms
+isomerism same formula
+tautomerism equilibrium
+resonance electron
+hybridization orbital
+electronegativity electron
+ionization energy
+electron affinity
+atomic radius
+ionic radius
+covalent radius
+van der waals
+metallic radius
+bond length
+bond angle
+bond energy
+bond order
+formal charge
+oxidation state
+coordination number
+ligand field
+crystal field
+molecular orbital
+valence bond
+lewis structure
+vsepr geometry
+molecular geometry
+electron geometry
+polar molecule
+nonpolar molecule
+dipole moment
+hydrogen bonding
+london dispersion
+dipole dipole
+ion dipole
+ion ion
+covalent bonding
+ionic bonding
+metallic bonding
+network covalent
+coordinate covalent
+pi bonding
+sigma bonding
+delocalized electrons
+conjugated system
+aromatic stability
+antiaromatic instability
+homoaromaticity
+pseudoaromaticity
+aromaticity rules
+huckel rule
+frost diagram
+molecular orbital diagram
+energy level
+aufbau principle
+pauli exclusion
+hund rule
+electron configuration
+noble gas notation
+valence electrons
+core electrons
+shielding effect
+effective nuclear
+penetration effect
+slater rules
+atomic orbital
+molecular orbital
+bonding orbital
+antibonding orbital
+nonbonding orbital
+hybrid orbital
+sp3 hybridization
+sp2 hybridization
+sp hybridization
+dsp3 hybridization
+d2sp3 hybridization
+octahedral geometry
+tetrahedral geometry
+trigonal bipyramidal
+square pyramidal
+square planar
+trigonal planar
+linear geometry
+bent geometry
+trigonal pyramidal
+seesaw geometry
+t shaped
+pentagonal bipyramidal
+cube geometry
+dodecahedral geometry
+icosahedral geometry
+distorted octahedral
+compressed octahedral
+elongated octahedral
+facial isomerism
+meridional isomerism
+geometric isomerism
+optical isomerism
+conformational isomerism
+constitutional isomerism
+stereoisomerism
+enantiomers mirror
+diastereomers non mirror
+meso compounds
+racemic mixture
+optical activity
+specific rotation
+circular dichroism
+optical rotation
+polarimetry measurement
+chiral center
+asymmetric carbon
+prochiral carbon
+achiral molecule
+superimposable mirror
+non superimposable
+r s configuration
+d l configuration
+e z configuration
+cis trans
+syn anti
+endo exo
+equatorial axial
+chair conformation
+boat conformation
+twist boat
+half chair
+envelope conformation
+eclipsed conformation
+staggered conformation
+gauche interaction
+anti periplanar
+syn periplanar
+torsional strain
+angle strain
+steric hindrance
+1 3 diaxial
+flagpole interaction
+newman projection
+fischer projection
+haworth projection
+wedge dash notation
+sawhorse projection
+flying wedge
+molecular modeling
+computational chemistry
+quantum mechanics
+molecular dynamics
+monte carlo
+hartree fock
+density functional
+ab initio
+semi empirical
+molecular mechanics
+force field
+potential energy
+kinetic energy
+total energy
+zero point
+vibrational energy
+rotational energy
+electronic energy
+nuclear energy
+binding energy
+ionization energy
+electron affinity
+electronegativity
+hardness softness
+electrophilicity
+nucleophilicity
+leaving group
+attacking group
+carbocation stability
+carbanion stability
+free radical
+biradical
+carbene
+nitrene
+ylide
+betaine
+zwitterion
+dipolar ion
+amphoteric
+amphiphilic
+hydrophilic water loving
+hydrophobic water fearing
+lipophilic fat loving
+lipophobic fat fearing
+oleophilic oil loving
+oleophobic oil fearing
+surfactant interface
+emulsifier suspension
+stabilizer prevent
+thickener viscosity
+gelling agent
+binding agent
+coating agent
+film forming
+barrier properties
+breathable membrane
+waterproof coating
+moisture resistant
+flame retardant
+uv resistant
+chemical resistant
+corrosion resistant
+wear resistant
+scratch resistant
+impact resistant
+tear resistant
+puncture resistant
+compression resistant
+tensile strength
+flexural strength
+shear strength
+fatigue strength
+creep resistance

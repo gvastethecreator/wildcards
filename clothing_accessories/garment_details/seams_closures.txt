@@ -1,0 +1,41 @@
+Flat-felled seam
+French seam
+Bound seam
+Lapped seam
+Overlock serged seam
+Coverstitch hem
+Blind hem stitch
+Topstitch detail
+Edge stitch
+Pick stitch
+Staystitch
+Understitch
+Darts shaping
+Princess seam
+Bust seam
+Waist seam
+Yoke join
+Gusset insertion
+Godet flare panel
+Placket front
+Fly front
+Button placket
+Hidden placket
+Zipper centered
+Zipper lapped
+Invisible zipper
+Exposed zipper
+Hook and eye
+Frog closure
+Toggle closure
+Snaps press studs
+Magnetic closure
+Velcro hook loop
+Tie closure
+Belted closure
+Drawstring channel
+Elastic casing
+Waistband contoured
+Facing finish
+Bias binding
+Hem tape finish

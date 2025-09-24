@@ -1,0 +1,365 @@
+cardiothoracic surgeon
+neurosurgeon brain
+orthopedic surgeon
+plastic reconstructive surgeon
+general surgeon
+vascular surgeon
+pediatric surgeon
+trauma surgeon
+transplant surgeon
+oncologic surgeon
+colorectal surgeon
+hepatobiliary surgeon
+urologic surgeon
+gynecologic surgeon
+ophthalmic surgeon
+ent surgeon
+dermatologic surgeon
+hand surgeon
+spine surgeon
+interventional radiologist
+diagnostic radiologist
+nuclear medicine
+radiation oncologist
+pathologist forensic
+clinical pathologist
+anatomical pathologist
+cytopathologist
+hematopathologist
+neuropathologist
+pediatric pathologist
+medical examiner
+coroner investigation
+autopsy examination
+toxicology screen
+histopathology analysis
+immunohistochemistry
+molecular pathology
+genetic testing
+chromosome analysis
+karyotype abnormal
+pcr amplification
+dna sequencing
+rna analysis
+protein electrophoresis
+western blot
+elisa testing
+flow cytometry
+mass spectrometry
+chromatography separation
+bacterial culture
+viral culture
+fungal culture
+sensitivity testing
+antibiogram resistance
+blood culture
+urine culture
+sputum culture
+wound culture
+csf analysis
+bone marrow biopsy
+lymph node biopsy
+liver biopsy
+kidney biopsy
+muscle biopsy
+nerve biopsy
+skin biopsy
+breast biopsy
+prostate biopsy
+thyroid biopsy
+lung biopsy
+brain biopsy
+endoscopy upper
+colonoscopy screening
+sigmoidoscopy flexible
+bronchoscopy pulmonary
+cystoscopy urinary
+hysteroscopy gynecologic
+arthroscopy joint
+laparoscopy minimally invasive
+thoracoscopy chest
+mediastinoscopy middle
+laryngoscopy throat
+nasopharyngoscopy
+esophagogastroduodenoscopy
+endoscopic retrograde
+percutaneous endoscopic
+capsule endoscopy
+double balloon
+single balloon
+spiral enteroscopy
+confocal endomicroscopy
+narrow band imaging
+chromoendoscopy staining
+magnification endoscopy
+ultrasound endoscopic
+computed tomography
+magnetic resonance imaging
+positron emission tomography
+single photon emission
+x ray radiography
+fluoroscopy real time
+mammography breast
+bone densitometry
+echocardiography heart
+electrocardiography
+electroencephalography
+electromyography muscle
+nerve conduction study
+pulmonary function test
+spirometry lung
+peak flow meter
+arterial blood gas
+venous blood gas
+pulse oximetry
+capnography co2
+blood pressure monitoring
+holter monitor
+event monitor
+implantable loop recorder
+pacemaker device
+defibrillator implantable
+cardiac resynchronization
+left ventricular assist
+total artificial heart
+balloon pump
+extracorporeal membrane
+dialysis hemodialysis
+peritoneal dialysis
+continuous renal replacement
+plasmapheresis exchange
+apheresis collection
+photopheresis treatment
+bone marrow transplant
+stem cell transplant
+organ transplant
+heart transplant
+lung transplant
+liver transplant
+kidney transplant
+pancreas transplant
+small bowel transplant
+corneal transplant
+skin graft
+bone graft
+cartilage transplant
+tendon transfer
+nerve graft
+vascular graft
+prosthetic implant
+hip replacement
+knee replacement
+shoulder replacement
+ankle replacement
+elbow replacement
+wrist replacement
+finger joint
+spinal fusion
+disc replacement
+laminectomy removal
+discectomy herniated
+vertebroplasty cement
+kyphoplasty balloon
+spinal cord stimulator
+deep brain stimulation
+vagus nerve stimulator
+gastric bypass
+sleeve gastrectomy
+adjustable gastric band
+biliopancreatic diversion
+duodenal switch
+gastric balloon
+endoscopic sleeve
+revision bariatric
+hernia repair
+ventral hernia
+incisional hernia
+inguinal hernia
+umbilical hernia
+hiatal hernia
+diaphragmatic hernia
+gallbladder removal
+appendectomy removal
+thyroidectomy removal
+parathyroidectomy
+adrenalectomy removal
+splenectomy removal
+nephrectomy kidney
+hepatectomy liver
+pancreatectomy pancreas
+gastrectomy stomach
+colectomy colon
+proctectomy rectum
+hysterectomy uterus
+oophorectomy ovaries
+salpingectomy tubes
+mastectomy breast
+lumpectomy breast
+sentinel node biopsy
+axillary dissection
+reconstruction breast
+tissue expander
+silicone implant
+saline implant
+flap reconstruction
+tram flap
+diep flap
+latissimus dorsi
+gracilis flap
+fibula flap
+radial forearm
+anterolateral thigh
+scapular flap
+serratus anterior
+rectus abdominis
+external oblique
+tensor fasciae latae
+gluteus maximus
+gastrocnemius flap
+soleus flap
+sural flap
+medial plantar
+lateral plantar
+dorsalis pedis
+posterior tibial
+peroneal flap
+saphenous flap
+facial nerve graft
+hypoglossal transfer
+cross facial graft
+masseteric nerve
+temporalis transfer
+gracilis transplant
+pectoralis transfer
+latissimus transfer
+free muscle transfer
+neurotization procedure
+nerve repair
+nerve reconstruction
+tenolysis release
+tendon repair
+tendon transfer
+joint fusion
+arthrodesis fusion
+osteotomy bone cutting
+osteoplasty reshaping
+bone grafting
+iliac crest graft
+fibular graft
+allograft donor
+autograft self
+xenograft animal
+synthetic graft
+titanium implant
+cobalt chromium
+stainless steel
+polyethylene liner
+ceramic bearing
+cross linked
+vitamin e infused
+oxidized zirconium
+trabecular metal
+porous coating
+hydroxyapatite
+bioactive glass
+demineralized bone
+bone morphogenetic protein
+platelet rich plasma
+stem cell therapy
+mesenchymal cells
+adipose derived
+bone marrow derived
+umbilical cord
+placental tissue
+amniotic fluid
+exosome therapy
+growth factor
+insulin like
+transforming growth
+vascular endothelial
+platelet derived
+fibroblast growth
+epidermal growth
+nerve growth
+brain derived
+glial derived
+ciliary neurotrophic
+leukemia inhibitory
+interleukin cytokine
+tumor necrosis
+interferon immune
+colony stimulating
+granulocyte macrophage
+erythropoietin hormone
+thyroid stimulating
+follicle stimulating
+luteinizing hormone
+growth hormone
+prolactin hormone
+adrenocorticotropic hormone
+antidiuretic hormone
+oxytocin hormone
+parathyroid hormone
+calcitonin hormone
+insulin hormone
+glucagon hormone
+cortisol stress
+aldosterone mineral
+testosterone male
+estrogen female
+progesterone pregnancy
+human chorionic
+placental lactogen
+relaxin hormone
+inhibin hormone
+activin hormone
+leptin appetite
+ghrelin hunger
+adiponectin metabolism
+resistin inflammation
+visfatin energy
+omentin anti inflammatory
+apelin cardiovascular
+irisin exercise
+betatrophin lipid
+fgf21 metabolic
+bdnf neuroplasticity
+igf1 growth
+vegf angiogenesis
+pdgf wound healing
+tgf beta fibrosis
+bmp bone formation
+wnt signaling
+hedgehog development
+notch differentiation
+jak stat pathway
+pi3k akt
+mtor signaling
+nf kappa b
+p53 tumor suppressor
+rb retinoblastoma
+brca breast cancer
+apc colorectal
+tp53 guardian
+kras oncogene
+egfr receptor
+her2 amplification
+pdl1 checkpoint
+ctla4 inhibitor
+cd3 t cell
+cd4 helper
+cd8 cytotoxic
+cd19 b cell
+cd20 mature b
+cd56 natural killer
+cd68 macrophage
+cd163 m2 macrophage
+foxp3 regulatory
+pd1 exhaustion
+tim3 dysfunction
+lag3 inhibitory
+tigit suppressive
+btla inhibitory
+vista checkpoint
+cd47 dont eat me
+sirpa receptor

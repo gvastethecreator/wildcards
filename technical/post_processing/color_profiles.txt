@@ -1,0 +1,16 @@
+C-41 film look
+E-6 slide look
+BW silver halide
+Kodachrome vintage pop
+Velvia saturated greens
+Portra skin tones
+Tri-X grainy mono
+HP5 classic mono
+Cine LUT teal orange
+Log flat profile
+Rec.709 standard
+HLG hybrid log gamma
+S-Log3 cinematic
+V-Log Panasonic
+C-Log Canon
+RAW high dynamic range

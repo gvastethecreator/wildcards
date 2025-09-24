@@ -1,0 +1,154 @@
+Standard Card Layout classic rectangular format
+Panoramic Card Layout wide horizontal format
+Portrait Card Layout tall vertical format
+Square Card Layout equal dimension format
+Circular Card Layout round disc format
+Hexagonal Card Layout six-sided geometric
+Octagonal Card Layout eight-sided format
+Diamond Card Layout rotated square format
+Triangle Card Layout three-sided format
+Pentagon Card Layout five-sided format
+Oval Card Layout elongated circular format
+Cross Card Layout religious symbol format
+Star Card Layout multi-pointed format
+Heart Card Layout romantic symbol format
+Shield Card Layout protective emblem format
+Crown Card Layout royal symbol format
+Scroll Card Layout ancient parchment format
+Book Card Layout open tome format
+Tablet Card Layout stone inscription format
+Banner Card Layout flag proclamation format
+Border Traditional classic frame design
+Border Ornate decorative elaborate frame
+Border Minimalist clean simple frame
+Border Celtic knot interweaving pattern
+Border Art Nouveau flowing organic curves
+Border Art Deco geometric luxury lines
+Border Gothic pointed arch cathedral
+Border Renaissance classical column frame
+Border Baroque elaborate golden scrollwork
+Border Victorian ornate detailed decoration
+Border Asian dragon oriental motif
+Border Tribal geometric pattern design
+Border Mechanical gear steampunk frame
+Border Digital circuit technology lines
+Border Organic vine leaf natural
+Border Crystal geometric faceted frame
+Border Fire flame burning edge
+Border Ice frozen crystal border
+Border Lightning electrical energy frame
+Border Water flowing wave border
+Border Earth stone rock frame
+Border Air wind swirl border
+Border Light radiant beam frame
+Border Shadow dark gradient border
+Border Void empty space frame
+Border Chaos random chaotic pattern
+Border Order structured geometric pattern
+Border Time clock gear temporal
+Border Space star constellation cosmic
+Border Magic arcane symbol mystical
+Border Divine holy religious sacred
+Border Infernal demonic evil dark
+Border Celestial angelic heavenly light
+Border Eldritch alien tentacle horror
+Border Mechanical robot technology frame
+Border Biological organic tissue frame
+Border Psychedelic trippy colorful swirl
+Border Retro vintage nostalgic style
+Border Futuristic high-tech modern design
+Text Box Placement standard bottom center
+Text Box Placement overlay transparent center
+Text Box Placement side vertical right
+Text Box Placement side vertical left
+Text Box Placement top horizontal banner
+Text Box Placement bottom horizontal banner
+Text Box Placement corner diagonal small
+Text Box Placement full card background
+Text Box Placement floating independent box
+Text Box Placement integrated artwork blend
+Text Box Placement scroll parchment style
+Text Box Placement stone tablet carved
+Text Box Placement metal plate engraved
+Text Box Placement crystal embedded glowing
+Text Box Placement holographic projection display
+Text Box Placement handwritten script style
+Text Box Placement typewriter mechanical font
+Text Box Placement digital screen display
+Text Box Placement neon sign glowing
+Text Box Placement fire burning letters
+Art Frame Full bleed edge-to-edge
+Art Frame Window rectangular viewing
+Art Frame Vignette oval soft edge
+Art Frame Circle round viewing portal
+Art Frame Diamond rotated square view
+Art Frame Keyhole shaped viewing port
+Art Frame Mirror reflective surface view
+Art Frame Portal dimensional gateway view
+Art Frame Screen digital display view
+Art Frame Painting classical artwork frame
+Art Frame Photograph realistic picture frame
+Art Frame Stained Glass colored window
+Art Frame Mosaic tile pattern view
+Art Frame Tapestry woven fabric display
+Art Frame Sculpture three-dimensional relief
+Art Frame Hologram projected image display
+Art Frame Magic Sphere crystal ball
+Art Frame Scrying Pool water reflection
+Art Frame Ancient Mural wall painting
+Art Frame Cave Painting primitive rock
+Symbol Placement Corner small icon
+Symbol Placement Edge border decoration
+Symbol Placement Center large focal
+Symbol Placement Background watermark pattern
+Symbol Placement Integrated artwork blend
+Symbol Placement Floating independent element
+Symbol Placement Banner flag display
+Symbol Placement Medallion circular award
+Symbol Placement Crest heraldic shield
+Symbol Placement Sigil magical sign
+Symbol Placement Rune ancient marking
+Symbol Placement Glyph mystical character
+Symbol Placement Emblem representative symbol
+Symbol Placement Logo brand identification
+Symbol Placement Seal official stamp
+Symbol Placement Mark identification sign
+Symbol Placement Token representative piece
+Symbol Placement Badge achievement award
+Symbol Placement Patch sewn decoration
+Symbol Placement Pin attached ornament
+Name Placement Header top banner
+Name Placement Footer bottom banner
+Name Placement Sidebar vertical edge
+Name Placement Overlay artwork integration
+Name Placement Nameplate dedicated space
+Name Placement Scroll unfurled banner
+Name Placement Ribbon flowing banner
+Name Placement Plaque mounted sign
+Name Placement Inscription carved text
+Name Placement Signature handwritten name
+Name Placement Title formal designation
+Name Placement Label identification tag
+Name Placement Caption descriptive text
+Name Placement Subtitle secondary text
+Name Placement Heading section title
+Cost Symbol Placement top-left corner
+Cost Symbol Placement top-right corner
+Cost Symbol Placement center-top edge
+Cost Symbol Placement integrated border
+Cost Symbol Placement floating independent
+Cost Symbol Placement mana crystal gem
+Cost Symbol Placement energy orb sphere
+Cost Symbol Placement coin currency disc
+Cost Symbol Placement rune magical mark
+Cost Symbol Placement number digit display
+Power Toughness Placement bottom-right corner
+Power Toughness Placement bottom-left corner
+Power Toughness Placement bottom-center edge
+Power Toughness Placement side integrated
+Power Toughness Placement floating box
+Power Toughness Placement shield emblem
+Power Toughness Placement sword crossed
+Power Toughness Placement heart health
+Power Toughness Placement star rating
+Power Toughness Placement bar graph

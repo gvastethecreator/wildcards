@@ -1,0 +1,20 @@
+Power grid substations
+Water treatment to mains
+Sewer trunk to plant
+Stormwater retention basins
+District heating loop
+Fiber backbone splice huts
+Cell towers small cells
+Waste collection routes
+Recycling transfer station
+Public transport depots
+Fire station coverage rings
+Police precinct response zones
+Hospital ER catchment
+School feeder patterns
+Parks and rec clusters
+Snow removal routes
+Street sweeping schedules
+Streetlight grid circuits
+Parking management zones
+Road maintenance beats

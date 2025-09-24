@@ -1,0 +1,27 @@
+Low poly stylization
+Voxel retro blocky
+Isometric pixel art
+Cel shading anime look
+PBR realistic material
+NPR painterly shader
+Toon outline inked
+Greyscale heightmap relief
+Displacement sculpt detail
+Subsurface skin soft
+Anisotropic metal brushed
+Volumetric fog godrays
+Global illumination bounce
+Ray traced caustics
+Ambient occlusion creases
+Depth of field bokeh
+Motion blur cinematic
+Chromatic aberration fringe
+Film grain texture
+Scanlines CRT retro
+Glitch datamosh
+VHS degradation
+Halftone print dots
+Posterization bands
+Bloom dreamy glow
+Lens flare anamorphic
+Vignette focus frame

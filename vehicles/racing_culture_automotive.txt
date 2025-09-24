@@ -1,0 +1,275 @@
+street racing underground
+illegal drag racing
+touge mountain drifting
+circuit racing professional
+formula one championship
+nascar oval competition
+indycar open wheel
+motogp motorcycle racing
+superbike world championship
+rally cross country
+rallycross mixed surface
+autocross precision driving
+time attack personal best
+hill climb mountain
+endurance racing marathon
+le mans twenty four
+daytona five hundred
+indy five hundred
+monaco grand prix
+silverstone british
+monza italian temple
+spa francorchamps
+nurburgring green hell
+suzuka figure eight
+interlagos brazilian
+mount panorama bathurst
+road america elkhart
+laguna seca corkscrew
+watkins glen finger
+sebring international
+daytona international
+indianapolis motor speedway
+charlotte motor speedway
+talladega superspeedway
+bristol motor speedway
+martinsville paperclip
+richmond international
+phoenix international
+homestead miami
+las vegas motor
+california speedway
+michigan international
+pocono raceway
+kansas speedway
+chicagoland speedway
+kentucky speedway
+new hampshire motor
+dover international
+atlanta motor speedway
+texas motor speedway
+darlington raceway
+sonoma raceway
+watkins glen
+road course configuration
+oval track banking
+street circuit temporary
+permanent racing facility
+drag strip quarter mile
+eighth mile bracket
+top fuel dragster
+funny car nitro
+pro stock naturally
+super gas bracket
+super comp bracket
+super street legal
+bracket racing dial
+et slip timing
+reaction time launch
+sixty foot time
+trap speed measurement
+elapsed time total
+horsepower dyno chart
+torque curve peak
+redline rpm limit
+shift point optimization
+gear ratio selection
+final drive ratio
+differential limited slip
+posi traction rear
+open differential
+locked differential
+brake bias adjustment
+weight distribution
+center of gravity
+aerodynamic downforce
+drag coefficient reduction
+ground effect tunnels
+splitter front air
+rear wing adjustment
+side skirt sealing
+diffuser rear extraction
+hood vents cooling
+brake cooling ducts
+oil cooler radiator
+transmission cooler
+power steering cooler
+intercooler air charge
+turbocharger boost pressure
+supercharger belt driven
+nitrous oxide injection
+water methanol injection
+racing fuel octane
+e85 ethanol blend
+methanol racing fuel
+av gas aviation
+race gas specialty
+pump gas premium
+octane booster additive
+fuel system upgrade
+high flow injectors
+fuel pump electric
+fuel rail aluminum
+fuel pressure regulator
+fuel filter racing
+fuel cell safety
+dry sump oiling
+wet sump standard
+oil accumulator
+oil cooler lines
+oil pressure gauge
+oil temperature monitor
+water temperature gauge
+coolant overflow tank
+radiator aluminum
+electric cooling fans
+thermostat racing
+water pump electric
+serpentine belt system
+timing belt replacement
+timing chain stretch
+camshaft profile
+valve lift duration
+compression ratio
+bore stroke ratio
+deck height block
+cylinder head porting
+intake manifold runner
+exhaust header design
+catalytic converter
+resonator muffler
+exhaust tip diameter
+catback exhaust system
+turbo back exhaust
+downpipe high flow
+wastegate external
+blow off valve
+bypass valve
+intercooler piping
+cold air intake
+short ram intake
+velocity stack trumpets
+throttle body diameter
+mass airflow sensor
+manifold absolute pressure
+oxygen sensor wideband
+air fuel ratio
+lambda sensor reading
+engine management system
+programmable ecu
+piggyback controller
+flash tune software
+dyno tuning session
+street tune safety
+e tune remote
+data logging analysis
+knock sensor detection
+detonation protection
+timing retard safety
+boost cut protection
+speed limiter removal
+rev limiter raise
+launch control system
+no lift shift
+flat foot shifting
+heel toe technique
+double clutch downshift
+clutch dump launch
+burnout tire warming
+drag radial compound
+slick tire racing
+street tire all season
+performance tire summer
+winter tire compound
+tire pressure monitoring
+pyrometer temperature
+tire tread depth
+camber angle adjustment
+caster angle setting
+toe alignment specification
+corner weight scaling
+spring rate selection
+shock absorber valving
+strut tower brace
+sway bar diameter
+end link adjustment
+bushing polyurethane
+spherical bearing
+heim joint adjustment
+coilover suspension
+air bag suspension
+hydraulic suspension
+lowrider hydraulics
+static drop suspension
+adjustable ride height
+damping adjustment
+rebound compression
+bump stop contact
+droop travel limit
+roll center height
+instant center location
+anti squat geometry
+anti dive braking
+ackermann steering
+bump steer correction
+steering rack ratio
+power steering fluid
+manual steering box
+quick release steering
+racing harness point
+roll cage welding
+window net safety
+fire suppression system
+racing seat mounting
+helmet communication
+radio headset
+pit crew coordination
+tire change speed
+fuel system gravity
+air jack pneumatic
+impact gun torque
+tire pressure gauge
+infrared pyrometer
+stopwatch timing
+transponder timing
+flag communication
+green flag start
+yellow flag caution
+red flag stop
+black flag disqualification
+checkered flag finish
+white flag final lap
+blue flag move over
+debris caution yellow
+rain tire compound
+wet weather setup
+dry line racing
+racing groove preferred
+marbles tire debris
+dirty air turbulence
+slipstream drafting
+bump drafting technique
+side drafting block
+aero push understeer
+aero loose oversteer
+tight handling understeer
+loose handling oversteer
+neutral handling balance
+handling characteristic
+setup compromise
+qualifying trim
+race trim durability
+pit strategy fuel
+tire strategy compound
+track position importance
+clean air advantage
+fuel mileage calculation
+pit window opening
+undercut strategy
+overcut strategy
+safety car restart
+double file restart
+single file restart
+wave around lap
+free pass recipient
+lucky dog position

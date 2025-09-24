@@ -1,0 +1,220 @@
+Lich Undead wizard master
+Vampire Lord Blood aristocrat
+Death Knight Fallen paladin
+Zombie Horde Shambling masses
+Skeleton Warrior Bone soldier
+Ghoul Flesh hungry corpse
+Wight Life draining spirit
+Wraith Incorporeal hatred
+Specter Ghostly vengence
+Phantom Ethereal presence
+Ghost Restless spirit
+Poltergeist Violent spirit
+Banshee Wailing harbinger
+Revenant Vengeful corpse
+Mummy Ancient wrapped
+Draugr Norse barrow dweller
+Jiangshi Chinese hopping vampire
+Strigoi Romanian vampire
+Nosferatu Disease vampire
+Dhampir Half vampire
+Vampiric Mist Gaseous form
+Vampire Spawn Lesser vampire
+Vampire Thrall Dominated servant
+Blood Doll Willing victim
+Ghast Paralytic ghoul
+Lacerate Clawed ghoul
+Ghoul King Pack leader
+Zombie Lord Horde master
+Plague Zombie Disease spreader
+Frost Zombie Ice corpse
+Fire Zombie Burning undead
+Toxic Zombie Poison corpse
+Armored Zombie Plated corpse
+Giant Zombie Enlarged corpse
+Fast Zombie Running dead
+Crawler Zombie Legless corpse
+Spitter Zombie Acid thrower
+Bloater Zombie Gas corpse
+Screamer Zombie Sound weapon
+Berserker Zombie Rage corpse
+Hunter Zombie Stalking dead
+Brute Zombie Strong corpse
+Leaper Zombie Jumping dead
+Vomiter Zombie Bile thrower
+Exploder Zombie Bomb corpse
+Shambler Zombie Slow walker
+Runner Zombie Fast mover
+Stalker Zombie Silent hunter
+Lurker Zombie Ambush corpse
+Prowler Zombie Night hunter
+Creeper Zombie Stealth dead
+Sniper Zombie Range corpse
+Assault Zombie Attack dead
+Heavy Zombie Armored corpse
+Scout Zombie Fast corpse
+Medic Zombie Healing undead
+Engineer Zombie Tool corpse
+Demolition Zombie Explosive dead
+Flame Zombie Fire corpse
+Frost Zombie Ice dead
+Shock Zombie Electric corpse
+Acid Zombie Corrosive dead
+Toxic Zombie Poison corpse
+Plague Zombie Disease dead
+Viral Zombie Infection corpse
+Mutant Zombie Changed dead
+Cyber Zombie Tech corpse
+Bio Zombie Organic dead
+Nano Zombie Microscopic corpse
+Quantum Zombie Probability dead
+Digital Zombie Data corpse
+Virtual Zombie Simulation dead
+Holographic Zombie Light corpse
+Energy Zombie Power dead
+Plasma Zombie Ionized corpse
+Nuclear Zombie Radiation dead
+Solar Zombie Sun corpse
+Lunar Zombie Moon dead
+Stellar Zombie Star corpse
+Cosmic Zombie Space dead
+Dimensional Zombie Portal corpse
+Temporal Zombie Time dead
+Spatial Zombie Space corpse
+Gravitational Zombie Force dead
+Magnetic Zombie Pole corpse
+Electric Zombie Current dead
+Sonic Zombie Sound corpse
+Seismic Zombie Quake dead
+Volcanic Zombie Magma corpse
+Glacial Zombie Ice dead
+Tidal Zombie Wave corpse
+Storm Zombie Weather dead
+Hurricane Zombie Wind corpse
+Tornado Zombie Spiral dead
+Blizzard Zombie Snow corpse
+Desert Zombie Sand dead
+Jungle Zombie Vine corpse
+Swamp Zombie Bog dead
+Cave Zombie Underground corpse
+Mountain Zombie Peak dead
+Valley Zombie Hollow corpse
+River Zombie Current dead
+Lake Zombie Still corpse
+Ocean Zombie Deep dead
+Abyssal Zombie Depth corpse
+Void Zombie Empty dead
+Chaos Zombie Random corpse
+Order Zombie Pattern dead
+Bone Dragon Skeletal wyrm
+Flesh Golem Sewn monstrosity
+Bone Golem Calcium construct
+Blood Golem Hemoglobin horror
+Shadow Golem Darkness construct
+Ice Golem Frozen construct
+Fire Golem Burning construct
+Earth Golem Stone construct
+Air Golem Wind construct
+Water Golem Liquid construct
+Metal Golem Iron construct
+Crystal Golem Gem construct
+Wood Golem Plant construct
+Flesh Golem Meat construct
+Skin Golem Hide construct
+Hair Golem Fiber construct
+Nail Golem Keratin construct
+Tooth Golem Enamel construct
+Bone Golem Calcium construct
+Blood Golem Plasma construct
+Brain Golem Neural construct
+Heart Golem Cardiac construct
+Lung Golem Respiratory construct
+Liver Golem Hepatic construct
+Kidney Golem Renal construct
+Stomach Golem Gastric construct
+Intestine Golem Digestive construct
+Muscle Golem Protein construct
+Nerve Golem Electric construct
+Vein Golem Vascular construct
+Artery Golem Circulatory construct
+Tendon Golem Connective construct
+Cartilage Golem Flexible construct
+Fat Golem Adipose construct
+Marrow Golem Core construct
+Plasma Golem Liquid construct
+Serum Golem Clear construct
+Lymph Golem Immune construct
+Saliva Golem Oral construct
+Sweat Golem Pore construct
+Tear Golem Lacrimal construct
+Mucus Golem Nasal construct
+Wax Golem Ear construct
+Oil Golem Sebaceous construct
+Bile Golem Liver construct
+Acid Golem Stomach construct
+Enzyme Golem Digestive construct
+Hormone Golem Endocrine construct
+Antibody Golem Immune construct
+Antigen Golem Foreign construct
+Pathogen Golem Disease construct
+Virus Golem Infection construct
+Bacteria Golem Microbe construct
+Parasite Golem Symbiotic construct
+Fungus Golem Spore construct
+Mold Golem Decay construct
+Yeast Golem Ferment construct
+Algae Golem Aquatic construct
+Plankton Golem Marine construct
+Coral Golem Reef construct
+Sponge Golem Filter construct
+Jellyfish Golem Cnidarian construct
+Starfish Golem Echinoderm construct
+Sea Urchin Golem Spiny construct
+Sand Dollar Golem Flat construct
+Sea Cucumber Golem Elongated construct
+Crab Golem Crustacean construct
+Lobster Golem Clawed construct
+Shrimp Golem Small construct
+Krill Golem Tiny construct
+Barnacle Golem Attached construct
+Mussel Golem Bivalve construct
+Clam Golem Buried construct
+Oyster Golem Pearl construct
+Scallop Golem Swimming construct
+Snail Golem Spiral construct
+Slug Golem Slimy construct
+Worm Golem Segmented construct
+Leech Golem Bloodsucking construct
+Tapeworm Golem Parasitic construct
+Roundworm Golem Nematode construct
+Flatworm Golem Platyhelminth construct
+Fluke Golem Trematode construct
+Hookworm Golem Intestinal construct
+Pinworm Golem Anal construct
+Whipworm Golem Trichuris construct
+Threadworm Golem Enterobius construct
+Guinea Worm Golem Dracunculus construct
+Filarial Worm Golem Lymphatic construct
+River Blindness Worm Golem Onchocerca construct
+Heartworm Golem Dirofilaria construct
+Lungworm Golem Respiratory construct
+Kidney Worm Golem Renal construct
+Liver Fluke Golem Hepatic construct
+Blood Fluke Golem Schistosoma construct
+Brain Worm Golem Neural construct
+Eye Worm Golem Ocular construct
+Skin Worm Golem Dermal construct
+Muscle Worm Golem Trichinella construct
+Bone Worm Golem Skeletal construct
+Joint Worm Golem Articular construct
+Nerve Worm Golem Neural construct
+Spine Worm Golem Vertebral construct
+Skull Worm Golem Cranial construct
+Rib Worm Golem Thoracic construct
+Hip Worm Golem Pelvic construct
+Arm Worm Golem Brachial construct
+Leg Worm Golem Femoral construct
+Hand Worm Golem Manual construct
+Foot Worm Golem Pedal construct
+Finger Worm Golem Digital construct
+Toe Worm Golem Phalangeal construct

@@ -1,0 +1,116 @@
+rathalos fire-breathing wyvern apex-predator-sky-king
+diablos black desert-tyrant horned-charging-bull
+tigrex primitive-brute-force roar-stun-relentless-pursuit
+nargacuga stealth-assassin tail-spike-projectile-darkness
+zinogre thunder-wolf electric-charge-pack-hunter
+brachydios explosive-slime boxing-gloves-volatile-punches
+deviljho savage-hunger nomadic-monster-pickle-terror
+rajang golden-fury super-saiyan-monkey-lightning
+fatalis black-dragon world-destroyer legendary-calamity
+alatreon elemental-master dragon-judgement-unstable
+safi'jiiva red-dragon evolution-energy-absorption
+kulve taroth golden-siege monster-horn-breaking-rewards
+xeno'jiiva alien-bioenergy transparent-wings-cocoon
+shara ishvalda earth-manipulator singing-eye-beam
+velkhana ice-elder dragon beam-walls-elegant-deadly
+namielle water-electric elder puddle-lightning-bioluminescence
+ruiner nergigante metal-spike regeneration-apex-hunter
+savage deviljho enraged-nomadic-destruction-machine
+gold rathian poisonous-queen upgraded-fire-wyvern
+silver rathalos upgraded-king enhanced-fire-attacks
+furious rajang super-charged lightning-monkey-rage
+raging brachydios explosive-enhanced volatile-slime-master
+stygian zinogre dragon-element thunder-wolf-dark
+frostfang barioth ice-sabertooth enhanced-frost-attacks
+coral pukei-pukei water-poison rainbow-projectile-cute
+nightshade paolumu sleep-bat inflated-neck-floating
+ebony odogaron bleeding-fanged-dog enhanced-speed-aggression
+viper tobi-kadachi paralysis-electric-snake-fangs
+acidic glavenus corrosive-tail-sword melting-attacks
+seething bazelgeuse explosive-scales carpet-bomber-terror
+blackveil vaal hazak miasma-death-decay-zombie-dragon
+legiana ice-flying-wyvern freeze-breath-graceful
+kulu-ya-ku rock-throwing-bird tool-user-clever-thief
+great jagras pack-leader swallowing-expandable-stomach
+tobi-kadachi electric-snake fangs-tree-gliding-speed
+anjanath fire-breathing t-rex nose-flamethrower-territorial
+pukei-pukei poison-chameleon tongue-projectile-colorful-cute
+jyuratodus mud-fish territorial-water-area-control
+barroth mud-armor bulldozer charge-attack-crown-ram
+kirin lightning-unicorn elder-dragon-speed-grace-power
+teostra fire-emperor blast-supernova-mane-explosion
+kushala daora steel-wind-dragon tornado-metallic-hurricane
+vaal hazak rotting-vale-master effluvium-miasma-decay-death
+dodogama rock-eating explosive-saliva-gentle-peaceful
+great girros paralysis-pack-leader fanged-wyvern-cliff
+radobaan bone-armor rolling-attack-uragaan-cousin
+uragaan jaw-rolling explosive-mining-chin-slam
+lavasioth fire-fish molten-armor-lava-swimming
+azure rathalos enhanced-fire-wyvern aerial-master
+pink rathian enhanced-poison-queen ground-master
+bazelgeuse b-52-bomber explosive-scale-carpet-bombing
+paolumu floating-bat puffer-neck-sleep-gas
+great jagras alpha pack-leader great-sword-swallowing
+kestodons herbivore-pack territorial-horn-charge
+gajau fish-projectile-weapon thrown-explosive-item
+kelbi deer-healing-item horn-material-gathering
+aptonoth herbivore-docile resource-gathering-peaceful
+apceros armored-herbivore territorial-charging-spike
+mosswine mushroom-pig resource-gathering-cute
+boaboa lynian-tribe tool-usage-cooperation-quest
+grimalkyne cat-tribe various-subspecies-assistance
+palico-felyne cat-companion cooking-support-combat-assistance
+elder dragon-tier legendary-calamity-level-threat
+apex-predator ecosystem-top food-chain-dominant
+flagship-monster game-representative iconic-species
+invader-monster nomadic-territorial-disruptive-ecosystem
+siege-monster multiplayer-cooperative-hunt-required
+tempered-monster enhanced-difficulty-investigation-rewards
+arch-tempered ultimate-difficulty-festival-event-exclusive
+master-rank g-rank difficulty-enhanced-movesets
+high-rank upgraded-difficulty-new-behaviors
+low-rank beginner-friendly introduction-movesets
+endemic-life environmental-creatures-ecosystem-diversity
+small-monsters minor-creatures-environment-filler
+lynian-species cat-like-humanoid-intelligent-tribes
+herbivore-species plant-eating-docile-resource-providers
+fanged-wyvern canine-features-pack-behavior-fast
+flying-wyvern two-legs-two-wings-aerial-capable
+brute-wyvern powerful-legs-minimal-wings-ground-focused
+piscine-wyvern fish-like-aquatic-environment-adapted
+snake-wyvern long-body-serpentine-flexible-movement
+bird-wyvern avian-features-quick-agile-pack-hunters
+elder-dragon legendary-power-ecosystem-disrupting-calamity
+relict-species ancient-survivor-evolutionary-remnant
+frontier-species unique-subspecies-regional-adaptation
+rare-species special-coloration-enhanced-abilities
+deviant-species behavioral-adaptation-unique-patterns
+variant-species environmental-adaptation-climate-specific
+subspecies-adaptation regional-variation-evolutionary-divergence
+materials-harvesting resource-gathering-crafting-components
+carving-rewards post-hunt-material-collection-chance
+breaking-rewards part-destruction-specific-material-drops
+capture-rewards live-capture-enhanced-material-chances
+investigation-rewards enhanced-drop-rates-specific-conditions
+crown-hunting size-variation-largest-smallest-specimens
+research-levels knowledge-accumulation-behavior-understanding
+ecological-research environmental-study-interaction-observation
+hunting-horn-songs musical-buff-support-team-enhancement
+palico-gadgets companion-tools-utility-support-function
+mantles-boosters temporary-equipment-special-abilities-enhancement
+specialized-tools situational-equipment-monster-specific-counters
+weapon-crafting material-combination-upgrade-progression-system
+armor-crafting defense-skill-fashion-customization-system
+decoration-slotting skill-customization-min-max-optimization
+meal-preparation stat-boost-temporary-enhancement-felyne-skills
+botanical-research cultivation-material-growth-sustainability-system
+argosy-trading resource-exchange-rare-material-acquisition
+steamworks-minigame resource-conversion-fuel-reward-lottery
+guiding-lands endgame-area-monster-luring-material-gathering
+siege-events temporary-cooperative-multiplayer-exclusive-hunts
+festival-events seasonal-celebration-exclusive-content-rewards
+crossover-events collaboration-special-monster-unique-rewards
+layered-armor cosmetic-appearance-fashion-transmog-customization
+guild-card social-profile-achievement-sharing-networking
+squad-system group-formation-persistent-team-organization
+session-browser multiplayer-lobby-filtering-joining-system

@@ -1,0 +1,20 @@
+Kerning optical
+Tracking tight/loose
+Leading generous
+Rag balanced
+Hyphenation smart
+Ligatures standard
+Discretionary ligatures
+Small caps true
+Oldstyle figures
+Lining figures
+Tabular figures
+Swash alternates
+Drop cap ornate
+Versal initial
+Justified clean
+Flush left natural
+Centered formal
+Grid aligned
+Hierarchy clear
+Contrast pairings

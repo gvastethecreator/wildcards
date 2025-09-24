@@ -1,0 +1,21 @@
+Serif classic text
+Sans-serif modern clean
+Slab serif bold
+Humanist friendly
+Grotesk neutral
+Geometric precise
+Transitional elegant
+Didone high contrast
+Blackletter gothic
+Script cursive flow
+Brush script expressive
+Calligraphic formal
+Monospace technical
+Display decorative
+Stencil industrial
+Grunge distressed
+Handwritten casual
+Pixel bitmap retro
+Rounded soft
+Condensed narrow
+Expanded wide

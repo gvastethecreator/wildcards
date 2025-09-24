@@ -535,6 +535,23 @@ def random_wildcard(category, subcategory):
 - **Actions**: Movements, interactions, scenarios
 - **Environments**: Weather conditions, ubicaciones detalladas
 
+### Paquetes modernos añadidos (urbano, simulación, noir, carreras)
+
+- worldbuilding/modern_urban/: institutions_modern, street_economy, nightlife_ecosystem, media_ecosystem, law_ecosystem, urban_services
+- worldbuilding/sim_construction/: zoning_systems, city_services_grid, supply_chains_urban
+- gaming/loops/: sandbox_urban_loops, life_sim_loops
+- gaming/racing/: track_archetypes, event_formats, pit_stop_elements
+- cinema/: noir_toolkit, detective_investigation_beats
+- aesthetics/film/: noir_palette_motifs
+- scenes/: noir_setpieces, construction_sites_setpieces
+- situations_scenes/: visual_novel_slices, detective_procedures
+
+### Archivos nuevos destacados (escenarios y entornos)
+
+- scenes/: urban_setpieces, domestic_vignettes, liminal_spaces, weather_setpieces, horror_setpieces, action_setpieces
+- environments/: interiors/{signature_interiors, workspaces_and_facilities, grand_public_spaces}, urban/{transport_hubs, city_archetypes}, industrial/sites, landscapes/natural_wonders, fantasy_sci_fi/{megastructures, space_habitats, biomes_unreal}
+- situations_scenes/: social_moments, romance_beats, conflict_crime, survival_scenarios, ceremonies_rituals
+
 ## 🤝 Contribuciones
 
 Para agregar nuevas wildcards:

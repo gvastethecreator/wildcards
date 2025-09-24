@@ -1,0 +1,230 @@
+Renaissance Palace urban mansion
+Villa Suburbana country estate
+Palazzo Facade street front
+Cortile Courtyard central
+Loggia Open gallery
+Portico Columned entrance
+Colonnade Column series
+Arcade Arched gallery
+Peristyle Columned court
+Atrium Central hall
+Piano Nobile Main floor
+Mezzanine Intermediate floor
+Belvedere Viewing pavilion
+Casino Garden house
+Grotto Artificial cave
+Nymphaeum Water shrine
+Fountain Centerpiece water
+Basin Water container
+Aqueduct Water channel
+Conduit Water pipe
+Cistern Water storage
+Well Water source
+Spring Natural water
+Stream Flowing water
+Pool Contained water
+Lake Large water
+Pond Small water
+Moat Defensive water
+Canal Artificial waterway
+Terraced Garden leveled
+Parterre Formal garden
+Bosco Wooded area
+Giardino Segreto secret garden
+Hortus Conclusus enclosed garden
+Labyrinth Maze garden
+Topiary Shaped plants
+Espalier Trained trees
+Pergola Vine arbor
+Trellis Plant support
+Arbor Garden shelter
+Gazebo Open pavilion
+Folly Decorative building
+Temple Garden shrine
+Rotunda Circular building
+Pantheon Domed temple
+Mausoleum Tomb building
+Sarcophagus Stone coffin
+Cenotaph Empty tomb
+Monument Memorial structure
+Obelisk Tall pillar
+Column Commemorative pillar
+Statue Sculptured figure
+Bust Portrait sculpture
+Relief Raised carving
+Medallion Circular relief
+Cameo Raised portrait
+Intaglio Incised carving
+Gem Carving precious stone
+Seal Ring signet
+Signet Personal seal
+Coat of Arms heraldic
+Escutcheon Shield shape
+Crest Top ornament
+Helmet Headpiece heraldic
+Mantling Cloth decoration
+Torse Wreath decoration
+Motto Heraldic phrase
+Supporters Side figures
+Compartment Base platform
+Order Knighthood decoration
+Collar Chain insignia
+Badge Order insignia
+Star Order decoration
+Cordon Sash ribbon
+Riband Ribbon decoration
+Rosette Circular ornament
+Cockade Hat decoration
+Plume Feather decoration
+Aigret Feather tuft
+Panache Feather cluster
+Crown Royal headpiece
+Coronet Noble headpiece
+Tiara Papal crown
+Mitre Bishop hat
+Biretta Clerical cap
+Zucchetto Skull cap
+Pileus Cap style
+Phrygian Cap liberty hat
+Tricorn Three cornered
+Bicorn Two cornered
+Beret Flat cap
+Bonnet Soft hat
+Coif Close cap
+Caul Net cap
+Veil Face covering
+Wimple Neck covering
+Barbette Chin covering
+Gorget Throat armor
+Ruff Neck frill
+Millstone Ruff large
+Falling Band collar
+Rabat Clerical collar
+Jabot Shirt frill
+Cravat Neck cloth
+Stock Stiff collar
+Bandeau Hair band
+Fillet Narrow band
+Diadem Head band
+Circlet Simple crown
+Chaplet Flower crown
+Garland Flower chain
+Wreath Circular decoration
+Laurel Victory symbol
+Oak Civic crown
+Mural Crown wall defense
+Naval Crown sea victory
+Civic Crown citizen honor
+Grass Crown highest honor
+Olive Branch peace symbol
+Palm Branch victory symbol
+Caduceus Mercury staff
+Staff of Aesculapius medical
+Thyrsus Bacchus staff
+Lituus Augur staff
+Crosier Bishop staff
+Pastoral Staff shepherd
+Scepter Royal rod
+Orb World symbol
+Globus Cruciger christian orb
+Fasces Roman authority
+Lictor Bundle rods
+Axe Authority symbol
+Sword Justice weapon
+Balance Justice scales
+Blindfold Justice impartiality
+Cornucopia Abundance horn
+Horn of Plenty abundance
+Torch Enlightenment light
+Lamp Wisdom light
+Candle Sacred light
+Lantern Guidance light
+Oil Lamp ancient light
+Brazier Fire container
+Thurible Incense burner
+Censer Incense vessel
+Chalice Sacred cup
+Paten Communion plate
+Ciborium Sacred container
+Monstrance Display vessel
+Reliquary Relic container
+Shrine Sacred housing
+Tabernacle Sacred storage
+Ark Sacred chest
+Coffer Treasure chest
+Casket Small chest
+Jewel Box precious container
+Urn Ceremonial vessel
+Amphora Storage jar
+Krater Mixing bowl
+Kylix Drinking cup
+Rhyton Drinking horn
+Patera Offering dish
+Libation Bowl offering vessel
+Situla Ceremonial bucket
+Cantharus Two handled cup
+Skyphos Deep cup
+Kantharos Bacchus cup
+Mastos Breast cup
+Oenochoe Wine jug
+Lekythos Oil flask
+Alabastron Perfume flask
+Pyxis Cosmetic box
+Strigil Bath scraper
+Unguentarium Oil container
+Lachrymatory Tear bottle
+Sprinkler Holy water
+Aspergillum Water sprinkler
+Font Baptismal basin
+Piscina Wash basin
+Lavabo Washing basin
+Ewer Water pitcher
+Basin Water bowl
+Aquamanile Washing vessel
+Rose Water Perfumed water
+Orange Flower Water scented
+Lavender Water aromatic
+Hungary Water alcohol perfume
+Cologne Water fragrant
+Eau de Toilette light perfume
+Eau de Parfum strong perfume
+Essence Concentrated perfume
+Attar Rose oil
+Otto Rose essence
+Bergamot Citrus oil
+Neroli Orange flower
+Petitgrain Orange leaf
+Rosemary Herb oil
+Lavender Flower oil
+Jasmine Flower essence
+Ylang Ylang Exotic flower
+Sandalwood Wood essence
+Cedar Wood oil
+Frankincense Tree resin
+Myrrh Tree gum
+Benzoin Resin balsam
+Storax Tree balsam
+Labdanum Rock rose
+Ambergris Whale secretion
+Musk Animal gland
+Civet Cat gland
+Castoreum Beaver gland
+Vanilla Bean extract
+Tonka Bean coumarin
+Orris Root iris
+Angelica Root herb
+Calamus Root sweet flag
+Galbanum Persian gum
+Opoponax Sweet myrrh
+Elemi Tree resin
+Copal Tree resin
+Dragon's Blood red resin
+Mastic Greek resin
+Dammar Tree resin
+Turpentine Pine resin
+Rosin Pine residue
+Pitch Pine tar
+Tar Pine product
+Bitumen Natural asphalt
+Asphalt Road material
+Petroleum Rock oil

@@ -1,0 +1,163 @@
+Knight Warrior armored noble fighter
+Dark Sorcerer shadow magic wielder
+Elven Archer forest bow master
+Dwarven Blacksmith forge hammer craftsman
+Dragon Slayer legendary beast hunter
+Necromancer Death magic undead controller
+Paladin Holy warrior light champion
+Rogue Stealth assassin shadow dancer
+Barbarian Savage warrior berserker fighter
+Wizard Ancient magic scholar spellcaster
+Witch Nature magic herbalist enchanter
+Warlock Demon pact dark magic
+Cleric Divine healing prayer warrior
+Druid Nature shapeshifter animal speaker
+Ranger Forest guardian wilderness scout
+Bard Musical magic storyteller performer
+Monk Martial arts spiritual warrior
+Artificer Magical invention technology creator
+Blood Hunter Vampire supernatural tracker
+Gunslinger Firearm specialist marksman fighter
+Pirate Seafaring treasure raider captain
+Ninja Stealth martial arts assassin
+Samurai Honor sword martial artist
+Viking Berserker raid warrior explorer
+Gladiator Arena combat entertainment fighter
+Crusader Holy war religious warrior
+Inquisitor Religious investigation torture specialist
+Executioner Death penalty professional killer
+Assassin Professional stealth killer contractor
+Mercenary Hired sword professional fighter
+Bounty Hunter Fugitive capture reward seeker
+Monster Hunter Creature elimination specialist
+Demon Hunter Infernal entity elimination specialist
+Angel Divine messenger celestial warrior
+Devil Infernal tempter evil entity
+Fairy Magical small nature spirit
+Giant Massive humanoid overwhelming strength
+Troll Regenerating bridge guardian monster
+Orc Savage warrior tribal fighter
+Goblin Small mischievous cunning creature
+Hobgoblin Military organized goblin leader
+Kobold Small dragon-related trap maker
+Gnoll Hyena humanoid pack hunter
+Bugbear Large stealthy goblinoid ambusher
+Lizardfolk Reptilian swamp tribal warrior
+Minotaur Bull-headed labyrinth guardian monster
+Centaur Horse-bodied archery forest dweller
+Satyr Goat-legged nature party creature
+Harpy Bird-woman aerial predator singer
+Siren Song enchantress sailor doom
+Mermaid Fish-tailed ocean dwelling beauty
+Naga Snake-bodied magical serpent humanoid
+Lamia Snake-tailed seductive predator woman
+Medusa Snake-haired petrifying gaze monster
+Gorgon Stone gaze mythological monster
+Sphinx Riddle asking lion eagle hybrid
+Griffin Eagle lion flying predator
+Phoenix Fire rebirth immortal bird
+Dragon Massive flying fire-breathing reptile
+Wyvern Two-legged dragon lesser drake
+Drake Smaller wingless dragon cousin
+Wyrm Massive serpentine elder dragon
+Hydra Multi-headed regenerating serpent monster
+Chimera Lion goat snake hybrid monster
+Manticore Human face lion body spike tail
+Pegasus Winged horse flying mount
+Unicorn Horn horse purity magical creature
+Nightmare Flaming horse demonic mount
+Hippogriff Eagle horse flying hybrid
+Cockatrice Rooster dragon petrifying hybrid
+Basilisk Serpent king death gaze reptile
+Wyvern Dragon Eagle hybrid flying predator
+Roc Massive eagle mythological bird
+Thunderbird Storm eagle lightning creator
+Banshee Wailing death omen ghost woman
+Wraith Vengeful undead incorporeal spirit
+Specter Ghostly undead haunting presence
+Phantom Translucent undead mysterious spirit
+Revenant Vengeful returned undead corpse
+Zombie Shambling mindless undead corpse
+Skeleton Animated bone undead frame
+Mummy Preserved wrapped undead ancient
+Lich Undead wizard powerful necromancer
+Vampire Blood-drinking undead aristocrat noble
+Werewolf Lycanthrope shapeshifting wolf human
+Werebear Bear shapeshifter forest guardian
+Wereraven Raven shapeshifter intelligent spy
+Wererat Rat shapeshifter urban infiltrator
+Wereboar Boar shapeshifter aggressive fighter
+Weretiger Tiger shapeshifter jungle predator
+Werewolf Alpha pack leader lycanthrope
+Dhampir Half-vampire hybrid daywalker
+Aasimar Angel-touched celestial heritage human
+Tiefling Demon-touched infernal heritage human
+Genasi Elemental-touched planar heritage human
+Dragonborn Dragon-blooded reptilian humanoid
+Half-Elf Human elf mixed heritage
+Half-Orc Human orc mixed heritage
+Halfling Small hobbit-like peaceful folk
+Gnome Small tinker magic nature folk
+Firbolg Giant-kin forest guardian folk
+Goliath Mountain giant-kin strong folk
+Triton Sea-dwelling aquatic humanoid folk
+Kalashtar Dream spirit possessed humanoid
+Shifter Lycanthrope descendant minor shapeshifter
+Warforged Constructed artificial living being
+Changeling Natural shapeshifter identity thief
+Doppelganger Perfect mimic shapeshifter predator
+Yuan-Ti Serpent people ancient civilization
+Githyanki Astral plane psychic warrior
+Githzerai Astral plane psychic monk
+Mind Flayer Brain eating psychic aberration
+Beholder Eye tyrant many-eyed aberration
+Aboleth Ancient aquatic psychic aberration
+Owlbear Owl bear hybrid forest predator
+Bulezau Demon tanar'ri chaotic evil
+Balor Fire demon massive winged terror
+Pit Fiend Devil baatezu lawful evil
+Solar Angel powerful celestial champion
+Planetar Angel celestial divine messenger
+Deva Angel celestial healing guardian
+Erinyes Devil beautiful fallen angel
+Succubus Demon seductive charm predator
+Incubus Demon male seductive predator
+Quasit Demon small familiar spy
+Imp Devil small familiar spy
+Lemure Devil lowest tormented soul
+Bone Devil Devil skeletal hook predator
+Horned Devil Devil massive combat brute
+Ice Devil Devil cold tactical fighter
+Chain Devil Devil bondage torture specialist
+Bearded Devil Devil aggressive melee fighter
+Barbed Devil Devil defensive spike armor
+Death Knight Undead fallen paladin antipaladin
+Blackguard Evil paladin darkness champion
+Antipaladin Opposite paladin evil divine
+Death Cleric Undead divine magic wielder
+War Cleric Combat divine magic warrior
+Tempest Cleric Storm divine magic wielder
+Light Cleric Radiance divine magic wielder
+Life Cleric Healing divine magic wielder
+Knowledge Cleric Wisdom divine magic wielder
+Nature Cleric Wilderness divine magic wielder
+Trickery Cleric Deception divine magic wielder
+Forge Cleric Creation divine magic wielder
+Grave Cleric Death divine magic wielder
+Order Cleric Law divine magic wielder
+Peace Cleric Harmony divine magic wielder
+Twilight Cleric Dusk divine magic wielder
+Unity Cleric Connection divine magic wielder
+Aberrant Mind Sorcerer alien psychic magic
+Clockwork Soul Sorcerer mechanical order magic
+Divine Soul Sorcerer celestial divine magic
+Draconic Bloodline Sorcerer dragon heritage magic
+Shadow Magic Sorcerer darkness negative energy
+Storm Sorcery Sorcerer weather elemental magic
+Wild Magic Sorcerer chaotic unpredictable magic
+Lunar Magic Sorcerer moon phase magic
+Phoenix Sorcerer fire rebirth magic
+Sea Sorcery Sorcerer ocean water magic
+Stone Sorcery Sorcerer earth elemental magic
+Giant Soul Sorcerer giant heritage magic
+Favored Soul Sorcerer divine blessed magic

@@ -1,0 +1,21 @@
+Ultra wide 14mm
+Wide 24mm
+Environmental 28mm
+Standard 35mm
+Normal 50mm
+Portrait 85mm
+Short tele 105mm
+Telephoto 135mm
+Long tele 200mm
+Super tele 300mm
+Extreme tele 400mm
+Macro 60mm
+Macro 100mm
+Tilt-shift 24mm
+Tilt-shift 90mm
+Fish-eye 8mm
+Anamorphic 40mm
+Anamorphic 65mm
+Zoom 24-70mm
+Zoom 70-200mm
+Cinema prime set

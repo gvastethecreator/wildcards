@@ -1,0 +1,114 @@
+Health potion effect
+Mana restoration orb
+Stamina recovery boost
+Speed enhancement buff
+Strength amplification power
+Defense fortification shield
+Magic resistance barrier
+Fire immunity protection
+Ice immunity protection
+Lightning immunity protection
+Poison immunity protection
+Sleep immunity protection
+Paralysis immunity protection
+Confusion immunity protection
+Charm immunity protection
+Fear immunity protection
+Invisibility cloak power
+Flight ability wings
+Teleportation portal power
+Time slow effect
+Time stop ability
+Haste acceleration boost
+Regeneration healing factor
+Vampire life drain
+Mind reading telepathy
+Shapeshifting transformation
+Size alteration power
+Weight manipulation
+Density control ability
+Phase shifting power
+Wall walking ability
+Water breathing gills
+Fire breathing dragon
+Ice breath freezing
+Lightning bolt casting
+Energy beam projection
+Force field generation
+Gravity manipulation power
+Magnetism control ability
+Metal manipulation power
+Earth shaping ability
+Plant growth control
+Animal communication gift
+Weather control power
+Light manipulation ability
+Shadow control power
+Illusion creation magic
+Reality warping power
+Dimension travel ability
+Portal creation magic
+Summoning creature power
+Banishment exile spell
+Resurrection revival magic
+Soul manipulation power
+Spirit communication gift
+Astral projection ability
+Precognition future sight
+Retrocognition past sight
+Clairvoyance remote viewing
+Psychometry object reading
+Empathy emotion sensing
+Emotion manipulation power
+Memory manipulation ability
+Dream control power
+Nightmare creation ability
+Luck manipulation power
+Probability alteration
+Curse creation dark magic
+Blessing bestowing light magic
+Healing touch restoration
+Poison creation toxin
+Antidote neutralization cure
+Disease immunity protection
+Age manipulation time
+Immortality eternal life
+Mortality restoration
+Size growth giant form
+Size shrinking tiny form
+Multiplication clone creation
+Fusion combination ability
+Separation division power
+Absorption energy drain
+Reflection mirror defense
+Counterattack revenge strike
+Perfect accuracy aim
+Critical hit enhancement
+Double damage power
+Triple damage devastation
+Instant kill death touch
+Stunning paralysis strike
+Blinding flash attack
+Deafening sound blast
+Silencing mute spell
+Disarming weapon removal
+Tripping knockdown attack
+Pushing force blast
+Pulling magnetic draw
+Lifting telekinetic power
+Crushing pressure ability
+Cutting razor wind
+Piercing needle strike
+Slashing sword dance
+Bludgeoning hammer blow
+Energy explosion blast
+Chain lightning spread
+Meteor shower rain
+Earthquake ground shake
+Tsunami wave crash
+Tornado wind spiral
+Blizzard ice storm
+Sandstorm desert fury
+Volcanic eruption lava
+Solar flare sun burst
+Lunar eclipse shadow

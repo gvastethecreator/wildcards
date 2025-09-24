@@ -1,0 +1,233 @@
+Parchment Aged weathered paper
+Vellum Fine animal skin
+Papyrus Ancient reed paper
+Rice Paper Delicate asian
+Canvas Coarse fabric texture
+Linen Fine woven fabric
+Burlap Rough sack cloth
+Leather Hide animal skin
+Suede Soft leather finish
+Canvas Duck Heavy cotton
+Muslin Plain weave cotton
+Silk Luxurious fabric
+Brocade Rich patterned fabric
+Velvet Plush pile fabric
+Corduroy Ridged cotton
+Tweed Rough wool fabric
+Felt Matted wool fiber
+Fur Animal hair coating
+Feather Down soft plumage
+Scale Reptilian armor
+Shell Marine protection
+Bark Tree outer layer
+Wood Grain natural pattern
+Bamboo Sectioned grass
+Reed Marsh plant fiber
+Stone Rough mineral
+Marble Polished stone
+Granite Crystalline rock
+Slate Layered stone
+Sandstone Gritty sediment
+Limestone Fossilized rock
+Obsidian Volcanic glass
+Crystal Clear mineral
+Quartz Hexagonal crystal
+Amethyst Purple crystal
+Diamond Brilliant crystal
+Ruby Red precious
+Sapphire Blue precious
+Emerald Green precious
+Topaz Yellow crystal
+Garnet Red crystal
+Turquoise Blue mineral
+Jade Green stone
+Onyx Banded stone
+Agate Striped stone
+Jasper Opaque quartz
+Opal Iridescent stone
+Pearl Nacre sphere
+Coral Marine skeleton
+Amber Tree resin
+Jet Black lignite
+Ivory Elephant tusk
+Bone Calcium structure
+Horn Keratin projection
+Antler Branched bone
+Tooth Enamel structure
+Claw Sharp keratin
+Talon Bird claw
+Hoof Hard foot
+Chitin Insect armor
+Carapace Shell covering
+Exoskeleton External armor
+Metal Forged surface
+Iron Rust prone
+Steel Tempered iron
+Bronze Copper alloy
+Brass Zinc copper
+Copper Red metal
+Silver White metal
+Gold Yellow metal
+Platinum White precious
+Lead Dense gray
+Tin Soft white
+Zinc Bluish white
+Aluminum Light silver
+Titanium Strong light
+Chromium Shiny hard
+Nickel Magnetic metal
+Cobalt Blue magnetic
+Molybdenum Heat resistant
+Tungsten Dense refractory
+Vanadium Steel additive
+Manganese Steel hardener
+Carbon Diamond graphite
+Silicon Computer chip
+Germanium Semiconductor
+Arsenic Toxic metalloid
+Antimony Brittle metalloid
+Bismuth Crystalline metal
+Mercury Liquid metal
+Cadmium Toxic metal
+Indium Soft rare
+Gallium Low melting
+Thallium Toxic heavy
+Polonium Radioactive metal
+Radium Glowing element
+Uranium Nuclear fuel
+Thorium Fertile element
+Actinium Rare radioactive
+Protactinium Scarce element
+Neptunium Synthetic element
+Plutonium Weapons grade
+Americium Smoke detector
+Curium Synthetic actinide
+Berkelium Laboratory made
+Californium Neutron source
+Einsteinium Synthetic element
+Fermium Short lived
+Mendelevium Synthetic element
+Nobelium Super heavy
+Lawrencium Last actinide
+Rutherfordium Super heavy
+Dubnium Synthetic element
+Seaborgium Laboratory made
+Bohrium Synthetic heavy
+Hassium Super heavy
+Meitnerium Synthetic element
+Darmstadtium Laboratory made
+Roentgenium Synthetic heavy
+Copernicium Super heavy
+Nihonium Synthetic element
+Flerovium Super heavy
+Moscovium Synthetic element
+Livermorium Laboratory made
+Tennessine Synthetic halogen
+Oganesson Heaviest element
+Hydrogen Lightest element
+Helium Noble gas
+Lithium Alkali metal
+Beryllium Alkaline earth
+Boron Metalloid element
+Carbon Diamond graphite
+Nitrogen Inert gas
+Oxygen Life supporting
+Fluorine Most reactive
+Neon Noble gas
+Sodium Alkali metal
+Magnesium Light metal
+Aluminum Common metal
+Silicon Semiconductor
+Phosphorus Essential element
+Sulfur Brimstone element
+Chlorine Halogen gas
+Argon Noble gas
+Potassium Alkali metal
+Calcium Bone builder
+Scandium Transition metal
+Vanadium Steel additive
+Chromium Stainless steel
+Manganese Steel hardener
+Iron Common metal
+Cobalt Magnetic metal
+Nickel Corrosion resistant
+Copper Red metal
+Zinc Galvanizing metal
+Gallium Low melting
+Germanium Semiconductor
+Arsenic Poison element
+Selenium Photoconductor
+Bromine Liquid halogen
+Krypton Noble gas
+Rubidium Alkali metal
+Strontium Alkaline earth
+Yttrium Rare earth
+Zirconium Corrosion resistant
+Niobium Superconductor
+Molybdenum Heat resistant
+Technetium First artificial
+Ruthenium Platinum group
+Rhodium Catalytic metal
+Palladium Hydrogen absorber
+Silver White metal
+Cadmium Toxic metal
+Indium Touch screen
+Tin Soft metal
+Antimony Fire retardant
+Tellurium Semiconductor
+Iodine Purple halogen
+Xenon Noble gas
+Cesium Most reactive
+Barium Heavy alkaline
+Lanthanum Rare earth
+Cerium Most abundant
+Praseodymium Green element
+Neodymium Magnet maker
+Promethium Radioactive lanthanide
+Samarium Permanent magnets
+Europium Red phosphor
+Gadolinium Magnetic cooler
+Terbium Green phosphor
+Dysprosium Hard magnets
+Holmium Magnetic poles
+Erbium Fiber optics
+Thulium X-ray source
+Ytterbium Atomic clocks
+Lutetium Hardest lanthanide
+Hafnium Control rods
+Tantalum Capacitor metal
+Tungsten Filament metal
+Rhenium Jet engine
+Osmium Densest element
+Iridium Corrosion resistant
+Platinum Catalytic metal
+Gold Noble metal
+Mercury Liquid metal
+Thallium Rat poison
+Lead Dense metal
+Bismuth Low toxicity
+Wood Grain Natural pattern
+Bark Texture Tree skin
+Leaf Veins Plant structure
+Flower Petals Organic beauty
+Grass Blades Sharp green
+Fern Fronds Delicate leaves
+Moss Covering Soft green
+Lichen Symbiotic organism
+Fungus Network Underground connection
+Mushroom Caps Umbrella shapes
+Coral Formations Marine structures
+Seaweed Flowing Ocean plants
+Kelp Forest Underwater trees
+Algae Bloom Microscopic life
+Plankton Swarm Ocean drifters
+Bacterial Colony Microscopic cities
+Virus Particles Submicroscopic invaders
+DNA Helix Genetic spiral
+Cell Membrane Biological barrier
+Tissue Structure Organ building
+Organ System Body network
+Organism Whole Living being
+Ecosystem Community Web
+Biome Regional Life
+Planet Earth Global system

@@ -182,3 +182,52 @@ Detailed environment showing __environments/locations/detailed_urban__ during __
 ```
 Close-up of __objects/furniture/furniture__ made from __materials/woods/woods__ with __textures/surface__ finish, pattern __patterns/designs__, colors __colors/basic__, shot with __technical/camera_settings/models__, composition __technical/composition/rules__, __quality/technical/image_quality__
 ```
+ 
+## 🧭 Nuevos escenarios y entornos (ejemplos)
+
+### Escena urbana + clima
+```
+__scenes/urban_setpieces__, __scenes/weather_setpieces__, __technical/lighting/moods/scene_moods__, __modifiers/positive__
+```
+
+### Horror íntimo en interior
+```
+__scenes/horror_setpieces__, __environments/interiors/signature_interiors__, __styles/cinema/cinematic_styles__, __technical/lighting/cinematic/cinematic_looks__
+```
+
+### Acción vertical futurista
+```
+__scenes/action_setpieces__, __environments/urban/city_archetypes__, __environments/fantasy_sci_fi/megastructures__, __effects/optical_practical_camera__
+```
+
+### Romance cotidiano
+```
+__situations_scenes/romance_beats__, __scenes/domestic_vignettes__, __composition_views/shot_types__, __technical/lighting/sources/practical_sources__
+```
+
+### Sci‑fi biomas imposibles
+```
+__environments/fantasy_sci_fi/space_habitats__, __environments/fantasy_sci_fi/biomes_unreal__, __worldbuilding/cosmology_models__, __styles/photography/genres_styles__
+```
+
+## 🚗 Moderno urbano, simulación y noir
+
+### Sandbox urbano (GTA-like)
+```
+__worldbuilding/modern_urban/institutions_modern__, __worldbuilding/modern_urban/street_economy__, __worldbuilding/modern_urban/nightlife_ecosystem__, __gaming/loops/sandbox_urban_loops__, __characters/archetypes/modern_urban_archetypes__
+```
+
+### Simulador de vida real
+```
+__gaming/loops/life_sim_loops__, __worldbuilding/modern_urban/urban_services__, __situations_scenes/social_moments__, __scenes/domestic_vignettes__
+```
+
+### Carreras callejeras
+```
+__gaming/racing/track_archetypes__, __gaming/racing/event_formats__, __gaming/racing/pit_stop_elements__, __effects/optical_practical_camera__
+```
+
+### Detective + estética noir
+```
+__cinema/noir_toolkit__, __cinema/detective_investigation_beats__, __scenes/noir_setpieces__, __aesthetics/film/noir_palette_motifs__
+```

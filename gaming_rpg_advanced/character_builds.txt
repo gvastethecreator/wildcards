@@ -1,0 +1,195 @@
+Glass Cannon Build maximum damage fragility
+Tank Build maximum defense damage absorption
+Hybrid Build balanced offense defense stats
+Pure Caster Build magical damage focus
+Melee Specialist Build physical combat focus
+Ranged Specialist Build projectile combat focus
+Support Build team assistance healing
+Debuffer Build enemy weakening specialist
+Buffer Build ally strengthening specialist
+Controller Build battlefield manipulation specialist
+Assassin Build stealth critical damage
+Berserker Build rage fury damage
+Necromancer Build death magic undead
+Summoner Build creature calling minion
+Elementalist Build elemental magic mastery
+Healer Build restoration life magic
+Paladin Build holy warrior divine
+Dark Knight Build shadow warrior corrupt
+Blood Mage Build life sacrifice power
+Soul Reaper Build spirit harvesting power
+Weapon Master Build multiple weapon expertise
+Dual Wielder Build two weapon combat
+Two-Handed Build massive weapon strength
+Sword and Board Build weapon shield combo
+Archer Build bow projectile mastery
+Crossbow Build mechanical projectile mastery
+Gunslinger Build firearm expertise mastery
+Throwing Build projectile weapon mastery
+Unarmed Build martial arts combat
+Mounted Combat Build cavalry fighting mastery
+Aerial Combat Build flying fighting mastery
+Aquatic Combat Build underwater fighting mastery
+Underground Combat Build subterranean fighting mastery
+Stealth Build invisibility sneaking mastery
+Trapper Build environmental hazard creation
+Alchemist Build potion creation mastery
+Artificer Build magical item creation
+Enchanter Build magical enhancement specialist
+Blacksmith Build weapon armor creation
+Engineer Build mechanical device creation
+Architect Build structure creation mastery
+Scholar Build knowledge learning mastery
+Loremaster Build ancient knowledge specialist
+Sage Build wisdom advice specialist
+Oracle Build future sight prophecy
+Diviner Build fortune telling specialist
+Witch Build nature magic herbalist
+Warlock Build demon pact specialist
+Cultist Build forbidden knowledge specialist
+Monk Build martial spiritual balance
+Druid Build nature shapeshifting balance
+Ranger Build wilderness survival specialist
+Scout Build reconnaissance exploration specialist
+Beastmaster Build animal companion specialist
+Shapeshifter Build form changing specialist
+Lycanthrope Build were-creature specialist
+Vampire Build blood drinking specialist
+Lich Build undead immortality specialist
+Demon Build infernal corruption specialist
+Angel Build celestial divine specialist
+Elemental Build pure energy specialist
+Construct Build artificial being specialist
+Aberration Build alien horror specialist
+Fey Build magical creature specialist
+Celestial Build heavenly being specialist
+Fiend Build hellish being specialist
+Undead Build unliving being specialist
+Plant Build botanical being specialist
+Ooze Build amorphous being specialist
+Monstrosity Build unnatural being specialist
+Humanoid Build mortal being specialist
+Giant Build massive being specialist
+Dragon Build reptilian legend specialist
+Beast Build natural animal specialist
+Magical Beast Build enchanted animal specialist
+Outsider Build planar being specialist
+Incorporeal Build ghostly being specialist
+Swarm Build collective entity specialist
+Vermin Build insect creature specialist
+Animal Build mundane creature specialist
+Monstrous Humanoid Build twisted mortal specialist
+Monstrous Animal Build twisted beast specialist
+Monstrous Plant Build twisted botanical specialist
+Monstrous Vermin Build twisted insect specialist
+Monstrous Magical Beast Build twisted enchanted specialist
+Monstrous Outsider Build twisted planar specialist
+Monstrous Undead Build twisted unliving specialist
+Monstrous Construct Build twisted artificial specialist
+Monstrous Aberration Build twisted alien specialist
+Monstrous Fey Build twisted magical specialist
+Monstrous Celestial Build twisted heavenly specialist
+Monstrous Fiend Build twisted hellish specialist
+Monstrous Elemental Build twisted energy specialist
+Monstrous Dragon Build twisted legend specialist
+Monstrous Giant Build twisted massive specialist
+Monstrous Ooze Build twisted amorphous specialist
+Monstrous Swarm Build twisted collective specialist
+Shadow Build darkness manipulation specialist
+Light Build radiance manipulation specialist
+Time Build temporal manipulation specialist
+Space Build dimensional manipulation specialist
+Mind Build psychic manipulation specialist
+Body Build physical manipulation specialist
+Spirit Build soul manipulation specialist
+Matter Build substance manipulation specialist
+Energy Build force manipulation specialist
+Information Build data manipulation specialist
+Chaos Build disorder manipulation specialist
+Order Build structure manipulation specialist
+Life Build vitality manipulation specialist
+Death Build mortality manipulation specialist
+Creation Build building manipulation specialist
+Destruction Build demolition manipulation specialist
+Truth Build reality manipulation specialist
+Illusion Build deception manipulation specialist
+Emotion Build feeling manipulation specialist
+Logic Build reason manipulation specialist
+Instinct Build intuition manipulation specialist
+Memory Build experience manipulation specialist
+Dream Build subconscious manipulation specialist
+Nightmare Build terror manipulation specialist
+Hope Build optimism manipulation specialist
+Despair Build hopelessness manipulation specialist
+Love Build affection manipulation specialist
+Hate Build animosity manipulation specialist
+Fear Build terror manipulation specialist
+Courage Build bravery manipulation specialist
+Wisdom Build insight manipulation specialist
+Ignorance Build confusion manipulation specialist
+Knowledge Build information manipulation specialist
+Mystery Build unknown manipulation specialist
+Secret Build hidden manipulation specialist
+Revelation Build discovery manipulation specialist
+Question Build inquiry manipulation specialist
+Answer Build solution manipulation specialist
+Problem Build challenge manipulation specialist
+Solution Build resolution manipulation specialist
+Beginning Build initiation manipulation specialist
+Ending Build conclusion manipulation specialist
+Continuation Build persistence manipulation specialist
+Change Build transformation manipulation specialist
+Permanence Build stability manipulation specialist
+Movement Build motion manipulation specialist
+Stillness Build stasis manipulation specialist
+Growth Build expansion manipulation specialist
+Decay Build deterioration manipulation specialist
+Youth Build vigor manipulation specialist
+Age Build experience manipulation specialist
+Beauty Build aesthetic manipulation specialist
+Ugliness Build repulsion manipulation specialist
+Harmony Build balance manipulation specialist
+Discord Build conflict manipulation specialist
+Unity Build connection manipulation specialist
+Division Build separation manipulation specialist
+Similarity Build likeness manipulation specialist
+Difference Build contrast manipulation specialist
+Identity Build self manipulation specialist
+Otherness Build alien manipulation specialist
+Familiarity Build known manipulation specialist
+Strangeness Build unknown manipulation specialist
+Comfort Build ease manipulation specialist
+Discomfort Build unease manipulation specialist
+Safety Build security manipulation specialist
+Danger Build threat manipulation specialist
+Certainty Build confidence manipulation specialist
+Uncertainty Build doubt manipulation specialist
+Clarity Build understanding manipulation specialist
+Confusion Build bewilderment manipulation specialist
+Focus Build concentration manipulation specialist
+Distraction Build diversion manipulation specialist
+Attention Build awareness manipulation specialist
+Neglect Build inattention manipulation specialist
+Care Build concern manipulation specialist
+Indifference Build apathy manipulation specialist
+Interest Build fascination manipulation specialist
+Boredom Build tedium manipulation specialist
+Excitement Build stimulation manipulation specialist
+Calm Build tranquility manipulation specialist
+Agitation Build disturbance manipulation specialist
+Peace Build serenity manipulation specialist
+Conflict Build struggle manipulation specialist
+Agreement Build harmony manipulation specialist
+Disagreement Build discord manipulation specialist
+Cooperation Build collaboration manipulation specialist
+Competition Build rivalry manipulation specialist
+Leadership Build guidance manipulation specialist
+Following Build obedience manipulation specialist
+Independence Build freedom manipulation specialist
+Dependence Build reliance manipulation specialist
+Strength Build power manipulation specialist
+Weakness Build vulnerability manipulation specialist
+Health Build wellness manipulation specialist
+Sickness Build illness manipulation specialist
+Sanity Build mental health manipulation
+Madness Build mental illness manipulation

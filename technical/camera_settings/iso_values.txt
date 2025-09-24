@@ -1,0 +1,10 @@
+ISO 50 ultra clean
+ISO 100 base daylight
+ISO 200 bright shade
+ISO 400 overcast
+ISO 800 indoor ambient
+ISO 1600 low light
+ISO 3200 concert
+ISO 6400 night street
+ISO 12800 emergency
+ISO 25600 extreme noise

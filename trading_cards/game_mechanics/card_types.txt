@@ -1,0 +1,168 @@
+Creature Card living being entity
+Spell Card instant magical effect
+Enchantment Card permanent magical effect
+Artifact Card constructed magical item
+Planeswalker Card powerful mage ally
+Instant Card immediate response effect
+Sorcery Card powerful ritual effect
+Land Card mana resource location
+Token Card temporary creature representation
+Emblem Card permanent planeswalker effect
+Conspiracy Card draft format modifier
+Phenomenon Card plane chase effect
+Plane Card environmental setting effect
+Scheme Card archenemy plot effect
+Vanguard Card alternate identity effect
+Hero Card commander format leader
+Champion Card tribal format leader
+Equipment Card creature enhancement item
+Aura Card creature enhancement spell
+Fortification Card land enhancement effect
+Tribal Card creature type matter
+Legendary Card unique named entity
+Basic Card fundamental game element
+Nonbasic Card specialized game element
+Permanent Card battlefield remaining effect
+Nonpermanent Card temporary effect resolution
+Colored Card mana color requirement
+Colorless Card no mana color
+Multicolored Card multiple mana colors
+Hybrid Card alternative mana costs
+Monocolored Card single mana color
+White Card order law healing
+Blue Card knowledge control counterspells
+Black Card death decay sacrifice
+Red Card chaos emotion direct damage
+Green Card nature growth large creatures
+Artifact Colorless constructed item
+Land Colorless mana source terrain
+Mana Cost converted resource requirement
+Converted Mana Cost total mana value
+Mana Value numeric cost measurement
+Power Creature combat damage dealing
+Toughness Creature combat damage surviving
+Loyalty Planeswalker activation resource counter
+Devotion Permanent mana symbol counting
+Experience Counter permanent player resource
+Energy Counter temporary resource pool
+Poison Counter alternate win condition
+Infect Combat damage poison conversion
+Lifelink Combat damage life gaining
+Deathtouch Any damage creature destruction
+First Strike Combat damage priority
+Double Strike Combat damage twice
+Flying Aerial combat evasion
+Trample Excess combat damage pushing
+Vigilance Attack without tapping
+Haste Attack summoning sickness ignoring
+Reach Flying creature blocking
+Defender Attack prevention restriction
+Hexproof Opponent targeting prevention
+Shroud All targeting prevention
+Protection Color source prevention
+Indestructible Destruction effect immunity
+Regeneration Destruction prevention activation
+Flash Instant timing casting
+Morph Face-down creature casting
+Megamorph Morph with counter addition
+Manifest Face-down creature creation
+Cloak Face-down creature casting
+Disguise Face-down creature alternative
+Double Face Card transforming permanent
+Modal Double Face Card choice permanent
+Split Card dual spell option
+Aftermath Card graveyard second casting
+Adventure Card exile first casting
+Escape Card graveyard alternative casting
+Flashback Card graveyard second casting
+Jump-start Card graveyard discard casting
+Retrace Card graveyard land casting
+Unearth Card graveyard creature activation
+Embalm Card graveyard token creation
+Eternalize Card graveyard upgraded token
+Disturb Card graveyard transformation casting
+Madness Card discard alternative casting
+Evoke Card alternative creature casting
+Prowl Card creature type discount
+Ninjutsu Card combat replacement casting
+Channel Card hand alternative activation
+Cycling Card draw replacement activation
+Transmute Card library search replacement
+Suspend Card delayed casting removal
+Vanishing Card temporary permanence counters
+Fading Card temporary permanence counters
+Echo Card upkeep cost requirement
+Cumulative Upkeep increasing cost requirement
+Buyback Spell return hand option
+Kicker Spell additional cost enhancement
+Multikicker Kicker multiple payment option
+Entwine Modal spell both modes
+Replicate Spell copy additional cost
+Storm Spell copy chain reaction
+Cascade Spell library free casting
+Rebound Spell exile next turn
+Cipher Spell creature encoding attachment
+Overload Spell mass targeting alternative
+Miracle Spell draw timing discount
+Spectacle Spell damage dealing discount
+Riot Creature haste counter choice
+Mentor Creature power sharing attack
+Afterlife Creature death token creation
+Adapt Creature counter self-enhancement
+Evolve Creature counter automatic growth
+Monstrosity Creature counter one-time enhancement
+Bloodthirst Creature counter damage dealing
+Unleash Creature counter haste option
+Scavenge Creature graveyard counter transfer
+Undying Creature death counter return
+Persist Creature death counter return
+Unearth Creature graveyard temporary return
+Living Weapon Equipment creature token
+Reconfigure Equipment creature transformation
+For Mirrodin Equipment set mechanics
+Affinity Artifact cost reduction
+Metalcraft Artifact threshold benefit
+Improvise Artifact tap cost reduction
+Convoke Creature tap cost reduction
+Delve Graveyard exile cost reduction
+Emerge Creature sacrifice cost reduction
+Offering Creature sacrifice cost reduction
+Splice Arcane spell combination
+Arcane Spell kamigawa block type
+Epic Spell turn ending restriction
+Forecast Hand ability activation
+Haunt Creature death spell attachment
+Dredge Graveyard self-mill replacement
+Bloodrush Creature discard pump
+Scavenge Creature graveyard exile counter
+Battalion Creature attack trigger threshold
+Heroic Creature targeting trigger benefit
+Bestow Enchantment creature aura option
+Tribute Creature counter opponent choice
+Inspired Creature untap trigger benefit
+Constellation Enchantment trigger benefit
+Devotion Mana symbol permanent counting
+Strive Spell additional target cost
+Outlast Creature counter sorcery activation
+Ferocious Creature power threshold benefit
+Raid Combat damage trigger benefit
+Bolster Creature counter weakest enhancement
+Dash Creature temporary haste return
+Exploit Creature sacrifice trigger benefit
+Formidable Creature power threshold benefit
+Megamorph Morph counter addition upgrade
+Awaken Spell land creature creation
+Ingest Exile library processing
+Process Exile zone interaction
+Devoid Colorless colored spell
+Surge Spell teammate discount casting
+Support Creature counter distribution
+Cohort Creature ally activation
+Rally Creature ally trigger benefit
+Converge Spell color counting benefit
+Sunburst Permanent color counting counters
+Domain Land type counting benefit
+Threshold Graveyard card counting benefit
+Delirium Graveyard type counting benefit
+Spell Mastery Graveyard instant sorcery counting
+Landfall Land trigger benefit

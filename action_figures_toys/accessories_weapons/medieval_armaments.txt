@@ -1,0 +1,292 @@
+Legendary Sword gleaming blade
+Cursed Blade corrupted edge
+Demon Slayer holy weapon
+Dragon Slayer massive sword
+Soul Reaper ethereal blade
+Blood Drinker vampiric sword
+Shadow Cutter darkness blade
+Light Bringer radiant sword
+Frost Bite ice weapon
+Flame Tongue fire blade
+Lightning Strike electric sword
+Earth Shaker ground blade
+Wind Cutter air weapon
+Water Flow liquid blade
+Void Edge emptiness sword
+Chaos Blade random weapon
+Order Sword structured blade
+Destiny Blade fate weapon
+Time Cutter temporal sword
+Space Ripper dimensional blade
+Reality Sword existence weapon
+Dream Blade sleep sword
+Nightmare Cutter terror blade
+Memory Sword recall weapon
+Thought Blade mental sword
+Emotion Cutter feeling blade
+Spirit Sword ethereal weapon
+Ghost Blade spectral sword
+Phantom Cutter incorporeal blade
+Wraith Sword death weapon
+Banshee Blade wailing sword
+Poltergeist Cutter violent blade
+Apparition Sword manifestation weapon
+Soul Sword essence blade
+Heart Cutter emotion weapon
+Mind Sword thought blade
+Body Cutter physical weapon
+Flesh Sword carnal blade
+Bone Cutter skeletal weapon
+Blood Sword crimson blade
+Breath Cutter respiratory weapon
+Voice Sword vocal blade
+Word Cutter linguistic weapon
+Language Sword communication blade
+Symbol Cutter meaning weapon
+Sign Sword significance blade
+Signal Cutter transmission weapon
+Message Sword communication blade
+Information Cutter data weapon
+Knowledge Sword wisdom blade
+Truth Cutter reality weapon
+Lie Sword deception blade
+Fiction Cutter fantasy weapon
+Reality Sword existence blade
+Dream Cutter sleep weapon
+Nightmare Sword terror blade
+Vision Cutter sight weapon
+Sight Sword vision blade
+Sound Cutter auditory weapon
+Silence Sword quiet blade
+Music Cutter harmony weapon
+Noise Sword chaos blade
+Ancient Shield protective barrier
+Tower Shield wall defense
+Buckler Shield small protection
+Round Shield circular defense
+Kite Shield teardrop protection
+Heater Shield triangular defense
+Pavise Shield crossbow protection
+Scutum Shield roman defense
+Aspis Shield greek protection
+Hoplon Shield heavy defense
+Pelta Shield light protection
+Parma Shield small defense
+Cetratus Shield gladiator protection
+Clipeus Shield ceremonial defense
+Targe Shield highland protection
+Rotella Shield italian defense
+Adarga Shield moorish protection
+Kalkan Shield ottoman defense
+Dhal Shield indian protection
+Sipar Shield persian defense
+Rondache Shield spanish protection
+Bouclier Shield french defense
+Schild Shield german protection
+Skjöldr Shield norse defense
+Tarcza Shield polish protection
+Štít Shield czech defense
+Pajzs Shield hungarian protection
+Scut Shield romanian defense
+Štit Shield slovak protection
+Ščit Shield slovenian defense
+Štit Shield croatian protection
+Štit Shield bosnian defense
+Štit Shield serbian protection
+Штит Shield macedonian defense
+Щит Shield bulgarian protection
+Асп Shield albanian defense
+Ασπίδα Shield greek protection
+Kalkan Shield turkish defense
+מגן Shield hebrew protection
+درع Shield arabic defense
+سپر Shield persian protection
+ढाल Shield hindi defense
+盾 Shield chinese protection
+盾 Shield japanese defense
+방패 Shield korean protection
+Khield Shield gaelic defense
+Sgiath Shield irish protection
+Ysgwyd Shield welsh defense
+Skell Shield cornish protection
+Bouclé Shield breton defense
+Escudo Shield spanish protection
+Scudo Shield italian defense
+Écu Shield french protection
+Schild Shield german defense
+Schild Shield dutch protection
+Sköld Shield swedish defense
+Skjold Shield norwegian protection
+Skjold Shield danish defense
+Kilpi Shield finnish protection
+Қалқан Shield kazakh defense
+Қалқан Shield kyrgyz protection
+Сипар Shield tajik defense
+Қалқон Shield uzbek protection
+Қалқан Shield turkmen defense
+War Hammer crushing weapon
+Battle Axe cleaving tool
+Mace Club blunt weapon
+Flail Chain weapon
+Morningstar Spiked club
+Warhammer Two handed
+Great Axe massive chopper
+Maul Heavy hammer
+Club Simple bludgeon
+Cudgel Thick stick
+Baton Short club
+Truncheon Police stick
+Nightstick Security weapon
+Blackjack Weighted club
+Sap Leather weapon
+Cosh British club
+Billy Club police baton
+Shillelagh Irish club
+Knobkerrie African club
+Waddy Australian club
+Rungu East african
+Iwisa Zulu club
+Knobstick Riot weapon
+Life Preserver Victorian weapon
+Loaded Cane Hidden weapon
+Sword Cane Concealed blade
+Umbrella Sword Hidden weapon
+Walking Stick Cane weapon
+Staff Pole weapon
+Quarterstaff English stick
+Bo Staff Japanese pole
+Jo Staff Short stick
+Hanbo Short staff
+Tanbo Nightstick
+Yawara Stick palm stick
+Kubotan Keychain weapon
+Telescopic Baton Collapsible
+ASP Baton Expandable
+Tonfa Police weapon
+Side Handle Baton
+Nunchaku Chain sticks
+Three Section Staff
+Nine Section Whip
+Rope Dart Flexible weapon
+Meteor Hammer Chain weapon
+Chain Whip Flexible
+Seven Section Staff
+Thirteen Section Staff
+Soft Whip Flexible weapon
+Hard Whip Rigid weapon
+Bull Whip Cattle driver
+Cat O Nine Tails
+Scourge Multi tail
+Flagellum Roman whip
+Knout Russian whip
+Sjambok African whip
+Quirt Riding whip
+Crop Riding stick
+Switch Thin branch
+Rattan Cane punishment
+Birch Rod bundle
+Fasces Roman bundle
+Lictor Bundle authority
+Rod Authority symbol
+Scepter Royal staff
+Wand Magic stick
+Staff Command pole
+Baton Conductor stick
+Mace Ceremonial weapon
+Orb World symbol
+Crown Royal headpiece
+Diadem Head band
+Circlet Simple crown
+Coronet Noble crown
+Tiara Pointed crown
+Mitre Bishop hat
+Biretta Clerical cap
+Zucchetto Skull cap
+Pileus Cap style
+Phrygian Cap liberty hat
+Tricorn Three cornered
+Bicorn Two cornered
+Shako Military hat
+Busby Fur hat
+Bearskin Tall fur
+Kepi French cap
+Forage Cap military
+Service Cap dress
+Garrison Cap side cap
+Beret Flat cap
+Bonnet Soft hat
+Coif Close cap
+Caul Net cap
+Veil Face covering
+Wimple Neck covering
+Barbette Chin covering
+Gorget Throat armor
+Aventail Mail neck
+Coif Mail hood
+Bascinet Pointed helmet
+Sallet Visored helmet
+Barbute Italian helmet
+Armet Enclosed helmet
+Close Helmet Full coverage
+Burgonet Open helmet
+Morion Crested helmet
+Cabasset Pear shaped
+Kettle Hat Wide brimmed
+Chapel Iron simple helmet
+Spangenhelm Segmented helmet
+Nasal Helmet nose guard
+Norman Helmet conical
+Viking Helmet horned myth
+Celtic Helmet iron age
+Roman Helmet segmented
+Greek Helmet corinthian
+Phrygian Helmet eastern
+Thracian Helmet gladiator
+Murmillo Helmet fish crest
+Retiarius Net fighter
+Secutor Chaser helmet
+Provocator Challenger helmet
+Hoplomachus Hoplite fighter
+Dimachaerus Two sword
+Laquearius Lasso fighter
+Andabata Blind fighter
+Bestiarius Beast fighter
+Venator Hunter gladiator
+Noxius Criminal fighter
+Damnatus Condemned fighter
+Sagittarius Archer gladiator
+Eques Horseman gladiator
+Essedarius Chariot fighter
+Pegasus Wings flying horse
+Unicorn Horn purity symbol
+Dragon Wings flight power
+Phoenix Feathers rebirth symbol
+Griffin Feathers noble beast
+Chimera Parts hybrid monster
+Hydra Heads regeneration
+Medusa Hair snake locks
+Cyclops Eye single sight
+Minotaur Horns bull hybrid
+Centaur Legs horse hybrid
+Harpy Wings bird woman
+Siren Voice enchanting song
+Sphinx Wings riddle keeper
+Manticore Tail poison spike
+Basilisk Gaze death stare
+Cockatrice Breath poison
+Wyvern Wings lesser dragon
+Amphisbaena Heads two faced
+Catoblepas Gaze death stare
+Yale Horns moveable
+Bonnacon Dung fire
+Leucrota Voice mimicry
+Crocotta Bone crusher
+Parandrus Camouflage change
+Catoplebas Death gaze
+Amphivena Two heads
+Scitalis Beautiful snake
+Jaculus Javelin snake
+Seps Corruption snake
+Dipsa Thirst snake
+Prester Fire breath
+Aspis Deaf adder

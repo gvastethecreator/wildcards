@@ -1,0 +1,200 @@
+Red Sign Soapstone invasion summoning tool
+Blue Sign Soapstone cooperation summoning item
+White Sign Soapstone help offering tool
+Gold Sign Soapstone sunlight covenant summon
+Black Sign Soapstone gravelord servant tool
+Cracked Red Eye Orb invasion attempt item
+Red Eye Orb unlimited invasion tool
+Blue Eye Orb darkmoon invasion item
+Dragon Eye invasion covenant tool
+Cat Covenant Ring forest protection item
+Guilty Player sin accumulation status
+Indicted Player reported invasion target
+Sin Accumulation moral corruption tracking
+Absolution Service sin removal offering
+Velka Pardoner forgiveness merchant
+Oswald Pardoner sin absolution provider
+Invasion Timer cooldown period mechanic
+Invasion Immunity temporary protection status
+Soul Level Matchmaking connection calculation system
+Weapon Level Matchmaking equipment calculation system
+Password Matching friend connection override
+Cross-region Play global connection enabling
+Ember Form invasion vulnerability state
+Hollow Form invasion immunity state
+Human Form invasion target state
+Undead Form invasion immune state
+Kindled Bonfire extended invasion range
+Unkindled Bonfire standard invasion range
+Bonfire Ascetic difficulty increasing item
+Company of Champions difficulty covenant
+Covenant of Champions challenge increasing pact
+Bell Keeper automated invasion covenant
+Rat King vermin covenant
+Brotherhood of Blood dueling covenant
+Blue Sentinels protection covenant
+Heirs of Sun cooperation covenant
+Dragon Remnants dueling covenant
+Pilgrims of Dark abyss covenant
+Bell Tower invasion area
+Rat Covenant territory area
+Iron Keep Bridge dueling zone
+Heide Tower invasion hotspot
+Forest of Fallen Giants invasion area
+Lost Bastille invasion zone
+Huntsman Copse invasion territory
+Harvest Valley invasion area
+Earthen Peak invasion zone
+Iron Keep invasion territory
+Demon of Song invasion area
+Drangleic Castle invasion zone
+Shrine of Amana invasion territory
+Undead Crypt invasion area
+Aldia Keep invasion zone
+Dragon Aerie invasion territory
+Dragon Shrine invasion area
+Throne of Want invasion zone
+Forest of Dean invasion territory
+Shaded Woods invasion area
+Doors of Pharros invasion zone
+Brightstone Cove Tseldora invasion territory
+Lord Soul invasion area
+Great Soul invasion zone
+Primal Bonfire invasion immunity area
+King Ring invasion requirement item
+Giant Lord invasion boss area
+Nashandra invasion final boss
+Aldia Scholar invasion secret boss
+Vendrick invasion hollow king
+Ancient Dragon invasion optional boss
+Darklurker invasion abyss boss
+Lud and Zallen invasion frigid boss
+Aava invasion ivory king pet
+Burnt Ivory King invasion dlc boss
+Fume Knight invasion tower boss
+Sir Alonne invasion memory boss
+Sinh Slumbering Dragon invasion sanctum boss
+Elana Squalid Queen invasion boss
+Graverobber Varg Cerah invasion gank boss
+Blue Acolyte invasion mob enemy
+Red Phantom invasion hostile player
+Black Phantom invasion gravelord enemy
+White Phantom invasion helpful player
+Gold Phantom invasion sunlight helper
+Shade Phantom invasion limited helper
+Dragon Spirit invasion covenant member
+Bell Keeper invasion automated defender
+Rat Spirit invasion area defender
+Arbitrer Spirit invasion blue sentinel
+Blood Spirit invasion brotherhood member
+Sun Spirit invasion heir helper
+Dark Spirit invasion pilgrim member
+Forest Protector invasion defender
+Grave Servant invasion gravelord minion
+Darkmoon Blade invasion vengeance seeker
+Princess Guard invasion protector
+Chaos Servant invasion flame worshipper
+Darkwraith invasion soul drainer
+Finger of Rosaria invasion rebirth servant
+Aldrich Faithful invasion cathedral defender
+Watchdog of Farron invasion swamp guardian
+Mound Maker invasion vertebra collector
+Spear of Church invasion divine defender
+Ringed Knight invasion city guardian
+Soul of Cinder invasion final test
+Nameless King invasion storm ruler
+Ancient Wyvern invasion dragon boss
+Dragonslayer Armour invasion animated armor
+Oceiros Consumed King invasion mad king
+Champion Gundyr invasion tutorial boss
+Iudex Gundyr invasion first boss
+Vordt of Boreal Valley invasion frost boss
+Curse Rotted Greatwood invasion tree boss
+Crystal Sage invasion magic boss
+Deacons of Deep invasion mob boss
+Abyss Watchers invasion legion boss
+High Lord Wolnir invasion skeleton lord
+Old Demon King invasion fire boss
+Pontiff Sulyvahn invasion dual-blade boss
+Aldrich Saint of Deep invasion devourer boss
+Yhorm Giant invasion storm ruler boss
+Dancer of Boreal Valley invasion graceful boss
+Lorian Elder Prince invasion crawler boss
+Lothric Younger Prince invasion magic brother
+Soul of Cinder invasion linked fire
+Friede Sister invasion scythe boss
+Father Ariandel invasion flagellant boss
+Blackflame Friede invasion third phase
+Champion Gravetender invasion arena boss
+Greatwolf invasion arena pet
+Demon Prince invasion twin boss
+Halflight Spear Church invasion player boss
+Darkeater Midir invasion abyss dragon
+Slave Knight Gael invasion hollow knight
+Orphan of Kos invasion nightmare boss
+Ludwig Holy Blade invasion hunter boss
+Laurence First Vicar invasion fire beast
+Living Failures invasion research boss
+Lady Maria invasion hunter boss
+Gehrman First Hunter invasion mentor boss
+Moon Presence invasion great one
+Cleric Beast invasion bridge boss
+Father Gascoigne invasion hunter boss
+Blood Starved Beast invasion poison boss
+Vicar Amelia invasion church boss
+Shadow of Yharnam invasion trio boss
+Rom Vacuous Spider invasion insight boss
+One Reborn invasion amalgamation boss
+Micolash Host Nightmare invasion cage boss
+Wet Nurse invasion invisible boss
+Martyr Logarius invasion cainhurst boss
+Darkbeast Paarl invasion lightning beast
+Amygdala invasion great one
+Ebrietas Daughter Cosmos invasion knowledge
+Celestial Emissary invasion alien mob
+Moon Scented Hunter invasion rival
+Bloody Crow of Cainhurst invasion NPC
+Eileen Crow invasion hunter NPC
+Alfred Hunter invasion church knight
+Valtr Beast Cutter invasion league master
+Simon Bowblade invasion bowman
+Brador Church Assassin invasion invader
+Yamamura Wanderer invasion eastern hunter
+Madaras Twin invasion snake summoner
+Younger Madaras Twin invasion snake brother
+Djura Powder Keg invasion machine gunner
+Retired Hunter Djura invasion old gunner
+Suspicious Beggar invasion beast imposter
+Iosefka Imposter invasion alien doctor
+Chapel Dweller invasion kind survivor
+Gilbert Coughing invasion sick guide
+Gascoine Daughter invasion lost child
+Little Girl invasion window child
+Old Woman invasion window crone
+Viola Gascoine invasion dead mother
+Henryk Hunter invasion old partner
+Tomb Prospector invasion dungeon explorer
+Church Hunter invasion divine warrior
+Powder Keg Hunter invasion explosive expert
+Executioner invasion radial hunter
+Vileblood invasion cainhurst noble
+Cainhurst Noble invasion aristocrat
+Cainhurst Knight invasion castle guard
+Gargoyle invasion stone guardian
+Winter Lantern invasion frenzy singer
+Brain Sucker invasion intellect drainer
+Scourge Beast invasion plague creature
+Huntsman invasion human enemy
+Brick Troll invasion giant brute
+Kidnapper invasion bag carrier
+Snatcher invasion sack monster
+Hunter Mob invasion angry crowd
+Wheelchair Gunner invasion disabled shooter
+Rifle Spear Hunter invasion poke shooter
+Beast Claw Hunter invasion animal fighter
+Threaded Cane Hunter invasion whip user
+Saw Cleaver Hunter invasion serrated fighter
+Saw Spear Hunter invasion thrust serrated
+Holy Moonlight Sword invasion arcane blade
+Burial Blade invasion scythe weapon
+Beast Cutter invasion serrated heavy

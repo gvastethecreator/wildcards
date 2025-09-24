@@ -1,0 +1,107 @@
+Experience points gained
+Level up achievement
+Skill point increase
+Attribute bonus enhancement
+Health point regeneration
+Magic point restoration
+Action point renewal
+Movement point refresh
+Combat round initiative
+Turn order sequence
+Damage roll calculation
+Attack roll success
+Defense roll block
+Saving throw resistance
+Skill check attempt
+Ability check test
+Critical hit success
+Critical failure mishap
+Natural twenty roll
+Natural one fumble
+Advantage roll bonus
+Disadvantage roll penalty
+Modifier bonus addition
+Penalty subtraction
+Base stat foundation
+Derived stat calculation
+Primary attribute core
+Secondary attribute support
+Tertiary attribute minor
+Racial bonus heritage
+Class bonus profession
+Background bonus history
+Equipment bonus gear
+Temporary bonus effect
+Permanent bonus upgrade
+Stackable bonus cumulative
+Non-stackable bonus limit
+Duration timer countdown
+Cooldown period wait
+Recharge time recovery
+Resource cost expenditure
+Energy consumption drain
+Stamina depletion fatigue
+Mana expenditure casting
+Health sacrifice cost
+Range distance limit
+Area effect radius
+Target selection choice
+Line of sight requirement
+Direct contact touch
+Concentration focus need
+Verbal component speech
+Somatic component gesture
+Material component item
+Component pouch supply
+Spell slot consumption
+Spell preparation ready
+Spell known repertoire
+Spell learned study
+Cantrip unlimited use
+First level spell slot
+Second level spell slot
+Third level spell slot
+Fourth level spell slot
+Fifth level spell slot
+Sixth level spell slot
+Seventh level spell slot
+Eighth level spell slot
+Ninth level spell slot
+Ritual casting extended
+Concentration maintenance
+Spell duration time
+Instantaneous effect immediate
+Permanent effect lasting
+Temporary effect short
+Long term effect extended
+Short term effect brief
+Immediate effect instant
+Delayed effect timer
+Triggered effect condition
+Conditional effect requirement
+Random effect chance
+Predictable effect certain
+Variable effect range
+Fixed effect constant
+Scaling effect growth
+Static effect unchanging
+Dynamic effect changing
+Progressive effect building
+Regressive effect declining
+Cumulative effect stacking
+Independent effect separate
+Dependent effect linked
+Synergistic effect combined
+Antagonistic effect opposing
+Complementary effect supporting
+Supplementary effect additional
+Primary effect main
+Secondary effect side
+Tertiary effect minor
+Unintended effect surprise
+Side effect consequence
+Aftereffect residual
+Lingering effect remaining
+Fading effect diminishing
+Strengthening effect growing
+Weakening effect reducing

@@ -1,0 +1,20 @@
+Port to warehouse drayage
+Warehouse cross-dock flow
+Last-mile microhub
+Grocery DC to store
+Cold chain integrity points
+Construction materials yard
+Aggregate to batch plant
+Retail reverse logistics
+E-commerce returns center
+Hazmat routing bypass
+Fuel terminal to stations
+Waste to MRF to mill
+Paper mill to printer
+Textile mill to garment
+Auto parts JIT sequence
+Semiconductor clean supply
+Pharma temperature chain
+Food truck commissary link
+Farmers market to kitchens
+Event logistics load-in

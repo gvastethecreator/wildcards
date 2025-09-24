@@ -1,0 +1,20 @@
+Residential low/mid/high density
+Commercial neighborhood/local/regional
+Industrial light/heavy/special
+Mixed-use transit-oriented
+Green belts and setbacks
+Historic preservation overlay
+Inclusionary housing overlay
+Entertainment district overlay
+Airport noise contour
+Floodplain setback rules
+View corridor protection
+Parking minimums/maximums
+Short-term rental zones
+Nightlife impact buffer
+Street vendor zones
+Bike/scooter parking zones
+Parkland dedication
+Transit priority corridor
+Pedestrian-only streets
+Accessory dwelling allowances

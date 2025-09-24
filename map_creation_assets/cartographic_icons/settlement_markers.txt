@@ -1,0 +1,235 @@
+Castle Keep fortress tower
+Watchtower observation post
+Lighthouse beacon tower
+Church Spire religious tower
+Cathedral Dome sacred architecture
+Monastery Bell tower prayer bell
+Temple Pagoda asian tower
+Minaret Islamic tower
+Windmill Wind power
+Watermill Water power
+Granary Grain storage
+Silo Vertical storage
+Warehouse Goods storage
+Market Square Trade center
+Blacksmith Forge Metal working
+Carpenter Shop Wood working
+Mason Lodge Stone working
+Tanner Yard Leather working
+Weaver House Cloth making
+Potter Kiln Clay firing
+Brewery Beer making
+Bakery Bread making
+Tavern Inn Travelers rest
+Stable Horse shelter
+Bridge River crossing
+Ferry Dock Water crossing
+Port Harbor Ship docking
+Lighthouse Navigation aid
+Customs House Trade control
+Gate House Entry control
+Guard Tower Defense post
+Armory Weapons storage
+Barracks Soldier housing
+Training Ground Military practice
+Cemetery Burial ground
+Gibbet Execution site
+Pillory Punishment device
+Well Water source
+Fountain Decorative water
+Aqueduct Water transport
+Mill Pond Water storage
+Dam Water barrier
+Lock Canal elevation
+Bridge Toll Crossing fee
+Road House Travel stop
+Waystation Rest point
+Milestone Distance marker
+Signpost Direction indicator
+Border Stone Territory marker
+Survey Marker Land reference
+Boundary Marker Property line
+Corner Stone Foundation marker
+Foundation Stone Building base
+Keystone Arch center
+Capstone Top stone
+Threshold Door sill
+Lintel Door header
+Corbel Wall support
+Buttress Wall brace
+Flying Buttress External support
+Pillar Vertical support
+Column Decorative support
+Capital Column top
+Base Column bottom
+Plinth Statue base
+Pedestal Monument base
+Obelisk Tall monument
+Monolith Single stone
+Standing Stone Ancient marker
+Stone Circle Ritual site
+Dolmen Burial chamber
+Barrow Burial mound
+Tumulus Earth mound
+Cairn Stone pile
+Shrine Sacred site
+Altar Sacrifice table
+Sanctuary Holy place
+Chapel Small church
+Cathedral Large church
+Basilica Roman church
+Abbey Monastic church
+Priory Dependent monastery
+Convent Nuns residence
+Hermitage Solitary dwelling
+Cell Monk room
+Scriptorium Writing room
+Library Book storage
+Archive Record storage
+Treasury Wealth storage
+Vault Secure storage
+Dungeon Prison cell
+Tower Prison High security
+Oubliette Forgotten pit
+Torture Chamber Pain room
+Execution Block Beheading site
+Gallows Hanging site
+Stocks Leg restraint
+Pillory Head restraint
+Whipping Post Flogging site
+Ducking Stool Water punishment
+Scold Bridle Silence device
+Branks Gossip restraint
+Gibbet Cage Display cage
+Crow Cage Exposure punishment
+Shame Flute Musical punishment
+Drunkard Cloak Barrel punishment
+Cucking Stool Commode punishment
+Brank Scold bridle
+Jougs Iron collar
+Scavenger Daughter Compression device
+Rack Stretching torture
+Iron Maiden Spike chamber
+Breaking Wheel Bone breaker
+Brazen Bull Roasting chamber
+Pear Anguish Expansion torture
+Thumbscrew Finger crusher
+Head Crusher Skull compressor
+Heretic Fork Chin piercer
+Breast Ripper Torture claw
+Spanish Spider Claw torture
+Lead Sprinkler Molten torture
+Crocodile Shears Cutting torture
+Coffin Torture Confinement torture
+Spanish Donkey Splitting torture
+Wooden Horse Riding torture
+Judas Cradle Pyramid torture
+Cat Paws Claw torture
+Garrucha Pulley torture
+Strappado Shoulder dislocation
+Water Torture Drowning simulation
+Chinese Water Torture Drip torture
+Bamboo Torture Growing spikes
+Rat Torture Gnawing torment
+Scaphism Boat torture
+Crucifixion Cross death
+Impalement Spike death
+Flaying Alive Skin removal
+Drawing Quartering Dismemberment
+Burning Stake Fire death
+Drowning Water death
+Stoning Rock death
+Hanging Rope death
+Beheading Axe death
+Garrote Wire strangulation
+Poisoning Toxic death
+Suffocation Air deprivation
+Burial Alive Earth death
+Exposure Element death
+Starvation Food deprivation
+Dehydration Water deprivation
+Sleep Deprivation Rest denial
+Sensory Deprivation Isolation torture
+Solitary Confinement Alone punishment
+White Room Sensory overload
+Bright Light Constant illumination
+Loud Noise Constant sound
+Temperature Extreme Hot cold
+Stress Position Uncomfortable posture
+Standing Cell No sitting
+Coffin Cell No movement
+Tiger Cage Cramped confinement
+Hole Solitary Underground isolation
+Box Isolation Cramped box
+Sweat Box Hot confinement
+Ice Box Cold confinement
+Dark Cell No light
+Silent Treatment No communication
+Mock Execution False death
+Psychological Torture Mental pain
+Emotional Torture Feeling pain
+Spiritual Torture Soul pain
+Social Isolation Group exclusion
+Family Separation Love denial
+Identity Destruction Self erasure
+Memory Manipulation Mind alteration
+Reality Distortion Truth confusion
+Time Distortion Duration confusion
+Space Distortion Distance confusion
+Sensory Confusion Mixed signals
+Cognitive Dissonance Conflicting thoughts
+Double Bind Impossible choice
+Learned Helplessness Induced powerlessness
+Stockholm Syndrome Captor bonding
+Trauma Bonding Pain bonding
+Gaslighting Reality denial
+Narcissistic Abuse Self destruction
+Emotional Abuse Feeling destruction
+Verbal Abuse Word destruction
+Physical Abuse Body destruction
+Sexual Abuse Intimacy destruction
+Financial Abuse Money control
+Digital Abuse Technology control
+Stalking Persistent harassment
+Cyberstalking Online harassment
+Doxxing Information exposure
+Swatting False emergency
+Revenge Porn Intimate exposure
+Sextortion Sexual blackmail
+Catfishing False identity
+Phishing Information theft
+Identity Theft Personal stealing
+Credit Fraud Financial theft
+Insurance Fraud Claim lying
+Tax Fraud Government cheating
+Welfare Fraud Benefit lying
+Medical Fraud Healthcare cheating
+Academic Fraud Education lying
+Research Fraud Science cheating
+Patent Fraud Invention stealing
+Copyright Infringement Creative theft
+Trademark Violation Brand theft
+Trade Secret Theft Business stealing
+Corporate Espionage Company spying
+Industrial Espionage Manufacturing spying
+Economic Espionage National spying
+Cyber Espionage Digital spying
+Information Warfare Data combat
+Psychological Warfare Mind combat
+Electronic Warfare Signal combat
+Chemical Warfare Substance combat
+Biological Warfare Life combat
+Nuclear Warfare Atomic combat
+Radiological Warfare Radiation combat
+Conventional Warfare Traditional combat
+Unconventional Warfare Irregular combat
+Asymmetric Warfare Unequal combat
+Guerrilla Warfare Hit run combat
+Terrorism Fear combat
+Counter Terrorism Anti fear combat
+Special Operations Elite combat
+Black Operations Secret combat
+Covert Operations Hidden combat
+Paramilitary Operations Quasi military
+Private Military Company Mercenary service
+Security Contractor Protection service

@@ -1,0 +1,231 @@
+Continental Divide watershed boundary
+Mountain Range peaks chain
+River System water network
+Coastal Plain shore lowland
+Great Basin inland depression
+Rift Valley fault depression
+Fault Line crack boundary
+Tectonic Plate earth section
+Continental Shelf underwater edge
+Abyssal Plain deep ocean floor
+Mid-ocean Ridge underwater mountain
+Oceanic Trench deep canyon
+Volcanic Arc island chain
+Island Chain archipelago
+Peninsula land projection
+Cape land point
+Gulf water inlet
+Bay water indent
+Strait water passage
+Channel water course
+Sound water body
+Fjord glacial inlet
+Estuary river mouth
+Delta river mouth land
+Alluvial Fan sediment spread
+Floodplain river overflow
+Watershed drainage area
+Drainage Basin collection area
+River Basin water collection
+Stream Network water system
+Tributary River branch
+Confluence River meeting
+Distributary River split
+Oxbow Lake curved water
+Meander River curve
+Rapids Fast water
+Waterfall Vertical drop
+Cascade Stepped fall
+Cataract Large fall
+Spring Water source
+Geyser Hot spring
+Hot Spring thermal water
+Thermal Pool heated water
+Mineral Spring enriched water
+Artesian Well pressured water
+Oasis Desert water
+Wadi Dry riverbed
+Arroyo Dry creek
+Wash Intermittent stream
+Ephemeral Stream seasonal water
+Perennial Stream year-round water
+Intermittent Stream sometimes water
+Seasonal Lake temporary water
+Playa Lake dry lakebed
+Salt Lake mineral water
+Freshwater Lake pure water
+Brackish Lake mixed water
+Reservoir Artificial lake
+Pond Small water
+Lagoon Coastal water
+Marsh Wetland area
+Swamp Forested wetland
+Bog Acidic wetland
+Fen Alkaline wetland
+Mire Peat wetland
+Slough Wetland channel
+Bayou Slow waterway
+Creek Small stream
+Brook Small stream
+Rivulet Tiny stream
+Rill Small channel
+Gully Erosion channel
+Canyon Deep valley
+Gorge Narrow canyon
+Ravine Small canyon
+Valley Low area
+Dell Small valley
+Glen Mountain valley
+Hollow Small valley
+Cove Sheltered valley
+Basin Low area
+Depression Low spot
+Sink Natural depression
+Sinkhole Collapse depression
+Cavern Underground chamber
+Cave Natural opening
+Grotto Small cave
+Tunnel Underground passage
+Shaft Vertical opening
+Pit Deep hole
+Abyss Deep chasm
+Chasm Deep crack
+Crevice Narrow crack
+Fissure Earth crack
+Crevasse Deep crack
+Gap Mountain pass
+Pass Mountain crossing
+Saddle Low ridge
+Col Mountain pass
+Notch Narrow pass
+Defile Narrow passage
+Gorge Narrow valley
+Ravine Small gorge
+Gully Small ravine
+Coulee Dry valley
+Draw Shallow valley
+Gulch Deep valley
+Arroyo Desert valley
+Barranca Deep ravine
+Canada Dry valley
+Nullah Dry watercourse
+Wadi Desert watercourse
+Mesa Flat-topped hill
+Butte Isolated hill
+Plateau Elevated plain
+Tableland Flat highland
+Terrace Level area
+Bench Flat shelf
+Ledge Narrow shelf
+Bluff Steep bank
+Cliff Vertical rock
+Escarpment Long cliff
+Scarp Steep slope
+Precipice Dangerous cliff
+Crag Steep rock
+Tor High rock
+Stack Sea pillar
+Arch Natural bridge
+Natural Bridge rock span
+Pinnacle Rock spire
+Monolith Single rock
+Boulder Large rock
+Outcrop Exposed rock
+Exposure Rock surface
+Bedrock Solid rock
+Strata Rock layers
+Formation Rock unit
+Quarry Rock pit
+Mine Underground excavation
+Shaft Mine opening
+Adit Horizontal tunnel
+Drift Underground passage
+Stope Mining chamber
+Open Pit Surface mine
+Strip Mine Surface excavation
+Tailings Mine waste
+Spoil Pile waste heap
+Slag Heap metal waste
+Dump Waste pile
+Landfill Waste site
+Quarry Rock extraction
+Gravel Pit stone extraction
+Sand Pit sand extraction
+Clay Pit clay extraction
+Peat Bog organic extraction
+Salt Flat mineral deposit
+Salt Dome underground salt
+Salt Lake saline water
+Alkali Flat alkaline soil
+Hardpan Cemented soil
+Caliche Mineral layer
+Duricrust Hard surface
+Calcrete Calcium crust
+Silcrete Silica crust
+Ferricrete Iron crust
+Laterite Tropical soil
+Bauxite Aluminum ore
+Regolith Weathered rock
+Saprolite Soft rock
+Colluvium Slope deposit
+Alluvium River deposit
+Glacial Till ice deposit
+Moraine Glacial debris
+Esker Glacial ridge
+Kame Glacial hill
+Drumlin Glacial hill
+Cirque Glacial basin
+Tarn Glacial lake
+Paternoster Lakes glacial chain
+Hanging Valley glacial side
+U-shaped Valley glacial carving
+V-shaped Valley river carving
+Floodplain River overflow
+Levee River bank
+Oxbow Lake abandoned meander
+Cutoff Abandoned channel
+Backwater Stagnant water
+Slough Side channel
+Billabong Australian waterhole
+Cenote Mexican sinkhole
+Karst Limestone terrain
+Karst Tower limestone pillar
+Mogote Tropical karst
+Cockpit Country karst depression
+Uvala Large karst depression
+Polje Karst plain
+Dolines Karst sinkhole
+Swallow Hole karst opening
+Resurgence Karst spring
+Blue Hole underwater sinkhole
+Stalactite Cave formation
+Stalagmite Cave formation
+Flowstone Cave deposit
+Speleothem Cave formation
+Travertine Spring deposit
+Tufa Porous rock
+Limestone Carbonate rock
+Dolomite Magnesium rock
+Marble Metamorphic limestone
+Quartzite Metamorphic sandstone
+Slate Metamorphic shale
+Schist Foliated metamorphic
+Gneiss Banded metamorphic
+Granite Intrusive igneous
+Basalt Extrusive igneous
+Obsidian Volcanic glass
+Pumice Volcanic foam
+Scoria Volcanic cinder
+Tuff Volcanic ash
+Volcanic Bomb lava chunk
+Lava Flow molten rock
+Aa Lava rough flow
+Pahoehoe Lava smooth flow
+Pillow Lava underwater flow
+Columnar Jointing cooling cracks
+Volcanic Neck eroded core
+Caldera Collapsed crater
+Crater Volcanic depression
+Fumarole Volcanic vent
+Solfatara Sulfur vent
+Mud Volcano heated mud

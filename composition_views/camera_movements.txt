@@ -1,0 +1,20 @@
+Static locked-off
+Pan horizontal sweep
+Tilt vertical scan
+Dolly in push
+Dolly out pull
+Truck lateral move
+Crab diagonal move
+Ped up elevate
+Ped down descend
+Boom up crane
+Boom down crane
+Jib arc
+Handheld verité
+Steadicam float
+Gimbal smooth
+Bodycam visceral
+Snorricam fixed to actor
+Drone aerial
+Cable cam glide
+FPV drone fast

@@ -1,0 +1,409 @@
+arctic blast polar vortex
+chinook warm wind
+foehn alpine wind
+santa ana fire wind
+mistral mediterranean cold
+sirocco saharan hot
+harmattan dry dusty
+monsoon seasonal rain
+trade winds constant
+westerlies prevailing
+doldrums equatorial calm
+horse latitudes subtropical
+roaring forties southern
+furious fifties antarctic
+screaming sixties polar
+jet stream upper level
+polar jet arctic
+subtropical jet warm
+low level jet nocturnal
+thermal wind vertical
+gradient wind curved
+geostrophic wind balanced
+ageostrophic wind imbalanced
+katabatic downslope cold
+anabatic upslope warm
+valley breeze daytime
+mountain breeze nighttime
+sea breeze coastal
+land breeze offshore
+lake breeze water
+urban heat island
+temperature inversion
+boundary layer mixing
+convective boundary
+stable boundary
+residual layer
+entrainment zone
+capping inversion
+elevated mixed layer
+nocturnal boundary
+morning transition
+afternoon mixing
+evening transition
+diurnal temperature
+daily temperature range
+annual temperature
+heat index apparent
+wind chill factor
+wet bulb temperature
+dew point temperature
+relative humidity
+absolute humidity
+specific humidity
+mixing ratio
+vapor pressure
+saturation vapor
+partial pressure
+psychrometric chart
+adiabatic process
+dry adiabatic
+moist adiabatic
+saturated adiabatic
+potential temperature
+equivalent potential
+virtual temperature
+lifted condensation
+level of free convection
+equilibrium level
+convective inhibition
+convective available
+cape energy
+convective temperature
+trigger temperature
+morning sounding
+evening sounding
+skew t diagram
+hodograph wind
+wind shear vertical
+speed shear
+directional shear
+bulk shear
+deep layer shear
+low level shear
+storm relative
+supercell motion
+deviant motion
+left moving storm
+right moving storm
+splitting storm
+merging storm
+back building
+training storms
+pulse storm
+multicell storm
+supercell thunderstorm
+mesocyclone rotation
+wall cloud lowering
+tail cloud inflow
+shelf cloud outflow
+roll cloud horizontal
+mammatus pouch
+asperitas undulating
+arcus cloud bow
+funnel cloud rotation
+tornado vortex
+waterspout over water
+landspout weak tornado
+gustnado surface
+dust devil thermal
+fire whirl pyrotornado
+steam devil
+snow devil
+multiple vortex
+rope tornado
+wedge tornado
+elephant trunk
+stovepipe tornado
+cone tornado
+ef scale rating
+enhanced fujita
+wind damage
+debris field
+tornado alley
+dixie alley
+tornado outbreak
+tornado family
+cyclic supercell
+hp supercell
+lp supercell
+classic supercell
+mini supercell
+landspout supercell
+hybrid storm
+quasi linear
+convective system
+squall line
+bow echo
+derecho windstorm
+mesoscale convective
+complex mcc
+cluster mcs
+linear mcs
+training line
+back building line
+broken line
+serial derecho
+progressive derecho
+hybrid derecho
+bookend vortex
+rear inflow jet
+forward flank
+downdraft ffd
+rear flank
+downdraft rfd
+precipitation core
+hail core
+bounded weak echo
+weak echo region
+three body scatter
+velocity couplet
+mesocyclone signature
+tornado vortex signature
+debris ball
+correlation coefficient
+differential reflectivity
+specific attenuation
+kdp differential
+phase differential
+horizontal reflectivity
+vertical reflectivity
+polarimetric radar
+dual pol
+phased array
+gap filling radar
+wind profiler
+lightning detection
+total lightning
+cloud ground
+intracloud ic
+cloud cloud cc
+positive lightning
+negative lightning
+stepped leader
+return stroke
+dart leader
+continuing current
+ball lightning
+st elmo fire
+sprite mesosphere
+elve ionosphere
+blue jet
+gigantic jet
+red sprite
+halo sprite
+carrot sprite
+jellyfish sprite
+column sprite
+c sprite
+dancing sprite
+angel sprite
+pixie sprite
+gnome sprite
+troll sprite
+elf sprite
+upper atmospheric
+transient luminous
+terrestrial gamma
+magnetospheric substorm
+aurora borealis
+aurora australis
+northern lights
+southern lights
+solar wind
+coronal mass ejection
+geomagnetic storm
+kp index
+dst index
+solar flare
+x class flare
+m class flare
+c class flare
+b class flare
+a class flare
+solar radio burst
+solar proton event
+cosmic ray shower
+atmospheric river
+pineapple express
+warm rain process
+bergeron process
+ice crystal process
+collision coalescence
+accretion growth
+aggregation snowflake
+riming icing
+graupel soft hail
+sleet ice pellets
+freezing rain
+glaze ice
+rime ice
+hoarfrost crystals
+ground frost
+radiation frost
+advection frost
+evaporational cooling
+sublimation cooling
+virga precipitation
+scud low clouds
+fractocumulus broken
+fractostratus layered
+fog ground cloud
+radiation fog
+advection fog
+evaporation fog
+steam fog
+precipitation fog
+upslope fog
+valley fog
+tule fog
+pogonip ice fog
+garua coastal drizzle
+serein fine mist
+bruma morning mist
+haar sea fog
+scotch mist
+smirr light drizzle
+mizzle very light
+spitting light drops
+cloudburst heavy rain
+downpour intense
+deluge flooding rain
+gully washer
+toad strangler
+frog strangler
+duck weather
+liquid sunshine
+sun shower
+sunshower rainbow
+weather maker
+weather breeder
+mackerel sky
+buttermilk sky
+earthquake weather
+mare tail cirrus
+cat tail clouds
+fish scale clouds
+cotton ball cumulus
+popcorn cumulus
+fair weather cumulus
+towering cumulus
+cumulonimbus anvil
+anvil head
+overshooting top
+pileus cap cloud
+scarf cloud
+banner cloud
+orographic cloud
+wave cloud
+rotor cloud
+lenticular cloud
+altocumulus lenticular
+lee wave cloud
+mountain wave
+hydraulic jump
+downslope windstorm
+bora wind
+gap wind
+venturi effect
+pressure gradient
+coriolis effect
+buys ballot law
+thermal low
+heat low
+monsoon low
+inverted trough
+shortwave trough
+longwave trough
+negative tilt
+positive tilt
+neutral tilt
+closed low
+cutoff low
+rex block
+omega block
+split flow
+zonal flow
+meridional flow
+progressive pattern
+retrogressive motion
+stationary front
+occluded front
+warm front
+cold front
+dry line
+convergence zone
+wind shift line
+outflow boundary
+gust front
+sea breeze front
+dryline bulge
+dryline retreat
+cap erosion
+cap weakening
+heating boundary
+mixing boundary
+elevated convection
+elevated supercell
+high precipitation
+low precipitation
+classic structure
+supercell composite
+significant tornado
+strong tornado
+violent tornado
+killer tornado
+long track tornado
+short lived tornado
+brief tornado
+skipping tornado
+continuous tornado
+intermittent tornado
+multiple tornado
+satellite tornado
+anticyclonic tornado
+cyclonic tornado
+mesoanticyclone
+anticyclonic supercell
+left split supercell
+right split supercell
+storm splitting
+storm merging
+cell redevelopment
+back building cells
+training cells
+slow moving storms
+fast moving storms
+severe weather
+watch box
+warning polygon
+probabilistic hazard
+day one outlook
+day two outlook
+day three outlook
+enhanced risk
+slight risk
+marginal risk
+general risk
+no risk
+tornado watch
+severe thunderstorm
+flash flood
+winter storm
+ice storm
+blizzard warning
+wind advisory
+heat advisory
+excessive heat
+wind chill
+freeze warning
+frost advisory
+dense fog
+small craft
+gale warning
+storm warning
+hurricane watch
+hurricane warning
+tropical storm
+typhoon warning
+cyclone warning

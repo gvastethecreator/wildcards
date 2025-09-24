@@ -1,0 +1,100 @@
+Syphon drain cost equalizes totals
+Velocity act before draw step
+Resurge return from discard stunned
+Catalyst enhance next spell played
+Guardian redirect first damage
+Pulse triggers each upkeep cycle
+Shiftform swap stats with ally
+Echoforge duplicate non-unique item
+Sealbreak negate dormant ability
+Overwhelm excess damage spills
+Veilstep phase out until end turn
+Radiant bonus when cast from hand
+Fusion combine with card in slot
+Skim draw then discard reveal
+Anima scales with spirit tokens
+Segment counts as multiple types
+Bastion prevents card bounce
+Circuit activates each combo chain
+Grimmark flag target for demise
+Chronolock play only during opponent turn
+Overclock refreshes exhausted abilities
+Blitzcall summon enters ready to attack
+Anchortide resists forced movement
+Bloomspire gains counters whenever you heal
+Nullveil negates hostile targeting once
+Riftshift relocates to any open slot
+Channelcraft converts stored energy into mana
+Vanguardian shields allies in same column
+Rallycry boosts attacking allies this turn
+Echochain repeats the last spell you cast
+Warbond shares damage between linked cards
+Shroudstep hides until you play another spell
+Harvestborn steals resources from defeated foes
+Icebind freezes an enemy card for one turn
+Flamewake triggers after a card is banished
+Gravitas grounds airborne opponents
+Mindlink copies nearby passive abilities
+Hexlock blocks opposing keywords
+Overflow stores unused mana as charges
+Stormstride activates during weather phases
+Spellweave layers buffs for later turns
+Bloodrush gains power when you take damage
+Overguard halves the next damage instance
+Phantasm returns as an illusion token when destroyed
+Quickdraw resolves before combat damage
+Serenity purges berserk status effects
+Lodestone attracts equipment cards
+Driftwake activates after changing zones
+Moonrise gains bonuses during night phases
+Dawnburst triggers on your first play each turn
+Soulbind pairs with an ally to share stats
+Resonance scales with spells cast this turn
+Reforge repairs items from discard piles
+Channelstorm converts song counters to mana
+Mirrorage enters disguised as another type
+Empower banks charges across turns
+Collapse destroys itself at maximum resource load
+Arcstrike deals damage when you cast lightning
+Abysscall grows stronger in water terrain
+Skyguard intercepts the first flying attacker
+Quickstep untaps when you play an instant
+Rootbound gains defense while stationary
+Salvage recovers attached gear on exit
+Overwatch triggers whenever an opponent acts
+Shadowmeld becomes untargetable in darkness
+Steadfast ignores stun effects
+Twinstrike attacks twice if unblocked
+Wardlight removes debuffs during upkeep
+Swarmcall creates a token after casting a creature
+Stormforge buffs equipment as it enters
+Rallypoint pulls allies into the same lane
+Chronosurge takes an extra end phase action
+Fluxgate swaps its stats at random each upkeep
+Spellshield reflects the first spell each turn
+Embertrail deals damage when moving zones
+Frostwall halves damage from the next attack
+Harmony grants bonuses for multi-faction decks
+Intrepid draws a card on entering play
+Keystone counts as every relic type
+Overdrive trades durability for power
+Luminance adds light counters to the board
+Backlash damages attackers when destroyed
+Cascade chains into cheaper spells
+Momentum grows stronger each consecutive turn
+Deeproot heals at end of turn if it did not move
+Jumpshift teleports to another row
+Tidemark gains strength with rising tide counters
+Spellchain reduces the cost of your next spell
+Stormward protects adjacent structures
+Nightfall gains bonuses during opponent turns
+Emberguard prevents burn damage
+Spiritcall summons from graveyard when cast
+Overchant extends the duration of songs
+Riftlock prevents zone transitions
+Cyclone pushes opposing cards back a slot
+Forgeheart boosts equipment durability
+Dreambind triggers when a card goes to sleep
+Voidstep enters play from exile
+Lattice links stats with other lattice units
+Emberrush deals damage when drawn

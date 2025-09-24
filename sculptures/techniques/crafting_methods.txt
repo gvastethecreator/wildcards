@@ -1,0 +1,315 @@
+Subtractive Carving removing material
+Additive Modeling adding material
+Carving Stone traditional removal
+Chiseling Impact cutting
+Pointing Machine copying method
+Calipers Measurement tool
+Stone Carving Hand tools
+Pneumatic Chiseling Power tools
+Diamond Cutting Modern precision
+Water Cutting Pressure stream
+Laser Cutting Light beam
+CNC Carving Computer controlled
+Robotic Carving Automated precision
+Hand Carving Traditional craft
+Power Carving Machine assisted
+Direct Carving Immediate approach
+Indirect Carving Template method
+Armature Support structure
+Wire Armature Flexible support
+Wood Armature Rigid support
+Metal Armature Strong support
+Plaster Support Temporary structure
+Clay Modeling Malleable forming
+Wax Modeling Lost wax
+Plasticine Modeling Non hardening
+Oil Clay Modeling Professional medium
+Water Clay Modeling Traditional medium
+Polymer Clay Modeling Synthetic medium
+Epoxy Clay Modeling Two part medium
+Self Hardening Clay Air drying
+Firing Kiln Heat treatment
+Bisque Firing First fire
+Glaze Firing Second fire
+Raku Firing Japanese technique
+Pit Firing Primitive method
+Saggar Firing Container protection
+Salt Glazing Vapor deposition
+Wood Firing Natural ash
+Gas Firing Clean burn
+Electric Firing Controlled heat
+Oxidation Firing Oxygen rich
+Reduction Firing Oxygen poor
+High Fire Stoneware temperature
+Low Fire Earthenware temperature
+Cone System Temperature measurement
+Pyrometric Cone Heat indicator
+Kiln Wash Shelf protection
+Kiln Furniture Support system
+Stilts Point support
+Posts Shelf support
+Shelves Firing platform
+Setter Tiles Support plates
+Investment Casting Lost wax
+Sand Casting Mold making
+Die Casting Metal injection
+Centrifugal Casting Spin force
+Vacuum Casting Pressure differential
+Pressure Casting Force injection
+Gravity Casting Natural flow
+Shell Molding Ceramic shell
+Plaster Molding Gypsum casting
+Silicone Molding Flexible mold
+Polyurethane Molding Rigid mold
+Alginate Molding Life casting
+Latex Molding Skin molding
+Waste Molding Single use
+Piece Molding Multiple parts
+Mother Mold Support shell
+Registration Key Alignment system
+Mold Release Parting agent
+Degassing Bubble removal
+Vibration Table Consolidation
+Pressure Pot Bubble elimination
+Vacuum Chamber Air removal
+Two Part Mold Split construction
+Multi Part Mold Complex division
+Undercuts Difficult angles
+Draft Angles Mold removal
+Parting Line Mold division
+Flash Line Excess material
+Gate Sprue Entry point
+Runner System Flow channels
+Riser System Vent channels
+Sprue Cup Pour basin
+Pouring Temperature Metal heat
+Cooling Rate Solidification speed
+Shrinkage Allowance Size compensation
+Machining Allowance Finish tolerance
+Pattern Making Original form
+Match Plate Pattern Production tool
+Cope Drag Flask Mold container
+Green Sand Moist casting
+Dry Sand Baked casting
+No Bake Sand Chemical bond
+Furan Sand Resin system
+Shell Sand Coated particles
+Lost Foam Vaporizing pattern
+Full Mold Sand replacement
+V Process Vacuum forming
+Replicast Process Ceramic investment
+Shaw Process Ceramic mold
+Unicast Process Single use
+Antioch Process Ceramic shell
+Investment Process Precision casting
+Ceramic Shell Multi coat
+Wax Pattern Expendable form
+Wax Injection Pattern making
+Wax Assembly Tree construction
+Dewaxing Pattern removal
+Burn Out Wax elimination
+Investment Pouring Ceramic coat
+Shell Building Layer application
+Drying Phase Moisture removal
+Firing Investment Ceramic hardening
+Metal Pouring Casting process
+Cooling Time Solidification wait
+Knockout Shell removal
+Gate Removal Cleaning process
+Fettling Finish work
+Grinding Surface preparation
+Filing Shape refinement
+Sanding Surface smoothing
+Polishing Surface finishing
+Buffing High shine
+Tumbling Mass finishing
+Sand Blasting Abrasive cleaning
+Shot Blasting Impact cleaning
+Acid Etching Chemical surface
+Electro Polishing Electrical finish
+Anodizing Oxide coating
+Plating Metal deposition
+Patination Chemical coloring
+Oxidation Natural aging
+Forced Patina Accelerated aging
+Heat Coloring Temperature change
+Chemical Patina Reactive coloring
+Ferric Chloride Iron oxidation
+Cupric Sulfate Copper coloring
+Liver Sulfur Traditional patina
+Renaissance Wax Protective coating
+Lacquer Finish Clear protection
+Paint Application Color coating
+Primer Base Preparation coat
+Top Coat Final layer
+Spray Application Even coverage
+Brush Application Textured finish
+Dip Application Complete immersion
+Flow Coating Liquid application
+Electrostatic Spray Charged particles
+Powder Coating Dry application
+Ceramic Coating High temperature
+Thermal Spray Metal deposition
+Plasma Spray High energy
+Arc Spray Electric deposition
+Flame Spray Combustion spray
+HVOF Spray High velocity
+Cold Spray Kinetic deposition
+Vapor Deposition Gas phase
+Physical Vapor Deposition Evaporation
+Chemical Vapor Deposition Reaction
+Atomic Layer Deposition Precise control
+Molecular Beam Epitaxy Crystal growth
+Sputtering Target bombardment
+Ion Beam Deposition Directed particles
+Electron Beam Deposition High energy
+Laser Deposition Light energy
+Pulsed Laser Deposition Ablation
+Ion Plating Energetic particles
+Ion Implantation Subsurface modification
+Diffusion Bonding Solid state
+Hot Isostatic Pressing Pressure consolidation
+Powder Metallurgy Particulate forming
+Sintering Particle bonding
+Hot Pressing Pressure sintering
+Cold Isostatic Pressing Uniform compression
+Hot Isostatic Pressing High temperature
+Spark Plasma Sintering Electric current
+Selective Laser Sintering Additive manufacturing
+Electron Beam Melting Powder fusion
+Direct Metal Laser Sintering Layer building
+Binder Jetting Adhesive bonding
+Material Jetting Droplet deposition
+Vat Photopolymerization Light curing
+Fused Deposition Modeling Thermoplastic extrusion
+Stereolithography UV polymerization
+Digital Light Processing Masked UV
+Continuous Liquid Interface Production Speed printing
+Multi Jet Fusion Powder fusion
+PolyJet Technology Multi material
+Colorjet Printing Full color
+Metal Jetting Liquid metal
+Concrete Printing Construction scale
+Clay Printing Ceramic forming
+Glass Printing Transparent material
+Wood Printing Cellulose composite
+Plastic Printing Polymer forming
+Resin Printing Photopolymer curing
+Wax Printing Pattern making
+Ceramic Printing High temperature
+Composite Printing Multi material
+Bio Printing Living tissue
+Food Printing Edible material
+Electronic Printing Conductive paths
+Solar Cell Printing Photovoltaic
+Sensor Printing Electronic devices
+Circuit Printing Conductive patterns
+Antenna Printing RF devices
+Battery Printing Energy storage
+Fuel Cell Printing Power generation
+Membrane Printing Separation technology
+Filter Printing Purification
+Catalyst Printing Chemical reaction
+Drug Printing Pharmaceutical
+Prosthetic Printing Medical devices
+Implant Printing Biomedical
+Orthotic Printing Support devices
+Dental Printing Oral care
+Jewelry Printing Precious metals
+Art Printing Creative expression
+Architectural Printing Building components
+Furniture Printing Home furnishing
+Automotive Printing Vehicle parts
+Aerospace Printing Flight components
+Marine Printing Maritime parts
+Tool Printing Manufacturing aids
+Die Printing Production tools
+Mold Printing Casting forms
+Fixture Printing Assembly aids
+Jig Printing Manufacturing guides
+Template Printing Pattern forms
+Prototype Printing Design validation
+Production Printing Manufacturing
+Mass Customization Individual variation
+On Demand Manufacturing Just in time
+Distributed Manufacturing Local production
+Remote Manufacturing Distance control
+Automated Manufacturing Robotic production
+Flexible Manufacturing Adaptive systems
+Lean Manufacturing Waste reduction
+Agile Manufacturing Quick response
+Smart Manufacturing Intelligent systems
+Industry 4.0 Manufacturing Connected systems
+Digital Manufacturing Virtual integration
+Cyber Physical Manufacturing Hybrid systems
+Internet Things Manufacturing Connected devices
+Artificial Intelligence Manufacturing Machine learning
+Machine Learning Manufacturing Pattern recognition
+Deep Learning Manufacturing Neural networks
+Computer Vision Manufacturing Visual inspection
+Robotics Manufacturing Automated handling
+Cobots Manufacturing Collaborative robots
+Autonomous Manufacturing Self directing
+Adaptive Manufacturing Learning systems
+Predictive Manufacturing Failure prevention
+Preventive Manufacturing Scheduled maintenance
+Corrective Manufacturing Repair response
+Quality Manufacturing Excellence pursuit
+Six Sigma Manufacturing Defect reduction
+Lean Six Manufacturing Waste defect
+Total Quality Manufacturing Complete excellence
+Continuous Improvement Manufacturing Never ending
+Kaizen Manufacturing Small improvements
+5S Manufacturing Workplace organization
+Poka Yoke Manufacturing Error prevention
+Just Time Manufacturing Demand response
+Kanban Manufacturing Visual management
+Value Stream Manufacturing Flow optimization
+Single Minute Manufacturing Quick changeover
+Total Productive Manufacturing Equipment effectiveness
+Overall Equipment Manufacturing Performance measure
+Statistical Process Manufacturing Data control
+Design Experiments Manufacturing Optimization method
+Failure Mode Manufacturing Risk analysis
+Root Cause Manufacturing Problem solving
+Pareto Analysis Manufacturing Priority identification
+Fishbone Diagram Manufacturing Cause identification
+5 Why Manufacturing Deep questioning
+Brainstorming Manufacturing Idea generation
+Mind Mapping Manufacturing Concept visualization
+SWOT Analysis Manufacturing Strength weakness
+Benchmarking Manufacturing Best practice
+Process Mapping Manufacturing Flow documentation
+Value Analysis Manufacturing Worth assessment
+Cost Benefit Manufacturing Economic evaluation
+Return Investment Manufacturing Financial measure
+Net Present Manufacturing Future value
+Internal Rate Manufacturing Profitability measure
+Payback Period Manufacturing Recovery time
+Break Even Manufacturing Profit point
+Sensitivity Analysis Manufacturing Variable impact
+Risk Assessment Manufacturing Uncertainty evaluation
+Decision Tree Manufacturing Choice analysis
+Monte Carlo Manufacturing Simulation method
+Optimization Manufacturing Best solution
+Linear Programming Manufacturing Resource allocation
+Integer Programming Manufacturing Discrete optimization
+Dynamic Programming Manufacturing Sequential decisions
+Game Theory Manufacturing Strategic interaction
+Operations Research Manufacturing Mathematical optimization
+Systems Analysis Manufacturing Holistic approach
+Systems Thinking Manufacturing Interconnected view
+Systems Engineering Manufacturing Integrated design
+Project Management Manufacturing Planned execution
+Program Management Manufacturing Multiple projects
+Portfolio Management Manufacturing Investment allocation
+Change Management Manufacturing Transition control
+Knowledge Management Manufacturing Information leverage
+Human Resources Manufacturing People development
+Training Development Manufacturing Skill building
+Performance Management Manufacturing Result achievement
+Succession Planning Manufacturing Leadership continuity
+Talent Management Manufacturing Capability development
+Employee Engagement Manufacturing Motivation activation
+Organizational Development Manufacturing Structure evolution
+Culture Change Manufacturing Behavior transformation

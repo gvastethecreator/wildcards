@@ -1,0 +1,100 @@
+Holographic border halo
+Attribute crest socket
+Corner rarity glyph
+Planar frame break
+Layered stat totems
+Energy pip orbit
+Quick effect sidebar
+Lore scroll footer
+Alternate art inset
+Dual portrait splitter
+Modular ability slots
+Damage tracker beads
+Card type ribbon
+Embossed sigil seal
+Top banner flourish
+Tactical grid overlay
+Hybrid cost medallion
+Keyword spotlight box
+Artist credit plinth
+Set code microtext
+Vertical initiative ticker lane
+Vertical rarity index panel
+Vertical synergy lattice frame
+Vertical combo trigger track
+Vertical summon queue bar
+Vertical status token alcove
+Vertical reaction window arc
+Vertical augment socket ring
+Vertical resource tally spine
+Vertical ultimate move marquee
+Vertical strategy note strip
+Vertical legend crown bezel
+Vertical timeline marker rail
+Vertical artifact slot cradle
+Vertical signature move banner
+Vertical element affinity badge
+Vertical countdown dial bridge
+Vertical command crest plinth
+Vertical flavor capsule niche
+Vertical support icon channel
+Diagonal initiative ticker lane
+Diagonal rarity index panel
+Diagonal synergy lattice frame
+Diagonal combo trigger track
+Diagonal summon queue bar
+Diagonal status token alcove
+Diagonal reaction window arc
+Diagonal augment socket ring
+Diagonal resource tally spine
+Diagonal ultimate move marquee
+Diagonal strategy note strip
+Diagonal legend crown bezel
+Diagonal timeline marker rail
+Diagonal artifact slot cradle
+Diagonal signature move banner
+Diagonal element affinity badge
+Diagonal countdown dial bridge
+Diagonal command crest plinth
+Diagonal flavor capsule niche
+Diagonal support icon channel
+Peripheral initiative ticker lane
+Peripheral rarity index panel
+Peripheral synergy lattice frame
+Peripheral combo trigger track
+Peripheral summon queue bar
+Peripheral status token alcove
+Peripheral reaction window arc
+Peripheral augment socket ring
+Peripheral resource tally spine
+Peripheral ultimate move marquee
+Peripheral strategy note strip
+Peripheral legend crown bezel
+Peripheral timeline marker rail
+Peripheral artifact slot cradle
+Peripheral signature move banner
+Peripheral element affinity badge
+Peripheral countdown dial bridge
+Peripheral command crest plinth
+Peripheral flavor capsule niche
+Peripheral support icon channel
+Nested initiative ticker lane
+Nested rarity index panel
+Nested synergy lattice frame
+Nested combo trigger track
+Nested summon queue bar
+Nested status token alcove
+Nested reaction window arc
+Nested augment socket ring
+Nested resource tally spine
+Nested ultimate move marquee
+Nested strategy note strip
+Nested legend crown bezel
+Nested timeline marker rail
+Nested artifact slot cradle
+Nested signature move banner
+Nested element affinity badge
+Nested countdown dial bridge
+Nested command crest plinth
+Nested flavor capsule niche
+Nested support icon channel

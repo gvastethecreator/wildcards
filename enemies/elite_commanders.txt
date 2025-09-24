@@ -1,0 +1,211 @@
+Death Knight Fallen paladin
+Lich Lord Undead archmage
+Vampire Count Blood aristocrat
+Dragon General Ancient tactician
+Orc Warchief Brutal strategist
+Demon Captain Infernal commander
+Devil Lieutenant Lawful evil
+Angel General Heavenly warrior
+Elemental Lord Primal force
+Giant King Mountain ruler
+Troll Chieftain Bridge guardian
+Ogre Warlord Savage leader
+Goblin King Underground ruler
+Hobgoblin General Military mind
+Bugbear Alpha Pack leader
+Yuan Ti Pureblood Serpent noble
+Mind Flayer Elder Brain tentacle
+Beholder Tyrant Eye emperor
+Drow Matron House ruler
+Duergar King Gray dwarf
+Svirfneblin Elder Deep gnome
+Githyanki Knight Astral warrior
+Githzerai Monk Mental master
+Modron Hierarch Law incarnate
+Slaad Lord Chaos spawner
+Pit Fiend General Hell commander
+Balor Lord Fire demon
+Marilith General Six armed
+Nalfeshnee Judge Greed demon
+Glabrezu Tempter Deception master
+Vrock Destroyer Battle demon
+Hezrou Toad Swamp demon
+Quasit Spy Tiny tempter
+Imp Familiar Devil servant
+Lemure Tormented Soul fodder
+Bone Devil Interrogator Pain master
+Chain Devil Torturer Bond maker
+Bearded Devil Warrior Battle fiend
+Barbed Devil Guardian Defensive spike
+Ice Devil Frozen Hell cold
+Horned Devil Mauler Combat brute
+Erinyes Fallen Angel corrupt beauty
+Succubus Temptress Dream invader
+Incubus Charmer Male tempter
+Nightmare Horse Hell steed
+Hell Hound Fire Dog infernal
+Dracotaur Dragon Centaur hybrid
+Wyvern Lord Lesser dragon
+Drake Captain Dragon kin
+Kobold Sorcerer Dragon servant
+Dragonborn Paladin Scale knight
+Half Dragon Hybrid Dragon blood
+Dracolich Undead Dragon bone wings
+Shadow Dragon Dark Breath darkness
+Faerie Dragon Tiny Prankster magic
+Pseudodragon Familiar Loyal companion
+Dragon Turtle Ancient Shell
+Behir Lightning Beast electric
+Remorhaz Heat Worm fire tunnel
+Bulezau Demon Tanar ri chaos
+Chasme Demon Fly Swarm buzz
+Dretch Demon Fodder Weak chaos
+Manes Demon Least Pathetic evil
+Rutterkin Demon Twisted Torture spawn
+Babau Demon Assassin Shadow killer
+Shadow Demon Incorporeal Darkness
+Barlgura Demon Ape Jungle chaos
+Vrock Demon Vulture Battle screech
+Chasme Demon Drone Buzz swarm
+Quaggoth Bear Savage Underground
+Grimlock Blind Humanoid stone
+Duergar Hammerer Gray Dwarf
+Duergar Mind Master Psychic gray
+Duergar Stone Guard Rock defender
+Duergar Xarrorn Fire priest
+Duergar Screamer Sound weapon
+Duergar Kavalrachni Cavalry beetle
+Deep Gnome Svirfneblin Gem cutter
+Deep Gnome Stonecunner Rock shaper
+Kuo Toa Whip Priest Fish
+Kuo Toa Monitor Elite guard
+Kuo Toa Archpriest High cleric
+Aboleth Ancient Aberration mind
+Aboleth Mage Psychic caster
+Chuul Aberrant Lobster claw
+Cloaker Aberrant Manta ray
+Grell Aberrant Brain floating
+Hook Horror Aberrant Cave beast
+Intellect Devourer Brain eater
+Mind Flayer Illithid Brain squid
+Mind Flayer Arcanist Spell squid
+Mind Flayer Psion Psychic squid
+Neothelid Elder Brain worm
+Otyugh Aberrant Garbage eater
+Owlbear Aberrant Owl bear
+Rust Monster Metal Eater corrosion
+Umber Hulk Tunnel Aberrant
+Xorn Earth Elemental gem
+Galeb Duhr Stone Elemental boulder
+Gargoyle Stone Guardian statue
+Medusa Gorgon Snake hair
+Lamia Monster Sphinx lion
+Sphinx Guardian Riddle keeper
+Androsphinx Male Guardian temple
+Gynosphinx Female Guardian wisdom
+Hieracosphinx Hawk Guardian sky
+Criosphinx Ram Guardian earth
+Manticore Spike Tail human lion
+Chimera Multi Head lion goat
+Gorgon Bull Metal breath
+Catoblepas Death Gaze swamp
+Basilisk Stone Gaze reptile
+Cockatrice Rooster Lizard stone
+Wyvern Lesser Dragon two leg
+Hydra Multi Head regeneration
+Lernaean Hydra Poison Heads immortal
+Dracohydra Dragon Hydra breath
+Pyrohydra Fire Hydra flame
+Cryohydra Ice Hydra frost
+Electrohydra Lightning Hydra shock
+Acidhydra Acid Hydra corrosion
+Poisonhydra Poison Hydra venom
+Necrohydra Death Hydra undead
+Chronohydra Time Hydra temporal
+Voidhydra Void Hydra emptiness
+Chaoshydra Chaos Hydra random
+Orderhydra Order Hydra law
+Mindhydra Psychic Hydra mental
+Dreamhydra Dream Hydra sleep
+Nightmarehydra Nightmare Hydra terror
+Shadowhydra Shadow Hydra darkness
+Lighthydra Light Hydra radiance
+Forcehydra Force Hydra energy
+Gravityhydra Gravity Hydra mass
+Magnethydra Magnet Hydra pole
+Soundhydra Sound Hydra echo
+Silencehydra Silence Hydra mute
+Spacehydra Space Hydra dimension
+Astralhydra Astral Hydra plane
+Etherealhydra Ethereal Hydra ghost
+Materialhydra Material Hydra solid
+Energyhydra Energy Hydra power
+Spirithydra Spirit Hydra soul
+Bodyhydra Body Hydra flesh
+Mindhydra Mind Hydra thought
+Hearthydra Heart Hydra emotion
+Breathhydra Breath Hydra life
+Bloodhydra Blood Hydra crimson
+Bonehydra Bone Hydra skeleton
+Fleshhydra Flesh Hydra meat
+Skinhydra Skin Hydra hide
+Hairhydra Hair Hydra strand
+Nailhydra Nail Hydra claw
+Toothhydra Tooth Hydra fang
+Eyehydra Eye Hydra sight
+Earhydra Ear Hydra hearing
+Nosehydra Nose Hydra smell
+Mouthhydra Mouth Hydra taste
+Tonguehydra Tongue Hydra lick
+Throathydra Throat Hydra swallow
+Neckhydra Neck Hydra connect
+Shoulderhydra Shoulder Hydra carry
+Armhydra Arm Hydra reach
+Handhydra Hand Hydra grasp
+Fingerhydra Finger Hydra point
+Thumbhydra Thumb Hydra oppose
+Chesthydra Chest Hydra breath
+Backhydra Back Hydra support
+Waisthydra Waist Hydra bend
+Hiphydra Hip Hydra pivot
+Leghydra Leg Hydra walk
+Thighhydra Thigh Hydra power
+Kneehydra Knee Hydra bend
+Calfhydra Calf Hydra muscle
+Anklehydra Ankle Hydra turn
+Foothydra Foot Hydra stand
+Toehydra Toe Hydra balance
+Heelhydra Heel Hydra ground
+Archhydra Arch Hydra spring
+Solehydra Sole Hydra contact
+Captain Redbeard Pirate leader
+Admiral Blackwater Naval commander
+General Ironforge Military strategist
+Colonel Steelwind Battle veteran
+Major Stormcloud Weather warrior
+Commander Shadowbane Darkness fighter
+Lieutenant Brightblade Light warrior
+Sergeant Ironfist Tough fighter
+Corporal Quickstrike Fast attacker
+Marshal Goldshield Defensive leader
+Warden Stoneheart Prison keeper
+Sheriff Deadshot Law enforcer
+Constable Trueaim Accurate shooter
+Detective Keeneye Clue finder
+Inspector Sharpwit Mind hunter
+Captain Fearless Brave leader
+Admiral Seaborn Ocean master
+Commodore Tideturner Wave controller
+Captain Stormrider Weather sailor
+Bosun Ropetrick Sailor expert
+First Mate Loyalheart Trusted second
+Quartermaster Fairshare Resource manager
+Navigator Starfinder Direction keeper
+Helmsman Steadyhand Ship steerer
+Lookout Eagleeye Distance spotter
+Gunner Truecannon Artillery expert
+Powder Monkey Quickfuse Explosive handler
+Ship Wright Woodworker Vessel builder
+Sail Master Windcatcher Canvas expert
+Anchor Master Ironhold Mooring expert
+Rigger Knotwise Rope specialist

@@ -1,0 +1,229 @@
+North Arrow direction indicator
+Scale Bar distance measure
+Legend Symbol key
+Compass Rose wind directions
+Grid Lines coordinate system
+Latitude Lines horizontal parallels
+Longitude Lines vertical meridians
+Equator Zero latitude
+Prime Meridian zero longitude
+Tropic of Cancer northern limit
+Tropic of Capricorn southern limit
+Arctic Circle northern boundary
+Antarctic Circle southern boundary
+International Date Line time boundary
+Magnetic Declination compass variation
+True North geographic north
+Magnetic North compass north
+Grid North map north
+Contour Lines elevation curves
+Elevation Points height marks
+Spot Heights precise elevations
+Triangulation Points survey marks
+Benchmark Elevation reference
+Datum Reference point
+Coordinate System position framework
+UTM Grid universal system
+State Plane Coordinates local system
+Geographic Coordinates lat/lon system
+Projected Coordinates flat system
+Mercator Projection cylindrical map
+Lambert Projection conic map
+Stereographic Projection azimuthal map
+Orthographic Projection globe view
+Gnomonic Projection great circle
+Equal Area Projection size accurate
+Conformal Projection shape accurate
+Compromise Projection balanced distortion
+Azimuthal Projection direction accurate
+Cylindrical Projection tube wrap
+Conical Projection cone wrap
+Planar Projection flat surface
+Transverse Projection rotated cylinder
+Oblique Projection tilted surface
+Political Boundaries government lines
+International Boundary country border
+State Boundary province border
+County Boundary local border
+City Limits municipal boundary
+Township Lines survey grid
+Section Lines land division
+Property Lines ownership boundaries
+Easement Lines access rights
+Right of Way transport corridor
+Transportation Network route system
+Highway System road network
+Railroad Network rail system
+Airport Symbol aviation facility
+Seaport Symbol marine facility
+Bridge Symbol crossing structure
+Tunnel Symbol underground passage
+Ferry Route water crossing
+Trail System walking paths
+Waterway Network water routes
+Shipping Lane marine route
+Air Route aviation path
+Pipeline Network utility system
+Power Line electrical system
+Communication Tower signal facility
+Lighthouse Navigation beacon
+Radio Tower broadcast facility
+Cell Tower communication facility
+Weather Station meteorological facility
+Fire Tower observation facility
+Control Tower aviation facility
+Observatory Astronomical facility
+Monument Historical marker
+Memorial Commemorative marker
+Cemetery Burial ground
+Church Religious building
+School Educational facility
+Hospital Medical facility
+Government Building administrative facility
+Military Base defense facility
+Prison Correctional facility
+Park Recreational area
+Forest Protected woodland
+Wildlife Refuge animal sanctuary
+National Monument protected site
+Historic Site cultural landmark
+Archaeological Site ancient remains
+Ruins Destroyed structures
+Ghost Town Abandoned settlement
+Mining Site extraction location
+Industrial Zone manufacturing area
+Commercial District business area
+Residential Area housing zone
+Agricultural Land farming area
+Grazing Land livestock area
+Orchard Fruit cultivation
+Vineyard Grape cultivation
+Plantation Crop cultivation
+Ranch Livestock operation
+Farm Agricultural operation
+Homestead Rural residence
+Settlement Human community
+Village Small community
+Town Medium community
+City Large community
+Metropolitan Area urban region
+Urban Area developed zone
+Suburban Area residential zone
+Rural Area countryside
+Wilderness Undeveloped land
+Badlands Eroded terrain
+Barrens Sparse vegetation
+Prairie Grassland area
+Steppe Dry grassland
+Savanna Tropical grassland
+Tundra Arctic plain
+Taiga Boreal forest
+Deciduous Forest leaf-dropping trees
+Coniferous Forest needle trees
+Mixed Forest combined trees
+Rainforest Tropical forest
+Cloud Forest Misty forest
+Mangrove Forest Coastal trees
+Coral Reef Marine ecosystem
+Kelp Forest Marine vegetation
+Seagrass Bed Underwater grass
+Salt Marsh Tidal wetland
+Mudflat Tidal sediment
+Tidal Pool Coastal ecosystem
+Rocky Shore Coastal rocks
+Sandy Beach Coastal sand
+Pebble Beach Coastal stones
+Cliff Coast Vertical shore
+Harbor Sheltered water
+Marina Boat facility
+Dock Water structure
+Pier Extended structure
+Wharf Loading structure
+Jetty Protective structure
+Breakwater Wave barrier
+Seawall Coastal protection
+Levee Flood protection
+Dam Water barrier
+Spillway Water release
+Lock Water elevator
+Canal Artificial waterway
+Aqueduct Water transport
+Culvert Water passage
+Storm Drain Water removal
+Sewer System waste removal
+Water Treatment Plant purification facility
+Waste Treatment Plant processing facility
+Landfill Waste disposal
+Recycling Center waste processing
+Quarry Stone extraction
+Mine Mineral extraction
+Oil Well Petroleum extraction
+Gas Well Natural gas extraction
+Wind Farm Energy generation
+Solar Farm Energy generation
+Hydroelectric Plant Water power
+Nuclear Plant Atomic power
+Thermal Plant Heat power
+Substation Electrical facility
+Transformer Electrical device
+Power Plant Energy facility
+Utility Pole Support structure
+Water Tower Storage facility
+Grain Elevator Storage facility
+Silo Storage structure
+Warehouse Storage building
+Factory Manufacturing facility
+Mill Processing facility
+Refinery Processing plant
+Chemical Plant Processing facility
+Petrochemical Plant Oil processing
+Steel Mill Metal processing
+Foundry Metal casting
+Forge Metal working
+Shipyard Boat construction
+Dry Dock Boat maintenance
+Naval Yard Military construction
+Arsenal Military storage
+Armory Weapons storage
+Barracks Military housing
+Command Center Control facility
+Radar Station Detection facility
+Satellite Dish Communication device
+Radio Antenna Broadcasting device
+Television Tower Broadcasting facility
+Microwave Tower Communication link
+Fiber Optic Cable Communication line
+Internet Hub Network facility
+Data Center Computer facility
+Server Farm Computer cluster
+Cloud Storage Digital facility
+Research Facility Scientific center
+Laboratory Testing facility
+University Educational institution
+College Educational institution
+Library Information facility
+Museum Cultural facility
+Theater Performance facility
+Stadium Sports facility
+Arena Indoor sports
+Amphitheater Outdoor venue
+Convention Center Meeting facility
+Exhibition Hall Display facility
+Trade Center Commercial facility
+Shopping Center Retail facility
+Mall Indoor shopping
+Market Outdoor commerce
+Bazaar Traditional market
+Fair Temporary market
+Festival Temporary event
+Carnival Temporary entertainment
+Amusement Park Entertainment facility
+Theme Park Themed entertainment
+Zoo Animal facility
+Aquarium Marine facility
+Botanical Garden Plant facility
+Conservatory Plant facility
+Greenhouse Plant structure
+Nursery Plant cultivation
+Florist Flower shop
+Garden Center Plant retail

@@ -1,0 +1,20 @@
+Chromatic aberration fringe
+RGB split offset
+Datamosh I-frame loss
+Compression macroblocks
+Glitch scanline tear
+Time remap echo
+Frame blend ghost
+Pixel sort streaks
+Posterize threshold
+Solarize inversion
+Edge detect outlines
+Kaleidoscope symmetry
+Mirror hall infinite
+Fractal zoom tunnel
+Hologram scan grid
+VHS tracking noise
+Tape dropout specks
+NTSC bleed smear
+Analog feedback loop
+CRT bloom bloom

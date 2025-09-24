@@ -1,0 +1,13 @@
+f/1.2 shallow DOF
+f/1.4 dreamy bokeh
+f/1.8 soft isolation
+f/2.0 portrait glow
+f/2.8 pro zoom sweet spot
+f/3.5 gentle blur
+f/4.0 balanced depth
+f/5.6 mid-depth clarity
+f/8.0 landscape sharp
+f/11 deep focus
+f/16 extensive focus
+f/22 starburst highlights
+f/32 pinhole sharpness

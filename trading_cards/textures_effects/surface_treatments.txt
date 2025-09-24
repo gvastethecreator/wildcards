@@ -1,0 +1,192 @@
+Holographic Foil rainbow light reflection
+Prismatic Foil spectrum color shift
+Rainbow Foil multicolor light dispersion
+Chrome Foil mirror metallic reflection
+Gold Foil luxury metallic shine
+Silver Foil elegant metallic gleam
+Copper Foil warm metallic glow
+Bronze Foil antique metallic patina
+Platinum Foil premium metallic luster
+Matte Foil subtle non-reflective shine
+Glossy Foil high-shine reflective surface
+Textured Foil raised tactile surface
+Smooth Foil even flat surface
+Brushed Foil directional texture pattern
+Hammered Foil dimpled texture pattern
+Crystalline Foil faceted gem-like surface
+Frosted Foil translucent ice-like finish
+Pearlescent Foil iridescent pearl shine
+Opalescent Foil opal-like color play
+Metallic Foil various metal finishes
+Iridescent Foil color-shifting rainbow effect
+Dichroic Foil two-color shifting effect
+Chameleon Foil multiple color transitions
+Heat-sensitive Foil temperature color change
+UV-reactive Foil ultraviolet color change
+Glow-in-dark Foil phosphorescent night glow
+Fluorescent Foil bright neon color
+Magnetic Foil ferrous particle embedded
+Conductive Foil electrical current capable
+Thermochromic Foil heat-responsive color change
+Photochromic Foil light-responsive color change
+Electrochromic Foil voltage-responsive color change
+Mechanochromic Foil pressure-responsive color change
+Solvatochromic Foil solvent-responsive color change
+Piezochromic Foil stress-responsive color change
+Tribochromic Foil friction-responsive color change
+Sonochromic Foil sound-responsive color change
+Radiochromic Foil radiation-responsive color change
+Biochromic Foil biological-responsive color change
+Chemochromic Foil chemical-responsive color change
+Linen Texture woven fabric surface
+Canvas Texture rough artistic surface
+Parchment Texture aged paper surface
+Vellum Texture smooth animal skin
+Leather Texture animal hide surface
+Wood Texture grain pattern surface
+Stone Texture rough mineral surface
+Metal Texture industrial surface finish
+Glass Texture smooth transparent surface
+Crystal Texture faceted gem surface
+Ice Texture frozen water surface
+Sand Texture granular particle surface
+Silk Texture smooth luxury fabric
+Velvet Texture soft pile fabric
+Wool Texture fibrous animal texture
+Cotton Texture plant fiber texture
+Hemp Texture rough plant fiber
+Bamboo Texture segmented plant texture
+Cork Texture spongy bark texture
+Rubber Texture elastic polymer surface
+Plastic Texture synthetic polymer surface
+Carbon Fiber woven composite texture
+Kevlar Texture aramid fiber weave
+Chainmail Texture interlocked metal rings
+Scale Texture overlapping protective plates
+Feather Texture soft bird plumage
+Fur Texture animal hair surface
+Skin Texture biological surface texture
+Bark Texture tree outer surface
+Leaf Texture plant surface texture
+Flower Texture petal surface texture
+Shell Texture mollusk protective cover
+Bone Texture calcified tissue surface
+Horn Texture keratin growth surface
+Ivory Texture elephant tusk surface
+Pearl Texture nacre layered surface
+Coral Texture marine organism surface
+Sponge Texture porous organism surface
+Moss Texture small plant surface
+Lichen Texture symbiotic organism surface
+Fungus Texture decomposer organism surface
+Bacteria Texture microscopic organism surface
+Virus Texture submicroscopic particle surface
+Crystal Lattice atomic arrangement surface
+Molecular Structure chemical bond surface
+Atomic Structure subatomic particle surface
+Quantum Structure probability wave surface
+Dimensional Structure space-time surface
+Temporal Structure time flow surface
+Spatial Structure geometric surface
+Mathematical Structure equation surface
+Logical Structure reasoning surface
+Emotional Structure feeling surface
+Spiritual Structure soul surface
+Mental Structure thought surface
+Physical Structure matter surface
+Energy Structure force surface
+Information Structure data surface
+Pattern Structure design surface
+Chaos Structure disorder surface
+Order Structure organization surface
+Random Structure unpredictable surface
+Structured Surface organized pattern texture
+Fractal Texture self-similar pattern surface
+Mandelbrot Texture infinite complexity surface
+Spiral Texture curved rotation surface
+Helix Texture twisted spiral surface
+Wave Texture oscillation pattern surface
+Ripple Texture water disturbance surface
+Flow Texture liquid movement surface
+Turbulence Texture chaotic flow surface
+Laminar Texture smooth flow surface
+Vortex Texture spinning flow surface
+Eddy Texture circular flow surface
+Current Texture directed flow surface
+Stream Texture narrow flow surface
+River Texture wide flow surface
+Ocean Texture vast water surface
+Lake Texture contained water surface
+Pond Texture small water surface
+Puddle Texture tiny water surface
+Rain Texture falling water surface
+Snow Texture frozen precipitation surface
+Hail Texture ice pellet surface
+Sleet Texture mixed precipitation surface
+Fog Texture suspended water surface
+Mist Texture fine water droplet
+Cloud Texture aerial water surface
+Storm Texture violent weather surface
+Lightning Texture electrical discharge surface
+Thunder Texture sound wave surface
+Wind Texture air movement surface
+Breeze Texture gentle air surface
+Gale Texture strong wind surface
+Hurricane Texture extreme storm surface
+Tornado Texture rotating wind surface
+Cyclone Texture spinning storm surface
+Typhoon Texture pacific storm surface
+Blizzard Texture snow storm surface
+Dust Storm sandy particle surface
+Sandstorm desert particle surface
+Volcanic Ash particle surface texture
+Smoke Texture combustion particle surface
+Fire Texture combustion energy surface
+Flame Texture burning gas surface
+Ember Texture glowing carbon surface
+Spark Texture electrical discharge surface
+Arc Texture electrical bridge surface
+Plasma Texture ionized gas surface
+Gas Texture molecular vapor surface
+Liquid Texture fluid matter surface
+Solid Texture fixed matter surface
+Vacuum Texture empty space surface
+Void Texture nothingness surface
+Null Texture absence surface
+Zero Texture numerical void surface
+Infinity Texture endless surface
+Unity Texture single surface
+Duality Texture paired surface
+Trinity Texture triple surface
+Quaternary Texture quadruple surface
+Quintessence Texture five-element surface
+Hexagon Texture six-sided surface
+Septagon Texture seven-sided surface
+Octagon Texture eight-sided surface
+Nonagon Texture nine-sided surface
+Decagon Texture ten-sided surface
+Circle Texture perfect round surface
+Square Texture four-sided surface
+Triangle Texture three-sided surface
+Pentagon Texture five-sided surface
+Diamond Texture rotated square surface
+Star Texture pointed radial surface
+Cross Texture intersecting lines surface
+Plus Texture addition symbol surface
+Minus Texture subtraction symbol surface
+Multiply Texture multiplication symbol surface
+Divide Texture division symbol surface
+Equal Texture equivalence symbol surface
+Greater Texture comparison symbol surface
+Lesser Texture comparison symbol surface
+Question Texture inquiry symbol surface
+Exclamation Texture emphasis symbol surface
+Period Texture ending symbol surface
+Comma Texture pause symbol surface
+Semicolon Texture break symbol surface
+Colon Texture explanation symbol surface
+Apostrophe Texture possession symbol surface
+Quote Texture speech symbol surface
+Parentheses Texture grouping symbol surface
+Bracket Texture containment symbol surface
+Brace Texture set symbol surface

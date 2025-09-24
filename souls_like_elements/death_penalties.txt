@@ -1,0 +1,176 @@
+Soul Loss death penalty mechanic
+Hollowing progression undead transformation
+Humanity Loss death consequence
+Human Effigy depletion revival resource drain
+Ember Loss awakening state removal
+Cursed status permanent health reduction
+Equipment Durability weapon degradation
+Weapon Breaking tool destruction
+Ring Breaking accessory destruction
+Spell Uses depletion magic limitation
+Miracle Uses depletion faith limitation  
+Pyromancy Uses depletion fire limitation
+Sorcery Uses depletion intelligence limitation
+Hexes Uses depletion dark limitation
+Item Durability consumable degradation
+Armor Degradation protection reduction
+Shield Breaking defense failure
+Bloodstain marker death location
+Corpse Running retrieval attempt
+Soul Retrieval recovery mission
+Bloodstain Recovery soul reclamation
+Double Death permanent loss risk
+Soul Anxiety stress mechanic
+Loss Aversion risk management psychology
+High Stakes tension gameplay
+Permadeath Threat permanent consequence fear
+Hollowing Appearance visual degradation
+Undead Appearance death transformation
+Skeletal Transformation extreme hollowing
+Zombie Appearance reanimated look
+Corpse State death animation
+Ghost Form spirit appearance
+Phantom State translucent form
+Wraith Appearance vengeful spirit
+Banshee Form wailing ghost
+Revenant State returning undead
+Mummy Appearance preserved corpse
+Lich Form undead mage
+Vampire State blood-drinking undead
+Demon Transformation infernal change
+Devil Form diabolical appearance
+Fiend State malevolent entity
+Monster Transformation creature change
+Beast Form animal appearance
+Werewolf State lycanthrope change
+Dragon Form reptilian transformation
+Serpent State snake appearance
+Spider Form arachnid change
+Insect State arthropod appearance
+Plant Form botanical change
+Tree State arboreal transformation
+Crystal Form mineral appearance
+Stone State petrification change
+Metal Form metallic transformation
+Liquid State fluid appearance
+Gas Form vaporous change
+Energy State pure force
+Light Form radiant appearance
+Shadow State darkness incarnate
+Void Form nothingness embodiment
+Time Distortion temporal penalty
+Aging Acceleration life drain
+Youth Drain vitality reduction
+Memory Loss experience forgetting
+Skill Drain ability reduction
+Attribute Penalty stat reduction
+Strength Loss power decrease
+Dexterity Loss agility decrease
+Intelligence Loss wisdom decrease
+Faith Loss belief decrease
+Vitality Loss health decrease
+Endurance Loss stamina decrease
+Attunement Loss magic decrease
+Adaptability Loss flexibility decrease
+Vigor Loss life-force decrease
+Mind Loss sanity decrease
+Spirit Loss morale decrease
+Will Loss determination decrease
+Courage Loss bravery decrease
+Honor Loss dignity decrease
+Pride Loss self-respect decrease
+Hope Loss optimism decrease
+Joy Loss happiness decrease
+Love Loss affection decrease
+Trust Loss confidence decrease
+Loyalty Loss faithfulness decrease
+Friendship Loss companionship decrease
+Family Loss kinship decrease
+Home Loss belonging decrease
+Purpose Loss meaning decrease
+Identity Loss self-knowledge decrease
+Reality Loss perception decrease
+Truth Loss understanding decrease
+Wisdom Loss insight decrease
+Knowledge Loss information decrease
+Experience Loss learning decrease
+Memory Loss past decrease
+Future Loss prospect decrease
+Present Loss awareness decrease
+Consciousness Loss awareness decrease
+Existence Loss being decrease
+Life Loss vitality decrease
+Death Embrace mortality acceptance
+Undeath Curse unliving state
+Unlife Existence neither-living-nor-dead
+Limbo State between-worlds existence
+Purgatory Punishment cleansing suffering
+Hell Torment eternal damnation
+Heaven Loss divine grace removal
+Angel Fall divine being descent
+Demon Rise infernal ascension
+God Abandonment divine desertion
+Faith Crisis belief collapse
+Hope Despair optimism destruction
+Love Hatred affection inversion
+Trust Betrayal confidence destruction
+Loyalty Treachery faithfulness violation
+Friendship Enmity companionship destruction
+Family Disownment kinship rejection
+Home Exile belonging removal
+Purpose Nihilism meaning destruction
+Identity Crisis self-knowledge confusion
+Reality Distortion perception warping
+Truth Deception understanding corruption
+Wisdom Foolishness insight loss
+Knowledge Ignorance information removal
+Experience Naivety learning loss
+Memory Amnesia past erasure
+Future Doom prospect destruction
+Present Dissociation awareness disconnection
+Consciousness Unconsciousness awareness loss
+Existence Nonexistence being negation
+Life Death vitality cessation
+Resurrection Cost revival price
+Phoenix Down revival item cost
+Life Gem revival resource cost
+Healing Item depletion medicine shortage
+Estus Flask depletion healing shortage
+Divine Blessing rarity miracle shortage
+Humanity shortage connection resource lack
+Ember scarcity awakening resource lack
+Soul shortage currency lack
+Level Loss experience decrease
+Experience Point loss progression reversal
+Skill Point loss ability decrease
+Attribute Point loss stat decrease
+Weapon Upgrade loss enhancement reversal
+Armor Upgrade loss protection decrease
+Ring Upgrade loss accessory decrease
+Spell Upgrade loss magic decrease
+Miracle Upgrade loss faith decrease
+Pyromancy Upgrade loss fire decrease
+Sorcery Upgrade loss intelligence decrease
+Hex Upgrade loss dark decrease
+Character Build destruction specialization loss
+Build Optimization loss efficiency decrease
+Min-Max Strategy loss calculation failure
+Power Gaming loss advantage decrease
+Cheese Strategy failure exploit removal
+Speedrun Route loss optimization failure
+Sequence Break failure skip removal
+Glitch Exploitation failure bug advantage loss
+Bug Abuse penalty system punishment
+Exploit Use penalty advantage punishment
+Cheat Detection system anti-fraud measure
+Hack Prevention security countermeasure
+Mod Detection modification identification
+Save Scumming prevention backup abuse block
+Alt F4 prevention quit abuse block
+Disconnect Penalty network abandonment punishment
+Rage Quit penalty anger abandonment punishment
+Griefing Prevention harassment protection
+Twinking Prevention overpowered newcomer protection
+Hacking Prevention software manipulation protection
+Cheating Prevention unfair advantage protection
+Duplication Prevention item multiplication protection

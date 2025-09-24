@@ -1,0 +1,342 @@
+Carrara Marble Italian white
+Pentelic Marble Greek classical
+Parian Marble Island pure
+Thassos Marble Greek white
+Paros Marble Aegean Island
+Naxos Marble Cycladic stone
+Cipollino Marble Italian green
+Portoro Marble Italian black
+Nero Marquina Spanish black
+Crema Marfil Spanish beige
+Travertine Roman limestone
+Calacatta Marble Italian luxury
+Statuario Marble Michelangelo choice
+Arabescato Marble veined beauty
+Bardiglio Marble Italian gray
+Rosso Verona Italian red
+Giallo Siena Italian yellow
+Verde Alpi Italian green
+Nero Assoluto Indian black
+Kashmir White Indian granite
+Juparana Gold Brazilian granite
+Baltic Brown Finnish granite
+Absolute Black Indian granite
+Imperial Red Indian granite
+Blue Pearl Norwegian granite
+Emerald Pearl Norwegian granite
+Silver Pearl Norwegian granite
+Labrador Blue Norwegian granite
+Tan Brown Indian granite
+Colonial Gold Indian granite
+Multicolor Red Indian granite
+Paradiso Bash Indian granite
+Raw Silk Indian granite
+Vizag Blue Indian granite
+Coffee Brown Indian granite
+Crystal Yellow Indian granite
+Forest Green Indian granite
+Hassan Green Indian granite
+Himalayan Blue Indian granite
+Ivory Fantasy Indian granite
+Jamoona Gold Indian granite
+Kashmir Gold Indian granite
+Lakha Red Indian granite
+Madurai Gold Indian granite
+Moon White Indian granite
+Nitya Indian granite
+Ocean Green Indian granite
+Platinum White Indian granite
+Red Multi Indian granite
+Rosy Pink Indian granite
+Royal White Indian granite
+Sapphire Blue Indian granite
+Steel Gray Indian granite
+Tropical Green Indian granite
+Viscon White Indian granite
+Warangal Blue Indian granite
+Sandstone Sedimentary rock
+Red Sandstone Iron oxide
+Yellow Sandstone Quartz rich
+Gray Sandstone Neutral tone
+Brown Sandstone Earth color
+Pink Sandstone Rose tint
+White Sandstone Pure quartz
+Limestone Sedimentary calcium
+Oolitic Limestone Spherical grains
+Fossiliferous Limestone Ancient life
+Crystalline Limestone Metamorphosed
+Dolomitic Limestone Magnesium rich
+Chalk Limestone Soft white
+Coquina Limestone Shell fragments
+Tufa Limestone Porous calcium
+Caen Stone French limestone
+Portland Stone English limestone
+Indiana Limestone American standard
+Texas Limestone Regional stone
+Jerusalem Stone Middle Eastern
+Jura Limestone European classic
+Saint Maximin French limestone
+Hauteville Limestone French beige
+Comblanchien Limestone French gray
+Burgundy Limestone French regional
+Anstrude Limestone French hard
+Euville Limestone French cream
+Savonnières Limestone French soft
+Lens Limestone French dense
+Richemont Limestone French white
+Massangis Limestone French beige
+Chauvigny Limestone French cream
+Sireuil Limestone French white
+Tercé Limestone French beige
+Airvault Limestone French cream
+Migné Limestone French white
+Poitiers Limestone French regional
+Granite Igneous rock
+Black Granite Dark elegance
+White Granite Pure appearance
+Red Granite Iron rich
+Pink Granite Feldspar dominant
+Gray Granite Balanced minerals
+Green Granite Chlorite bearing
+Blue Granite Rare coloration
+Yellow Granite Unusual hue
+Brown Granite Earth tone
+Speckled Granite Mixed minerals
+Polished Granite Mirror finish
+Honed Granite Matte surface
+Flamed Granite Textured surface
+Bush Hammered Granite Rough texture
+Sandblasted Granite Uniform texture
+Split Face Granite Natural break
+Tumbled Granite Aged appearance
+Leathered Granite Soft texture
+Basalt Volcanic rock
+Columnar Basalt Geometric cooling
+Vesicular Basalt Gas bubbles
+Porphyritic Basalt Large crystals
+Tholeiitic Basalt Ocean floor
+Alkali Basalt Continental
+Olivine Basalt Magnesium rich
+Plagioclase Basalt Calcium rich
+Pyroxene Basalt Iron magnesium
+Obsidian Volcanic glass
+Black Obsidian Pure volcanic
+Mahogany Obsidian Brown streaked
+Snowflake Obsidian White inclusions
+Apache Tears Obsidian Rounded nodules
+Rainbow Obsidian Iridescent bands
+Silver Obsidian Metallic sheen
+Gold Obsidian Golden reflection
+Green Obsidian Rare variety
+Blue Obsidian Very rare
+Red Obsidian Iron oxide
+Slate Metamorphic rock
+Welsh Slate Traditional roofing
+Vermont Slate American quality
+Spanish Slate European source
+Chinese Slate Asian import
+Green Slate Chlorite rich
+Purple Slate Iron bearing
+Gray Slate Classic color
+Black Slate Pure carbon
+Blue Slate Rare variety
+Red Slate Oxidized iron
+Quartzite Metamorphic sandstone
+White Quartzite Pure silica
+Pink Quartzite Iron stained
+Gold Quartzite Limonite bearing
+Gray Quartzite Carbon flecked
+Green Quartzite Chlorite bearing
+Purple Quartzite Manganese bearing
+Red Quartzite Hematite rich
+Brown Quartzite Iron oxide
+Yellow Quartzite Weathered iron
+Blue Quartzite Rare minerals
+Schist Metamorphic foliated
+Mica Schist Shiny minerals
+Garnet Schist Red crystals
+Chlorite Schist Green minerals
+Actinolite Schist Needle crystals
+Hornblende Schist Dark minerals
+Biotite Schist Black mica
+Muscovite Schist White mica
+Staurolite Schist Cross crystals
+Kyanite Schist Blue crystals
+Sillimanite Schist Needle minerals
+Gneiss Metamorphic banded
+Granite Gneiss Igneous origin
+Sedimentary Gneiss Layered origin
+Orthogneiss Igneous protolith
+Paragneiss Sedimentary protolith
+Augen Gneiss Eye structures
+Migmatite Gneiss Partial melting
+Charnockite Gneiss Granulite facies
+Porphyroblastic Gneiss Large crystals
+Mylonitic Gneiss Deformed
+Serpentine Metamorphic olivine
+Antigorite Serpentine Platy variety
+Chrysotile Serpentine Fibrous variety
+Lizardite Serpentine Flat variety
+Verde Antique Serpentine Green marble
+Connemara Marble Irish serpentine
+Williamsite Serpentine Apple green
+Bowenite Serpentine Hard variety
+Precious Serpentine Gem quality
+Common Serpentine Standard grade
+Soapstone Metamorphic talc
+Steatite Soapstone Pure talc
+Talc Schist Foliated talc
+Potstone Soapstone Cooking stone
+Pyrophyllite Soapstone Aluminum silicate
+Virginia Soapstone American source
+Brazilian Soapstone South American
+Indian Soapstone Asian source
+Chinese Soapstone Oriental variety
+African Soapstone Continental source
+Alabaster Gypsum variety
+White Alabaster Pure gypsum
+Honey Alabaster Golden hue
+Gray Alabaster Neutral tone
+Pink Alabaster Rose tint
+Cream Alabaster Off white
+Banded Alabaster Layered structure
+Massive Alabaster Uniform texture
+Translucent Alabaster Light passing
+Opaque Alabaster Light blocking
+Fibrous Alabaster Silky texture
+Onyx Calcite variety
+White Onyx Pure calcium
+Honey Onyx Golden bands
+Green Onyx Copper bearing
+Pink Onyx Iron stained
+Brown Onyx Organic matter
+Black Onyx Carbon bearing
+Banded Onyx Layered structure
+Translucent Onyx Light filtering
+Backlit Onyx Illuminated
+Carved Onyx Sculptural
+Travertine Limestone variety
+Roman Travertine Classical source
+Turkish Travertine Modern supply
+Iranian Travertine Middle Eastern
+Mexican Travertine North American
+Cream Travertine Light color
+Walnut Travertine Brown hue
+Silver Travertine Gray tone
+Gold Travertine Yellow cast
+Red Travertine Iron stained
+Filled Travertine Hole filled
+Unfilled Travertine Natural holes
+Honed Travertine Matte finish
+Polished Travertine Glossy surface
+Tumbled Travertine Aged texture
+Brushed Travertine Wire brushed
+Chiseled Travertine Hand tooled
+Split Face Travertine Natural break
+Vein Cut Travertine Against bedding
+Fleuri Cut Travertine With bedding
+Clay Sedimentary fine
+Earthenware Clay Low fire
+Stoneware Clay High fire
+Porcelain Clay Pure kaolin
+Terra Cotta Clay Fired earth
+Red Clay Iron rich
+White Clay Pure kaolin
+Gray Clay Organic matter
+Brown Clay Iron oxide
+Yellow Clay Limonite bearing
+Black Clay Carbon rich
+Plastic Clay Moldable
+Fire Clay Refractory
+Ball Clay Plastic white
+Kaolin Clay Pure aluminum
+Bentonite Clay Swelling
+Montmorillonite Clay Absorbent
+Illite Clay Non swelling
+Kaolinite Clay Booklet structure
+Halloysite Clay Tubular structure
+Smectite Clay Expandable
+Vermiculite Clay Exfoliated
+Chlorite Clay Green minerals
+Mixed Clay Various types
+Wax Modeling medium
+Beeswax Natural wax
+Paraffin Wax Petroleum derived
+Carnauba Wax Palm derived
+Candelilla Wax Plant derived
+Microcrystalline Wax Petroleum refined
+Ceresin Wax Mineral wax
+Ozokerite Wax Fossil wax
+Montan Wax Lignite derived
+Synthetic Wax Laboratory made
+Modeling Wax Sculptural
+Casting Wax Lost wax
+Investment Wax Precision casting
+Pattern Wax Template making
+Encaustic Wax Paint medium
+Hot Wax Heated application
+Cold Wax Room temperature
+Flexible Wax Bendable
+Rigid Wax Hard setting
+Colored Wax Pigmented
+Natural Wax Unpigmented
+Refined Wax Purified
+Crude Wax Unprocessed
+Blended Wax Mixed varieties
+Pure Wax Single type
+Bronze Copper alloy
+Aluminum Lightweight metal
+Steel Carbon iron
+Stainless Steel Corrosion resistant
+Cast Iron High carbon
+Wrought Iron Low carbon
+Copper Pure element
+Brass Copper zinc
+Lead Heavy metal
+Tin Soft metal
+Zinc Galvanizing metal
+Titanium Space age metal
+Gold Noble metal
+Silver Precious metal
+Platinum Rare metal
+Iron Base metal
+Nickel Magnetic metal
+Chromium Shiny metal
+Cobalt Blue pigment
+Pewter Tin alloy
+Monel Nickel copper
+Inconel Superalloy
+Hastelloy Corrosion resistant
+Stellite Wear resistant
+Beryllium Copper Strong alloy
+Phosphor Bronze Spring alloy
+Silicon Bronze Marine alloy
+Aluminum Bronze Strong alloy
+Manganese Bronze Wear resistant
+Naval Brass Seawater resistant
+Admiralty Brass Condenser tubes
+Red Brass High copper
+Yellow Brass High zinc
+White Brass Nickel bearing
+Leaded Brass Machinable
+Free Cutting Brass Easy machining
+Architectural Bronze Building use
+Statuary Bronze Sculpture alloy
+Bell Bronze Sound quality
+Gun Metal Historic alloy
+Rose Gold Gold copper
+White Gold Gold palladium
+Yellow Gold Pure appearance
+Green Gold Gold silver
+Blue Gold Gold iron
+Purple Gold Gold aluminum
+Black Gold Gold cobalt
+Red Gold Gold copper
+Pink Gold Gold copper
+Champagne Gold Gold copper
+Chocolate Gold Gold copper
+Gray Gold Gold iron
+Brown Gold Gold copper
+Orange Gold Gold copper
+Lime Gold Gold silver
+Turquoise Gold Gold chromium

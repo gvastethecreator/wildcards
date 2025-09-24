@@ -1,0 +1,204 @@
+Cursed Bone Fragment undead essence material
+Tainted Blood Vial corruption liquid essence
+Shadow Essence Dark realm distilled energy
+Soul Shard Spiritual fragment crystallized
+Nightmare Dust Terror realm powder
+Despair Crystal Hopelessness solidified gem
+Anguish Tear Suffering liquid droplet
+Pain Extract Agony concentrated essence
+Fear Pheromone Terror scent compound
+Hatred Residue Animosity crystallized deposit
+Wrath Ember Anger burning particle
+Fury Catalyst Rage amplifying agent
+Vengeance Oil Retribution liquid essence
+Betrayal Poison Trust-destroying toxin
+Treachery Acid Loyalty-corroding compound
+Deception Mist Truth-obscuring vapor
+Illusion Powder Reality-distorting dust
+Mirage Sand False-vision creating granules
+Hallucination Spore Perception-warping fungus
+Delusion Gas Belief-implanting vapor
+Madness Ink Sanity-destroying pigment
+Insanity Resin Mental-breaking sap
+Dementia Moss Memory-erasing plant
+Amnesia Lichen Experience-forgetting growth
+Oblivion Stone Memory-wiping mineral
+Void Crystal Nothingness crystallized essence
+Null Powder Emptiness granulated form
+Zero Essence Mathematical void concentrate
+Negative Matter Below-existence substance
+Antimatter Fragment Opposite-reality particle
+Dark Matter Dust Invisible-universe granules
+Strange Matter Shard Exotic-physics fragment
+Exotic Particle Quantum-realm component
+Tachyon Residue Faster-than-light trace
+Neutrino Essence Ghost-particle concentrate
+Quark Dust Fundamental-particle powder
+Lepton Shard Basic-particle fragment
+Boson Extract Force-carrier essence
+Fermion Powder Matter-particle dust
+String Vibration Reality-frequency essence
+Membrane Fragment Dimensional-boundary piece
+Brane Dust Multi-dimensional powder
+Multiverse Sand Parallel-reality granules
+Timeline Fragment Temporal-thread piece
+Causality Dust Cause-effect powder
+Paradox Crystal Logic-breaking gem
+Impossibility Stone Reality-violating mineral
+Forbidden Essence Taboo-breaking concentrate
+Unspeakable Dust Unmentionable powder
+Ineffable Mist Indescribable vapor
+Unknowable Fragment Incomprehensible piece
+Unthinkable Essence Inconceivable concentrate
+Unimaginable Dust Beyond-conception powder
+Corpse Flower Death-attracting bloom
+Gravewort Bone-nourishing herb
+Deathcap Mushroom Life-ending fungus
+Bane Berry Poison-dripping fruit
+Hemlock Branch Paralysis-inducing twig
+Nightshade Leaf Deadly-beautiful plant
+Foxglove Petal Heart-stopping flower
+Oleander Stem Toxic-sap containing
+Castor Bean Death-seed poisonous
+Ricin Extract Protein-toxin concentrate
+Cyanide Crystal Breath-stopping compound
+Arsenic Powder Slow-death metal
+Strychnine Dust Convulsion-causing toxin
+Mercury Droplet Mind-destroying metal
+Lead Shaving Brain-damaging metal
+Plutonium Fragment Radiation-death particle
+Uranium Ore Nuclear-decay mineral
+Radium Dust Glow-death powder
+Polonium Speck Alpha-death particle
+Thorium Sand Radioactive-decay granules
+Cesium Fragment Radiation-spreading piece
+Cobalt Shard Gamma-emitting crystal
+Iodine Concentrate Thyroid-destroying essence
+Chlorine Gas Lung-burning vapor
+Phosphorus Powder Fire-starting dust
+Sulfur Crystal Brimstone burning mineral
+Sodium Fragment Water-exploding metal
+Potassium Shard Violent-reaction crystal
+Lithium Dust Flame-coloring powder
+Magnesium Ribbon Bright-burning strip
+Aluminum Powder Flash-creating dust
+Iron Rust Oxidation-decay powder
+Copper Verdigris Green-corrosion patina
+Silver Tarnish Black-corruption coating
+Gold Leaf Noble-metal foil
+Platinum Wire Precious-metal strand
+Titanium Shaving Strong-metal fragment
+Chromium Dust Shine-creating powder
+Nickel Fragment Alloy-strengthening piece
+Zinc Oxide White-powder compound
+Tin Solder Joining-metal alloy
+Brass Shaving Copper-zinc fragment
+Bronze Dust Ancient-alloy powder
+Steel Filing Iron-carbon fragment
+Cast Iron Chunk Heavy-metal piece
+Wrought Iron Strip Malleable-metal strand
+Damascus Steel Pattern-welded fragment
+Meteorite Iron Space-metal fragment
+Cold Iron Fae-harming metal
+Hot Iron Fire-forged metal
+Black Iron Dark-forged metal
+White Iron Pure-forged metal
+Red Iron Blood-forged metal
+Blue Iron Ice-forged metal
+Green Iron Poison-forged metal
+Purple Iron Royal-forged metal
+Yellow Iron Gold-forged metal
+Orange Iron Flame-forged metal
+Pink Iron Love-forged metal
+Gray Iron Stone-forged metal
+Brown Iron Earth-forged metal
+Clear Iron Crystal-forged metal
+Opaque Iron Shadow-forged metal
+Transparent Iron Glass-forged metal
+Reflective Iron Mirror-forged metal
+Absorbing Iron Void-forged metal
+Glowing Iron Light-forged metal
+Pulsing Iron Life-forged metal
+Vibrating Iron Energy-forged metal
+Singing Iron Sound-forged metal
+Silent Iron Quiet-forged metal
+Heavy Iron Dense-forged metal
+Light Iron Weightless-forged metal
+Hard Iron Rigid-forged metal
+Soft Iron Malleable-forged metal
+Sharp Iron Cutting-forged metal
+Dull Iron Blunt-forged metal
+Smooth Iron Polished-forged metal
+Rough Iron Textured-forged metal
+Hot Iron Temperature-high metal
+Cold Iron Temperature-low metal
+Warm Iron Temperature-mild metal
+Cool Iron Temperature-moderate metal
+Freezing Iron Temperature-extreme-low metal
+Burning Iron Temperature-extreme-high metal
+Melting Iron Temperature-liquid metal
+Solid Iron Temperature-fixed metal
+Liquid Iron Temperature-fluid metal
+Gaseous Iron Temperature-vapor metal
+Plasma Iron Temperature-ionized metal
+Crystalline Iron Structure-ordered metal
+Amorphous Iron Structure-random metal
+Powdered Iron Structure-granular metal
+Fibrous Iron Structure-thread metal
+Layered Iron Structure-stratified metal
+Porous Iron Structure-holey metal
+Dense Iron Structure-compact metal
+Hollow Iron Structure-empty metal
+Solid Iron Structure-full metal
+Flexible Iron Structure-bendable metal
+Rigid Iron Structure-unbendable metal
+Elastic Iron Structure-stretchy metal
+Plastic Iron Structure-moldable metal
+Brittle Iron Structure-breakable metal
+Tough Iron Structure-resilient metal
+Fragile Iron Structure-delicate metal
+Durable Iron Structure-lasting metal
+Temporary Iron Structure-short-lived metal
+Permanent Iron Structure-eternal metal
+Stable Iron Structure-unchanging metal
+Unstable Iron Structure-changing metal
+Radioactive Iron Structure-decaying metal
+Stable Iron Structure-non-decaying metal
+Magnetic Iron Structure-attracting metal
+Non-magnetic Iron Structure-neutral metal
+Conductive Iron Structure-current-flowing metal
+Insulating Iron Structure-current-blocking metal
+Reflective Iron Structure-light-bouncing metal
+Absorbing Iron Structure-light-taking metal
+Transparent Iron Structure-light-passing metal
+Opaque Iron Structure-light-blocking metal
+Luminous Iron Structure-light-emitting metal
+Dark Iron Structure-light-absorbing metal
+Colored Iron Structure-hue-showing metal
+Colorless Iron Structure-hue-lacking metal
+Textured Iron Structure-surface-varied metal
+Smooth Iron Structure-surface-even metal
+Patterned Iron Structure-design-showing metal
+Plain Iron Structure-design-lacking metal
+Engraved Iron Structure-carved-design metal
+Blank Iron Structure-unmarked metal
+Inscribed Iron Structure-written-design metal
+Anonymous Iron Structure-unnamed metal
+Signed Iron Structure-marked metal
+Dated Iron Structure-time-marked metal
+Timeless Iron Structure-eternal metal
+Ancient Iron Structure-old metal
+Modern Iron Structure-new metal
+Future Iron Structure-advanced metal
+Past Iron Structure-historical metal
+Present Iron Structure-current metal
+Eternal Iron Structure-timeless metal
+Temporal Iron Structure-time-bound metal
+Spatial Iron Structure-space-bound metal
+Dimensional Iron Structure-reality-bound metal
+Planar Iron Structure-plane-bound metal
+Spherical Iron Structure-round metal
+Cubic Iron Structure-square metal
+Cylindrical Iron Structure-tube metal
+Conical Iron Structure-cone metal
+Pyramidal Iron Structure-pyramid metal

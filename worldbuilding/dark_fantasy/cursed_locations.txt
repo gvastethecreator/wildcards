@@ -1,0 +1,201 @@
+Forsaken Cathedral abandoned holy structure
+Cursed Monastery damned religious community
+Haunted Abbey ghostly religious ruins
+Profaned Temple defiled sacred building
+Desecrated Shrine violated holy place
+Corrupted Sanctuary tainted safe haven
+Blighted Cemetery diseased burial ground
+Plagued Necropolis infected city of dead
+Infected Mausoleum contaminated tomb building
+Poisoned Well toxic water source
+Tainted Spring corrupted natural flow
+Corrupted Oasis perverted desert refuge
+Blighted Forest diseased woodland area
+Withered Grove dying tree cluster
+Rotting Swamp decaying wetland
+Festering Marsh putrid bogland
+Gangrenous Bog infected swampland
+Necrotic Mire death-touched wetland
+Putrid Quagmire rotten soft ground
+Decaying Fen decomposing marsh
+Moldering Wetland rotting water area
+Corrupted Lake tainted water body
+Poisoned River toxic flowing water
+Infected Stream contaminated water flow
+Blighted Pond diseased small water
+Cursed Well damned water source
+Haunted Bridge ghostly river crossing
+Damned Crossroads cursed path intersection
+Forsaken Road abandoned travel route
+Lost Highway disappeared major road
+Vanished Trail missing path way
+Disappeared Path lost route
+Erased Route eliminated way
+Deleted Road removed travel line
+Negated Highway nullified major path
+Voided Trail emptied route way
+Nullified Path zeroed travel line
+Zeroed Highway numerical-void road
+Absent Route missing-presence path
+Missing Highway disappeared major way
+Disappeared Road vanished travel route
+Vanished Trail lost path way
+Lost Path misplaced route
+Misplaced Highway incorrectly-located road
+Incorrectly-located Trail wrongly-positioned path
+Wrongly-positioned Road badly-placed route
+Badly-placed Highway poorly-located way
+Poorly-located Trail inadequately-positioned path
+Inadequately-positioned Road insufficiently-placed route
+Insufficiently-placed Highway not-enough-located way
+Not-enough-located Trail deficit-positioned path
+Deficit-positioned Road lacking-placed route
+Lacking-placed Highway missing-located way
+Missing-located Trail absent-positioned path
+Absent-positioned Road void-placed route
+Void-placed Highway emptiness-located way
+Emptiness-located Trail nothingness-positioned path
+Nothingness-positioned Road null-placed route
+Null-placed Highway zero-located way
+Zero-located Trail number-positioned path
+Number-positioned Road digit-placed route
+Digit-placed Highway figure-located way
+Figure-located Trail shape-positioned path
+Shape-positioned Road form-placed route
+Form-placed Highway appearance-located way
+Appearance-located Trail look-positioned path
+Look-positioned Road sight-placed route
+Sight-placed Highway vision-located way
+Vision-located Trail image-positioned path
+Image-positioned Road picture-placed route
+Picture-placed Highway photo-located way
+Photo-located Trail camera-positioned path
+Camera-positioned Road device-placed route
+Device-placed Highway machine-located way
+Machine-located Trail engine-positioned path
+Engine-positioned Road motor-placed route
+Motor-placed Highway movement-located way
+Movement-located Trail motion-positioned path
+Motion-positioned Road action-placed route
+Action-placed Highway deed-located way
+Deed-located Trail act-positioned path
+Act-positioned Road performance-placed route
+Performance-placed Highway show-located way
+Show-located Trail display-positioned path
+Display-positioned Road exhibition-placed route
+Exhibition-placed Highway presentation-located way
+Presentation-located Trail showing-positioned path
+Showing-positioned Road revealing-placed route
+Revealing-placed Highway exposing-located way
+Exposing-located Trail uncovering-positioned path
+Uncovering-positioned Road discovering-placed route
+Discovering-placed Highway finding-located way
+Finding-located Trail locating-positioned path
+Locating-positioned Road positioning-placed route
+Positioning-placed Highway placing-located way
+Placing-located Trail setting-positioned path
+Setting-positioned Road establishing-placed route
+Establishing-placed Highway founding-located way
+Founding-located Trail creating-positioned path
+Creating-positioned Road making-placed route
+Making-placed Highway producing-located way
+Producing-located Trail generating-positioned path
+Generating-positioned Road causing-placed route
+Causing-placed Highway triggering-located way
+Triggering-located Trail activating-positioned path
+Activating-positioned Road initiating-placed route
+Initiating-placed Highway beginning-located way
+Beginning-located Trail starting-positioned path
+Starting-positioned Road commencing-placed route
+Commencing-placed Highway opening-located way
+Opening-located Trail unveiling-positioned path
+Unveiling-positioned Road revealing-placed route
+Revealing-placed Highway disclosing-located way
+Disclosing-located Trail exposing-positioned path
+Exposing-positioned Road showing-placed route
+Showing-placed Highway demonstrating-located way
+Demonstrating-located Trail proving-positioned path
+Proving-positioned Road establishing-placed route
+Establishing-placed Highway confirming-located way
+Confirming-located Trail verifying-positioned path
+Verifying-positioned Road validating-placed route
+Validating-placed Highway authenticating-located way
+Authenticating-located Trail certifying-positioned path
+Certifying-positioned Road guaranteeing-placed route
+Guaranteeing-placed Highway assuring-located way
+Assuring-located Trail promising-positioned path
+Promising-positioned Road pledging-placed route
+Pledging-placed Highway committing-located way
+Committing-located Trail dedicating-positioned path
+Dedicating-positioned Road devoting-placed route
+Devoting-placed Highway consecrating-located way
+Consecrating-located Trail sanctifying-positioned path
+Sanctifying-positioned Road blessing-placed route
+Blessing-placed Highway favoring-located way
+Favoring-located Trail preferring-positioned path
+Preferring-positioned Road choosing-placed route
+Choosing-placed Highway selecting-located way
+Selecting-located Trail picking-positioned path
+Picking-positioned Road gathering-placed route
+Gathering-placed Highway collecting-located way
+Collecting-located Trail assembling-positioned path
+Assembling-positioned Road compiling-placed route
+Compiling-placed Highway organizing-located way
+Organizing-located Trail arranging-positioned path
+Arranging-positioned Road ordering-placed route
+Ordering-placed Highway structuring-located way
+Structuring-located Trail systematizing-positioned path
+Systematizing-positioned Road methodizing-placed route
+Methodizing-placed Highway standardizing-located way
+Standardizing-located Trail normalizing-positioned path
+Normalizing-positioned Road regularizing-placed route
+Regularizing-placed Highway stabilizing-located way
+Stabilizing-located Trail securing-positioned path
+Securing-positioned Road protecting-placed route
+Protecting-placed Highway defending-located way
+Defending-located Trail guarding-positioned path
+Guarding-positioned Road watching-placed route
+Watching-placed Highway observing-located way
+Observing-located Trail monitoring-positioned path
+Monitoring-positioned Road supervising-placed route
+Supervising-placed Highway overseeing-located way
+Overseeing-located Trail managing-positioned path
+Managing-positioned Road controlling-placed route
+Controlling-placed Highway commanding-located way
+Commanding-located Trail directing-positioned path
+Directing-positioned Road guiding-placed route
+Guiding-placed Highway leading-located way
+Leading-located Trail heading-positioned path
+Heading-positioned Road fronting-placed route
+Fronting-placed Highway facing-located way
+Facing-located Trail confronting-positioned path
+Confronting-positioned Road challenging-placed route
+Challenging-placed Highway testing-located way
+Testing-located Trail examining-positioned path
+Examining-positioned Road inspecting-placed route
+Inspecting-placed Highway investigating-located way
+Investigating-located Trail researching-positioned path
+Researching-positioned Road studying-placed route
+Studying-placed Highway learning-located way
+Learning-located Trail understanding-positioned path
+Understanding-positioned Road comprehending-placed route
+Comprehending-placed Highway grasping-located way
+Grasping-located Trail seizing-positioned path
+Seizing-positioned Road capturing-placed route
+Capturing-placed Highway trapping-located way
+Trapping-located Trail confining-positioned path
+Confining-positioned Road restricting-placed route
+Restricting-placed Highway limiting-located way
+Limiting-located Trail constraining-positioned path
+Constraining-positioned Road binding-placed route
+Binding-placed Highway tying-located way
+Tying-located Trail fastening-positioned path
+Fastening-positioned Road securing-placed route
+Securing-placed Highway fixing-located way
+Fixing-located Trail repairing-positioned path
+Repairing-positioned Road mending-placed route
+Mending-placed Highway healing-located way
+Healing-located Trail curing-positioned path
+Curing-positioned Road treating-placed route
+Treating-placed Highway addressing-located way
+Addressing-located Trail handling-positioned path

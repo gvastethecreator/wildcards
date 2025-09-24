@@ -1,0 +1,174 @@
+Common Rarity basic frequent card
+Uncommon Rarity moderate frequency card
+Rare Rarity low frequency valuable
+Epic Rarity very low frequency
+Legendary Rarity extremely rare unique
+Mythic Rarity highest rarity level
+Secret Rare hidden special card
+Super Rare enhanced rarity level
+Ultra Rare premium rarity tier
+Hyper Rare maximum rarity classification
+Promo Rarity promotional special release
+Limited Edition restricted print run
+First Edition original print release
+Unlimited Edition continuous print run
+Revised Edition updated reprint version
+Collector Edition luxury special release
+Tournament Edition competitive play focus
+Draft Edition limited format focus
+Standard Edition regular play format
+Extended Edition expanded card pool
+Modern Edition contemporary card pool
+Legacy Edition historical card pool
+Vintage Edition classic card pool
+Commander Edition multiplayer format
+Casual Edition non-competitive focus
+Competitive Edition tournament focus
+Professional Edition pro-level quality
+Premium Edition luxury enhancement
+Deluxe Edition enhanced package
+Special Edition unique release
+Anniversary Edition celebration release
+Core Set Edition fundamental cards
+Expansion Set new card addition
+Supplemental Set specialized release
+Reprint Set card republication
+Masterpiece Series ultra-premium cards
+Alternate Art unique visual version
+Full Art extended artwork card
+Borderless Art edge-to-edge artwork
+Extended Art artwork beyond frame
+Showcase Frame special frame style
+Retro Frame nostalgic frame style
+Classic Frame traditional frame style
+Modern Frame contemporary frame style
+Future Frame futuristic frame style
+Timeshifted Frame temporal frame style
+Planeswalker Frame walker-specific frame
+Split Frame dual-card frame
+Transform Frame double-faced frame
+Aftermath Frame graveyard-cast frame
+Adventure Frame exile-first frame
+Modal Frame choice-option frame
+Leveler Frame level-up frame
+Saga Frame chapter-progression frame
+Prototype Frame alternative-cost frame
+Foil Treatment metallic enhancement
+Non-foil Treatment standard finish
+Rainbow Foil multicolor enhancement
+Gold Foil luxury metallic finish
+Silver Foil elegant metallic finish
+Etched Foil textured metallic finish
+Galaxy Foil space-themed enhancement
+Surge Foil energy-themed enhancement
+Textured Foil tactile surface enhancement
+Serialized Numbering unique identification
+Artist Proof creator signed version
+Artist Sketch original drawing version
+Test Print development version
+Misprint Error production mistake
+Blank Card no printing error
+Double Print overlap printing error
+Off-center Print alignment error
+Ink Smudge production defect
+Color Variation printing inconsistency
+Crimped Card packaging damage
+Bent Card physical damage
+Scratched Card surface damage
+Water Damage liquid exposure damage
+Sun Damage light exposure fading
+Age Spots time-related discoloration
+Yellowing Paper aging discoloration
+Cracking Surface material failure
+Peeling Coating material separation
+Bubbling Surface air pocket formation
+Warping Card shape distortion
+Curling Edge upward bending
+Corner Wear edge damage accumulation
+Edge Wear perimeter damage
+Surface Wear face damage
+Back Wear reverse side damage
+Centering Print alignment quality
+Print Quality reproduction clarity
+Color Saturation pigment intensity
+Contrast Definition light-dark difference
+Sharpness Detail edge clarity
+Resolution Image detail density
+Grain Texture surface texture quality
+Gloss Surface light reflection
+Matte Surface light absorption
+Semi-gloss Surface moderate reflection
+Satin Surface subtle light reflection
+Pearl Surface iridescent reflection
+Metallic Surface metal-like reflection
+Holographic Surface rainbow reflection
+Prismatic Surface spectrum reflection
+Opalescent Surface opal-like reflection
+Iridescent Surface color-shifting reflection
+Dichroic Surface dual-color reflection
+Chameleon Surface multi-color shifting
+Thermochromic Surface heat-responsive color
+Photochromic Surface light-responsive color
+UV-reactive Surface ultraviolet response
+Glow-in-dark Surface phosphorescent emission
+Fluorescent Surface bright neon emission
+Magnetic Surface ferrous attraction
+Conductive Surface electrical conductivity
+Scratch-resistant Surface damage resistance
+Water-resistant Surface moisture resistance
+Fade-resistant Surface light stability
+Tear-resistant Surface rip resistance
+Chemical-resistant Surface solvent stability
+Heat-resistant Surface temperature stability
+Cold-resistant Surface freeze stability
+Humidity-resistant Surface moisture stability
+Archival Quality long-term stability
+Museum Quality preservation standard
+Conservation Quality protection standard
+Collector Quality collecting standard
+Player Quality gaming standard
+Tournament Quality competitive standard
+Professional Quality expert standard
+Premium Quality luxury standard
+Standard Quality regular specification
+Economy Quality budget specification
+Basic Quality fundamental specification
+Enhanced Quality improved specification
+Superior Quality elevated specification
+Ultimate Quality maximum specification
+Perfect Quality flawless specification
+Mint Condition pristine unused state
+Near Mint slight usage wear
+Excellent Condition light usage wear
+Very Good moderate usage wear
+Good Condition heavy usage wear
+Fair Condition severe usage wear
+Poor Condition extensive damage state
+Damaged Condition major defect state
+Destroyed Condition unusable state
+Restoration Attempt repair effort
+Conservation Treatment preservation effort
+Professional Cleaning expert maintenance
+Amateur Cleaning basic maintenance
+Storage Damage containment-related harm
+Display Damage exhibition-related harm
+Handling Damage touch-related harm
+Transport Damage shipping-related harm
+Environmental Damage climate-related harm
+Chemical Damage substance-related harm
+Biological Damage organism-related harm
+Mechanical Damage force-related harm
+Thermal Damage temperature-related harm
+Radiation Damage energy-related harm
+Magnetic Damage field-related harm
+Electrical Damage current-related harm
+Static Damage charge-related harm
+Vibration Damage movement-related harm
+Shock Damage impact-related harm
+Compression Damage pressure-related harm
+Tension Damage stretch-related harm
+Torsion Damage twist-related harm
+Shear Damage slide-related harm
+Fatigue Damage repeated-stress harm
+Corrosion Damage oxidation-related harm
+Erosion Damage wear-related harm

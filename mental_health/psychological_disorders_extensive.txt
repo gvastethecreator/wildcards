@@ -1,0 +1,386 @@
+major depressive disorder
+bipolar disorder manic
+generalized anxiety disorder
+panic disorder attacks
+social anxiety disorder
+specific phobia irrational
+agoraphobia open spaces
+obsessive compulsive disorder
+post traumatic stress
+acute stress disorder
+adjustment disorder adaptive
+persistent depressive disorder
+seasonal affective disorder
+premenstrual dysphoric disorder
+disruptive mood dysregulation
+substance induced mood
+medical condition mood
+cyclothymic disorder
+hypomanic episodes
+manic episodes
+mixed episodes
+rapid cycling
+ultra rapid cycling
+treatment resistant depression
+psychotic depression
+melancholic features
+atypical features
+peripartum onset
+seasonal pattern
+anxious distress
+catatonic features
+schizophrenia spectrum
+brief psychotic disorder
+schizophreniform disorder
+delusional disorder
+substance induced psychotic
+schizoaffective disorder
+schizoid personality disorder
+schizotypal personality
+paranoid personality disorder
+antisocial personality disorder
+borderline personality disorder
+histrionic personality disorder
+narcissistic personality disorder
+avoidant personality disorder
+dependent personality disorder
+obsessive compulsive personality
+paranoia delusions
+grandiose delusions
+persecutory delusions
+somatic delusions
+jealous delusions
+erotomanic delusions
+nihilistic delusions
+thought broadcasting
+thought insertion
+thought withdrawal
+thought blocking
+loosening associations
+flight of ideas
+circumstantiality speech
+tangential speech
+word salad
+neologisms new words
+echolalia repetition
+echopraxia imitation
+catatonic stupor
+catatonic excitement
+waxy flexibility
+posturing abnormal
+stereotyped movements
+mutism selective
+elective mutism
+auditory hallucinations
+visual hallucinations
+tactile hallucinations
+olfactory hallucinations
+gustatory hallucinations
+command hallucinations
+running commentary
+voices arguing
+hypnagogic hallucinations
+hypnopompic hallucinations
+pseudohallucinations
+illusions misperception
+derealization detachment
+depersonalization
+dissociative identity disorder
+dissociative amnesia
+dissociative fugue
+depersonalization disorder
+conversion disorder
+somatic symptom disorder
+illness anxiety disorder
+factitious disorder
+malingering feigning
+body dysmorphic disorder
+hoarding disorder
+trichotillomania hair pulling
+excoriation skin picking
+intermittent explosive disorder
+conduct disorder
+oppositional defiant disorder
+attention deficit hyperactivity
+autism spectrum disorder
+asperger syndrome
+childhood disintegrative
+rett syndrome
+intellectual disability
+global developmental delay
+specific learning disorder
+dyslexia reading
+dyscalculia mathematics
+dysgraphia writing
+language disorder
+speech sound disorder
+childhood onset fluency
+social communication disorder
+tourette syndrome
+persistent motor tic
+persistent vocal tic
+provisional tic disorder
+stereotypic movement disorder
+reactive attachment disorder
+disinhibited social engagement
+separation anxiety disorder
+selective mutism
+anorexia nervosa restricting
+anorexia nervosa binge
+bulimia nervosa
+binge eating disorder
+pica eating non food
+rumination disorder
+avoidant restrictive food
+night eating syndrome
+purging disorder
+muscle dysmorphia
+exercise bulimia
+orthorexia obsession
+gender dysphoria
+paraphilic disorders
+exhibitionistic disorder
+voyeuristic disorder
+frotteuristic disorder
+sexual masochism disorder
+sexual sadism disorder
+pedophilic disorder
+fetishistic disorder
+transvestic disorder
+other specified paraphilia
+insomnia disorder
+hypersomnolence disorder
+narcolepsy cataplexy
+breathing related sleep
+obstructive sleep apnea
+central sleep apnea
+sleep related hypoventilation
+circadian rhythm sleep
+delayed sleep phase
+advanced sleep phase
+irregular sleep wake
+non 24 hour sleep
+shift work sleep
+jet lag disorder
+non rapid eye movement
+sleepwalking disorder
+sleep terror disorder
+nightmare disorder
+rapid eye movement
+restless legs syndrome
+periodic limb movement
+substance related disorders
+alcohol use disorder
+tobacco use disorder
+cannabis use disorder
+stimulant use disorder
+opioid use disorder
+sedative hypnotic anxiolytic
+hallucinogen use disorder
+inhalant use disorder
+other substance use
+gambling disorder
+internet gaming disorder
+sex addiction
+shopping addiction
+food addiction
+exercise addiction
+work addiction
+relationship addiction
+love addiction
+codependency patterns
+enabler behavior
+trauma bonding
+stockholm syndrome
+learned helplessness
+cognitive distortions
+catastrophic thinking
+all or nothing
+mental filtering
+discounting positive
+jumping to conclusions
+mind reading
+fortune telling
+magnification minimization
+emotional reasoning
+should statements
+labeling mislabeling
+personalization blame
+black and white thinking
+overgeneralization
+selective abstraction
+arbitrary inference
+dichotomous thinking
+perfectionism maladaptive
+imposter syndrome
+dunning kruger effect
+confirmation bias
+availability heuristic
+anchoring bias
+sunk cost fallacy
+gamblers fallacy
+hot cold empathy
+fundamental attribution error
+self serving bias
+hindsight bias
+optimism bias
+pessimism bias
+negativity bias
+recency bias
+primacy effect
+halo effect
+horn effect
+stereotype threat
+implicit bias
+explicit bias
+in group favoritism
+out group homogeneity
+social desirability
+response bias
+acquiescence bias
+extreme response
+central tendency bias
+social loafing
+bystander effect
+diffusion responsibility
+groupthink conformity
+risky shift
+polarization groups
+deindividuation loss
+social facilitation
+social inhibition
+audience effect
+co action effect
+drive arousal theory
+mere exposure effect
+proximity attraction
+similarity attraction
+reciprocity liking
+physical attractiveness
+matching hypothesis
+triangular love theory
+attachment styles
+secure attachment
+anxious preoccupied
+dismissive avoidant
+fearful avoidant
+earned security
+disorganized attachment
+reactive attachment
+ambivalent attachment
+strange situation
+internal working models
+mentalization capacity
+theory of mind
+false belief test
+sally anne test
+executive function
+working memory
+cognitive flexibility
+inhibitory control
+attention regulation
+processing speed
+crystallized intelligence
+fluid intelligence
+general intelligence
+multiple intelligences
+emotional intelligence
+social intelligence
+practical intelligence
+creative intelligence
+analytical intelligence
+triarchic theory
+cattell horn theory
+wechsler scales
+stanford binet
+raven matrices
+kaufman assessment
+woodcock johnson
+das cognitive assessment
+nepsy neuropsychological
+halstead reitan
+luria nebraska
+wisconsin card sort
+stroop color word
+trail making test
+rey complex figure
+california verbal
+wechsler memory
+rivermead behavioral
+doors and people
+recognition memory
+warrington recognition
+visual object
+space perception
+judgment line orientation
+facial recognition
+hooper visual
+clock drawing
+mini mental state
+montreal cognitive
+addenbrooke cognitive
+dementia rating scale
+clinical dementia
+functional assessment
+activities daily living
+instrumental activities
+blessed dementia
+neuropsychiatric inventory
+cornell depression
+geriatric depression
+beck depression
+hamilton depression
+patient health questionnaire
+generalized anxiety
+social phobia inventory
+penn state worry
+obsessive compulsive inventory
+yale brown obsessive
+post traumatic checklist
+clinician administered
+structured clinical interview
+mini international
+diagnostic interview
+personality assessment inventory
+minnesota multiphasic
+millon clinical
+rorschach inkblot
+thematic apperception
+sentence completion
+house tree person
+draw a person
+kinetic family drawing
+roberts apperception
+children apperception
+tell me story
+autism diagnostic observation
+autism diagnostic interview
+childhood autism rating
+social communication questionnaire
+repetitive behavior scale
+sensory profile
+adolescent adult sensory
+conners rating scales
+vanderbilt assessment
+behavior assessment
+child behavior checklist
+teacher report form
+youth self report
+personality inventory
+eysenck personality
+big five inventory
+neo personality inventory
+sixteen personality factor
+temperament character inventory
+dimensional assessment
+structured assessment
+international personality
+eating disorder examination
+eating disorder inventory
+body shape questionnaire
+eating attitudes test
+multidimensional body
+sociocultural attitudes
+drive for muscularity
+yale food addiction
+binge eating scale
