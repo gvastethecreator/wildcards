@@ -1,0 +1,116 @@
+shape-memory alloys
+self-healing polymers
+thermochromic materials
+photochromic substances
+electrochromic displays
+magnetorheological fluids
+electrorheological materials
+piezoelectric ceramics
+ferroelectric crystals
+pyroelectric materials
+magnetostrictive alloys
+electroactive polymers
+ionic polymer composites
+conductive polymers
+superhydrophobic coatings
+omniphobic surface treatments
+self-cleaning materials
+anti-fouling surfaces
+antibacterial coatings
+antimicrobial treatments
+photocatalytic materials
+air-purifying substances
+water-purifying filters
+oil-absorbing materials
+heavy metal extraction
+radiation shielding compounds
+electromagnetic shielding
+radiofrequency blocking
+microwave absorption
+infrared reflection
+ultraviolet protection
+visible light filtering
+transparent conductors
+flexible electronics
+stretchable circuits
+printed electronics
+organic semiconductors
+perovskite solar cells
+quantum dot materials
+carbon nanotube arrays
+graphene applications
+fullerene derivatives
+metamaterials
+negative index refraction
+cloaking device materials
+acoustic metamaterials
+phononic crystals
+photonic bandgap structures
+plasmonic materials
+surface plasmon resonance
+localized surface plasmons
+extraordinary optical transmission
+enhanced Raman scattering
+fluorescence enhancement
+quantum confinement effects
+single photon sources
+entangled photon pairs
+squeezed light generation
+slow light propagation
+fast light transmission
+stopped light storage
+optical memory materials
+holographic storage media
+phase change materials
+thermal interface compounds
+heat spreader materials
+thermal barrier coatings
+insulation foam systems
+aerogel compositions
+vacuum insulation panels
+reflective insulation
+radiant barrier systems
+cool roof materials
+urban heat reduction
+building envelope systems
+energy efficient glazing
+electrochromic windows
+thermochromic glass
+photovoltaic glass
+transparent solar cells
+building integrated photovoltaics
+concentrated photovoltaics
+perovskite tandem cells
+organic photovoltaics
+dye-sensitized cells
+quantum dot solar
+hot carrier cells
+multi-junction devices
+intermediate band cells
+up-conversion materials
+down-conversion phosphors
+luminescent concentrators
+solar thermal collectors
+phase change thermal storage
+molten salt systems
+thermochemical storage
+compressed air systems
+liquid air storage
+gravity energy systems
+flywheel materials
+superconducting magnets
+magnetic levitation
+room temperature superconductors
+high-temperature superconductors
+iron-based superconductors
+cuprate superconductors
+organic superconductors
+topological superconductors
+unconventional pairing
+quantum spin liquids
+frustrated magnetic systems
+multiferroic materials
+magnetoelectric coupling
+spin caloritronics
+valley electronics
+topological insulators

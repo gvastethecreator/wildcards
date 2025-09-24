@@ -1,0 +1,382 @@
+microwave beep interrupted
+alarm clock snooze addiction
+notification ping anxiety
+email whoosh satisfaction
+text message bubble pop
+phone vibration phantom
+typing keyboard click
+mouse scroll wheel
+trackpad gesture swipe
+touch screen finger smudge
+stylus pressure sensitivity
+voice command misheard
+auto correct embarrassment
+predictive text wrong
+spell check ignore
+grammar check pedantic
+find replace dangerous
+copy paste formatting
+undo save life
+redo regret
+save compulsive
+auto save blessing
+backup paranoia
+sync conflict resolution
+merge conflict hell
+version control salvation
+git commit message
+pull request review
+code review nitpick
+bug report reproduction
+stack overflow copy
+documentation outdated
+api deprecation
+breaking change migration
+dependency hell
+package manager
+environment setup
+configuration nightmare
+deployment friday
+production outage
+rollback procedure
+hotfix emergency
+patch tuesday
+security update
+feature flag toggle
+a b testing
+analytics tracking
+user behavior
+heat map clicking
+conversion funnel
+bounce rate
+session duration
+page view
+unique visitor
+returning user
+customer lifetime value
+acquisition cost
+retention rate
+churn analysis
+cohort analysis
+funnel analysis
+attribution modeling
+marketing mix
+media planning
+campaign optimization
+ad spend efficiency
+return on investment
+cost per click
+cost per impression
+click through rate
+conversion rate
+engagement rate
+reach frequency
+brand awareness
+sentiment analysis
+social listening
+influencer marketing
+content marketing
+search engine optimization
+pay per click
+affiliate marketing
+email marketing
+marketing automation
+customer relationship management
+sales funnel
+lead generation
+lead qualification
+sales pipeline
+deal closure
+customer onboarding
+customer success
+customer support
+help desk ticket
+knowledge base
+frequently asked questions
+troubleshooting guide
+user manual
+installation guide
+quick start
+getting started
+step by step
+tutorial video
+screen recording
+live demo
+webinar presentation
+conference call
+video conference
+screen sharing
+remote desktop
+virtual private network
+secure shell
+file transfer protocol
+hypertext transfer protocol
+transmission control protocol
+internet protocol
+domain name system
+dynamic host configuration
+network address translation
+virtual local area network
+wide area network
+local area network
+wireless fidelity
+bluetooth pairing
+near field communication
+radio frequency identification
+global positioning system
+geographic information system
+augmented reality
+virtual reality
+mixed reality
+extended reality
+spatial computing
+haptic feedback
+force feedback
+tactile sensation
+temperature feedback
+olfactory display
+gustatory interface
+brain computer interface
+neural implant
+cyborg enhancement
+bionic limb
+artificial organ
+genetic engineering
+crispr cas9
+gene therapy
+stem cell
+regenerative medicine
+tissue engineering
+organ printing
+biocompatible material
+medical device
+diagnostic imaging
+magnetic resonance
+computed tomography
+x ray radiography
+ultrasound sonography
+positron emission tomography
+single photon emission
+nuclear medicine
+radiation therapy
+chemotherapy
+immunotherapy
+targeted therapy
+precision medicine
+personalized medicine
+pharmacogenomics
+companion diagnostic
+biomarker discovery
+clinical trial
+randomized controlled
+phase one safety
+phase two efficacy
+phase three confirmation
+phase four surveillance
+investigational new drug
+biologics license application
+food drug administration
+good manufacturing practice
+good clinical practice
+good laboratory practice
+international conference harmonisation
+regulatory submission
+clinical research
+contract research organization
+clinical data management
+statistical analysis plan
+case report form
+adverse event
+serious adverse event
+suspected unexpected serious
+periodic safety update
+risk evaluation mitigation
+post marketing surveillance
+pharmacovigilance
+drug safety
+medication error
+contraindication
+drug interaction
+side effect
+adverse reaction
+allergic reaction
+anaphylactic shock
+hypersensitivity
+idiosyncratic reaction
+dose dependent
+dose independent
+time dependent
+cumulative toxicity
+organ toxicity
+carcinogenicity
+mutagenicity
+teratogenicity
+reproductive toxicity
+developmental toxicity
+neurotoxicity
+hepatotoxicity
+nephrotoxicity
+cardiotoxicity
+pulmonary toxicity
+dermal toxicity
+ocular toxicity
+ototoxicity
+hematotoxicity
+immunotoxicity
+endocrine disruption
+environmental toxicity
+ecotoxicology
+risk assessment
+hazard identification
+dose response
+exposure assessment
+risk characterization
+risk management
+risk communication
+precautionary principle
+as low reasonably achievable
+benefit risk analysis
+cost benefit analysis
+quality adjusted life year
+disability adjusted life year
+health economic evaluation
+budget impact analysis
+real world evidence
+comparative effectiveness
+health technology assessment
+clinical guidelines
+best practice
+standard of care
+off label use
+compassionate use
+expanded access
+right to try
+orphan drug
+rare disease
+ultra rare disease
+precision medicine
+targeted therapy
+companion diagnostic
+theranostics
+liquid biopsy
+circulating tumor cell
+cell free dna
+exosome biomarker
+proteomics
+metabolomics
+lipidomics
+glycomics
+transcriptomics
+epigenomics
+microbiome
+metagenomics
+systems biology
+network medicine
+artificial intelligence
+machine learning
+deep learning
+natural language processing
+computer vision
+robotics
+automation
+digital health
+telemedicine
+remote monitoring
+wearable device
+internet of things
+mobile health
+electronic health record
+health information exchange
+clinical decision support
+predictive analytics
+population health
+value based care
+accountable care organization
+bundled payment
+capitation
+fee for service
+pay for performance
+shared savings
+risk sharing
+quality measure
+patient reported outcome
+patient experience
+patient satisfaction
+net promoter score
+customer satisfaction
+user experience
+user interface
+human computer interaction
+accessibility
+universal design
+inclusive design
+design thinking
+user centered design
+lean startup
+agile development
+scrum methodology
+kanban board
+continuous integration
+continuous deployment
+devops culture
+infrastructure as code
+containerization
+microservices
+serverless computing
+cloud native
+edge computing
+fog computing
+quantum computing
+neuromorphic computing
+optical computing
+biological computing
+dna storage
+molecular computing
+reversible computing
+adiabatic computing
+memristive computing
+spintronic
+photonic
+superconducting
+cryogenic cooling
+liquid nitrogen
+helium cooling
+vacuum chamber
+clean room
+semiconductor fabrication
+photolithography
+electron beam lithography
+atomic layer deposition
+chemical vapor deposition
+physical vapor deposition
+molecular beam epitaxy
+ion implantation
+diffusion doping
+oxidation
+etching
+chemical mechanical polishing
+wafer bonding
+packaging
+wire bonding
+flip chip
+ball grid array
+through hole
+surface mount
+printed circuit board
+flexible circuit
+rigid flex
+high density interconnect
+embedded component
+system in package
+system on chip
+field programmable gate array
+application specific integrated circuit
+complex programmable logic device
+microcontroller
+microprocessor
+digital signal processor
+graphics processing unit
+tensor processing unit
+neural processing unit
+quantum processing unit
+photonic processing unit

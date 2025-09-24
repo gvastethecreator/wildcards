@@ -1,0 +1,66 @@
+hipster
+goth
+emo
+punk
+preppy
+jock
+nerd
+geek
+rebel
+bad boy
+good girl
+fashionista
+minimalist
+maximalist
+vintage lover
+trendsetter
+conservative
+liberal
+artist
+musician
+writer
+teacher
+student
+businessman
+businesswoman
+entrepreneur
+scientist
+doctor
+nurse
+chef
+barista
+bartender
+waiter
+waitress
+model
+actor
+actress
+influencer
+blogger
+photographer
+designer
+architect
+engineer
+programmer
+gamer
+athlete
+coach
+trainer
+surfer
+skater
+biker
+rocker
+metalhead
+raver
+club kid
+party animal
+socialite
+introvert
+extrovert
+bookworm
+outdoorsy
+adventurer
+traveler
+nomad
+homebody
+family person

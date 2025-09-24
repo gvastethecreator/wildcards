@@ -1,0 +1,282 @@
+cinematic panning shot
+dolly zoom effect
+steadicam movement
+handheld camera shake
+crane shot elevation
+aerial drone footage
+slider horizontal move
+jib arm extension
+gimbal stabilization
+rack focus shift
+deep focus composition
+shallow depth field
+bokeh background blur
+lens flare sunlight
+anamorphic streaks
+vintage lens character
+film grain texture
+motion blur trails
+speed ramping
+slow motion capture
+high speed recording
+time lapse sequence
+hyperlapse movement
+stop motion animation
+frame interpolation
+optical flow
+temporal upscaling
+super resolution
+ai enhancement
+neural network processing
+machine learning upscale
+deep learning restoration
+generative adversarial
+diffusion model
+stable diffusion
+midjourney aesthetic
+dall-e creativity
+imagen photorealism
+parti descriptive
+flamingo multimodal
+clip visual
+blip captioning
+salesforce blip2
+instructblip
+minigpt conversation
+llava vision
+gpt4 vision
+gemini multimodal
+claude vision
+video generation
+text to video
+image to video
+video to video
+motion transfer
+pose control
+depth estimation
+optical flow
+frame interpolation
+video inpainting
+video outpainting
+video stylization
+temporal consistency
+flickering reduction
+artifact removal
+compression enhancement
+noise reduction
+color correction
+exposure adjustment
+contrast enhancement
+saturation boost
+vibrance increase
+clarity improvement
+structure detail
+texture enhancement
+sharpening filter
+edge enhancement
+detail preservation
+artifact suppression
+aliasing reduction
+moiré elimination
+banding removal
+posterization fix
+color space conversion
+gamma correction
+tone mapping
+dynamic range
+highlight recovery
+shadow lifting
+black point
+white point
+color grading
+lut application
+film emulation
+vintage look
+modern aesthetic
+futuristic style
+retro cyberpunk
+vaporwave aesthetic
+synthwave neon
+outrun sunset
+miami vice
+blade runner noir
+akira motorcycle
+ghost shell cyber
+matrix digital
+tron legacy
+minority report
+ex machina clean
+her soft romance
+arrival linguistic
+interstellar cosmic
+gravity space
+2001 odyssey
+alien isolation
+prometheus engineer
+covenant horror
+terminator metal
+robocop detroit
+total recall memory
+judge dredd justice
+demolition man future
+fifth element opera
+dark city noir
+city lost children
+brazil bureaucracy
+twelve monkeys time
+la jetée photo
+alphaville godard
+fahrenheit 451
+1984 orwell
+brave new world
+handmaid's tale
+black mirror tech
+westworld android
+altered carbon sleeve
+cyberpunk 2077 night
+deus ex conspiracy
+system shock ai
+half life resonance
+portal aperture
+bioshock rapture
+fallout wasteland
+mad max fury
+road warrior
+beyond thunderdome
+waterworld ocean
+postman delivery
+book eli bible
+children men hope
+elysium inequality
+district 9 alien
+chappie robot
+blomkamp style
+spielberg wonder
+lucas mythology
+cameron epic
+scott ridley
+kubrick precision
+tarkovsky time
+bergman psychology
+kurosawa movement
+ozu stillness
+mizoguchi grace
+naruse subtlety
+ichikawa color
+kobayashi humanity
+masaki social
+oshima rebellion
+imamura earth
+shohei nature
+kiarostami real
+abbas poetry
+farhadi complex
+asghar social
+panahi restriction
+jafar iran
+makhmalbaf apple
+mohsen political
+kiarostami wind
+certified copy
+close-up documentary
+through olives
+taste cherry
+wind us
+ten segments
+five dedicated
+roads kiarostami
+homework children
+and life
+white balloon
+mirror children
+travellers majidi
+color paradise
+song sparrows
+willow wind
+baran afghan
+beautiful city
+saint petersburg
+father children
+baduk wonders
+turtles swim
+majid social
+iranian cinema
+persian culture
+middle eastern
+islamic geometric
+arabic calligraphy
+hebrew letters
+sanskrit symbols
+chinese characters
+japanese kanji
+korean hangul
+thai script
+khmer alphabet
+burmese script
+tibetan writing
+mongolian script
+cyrillic letters
+greek alphabet
+latin characters
+runic inscriptions
+ogham stones
+cuneiform tablets
+hieroglyphic carvings
+rosetta stone
+dead sea scrolls
+book kells
+illuminated manuscript
+gutenberg bible
+first printed
+movable type
+printing press
+typesetting
+letterpress
+offset printing
+digital typography
+font design
+typeface creation
+calligraphy art
+hand lettering
+brush painting
+ink wash
+watercolor
+oil painting
+acrylic medium
+tempera ancient
+fresco wall
+encaustic wax
+pastel chalk
+charcoal drawing
+graphite pencil
+ink pen
+quill feather
+reed pen
+brush pen
+marker felt
+crayon wax
+colored pencil
+conté crayon
+sanguine red
+sepia brown
+bistre umber
+ivory black
+titanium white
+cadmium yellow
+vermillion red
+ultramarine blue
+viridian green
+burnt sienna
+raw umber
+yellow ochre
+cerulean blue
+alizarin crimson
+prussian blue
+chrome yellow
+naples yellow
+indian yellow
+chinese white
+lamp black
+mars black
+payne's gray
+vandyke brown

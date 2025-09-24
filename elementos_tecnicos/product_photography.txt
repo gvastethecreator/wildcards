@@ -1,0 +1,1098 @@
+studio lighting setup
+three point lighting
+key light placement
+fill light balance
+rim light accent
+background separation
+softbox diffusion
+umbrella reflection
+beauty dish glow
+octabox softness
+strip light accent
+ring light even
+snoot concentration
+barn door control
+grid spot focus
+flag shadow
+scrim diffusion
+silk softening
+reflector bounce
+white card fill
+silver reflector
+gold warming
+black flag
+gobo cutout
+cookie pattern
+practical lighting
+window light
+natural illumination
+golden hour warmth
+blue hour mood
+overcast diffusion
+direct sunlight
+harsh shadows
+soft shadows
+dramatic chiaroscuro
+high key bright
+low key dark
+rim lighting
+backlighting silhouette
+side lighting
+front lighting
+overhead lighting
+under lighting
+cross lighting
+split lighting
+rembrandt triangle
+butterfly pattern
+loop lighting
+paramount style
+clamshell setup
+beauty lighting
+fashion photography
+portrait lighting
+headshot setup
+full body
+environmental portrait
+corporate headshot
+artistic portrait
+editorial fashion
+commercial product
+lifestyle photography
+food photography
+still life
+macro photography
+jewelry photography
+watch photography
+cosmetics beauty
+automotive photography
+architecture interior
+real estate
+landscape photography
+cityscape night
+street photography
+event photography
+wedding photography
+documentary style
+photojournalism
+sports photography
+wildlife photography
+nature photography
+underwater photography
+aerial photography
+drone cinematography
+time lapse
+hyperlapse
+stop motion
+high speed
+slow motion
+motion blur
+camera shake
+handheld organic
+tripod stability
+monopod mobility
+gimbal stabilization
+steadicam smooth
+dolly tracking
+slider movement
+jib crane
+boom operation
+cable cam
+wire cam
+helicopter aerial
+airplane window
+satellite imagery
+microscopic macro
+telescope astronomy
+infrared thermal
+ultraviolet reveal
+x ray imaging
+medical photography
+scientific documentation
+forensic photography
+archaeological
+conservation
+restoration
+digitization
+archival quality
+museum standards
+gallery lighting
+exhibition display
+art reproduction
+color accuracy
+color management
+monitor calibration
+printer profiling
+soft proofing
+hard proofing
+contract proofing
+press approval
+print optimization
+web optimization
+social media
+mobile optimization
+responsive images
+retina displays
+high dpi
+4k resolution
+8k capture
+raw processing
+jpeg compression
+png transparency
+tiff archival
+dng digital negative
+psd layered
+ai vector
+eps encapsulated
+pdf portable
+svg scalable
+webp modern
+avif next gen
+heif efficient
+jpg xl
+bmp bitmap
+gif animation
+video formats
+mp4 container
+mov quicktime
+avi windows
+mkv matroska
+webm web
+ogg open
+flv flash
+wmv windows
+m4v itunes
+3gp mobile
+amv compressed
+asf streaming
+f4v flash
+m2v mpeg
+mpg mpeg
+ogv ogg
+rm realmedia
+rmvb variable
+swf flash
+vob dvd
+webm vp8
+webm vp9
+av1 codec
+h264 standard
+h265 hevc
+vp8 google
+vp9 improved
+prores apple
+dnxhd avid
+cineform gopro
+blackmagic raw
+red raw
+arri raw
+sony raw
+canon raw
+nikon raw
+fuji raw
+panasonic raw
+olympus raw
+pentax raw
+leica raw
+hasselblad raw
+phase one
+medium format
+large format
+full frame
+crop sensor
+micro four thirds
+aps c
+super 35
+35mm equivalent
+focal length
+angle of view
+depth of field
+hyperfocal distance
+circle of confusion
+bokeh quality
+lens aberrations
+chromatic aberration
+spherical aberration
+coma distortion
+astigmatism
+field curvature
+distortion barrel
+distortion pincushion
+vignetting optical
+vignetting mechanical
+lens flare
+ghost images
+sunstar effects
+diffraction spikes
+filter effects
+polarizing linear
+polarizing circular
+neutral density
+graduated nd
+variable nd
+color correction
+warming filter
+cooling filter
+skylight filter
+uv filter
+haze filter
+infrared filter
+ultraviolet filter
+blacklight filter
+fluorescence filter
+dichroic filter
+interference filter
+bandpass filter
+notch filter
+edge filter
+beam splitter
+prism effects
+diffraction grating
+fresnel lens
+fiber optic
+light guide
+laser pointer
+coherent light
+incoherent light
+monochromatic
+polychromatic
+white light
+colored light
+rgb primaries
+cmyk printing
+lab color
+hsv model
+hsl model
+pantone matching
+color temperature
+kelvin scale
+daylight balanced
+tungsten balanced
+fluorescent correction
+led color
+mixed lighting
+white balance
+custom balance
+preset balance
+auto balance
+manual setting
+exposure metering
+matrix metering
+center weighted
+spot metering
+highlight weighted
+shadow weighted
+exposure compensation
+exposure bracketing
+hdr capture
+tone mapping
+shadow recovery
+highlight recovery
+contrast adjustment
+curves adjustment
+levels adjustment
+gamma correction
+brightness
+saturation
+vibrance
+clarity
+texture
+dehaze
+vignette
+grain
+noise reduction
+sharpening
+masking
+selective color
+color grading
+look up tables
+film emulation
+vintage effects
+modern clean
+artistic filters
+creative effects
+distortion effects
+blur effects
+motion effects
+light effects
+color effects
+black white
+sepia tone
+split toning
+duo tone
+tritone
+quadtone
+channel mixing
+infrared simulation
+cross processing
+bleach bypass
+day for night
+color isolation
+selective desaturation
+gradient maps
+photo filters
+lens corrections
+perspective correction
+keystone correction
+lens profile
+chromatic aberration
+vignette removal
+distortion correction
+geometric correction
+rotation
+cropping
+straightening
+perspective
+transform
+skew
+warp
+puppet warp
+liquify
+clone stamp
+healing brush
+spot removal
+dust removal
+scratch removal
+blemish removal
+wrinkle reduction
+skin smoothing
+teeth whitening
+eye enhancement
+hair retouching
+background removal
+background replacement
+sky replacement
+object removal
+content aware fill
+patch tool
+frequency separation
+dodge burn
+color dodge
+linear dodge
+vivid light
+linear light
+pin light
+hard mix
+difference
+exclusion
+subtract
+divide
+multiply
+screen
+overlay
+soft light
+hard light
+color burn
+linear burn
+darker color
+lighter color
+normal blend
+dissolve
+behind
+clear
+hue
+saturation
+color
+luminosity
+layer masks
+vector masks
+clipping masks
+adjustment layers
+fill layers
+smart objects
+smart filters
+linked layers
+grouped layers
+locked layers
+visible layers
+hidden layers
+opacity
+fill opacity
+blend modes
+blend if
+layer effects
+drop shadow
+inner shadow
+outer glow
+inner glow
+bevel emboss
+satin
+color overlay
+gradient overlay
+pattern overlay
+stroke
+contour
+texture
+anti alias
+pillow emboss
+chisel hard
+chisel soft
+smooth
+ring double
+ring triple
+rolling slope
+cove shallow
+cove deep
+steps
+scoop
+gloss contour
+highlight mode
+shadow mode
+structure
+size
+soften
+angle
+altitude
+global light
+use global
+distance
+spread
+size
+noise
+layer knocks out
+blend interior
+layer style
+copy effects
+paste effects
+clear effects
+create layer
+hide effects
+scale effects
+copy css
+custom styles
+load styles
+save styles
+reset styles
+style manager
+preset manager
+tool presets
+brush presets
+gradient presets
+contour presets
+custom shapes
+pattern library
+texture library
+action sets
+action recording
+action playing
+batch processing
+batch rename
+image processor
+scripts
+variables
+data sets
+contact sheet
+pdf presentation
+web gallery
+output module
+print module
+export module
+import module
+camera raw
+lightroom mobile
+photoshop mobile
+bridge organization
+metadata
+keywords
+ratings
+labels
+collections
+smart collections
+publish services
+web galleries
+print layouts
+slideshow
+map module
+book module
+web module
+print module
+develop module
+library module
+tethered capture
+watched folders
+auto import
+import presets
+export presets
+metadata presets
+develop presets
+user presets
+camera profiles
+lens profiles
+camera calibration
+process version
+color space
+bit depth
+resolution
+pixel dimensions
+document size
+canvas size
+image size
+interpolation
+bicubic
+bicubic smoother
+bicubic sharper
+bilinear
+nearest neighbor
+preserve details
+automatic
+color profile
+embedded profile
+convert profile
+assign profile
+profile mismatch
+missing profile
+working space
+monitor profile
+printer profile
+custom profile
+soft proof
+gamut warning
+rendering intent
+perceptual
+relative colorimetric
+absolute colorimetric
+saturation
+black point
+compensation
+dither
+proof setup
+proof colors
+gamut warning
+monitor rgb
+web safe
+unrestricted
+custom cmyk
+custom gray
+custom spot
+multichannel
+indexed color
+bitmap mode
+grayscale mode
+duotone mode
+rgb mode
+cmyk mode
+lab mode
+multichannel mode
+mode conversion
+8 bit
+16 bit
+32 bit
+hdr toning
+shadow highlights
+auto color
+auto tone
+auto contrast
+match color
+replace color
+selective color
+color balance
+photo filter
+channel mixer
+black white
+hue saturation
+color lookup
+brightness contrast
+levels
+curves
+exposure
+vibrance
+desaturate
+invert
+equalize
+threshold
+posterize
+gradient map
+variations
+smart sharpen
+unsharp mask
+surface blur
+motion blur
+radial blur
+gaussian blur
+lens blur
+shape blur
+box blur
+average blur
+dust scratches
+median filter
+maximum filter
+minimum filter
+custom filter
+high pass
+add noise
+reduce noise
+despeckle
+crystallize
+facet
+fragment
+mezzotint
+mosaic
+pointillize
+reticulation
+conte crayon
+graphic pen
+halftone pattern
+note paper
+photocopy
+plaster
+reticulation
+stamp
+torn edges
+water paper
+accented edges
+angled strokes
+crosshatch
+dark strokes
+ink outlines
+spatter
+sprayed strokes
+sumi e
+bas relief
+chalk charcoal
+charcoal
+chrome
+craquelure
+emboss
+find edges
+glowing edges
+neon glow
+palette knife
+plastic wrap
+poster edges
+rough pastels
+smudge stick
+sponge
+underpainting
+watercolor
+glass
+ocean ripple
+pinch
+polar coordinates
+ripple
+shear
+spherize
+twirl
+wave
+zigzag
+displace
+clouds
+difference clouds
+fibers
+lens flare
+lighting effects
+render
+texture fill
+3d effects
+clouds
+difference clouds
+fibers
+lens flare
+lighting effects
+texture fill
+texture fill
+3d effects
+digimarc
+eye candy
+alien skin
+nik collection
+topaz labs
+dxo
+capture one
+luminar
+skylum
+on1
+corel
+acdsee
+faststone
+irfanview
+xnview
+picasa
+photos app
+apple photos
+google photos
+adobe bridge
+adobe lightroom
+adobe photoshop
+adobe illustrator
+adobe indesign
+adobe premiere
+adobe after effects
+adobe audition
+adobe animate
+adobe dreamweaver
+adobe xd
+adobe dimension
+adobe substance
+adobe fresco
+adobe rush
+adobe spark
+creative cloud
+creative suite
+master collection
+photography plan
+single app
+all apps
+team plan
+enterprise plan
+student discount
+teacher discount
+nonprofit pricing
+volume licensing
+subscription model
+perpetual license
+upgrade pricing
+special offers
+trial version
+free version
+community edition
+professional edition
+enterprise edition
+cloud services
+sync settings
+creative assets
+fonts
+stock photos
+behance
+portfolio
+tutorials
+learning
+inspiration
+community
+feedback
+collaboration
+sharing
+publishing
+printing
+output
+delivery
+workflow
+automation
+efficiency
+productivity
+creativity
+innovation
+artistry
+craftsmanship
+technical skill
+aesthetic sense
+visual literacy
+design thinking
+problem solving
+critical thinking
+communication
+storytelling
+emotional impact
+cultural relevance
+social responsibility
+ethical practice
+professional standards
+industry knowledge
+market awareness
+client relations
+project management
+time management
+resource allocation
+quality control
+continuous learning
+skill development
+career advancement
+personal growth
+artistic vision
+creative expression
+unique voice
+signature style
+professional identity
+reputation building
+network development
+industry connections
+mentorship
+leadership
+teaching
+knowledge sharing
+community building
+cultural contribution
+legacy creation
+lasting impact
+meaningful work
+purposeful creation
+authentic expression
+genuine innovation
+transformative art
+inspiring design
+compelling imagery
+powerful communication
+effective messaging
+memorable branding
+successful marketing
+profitable business
+sustainable practice
+responsible creation
+ethical innovation
+conscious design
+mindful production
+intentional choices
+deliberate decisions
+strategic thinking
+tactical execution
+operational excellence
+continuous improvement
+adaptive learning
+evolutionary growth
+revolutionary change
+paradigm shift
+industry transformation
+cultural evolution
+societal progress
+human advancement
+technological innovation
+creative breakthrough
+artistic revolution
+design renaissance
+visual reformation
+aesthetic transformation
+cultural renaissance
+creative golden age
+artistic flowering
+design evolution
+visual innovation
+aesthetic advancement
+creative progress
+artistic development
+design improvement
+visual enhancement
+aesthetic refinement
+creative optimization
+artistic perfection
+design mastery
+visual excellence
+aesthetic achievement
+creative accomplishment
+artistic realization
+design fulfillment
+visual manifestation
+aesthetic expression
+creative demonstration
+artistic presentation
+design exhibition
+visual display
+aesthetic showcase
+creative portfolio
+artistic collection
+design gallery
+visual museum
+aesthetic archive
+creative library
+artistic repository
+design database
+visual catalog
+aesthetic inventory
+creative resource
+artistic reference
+design inspiration
+visual motivation
+aesthetic aspiration
+creative ambition
+artistic goal
+design objective
+visual target
+aesthetic aim
+creative purpose
+artistic mission
+design vision
+visual dream
+aesthetic hope
+creative faith
+artistic belief
+design confidence
+visual trust
+aesthetic assurance
+creative certainty
+artistic conviction
+design determination
+visual commitment
+aesthetic dedication
+creative devotion
+artistic passion
+design enthusiasm
+visual excitement
+aesthetic joy
+creative happiness
+artistic satisfaction
+design contentment
+visual peace
+aesthetic harmony
+creative balance
+artistic equilibrium
+design stability
+visual consistency
+aesthetic reliability
+creative dependability
+artistic trustworthiness
+design integrity
+visual authenticity
+aesthetic genuineness
+creative sincerity
+artistic honesty
+design transparency
+visual openness
+aesthetic accessibility
+creative inclusivity
+artistic diversity
+design equality
+visual fairness
+aesthetic justice
+creative freedom
+artistic liberty
+design democracy
+visual rights
+aesthetic dignity
+creative respect
+artistic honor
+design nobility
+visual excellence
+aesthetic mastery
+creative perfection
+artistic transcendence
+design transformation
+visual evolution
+aesthetic revolution
+creative innovation
+artistic advancement
+design progress
+visual development
+aesthetic improvement
+creative enhancement
+artistic optimization
+design refinement
+visual sophistication
+aesthetic elegance
+creative grace
+artistic beauty
+design wonder
+visual magic
+aesthetic miracle
+creative blessing
+artistic gift
+design treasure
+visual jewel
+aesthetic gem
+creative diamond
+artistic gold
+design platinum
+visual silver
+aesthetic bronze
+creative copper
+artistic iron
+design steel
+visual titanium
+aesthetic aluminum
+creative carbon
+artistic silicon
+design polymer
+visual composite
+aesthetic hybrid
+creative fusion
+artistic synthesis
+design integration
+visual unity
+aesthetic wholeness
+creative completeness
+artistic fulfillment
+design satisfaction
+visual contentment
+aesthetic peace
+creative harmony
+artistic balance
+design equilibrium
+visual stability
+aesthetic consistency
+creative reliability
+artistic dependability
+design trustworthiness
+visual integrity
+aesthetic authenticity
+creative genuineness
+artistic sincerity
+design honesty
+visual transparency
+aesthetic openness
+creative accessibility
+artistic inclusivity
+design diversity
+visual equality
+aesthetic fairness
+creative justice
+artistic freedom
+design liberty
+visual democracy
+aesthetic rights
+creative dignity
+artistic respect
+design honor
+visual nobility
+aesthetic excellence
+creative mastery
+artistic perfection
+design transcendence
+visual transformation
+aesthetic evolution
+creative revolution
+artistic innovation
+design advancement
+visual progress
+aesthetic development
+creative improvement
+artistic enhancement
+design optimization
+visual refinement
+aesthetic sophistication
+creative elegance
+artistic grace
+design beauty
+visual wonder
+aesthetic magic
+creative miracle
+artistic blessing
+design gift
+visual treasure
+aesthetic jewel
+creative gem
+artistic diamond
+design gold
+visual platinum
+aesthetic silver
+creative bronze
+artistic copper
+design iron
+visual steel
+aesthetic titanium
+creative aluminum
+artistic carbon
+design silicon
+visual polymer
+aesthetic composite
+creative hybrid
+artistic fusion
+design synthesis
+visual integration
+aesthetic unity
+creative wholeness
+artistic completeness
+design fulfillment
+visual satisfaction
+aesthetic contentment
+creative peace
+artistic harmony
+design balance
+visual equilibrium
+aesthetic stability
+creative consistency
+artistic reliability
+design dependability
+visual trustworthiness
+aesthetic integrity
+creative authenticity
+artistic genuineness
+design sincerity
+visual honesty
+aesthetic transparency

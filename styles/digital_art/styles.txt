@@ -1,0 +1,89 @@
+3D render
+CGI
+Digital painting
+Vector art
+Pixel art
+Concept art
+Matte painting
+Photo manipulation
+Digital collage
+Fractal art
+Generative art
+AI art
+Neural style transfer
+Glitch art
+Vaporwave aesthetic
+Cyberpunk aesthetic
+Synthwave
+Retrowave
+Steampunk
+Dieselpunk
+Biopunk
+Solarpunk
+Gothic art
+Art nouveau digital
+Art deco digital
+Minimalist digital art
+Maximalist digital art
+Surreal digital art
+Abstract digital art
+Photorealistic digital art
+Stylized digital art
+Cartoon style
+Anime style
+Manga style
+Comic book style
+Graphic novel style
+Low poly art
+High poly art
+Isometric art
+Voxel art
+8-bit art
+16-bit art
+32-bit art
+Retro gaming art
+Modern gaming art
+UI design
+UX design
+Interface design
+Icon design
+Logo design
+Typography art
+Kinetic typography
+Motion graphics
+Digital illustration
+Character design
+Environment design
+Prop design
+Vehicle design
+Architecture visualization
+Product visualization
+Scientific visualization
+Data visualization
+Infographic design
+Web design
+App design
+Banner design
+Poster design
+Digital comics
+Digital manga
+Digital storyboard
+Neon noir digital
+AI photobashing
+Low-res nostalgia
+High-frequency detail render
+Painterly diffusion
+Hybrid 2D-3D paintover
+SDF raymarch aesthetic
+Signed distance fields art
+Toon shader flat color
+Cel-shaded outline
+NPR illustrative render
+Clay render aesthetic
+Grease pencil sketch
+Halftone print look
+Riso print emulation
+Vector halftone mesh
+Glowcore UI kitsch
+Data-viz aesthetic
+Node-based generative

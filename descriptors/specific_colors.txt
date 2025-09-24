@@ -1,0 +1,255 @@
+venetian red oxide pigment
+cadmium yellow medium hue
+ultramarine blue lapis lazuli
+burnt umber raw earth
+titanium white opacity coverage
+lamp black carbon soot
+ivory black bone char
+mars black iron oxide
+payne's gray prussian blue
+neutral tint mixing gray
+vandyke brown bitumen
+raw sienna earth clay
+burnt sienna iron oxide
+yellow ochre limonite
+red ochre hematite
+purple ochre manganese
+green earth celadonite
+terre verte glauconite
+chromium oxide green
+viridian chromium sesquioxide
+emerald green copper acetoarsenite
+malachite green copper carbonate
+cobalt blue aluminate
+cerulean blue cobalt tin
+prussian blue ferric ferrocyanide
+phthalo blue copper phthalocyanine
+indigo plant dye
+madder lake root extract
+carmine cochineal insect
+vermillion mercury sulfide
+cinnabar red mercury
+realgar red arsenic
+orpiment yellow arsenic
+lead white basic carbonate
+flake white lead carbonate
+zinc white zinc oxide
+chinese white zinc oxide
+naples yellow lead antimonate
+chrome yellow lead chromate
+cadmium red cadmium selenide
+alizarin crimson synthetic
+quinacridone magenta synthetic
+dioxazine purple synthetic
+benzimidazolone orange synthetic
+azo yellow synthetic
+carbon black acetylene
+bone black animal char
+vine black grape char
+peach black peach pit
+cork black cork char
+coconut black coconut shell
+walnut brown hull stain
+coffee brown bean extract
+tea brown leaf tannin
+wine red grape skin
+cherry red fruit pigment
+strawberry red anthocyanin
+raspberry red betalain
+blackberry purple cyanidin
+blueberry blue anthocyanin
+grape purple malvidin
+plum purple delphinidin
+eggplant purple nasunin
+cabbage purple anthocyanin
+beet red betalain
+carrot orange carotene
+pumpkin orange beta carotene
+sweet potato orange
+tomato red lycopene
+pepper red capsanthin
+paprika red paprika extract
+saffron yellow crocin
+turmeric yellow curcumin
+ginger yellow gingerol
+mustard yellow sinigrin
+horseradish white allyl
+wasabi green isothiocyanate
+mint green menthol
+basil green chlorophyll
+parsley green pheophytin
+spinach green lutein
+kale green zeaxanthin
+lettuce green chlorophyll
+celery green apigenin
+cucumber green cucurbitacin
+lime green citric acid
+lemon yellow citric acid
+orange orange hesperidin
+grapefruit pink naringin
+tangerine orange tangeretin
+mandarin orange nobiletin
+clementine orange synephrine
+bergamot gray bergapten
+lavender purple linalool
+rosemary green rosmarinic acid
+thyme green thymol
+oregano green carvacrol
+sage gray salvianolic acid
+chamomile yellow apigenin
+calendula orange lutein
+marigold yellow zeaxanthin
+sunflower yellow helianthine
+dandelion yellow taraxanthin
+buttercup yellow ranunculin
+daffodil yellow galantamine
+tulip red anthocyanin
+rose red cyanidin
+peony pink peonidin
+carnation pink dianthrone
+lily white saponin
+iris purple irone
+violet purple violaxanthin
+pansy purple anthocyanin
+primrose yellow primrose acid
+forget-me-not blue anchusin
+morning glory blue anthocyanin
+sweet pea purple malvidin
+nasturtium orange tropaeolin
+poppy red rhoeadine
+cosmos pink cyanidin
+zinnia red pelargonidin
+dahlia purple delphinidin
+chrysanthemum yellow luteolin
+aster purple quercetin
+bachelor button blue cyanidin
+cornflower blue protocyanin
+hollyhock red malvidin
+foxglove purple digitoxin
+snapdragon yellow luteolin
+petunia purple petunidin
+impatiens pink cyanidin
+begonia red betacyanin
+geranium red pelargonidin
+hibiscus red hibiscetin
+bougainvillea magenta betanin
+oleander pink oleandrin
+azalea pink anthocyanin
+rhododendron purple rhododendrin
+camellia red theaflavin
+gardenia white gardenoside
+jasmine white jasmonate
+honeysuckle yellow luteolin
+wisteria purple wisterin
+clematis purple clematine
+trumpet vine orange tecoma
+morning glory blue ipomoea
+moonflower white calonyction
+four o'clock magenta mirabilis
+evening primrose yellow oenothein
+night blooming cereus white hylocerein
+queen of the night purple epiphyllum
+bat flower black tacca
+corpse flower burgundy amorphophallus
+carrion flower brown stapelia
+skunk cabbage burgundy symplocarpus
+jack in the pulpit green arisaema
+calla lily white zantedeschia
+peace lily white spathiphyllum
+anthurium red anthocyanin
+bird of paradise orange strelitzia
+protea pink leucospermum
+banksia yellow grevillea
+bottlebrush red callistemon
+eucalyptus blue cineole
+tea tree white melaleuca
+manuka white leptospermum
+pohutukawa red metrosideros
+flame tree red delonix
+jacaranda purple jacarandone
+frangipani white plumeria
+tiare flower white gardenia
+pikake white jasminum
+bird of paradise orange caesalpinia
+royal poinciana red delonix
+flame of the forest orange butea
+golden shower yellow cassia
+copper pod yellow peltophorum
+rain tree pink samanea
+monkey pod brown pithecellobium
+koa wood golden acacia
+ohia lehua red metrosideros
+maile green alyxia
+mokihana purple pelea
+naupaka white scaevola
+beach morning glory purple ipomoea
+sea grape purple coccoloba
+mangrove red rhizophora
+coconut palm brown cocos
+date palm brown phoenix
+fan palm green washingtonia
+royal palm green roystonea
+queen palm green syagrus
+king palm green archontophoenix
+bottle palm green hyophorbe
+triangle palm green dypsis
+areca palm yellow chrysalidocarpus
+bamboo palm green chamaedorea
+parlor palm green chamaedorea
+kentia palm green howea
+chinese fan palm green livistona
+european fan palm green chamaerops
+needle palm green rhapidophyllum
+pindo palm blue butia
+jelly palm yellow butia
+wine palm purple jubaea
+honey palm yellow jubaea
+doum palm brown hyphaene
+baobab brown adansonia
+kapok white ceiba
+silk floss pink chorisia
+bottle tree green brachychiton
+desert rose pink adenium
+madagascar palm gray pachypodium
+ponytail palm beige beaucarnea
+mexican grass tree green dasylirion
+spanish dagger white yucca
+joshua tree cream yucca
+century plant yellow agave
+blue agave gray agave
+octopus agave green agave
+artichoke agave blue agave
+parry's agave gray agave
+whale's tongue agave blue agave
+fox tail agave green agave
+butterfly agave yellow agave
+desert spoon gray dasylirion
+bear grass cream xerophyllum
+adam's needle white yucca
+spanish bayonet white yucca
+our lord's candle white yucca
+chaparral yucca white yucca
+banana yucca yellow yucca
+soaptree yucca white yucca
+thompso's yucca white yucca
+beaked yucca white yucca
+twisted leaf yucca white yucca
+pale yellow yucca cream yucca
+blue yucca gray yucca
+giant dagger white yucca
+faxon yucca white yucca
+inland yucca white yucca
+mohave yucca white yucca
+joshua tree yucca cream yucca
+datil yucca white yucca
+curved leaf yucca white yucca
+weak leaf yucca white yucca
+small soapweed white yucca
+arkansas yucca white yucca
+spanish dagger yucca white yucca
+aloe leaf yucca white yucca
+narrow leaf yucca white yucca
+plains yucca white yucca
+twist leaf yucca white yucca
+mountain yucca white yucca
+giant yucca white yucca

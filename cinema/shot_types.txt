@@ -1,0 +1,120 @@
+extreme wide shot (EWS)
+wide shot (WS)
+medium wide (MWS)
+medium shot (MS)
+medium close-up (MCU)
+close-up (CU)
+extreme close-up (ECU)
+two-shot
+over-the-shoulder (OTS)
+point-of-view (POV)
+insert shot
+cutaway
+establishing shot
+master shot
+tracking shot
+dolly in
+dolly out
+crane up
+crane down
+steadicam following
+handheld shaky
+whip pan
+slow pan
+slow tilt up
+tilt down reveal
+push-in dramatic
+pull-back reveal
+rack focus
+drop focus
+top-down (god's eye)
+dutch angle
+low angle hero
+high angle surveillance
+macro detail
+time-lapse composite
+hyperlapse city
+drone orbit
+FPV chase
+tabletop product shot
+lock-off static shot
+match cut transition shot
+jump cut montage
+smash zoom
+snap zoom
+crash zoom
+whip tilt
+push-pull dolly zoom
+slider lateral move
+parallax tracking shot
+push past foreground
+foreground frame shot
+silhouette backlight shot
+reflected mirror shot
+split diopter focus shot
+shallow depth portrait
+bokeh heavy close-up
+profile two-shot
+dirty over-the-shoulder
+low dolly crawl
+high crane reveal
+jib sweep
+boom down landing
+glidecam hallway run
+gimbal 360 spin
+long take oner
+oner with hidden cuts
+bullet time freeze
+slow motion hero shot
+high speed macro burst
+underwater tracking shot
+aerial topographic shot
+satellite pullback
+horizon silhouette shot
+sunset lens flare shot
+flare streak push
+rain-soaked close-up
+windshield reflection shot
+mirror corridor shot
+doorway frame shot
+over-the-shoulder reveal
+insert of trembling hands
+cut-in eye close-up
+low tracking along ground
+feet walking close-up
+extreme long establishing
+tilt-shift miniature shot
+forced perspective reveal
+split screen comparison
+handheld crash zoom
+shoulder cam sprint
+bodycam POV
+helmet cam POV
+drone dive shot
+cable cam sweep
+wire rig fly-through
+boom pole chase
+macro slider crawl
+slider reveal from obstruction
+rack focus to background
+pull focus to foreground
+iris in
+iris out
+wipe transition shot
+b-roll city timelapse
+dolly pan combo
+top shot over table
+medium shot with foreground blur
+mirrored floor reflection shot
+negative space portrait
+close-up with split lighting
+Rembrandt portrait shot
+chiaroscuro profile
+silhouette slow dolly
+candlelit close-up
+neon drenched medium shot
+light leak flare shot
+locker room tracking shot
+stairwell spiral shot
+corridor dolly
+rotating table shot

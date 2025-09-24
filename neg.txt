@@ -1,0 +1,47 @@
+(worst quality, low quality:2), lowres, bad anatomy, normal quality, monochrome, grayscale, ((signature, text, watermark))
+blurry, out of focus, soft focus, motion blur
+pixelated, jagged edges, aliasing, compression artifacts
+noise, grain, digital noise, film grain
+overexposed, underexposed, blown highlights, crushed blacks
+poor lighting, harsh lighting, flat lighting
+bad composition, cropped, cut off, tilted
+distorted, warped, stretched, squashed
+deformed, disfigured, malformed, mutation
+extra limbs, missing limbs, floating limbs
+bad hands, malformed hands, extra fingers, missing fingers
+bad feet, malformed feet, extra toes, missing toes
+bad eyes, crossed eyes, mismatched eyes, no pupils
+bad face, asymmetrical face, distorted features
+bad hair, floating hair, unrealistic hair
+bad anatomy, incorrect anatomy, impossible anatomy
+bad proportions, wrong proportions, oversized, undersized
+duplicate, cloned, repeated, mirrored
+artifacts, glitches, errors, mistakes
+poor quality, amateur, unprofessional
+cheap, tacky, gaudy, tasteless
+boring, bland, generic, uninspired
+cliché, overused, unoriginal, copied
+messy, cluttered, chaotic, disorganized
+dirty, grimy, stained, damaged
+old, outdated, obsolete, deprecated
+pixelation, jpeg artifacts, compression
+banding, posterization, color bleeding
+chromatic aberration, purple fringing
+vignetting, lens distortion, barrel distortion
+camera shake, handheld blur, stabilization issues
+flash reflection, red eye, harsh shadows
+color cast, white balance issues, temperature problems
+saturation problems, desaturated, washed out
+contrast issues, flat contrast, muddy colors
+exposure problems, clipping, loss of detail
+focus issues, soft focus, focus hunting
+depth of field problems, everything in focus, no bokeh
+framing issues, poor crop, awkward composition
+perspective problems, keystone distortion
+scale issues, size inconsistencies
+lighting problems, mixed lighting, color temperature mismatch
+shadow problems, no shadows, fake shadows
+reflection problems, missing reflections, wrong reflections
+texture problems, no texture, fake texture, repeating patterns
+material problems, wrong materials, impossible materials
+physics problems, floating objects, impossible poses

@@ -1,0 +1,62 @@
+Shark
+Whale
+Dolphin
+Octopus
+Squid
+Jellyfish
+Starfish
+Sea turtle
+Lobster
+Crab
+Shrimp
+Seahorse
+Manta ray
+Stingray
+Barracuda
+Tuna
+Salmon
+Trout
+Bass
+Cod
+Halibut
+Flounder
+Angelfish
+Clownfish
+Pufferfish
+Swordfish
+Marlin
+Grouper
+Snapper
+Mackerel
+Sardine
+Anchovy
+Herring
+Eel
+Moray eel
+Electric eel
+Catfish
+Pike
+Perch
+Carp
+Goldfish
+Koi
+Piranha
+Discus
+Guppy
+Molly
+Platy
+Tetra
+Betta
+Cichlid
+Wrasse
+Parrotfish
+Triggerfish
+Boxfish
+Moorish idol
+Mandarin fish
+Lionfish
+Scorpionfish
+Grouper
+Yellowtail
+Bluefin tuna
+Sea bass

@@ -1,0 +1,660 @@
+ordenador de sobremesa
+pc de escritorio
+portátil
+laptop
+notebook
+ultrabook
+tablet
+ipad
+smartphone
+teléfono móvil
+monitor lcd
+monitor led
+monitor oled
+pantalla ultrawide
+monitor 4k
+monitor gaming
+monitor profesional
+teclado mecánico
+teclado ergonómico
+teclado inalámbrico
+ratón óptico
+ratón láser
+ratón gaming
+ratón ergonómico
+trackball
+trackpad
+tableta gráfica
+stylus
+lápiz digital
+webcam
+cámara web
+micrófono usb
+auriculares gaming
+cascos profesionales
+altavoces 2.1
+altavoces 5.1
+soundbar
+subwoofer
+impresora láser
+impresora de tinta
+impresora multifunción
+escáner de documentos
+plotter
+impresora 3d
+router wifi
+switch ethernet
+hub usb
+disco duro externo
+ssd externo
+pendrive
+tarjeta sd
+memoria usb
+cable hdmi
+cable usb
+cable ethernet
+cable vga
+cable displayport
+adaptador
+conversor
+hub
+concentrador
+regleta con usb
+sai
+ups
+fuente de alimentación
+ventilador de torre
+refrigeración líquida
+pasta térmica
+cable management
+organizador de cables
+bridas
+velcro
+cinta aislante
+destornillador de precisión
+kit de herramientas
+multímetro digital
+soldador
+estaño
+flux
+desoldador
+protoboard
+breadboard
+arduino
+raspberry pi
+placa de desarrollo
+sensor
+actuador
+led
+resistencia
+condensador
+transistor
+integrado
+microcontrolador
+fpga
+osciloscopio
+generador de señales
+fuente de laboratorio
+mesa de trabajo
+silla ergonómica
+silla gaming
+reposapies
+cojín lumbar
+soporte para monitor
+brazo articulado
+soporte para portátil
+atril para tablet
+lámpara de escritorio
+lámpara led
+flexo
+lupa con luz
+organizador de escritorio
+clasificador
+archivador
+carpeta
+separadores
+etiquetas
+post-it
+notas adhesivas
+clip
+grapa
+grapadora
+perforadora
+sacapuntas eléctrico
+destructora de papel
+plastificadora
+laminadora
+guillotina de papel
+cizalla
+cortador circular
+cutter
+cuchilla de repuesto
+alfombrilla de corte
+regla metálica
+escuadra profesional
+transportador
+compás técnico
+estilógrafo
+rotulador técnico
+lápiz mecánico
+minas de grafito
+goma de borrar
+corrector líquido
+corrector en cinta
+pegamento en barra
+pegamento líquido
+silicona líquida
+pistola de silicona
+pistola de pegamento
+cinta adhesiva
+cinta de doble cara
+cinta aislante
+precinto
+bridas de plástico
+velcro adhesivo
+imanes de neodimio
+imanes de oficina
+chinchetas
+clips de colores
+gomas elásticas
+bandas de goma
+cajón organizador
+bandeja para documentos
+revistero
+archivador vertical
+fichero
+tarjetero
+agenda
+calendario de mesa
+calendario de pared
+planificador
+horario
+cronograma
+diagrama de gantt
+pizarra blanca
+pizarra de corcho
+tablón de anuncios
+rotulador de pizarra
+borrador magnético
+imanes decorativos
+marcador permanente
+marcador borrable
+subrayador fluorescente
+bolígrafo de gel
+pluma estilográfica
+cartuchos de tinta
+recambios
+papel de impresora
+papel fotográfico
+papel adhesivo
+etiquetas adhesivas
+sobres
+papel de carta
+papel membretado
+carpetas de presentación
+fundas de plástico
+separadores de colores
+índices
+pestañas
+clips de archivo
+fasteners
+encuadernador
+espiral de encuadernación
+canutillos
+gusanillo
+wire-o
+anillas metálicas
+portadocumentos
+maletín
+cartera profesional
+bolsa para portátil
+funda para tablet
+estuche para móvil
+protector de pantalla
+cargador inalámbrico
+power bank
+batería externa
+cable de datos
+adaptador de corriente
+ladrón de enchufes
+alargador
+enrollacables
+organizador de mesa
+soporte para teléfono
+dock para smartphone
+base de carga
+estación de carga
+hub de carga usb
+cargador múltiple
+temporizador digital
+reloj digital
+despertador
+cronómetro
+calculadora científica
+calculadora básica
+sumadora
+máquina registradora
+datáfono
+tpv
+terminal punto de venta
+lector de códigos
+pistola lectora
+escáner de mano
+báscula digital
+báscula de precisión
+medidor láser
+nivel láser
+detector de metales
+detector de cables
+buscador de vigas
+termómetro digital
+higrómetro
+medidor de humedad
+luxómetro
+sonómetro
+multímetro avanzado
+pinza amperimétrica
+tester de cables
+comprobador de enchufes
+buscapolos
+destornillador con tester
+kit de electricista
+pelacables
+crimpadora
+terminales
+conectores
+regletas de conexión
+cajas de derivación
+tubo corrugado
+canaleta
+pasacables
+bridas para cables
+marcadores de cables
+etiquetas para cables
+código de colores
+polímetro
+osciloscopio digital
+analizador de espectros
+generador de funciones
+fuente conmutada
+transformador
+convertidor dc-dc
+regulador de voltaje
+estabilizador
+protector de sobretensión
+filtro de red
+supresor de picos
+tierra física
+puesta a tierra
+diferencial
+magnetotérmico
+fusible
+portafusibles
+seccionador
+conmutador
+interruptor
+pulsador
+relé
+temporizador
+contactor
+arrancador
+variador de frecuencia
+plc
+autómata programable
+hmi
+pantalla táctil industrial
+sensor de proximidad
+sensor fotoeléctrico
+encoder
+potenciómetro
+servo motor
+motor paso a paso
+driver de motor
+controlador
+tarjeta de expansión
+módulo de comunicación
+interfaz rs232
+interfaz rs485
+conversor usb-serie
+adaptador ethernet
+switch industrial
+router industrial
+access point
+repetidor wifi
+amplificador de señal
+antena wifi
+antena direccional
+cable coaxial
+conector bnc
+conector sma
+adaptador de impedancia
+atenuador
+acoplador
+divisor de señal
+combinador
+filtro pasabanda
+filtro pasabajo
+filtro pasaalto
+amplificador operacional
+comparador
+regulador lineal
+regulador conmutado
+mosfet
+igbt
+diodo
+diodo zener
+diodo schottky
+led de potencia
+driver led
+dimmer led
+controlador rgb
+tira led
+perfil de aluminio
+difusor
+conector led
+empalme
+soldadura
+flux para soldadura
+desoldador de estaño
+malla desoldadora
+jeringa de flux
+limpiador de flux
+alcohol isopropílico
+acetona
+disolvente
+spray limpiador
+aire comprimido
+compresor
+pistola de aire
+soplador
+aspirador industrial
+extractor de humos
+campana extractora
+filtro de carbón
+mascarilla
+gafas de protección
+guantes nitrilo
+guantes latex
+guantes de trabajo
+mono de trabajo
+bata de laboratorio
+zapatos de seguridad
+casco
+auriculares protección
+tapones oídos
+kit primeros auxilios
+extintor co2
+extintor polvo
+extintor agua
+manta ignífuga
+detector de humos
+detector de gas
+alarma
+sirena
+piloto
+baliza
+luz estroboscópica
+señalización
+cartel de seguridad
+pictograma
+etiqueta de peligro
+hoja de seguridad
+manual de instrucciones
+diagrama eléctrico
+esquema
+plano técnico
+documentación técnica
+certificado ce
+declaración conformidad
+garantía
+factura
+albarán
+pedido
+presupuesto
+oferta comercial
+catálogo técnico
+ficha técnica
+datasheet
+hoja características
+manual usuario
+guía instalación
+procedimiento
+protocolo
+checklist
+lista verificación
+registro
+log
+bitácora
+histórico
+trazabilidad
+seguimiento
+control calidad
+inspección
+prueba
+test
+medición
+calibración
+certificación
+homologación
+validación
+verificación
+ensayo
+laboratorio
+probeta
+muestra
+patrón
+referencia
+estándar
+norma
+especificación
+tolerancia
+margen error
+precisión
+exactitud
+resolución
+sensibilidad
+linealidad
+estabilidad
+deriva
+histéresis
+reproducibilidad
+repetibilidad
+incertidumbre
+confiabilidad
+disponibilidad
+mantenibilidad
+mtbf
+mttr
+vida útil
+ciclo vida
+obsolescencia
+reemplazo
+actualización
+upgrade
+migración
+conversión
+adaptación
+modificación
+personalización
+configuración
+parametrización
+programación
+firmware
+software
+aplicación
+driver
+controlador
+plugin
+addon
+extensión
+módulo
+librería
+api
+sdk
+ide
+compilador
+debugger
+emulador
+simulador
+virtual machine
+container
+docker
+kubernetes
+cloud computing
+saas
+paas
+iaas
+backup
+copia seguridad
+restauración
+recuperación
+sincronización
+replicación
+espejo
+redundancia
+alta disponibilidad
+balanceador carga
+cluster
+grid computing
+big data
+analytics
+business intelligence
+data mining
+machine learning
+inteligencia artificial
+neural network
+deep learning
+algoritmo
+heurística
+optimización
+simulación
+modelado
+prototipo
+poc
+mvp
+beta
+alfa
+piloto
+demo
+presentación
+pitch
+propuesta
+proyecto
+roadmap
+hito
+milestone
+entregable
+sprint
+scrum
+agile
+kanban
+devops
+ci/cd
+git
+repository
+branch
+commit
+merge
+pull request
+code review
+testing
+qa
+bug
+issue
+ticket
+helpdesk
+soporte técnico
+documentación
+wiki
+base conocimiento
+faq
+manual
+tutorial
+guía
+howto
+best practices
+lessons learned
+post mortem
+retrospectiva
+feedback
+review
+audit
+compliance
+governance
+risk management
+security
+cybersecurity
+firewall
+antivirus
+vpn
+ssl
+tls
+encryption
+hash
+digital signature
+certificate
+pki
+authentication
+authorization
+access control
+identity management
+single sign-on
+two factor
+multifactor
+biometric
+password
+passphrase
+token
+smart card
+yubikey
+privacy
+gdpr
+data protection
+consent
+opt-in
+opt-out
+cookie
+tracking
+analytics
+metrics
+kpi
+dashboard
+report
+alerting
+monitoring
+logging
+debugging
+profiling
+performance
+optimization
+scalability
+load testing
+stress testing
+penetration testing
+vulnerability
+patch
+update
+hotfix
+rollback
+deployment
+release
+version
+changelog
+migration
+maintenance
+support
+sla
+slo
+incident
+outage
+downtime
+recovery
+disaster recovery
+business continuity
+crisis management
+emergency
+contingency
+plan b
+workaround
+temporary fix
+permanent solution

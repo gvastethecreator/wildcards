@@ -1,0 +1,206 @@
+skeleton warrior rusty sword bone armor
+zombie shambling rotting flesh hungry
+ghost transparent floating chain rattling
+vampire pale skin red eyes fangs
+werewolf full moon transformation claws
+bandit leader scar face dirty clothes
+orc warrior green skin tusks club
+goblin small green mischievous dagger
+troll large regenerating bridge guardian
+ogre giant club eating humans
+giant massive footsteps ground shaking
+dragon fire breathing treasure hoarding
+wyvern two legs poison stinger
+drake smaller dragon pack hunting
+kobold small draconic trap makers
+lizardman scales spear tribal
+serpentman snake lower body hypnotic
+naga serpent torso magical abilities
+lamia beautiful woman snake body
+medusa snake hair stone gaze
+harpy bird woman screeching flight
+siren beautiful voice ship wrecking
+banshee wailing death prediction
+wraith life draining incorporeal
+specter cold touch fear inducing
+phantom transparent wall phasing
+poltergeist object throwing invisible
+revenant vengeance seeking undead
+wight life level draining
+mummy wrapped bandages curse bearing
+lich skeletal wizard phylactery
+death knight fallen paladin darkness
+vampire lord ancient powerful nobility
+demon horns flames sulfur smell
+devil contracts lawful evil
+succubus seductive energy draining
+incubus masculine charm dream invasion
+imp small winged mischievous
+lemure formless least devil
+bone devil skeletal hook wielding
+bearded devil combat specialist
+chain devil torture specialist
+ice devil frozen hell dweller
+pit fiend greatest devil
+balor whip flame demon lord
+marilith six armed snake demon
+glabrezu four armed deception demon
+hezrou toad demon swamp dweller
+vrock vulture demon pack fighter
+nalfeshnee boar demon judgment
+babau assassin demon shadow
+dretch weakest demon cannon fodder
+quasit familiar demon spy
+manes least demon chaotic
+barlgura ape demon jumping
+shadow demon incorporeal darkness
+bulezau goat demon pack hunter
+rutterkin corrupted demon random
+molydeus two headed demon guardian
+sibriex demon flesh warping
+wastrilith water demon poisoning
+alkilith slime demon door mimic
+armanite centaur demon charging
+dybbuk possessing demon body theft
+maurezhi ghoul demon corpse eating
+nabassu death stealing demon
+palrethee memory wiping demon
+yochlol handmaiden demon shapeshifting
+goristro siege demon massive
+balor flame whip demon lord
+pit fiend archdevil supreme
+ancient red dragon fire immunity
+ancient black dragon acid breath
+ancient blue dragon lightning breath
+ancient green dragon poison gas
+ancient white dragon cold breath
+ancient brass dragon sleep gas
+ancient bronze dragon lightning
+ancient copper dragon acid
+ancient gold dragon fire weakness
+ancient silver dragon cold
+dracolich undead dragon phylactery
+shadow dragon darkness breath
+deep dragon underground dweller
+cloud giant storm control
+fire giant forge mastery
+frost giant ice weapons
+hill giant simple minded
+stone giant rock throwing
+storm giant lightning control
+cyclops one eye forge work
+ettin two headed giant
+fomorian cursed giant
+oni ogre mage shapeshifting
+death giant undead massive
+earth giant stone skin
+sun giant light radiating
+moon giant darkness control
+star giant cosmic power
+void giant reality warping
+time giant temporal control
+space giant dimensional travel
+mind flayer brain eating telepathic
+aboleth ancient aquatic aberration
+beholder floating eye stalks
+owlbear bear owl hybrid
+bulette land shark burrowing
+rust monster metal eating
+gelatinous cube dungeon cleaner
+ochre jelly acid splitting
+gray ooze metal dissolving
+black pudding corrosive splitting
+green slime metal dissolving
+brown pudding cold immune
+olive slime plant dissolving
+white pudding bone dissolving
+crystal ooze gem eating
+magma ooze fire immune
+ice ooze cold damage
+lightning ooze electric
+poison ooze toxic touch
+acid ooze corrosive
+psychic ooze mind affecting
+necrotic ooze life draining
+radiant ooze light damaging
+force ooze magical energy
+thunder ooze sonic damage
+cold ooze freezing touch
+fire ooze burning damage
+doppelganger perfect mimicry
+mimic chest monster surprise
+lurker above ceiling dweller
+trapper floor monster
+roper cave ceiling tentacles
+piercer ceiling spike drop
+darkmantle ceiling octopus
+hook horror underground dweller
+umber hulk confusion gaze
+purple worm massive burrower
+carrion crawler paralysis tentacles
+ankheg acid spitting insect
+phase spider ethereal hunter
+giant spider web spinner
+spider queen enormous arachnid
+drider dark elf spider
+ettercap spider friend web
+chitine spider servant
+aranea spider wizard
+neogi spider eel slaver
+tlincalli scorpion centaur
+scorpion king desert ruler
+giant scorpion poison stinger
+giant centipede poison bite
+giant millipede defensive curl
+giant beetle hard shell
+giant ant colony worker
+giant wasp poison stinger
+giant hornet aggressive swarm
+killer bee lethal swarm
+giant fly disease carrier
+giant mosquito blood draining
+giant tick disease vector
+giant flea jumping parasite
+giant louse clinging parasite
+giant mite tiny irritant
+giant aphid plant drainer
+giant termite wood destroyer
+giant cockroach radiation immune
+giant cricket jumping noise
+giant grasshopper powerful legs
+giant locust crop destroyer
+giant mantis ambush predator
+giant dragonfly aerial hunter
+giant butterfly beautiful wings
+giant moth night flyer
+giant beetle hardened shell
+stag beetle horn fighter
+rhinoceros beetle strong lifter
+dung beetle ball roller
+scarab beetle sacred symbol
+firefly beetle light maker
+click beetle jumping escape
+ground beetle fast runner
+tiger beetle aggressive hunter
+bombardier beetle chemical spray
+rove beetle flexible body
+carrion beetle corpse cleaner
+burying beetle undertaker
+skin beetle dermestid cleaner
+carpet beetle fabric destroyer
+cigarette beetle tobacco eater
+drugstore beetle pantry pest
+furniture beetle wood borer
+powder post beetle structural damage
+death watch beetle ticking sound
+old house borer wood destroyer
+long horned beetle antenna
+short horned beetle compact
+weevil snout beetle
+bark beetle tree killer
+elm bark beetle disease vector
+mountain pine beetle forest destroyer
+emerald ash borer invasive species
+asian long horned beetle tree pest
+citrus long horned beetle fruit pest
+coffee berry borer crop pest

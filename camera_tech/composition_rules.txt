@@ -1,0 +1,50 @@
+rule of thirds
+golden ratio
+leading lines
+symmetry
+asymmetry
+balance
+imbalance
+pattern
+repetition
+contrast
+framing
+natural framing
+depth of field
+shallow depth of field
+deep depth of field
+foreground focus
+background focus
+center composition
+off-center composition
+diagonal composition
+triangular composition
+circular composition
+spiral composition
+S-curve composition
+zigzag composition
+horizontal lines
+vertical lines
+curved lines
+intersecting lines
+vanishing point
+perspective
+linear perspective
+atmospheric perspective
+overlapping
+size variation
+color contrast
+tonal contrast
+negative space
+positive space
+minimalism
+maximalism
+isolation
+grouping
+odd numbers
+even numbers
+fill the frame
+leave space
+breathing room
+tight crop
+loose crop

@@ -1,0 +1,1872 @@
+Pikachu
+Charizard
+Blastoise
+Venusaur
+Mewtwo
+Mew
+Lugia
+Ho-Oh
+Celebi
+Kyogre
+Groudon
+Rayquaza
+Jirachi
+Deoxys
+Dialga
+Palkia
+Giratina
+Arceus
+Victini
+Reshiram
+pokeball
+great ball
+ultra ball
+master ball
+safari ball
+net ball
+dive ball
+nest ball
+repeat ball
+timer ball
+luxury ball
+premier ball
+dusk ball
+heal ball
+quick ball
+cherish ball
+park ball
+sport ball
+dream ball
+beast ball
+level ball
+lure ball
+moon ball
+friend ball
+love ball
+heavy ball
+fast ball
+gs ball
+rocket ball
+snag ball
+shadow ball
+relic ball
+strange ball
+ancient ball
+temporal ball
+spatial ball
+distortion ball
+primal ball
+origin ball
+rainbow ball
+cosmic ball
+galaxy ball
+nebula ball
+stellar ball
+solar ball
+lunar ball
+planetary ball
+asteroid ball
+potion
+super potion
+hyper potion
+max potion
+full restore
+revive
+max revive
+antidote
+burn heal
+ice heal
+awakening
+paralyze heal
+full heal
+pecha berry
+cheri berry
+chesto berry
+rawst berry
+aspear berry
+leppa berry
+oran berry
+persim berry
+lum berry
+sitrus berry
+figy berry
+wiki berry
+mago berry
+aguav berry
+iapapa berry
+razz berry
+bluk berry
+nanab berry
+wepear berry
+pinap berry
+pomeg berry
+kelpsy berry
+qualot berry
+hondew berry
+grepa berry
+tamato berry
+cornn berry
+magost berry
+rabuta berry
+nomel berry
+spelon berry
+pamtre berry
+watmel berry
+durin berry
+belue berry
+fire stone
+water stone
+thunder stone
+leaf stone
+moon stone
+sun stone
+shiny stone
+dusk stone
+dawn stone
+ice stone
+oval stone
+everstone
+hard stone
+heat rock
+damp rock
+smooth rock
+icy rock
+light clay
+grip claw
+wide lens
+zoom lens
+metronome
+muscle band
+wise glasses
+expert belt
+life orb
+toxic orb
+flame orb
+sticky barb
+shed shell
+big root
+choice specs
+choice band
+choice scarf
+focus sash
+focus band
+power herb
+white herb
+mental herb
+power bracer
+power belt
+power lens
+power band
+power anklet
+power weight
+macho brace
+exp share
+lucky egg
+cleanse tag
+smoke ball
+everstone
+light ball
+thick club
+leek
+leftovers
+black sludge
+rocky helmet
+air balloon
+ring target
+eviolite
+float stone
+red card
+eject button
+weakness policy
+assault vest
+safety goggles
+terrain extender
+protective pads
+throat spray
+room service
+utility umbrella
+heavy duty boots
+blunder policy
+covert cloak
+clear amulet
+punching glove
+loaded dice
+booster energy
+ability capsule
+ability patch
+rare candy
+master ball
+z crystal
+dynamax candy
+max mushroom
+galarica twig
+galarica cuff
+galarica wreath
+armorite ore
+dynite ore
+fresh water
+soda pop
+lemonade
+moomoo milk
+energy powder
+energy root
+heal powder
+revival herb
+ether
+max ether
+elixir
+max elixir
+pp up
+pp max
+zinc
+protein
+iron
+calcium
+hp up
+carbos
+sacred ash
+rage candy bar
+lava cookie
+old gateau
+casteliacone
+lumiose galette
+shalour sable
+big malasada
+pewter crunchies
+tm case
+berry pouch
+town map
+vs seeker
+teachy tv
+tri pass
+rainbow pass
+tea
+mystic ticket
+aurora ticket
+old sea map
+letter
+eon ticket
+red orb
+blue orb
+meteorite
+magma stone
+lustrous orb
+griseous orb
+soul dew
+light stone
+dark stone
+dna splicers
+reveal glass
+prison bottle
+n solarizer
+n lunarizer
+ultranecrozium z
+pink bow
+polkadot bow
+red scarf
+blue scarf
+pink scarf
+green scarf
+yellow scarf
+bright powder
+white herb
+quick powder
+deep sea tooth
+deep sea scale
+prism scale
+reaper cloth
+razor claw
+razor fang
+electrizer
+magmarizer
+protector
+dubious disc
+upgrade
+dragon scale
+kings rock
+metal coat
+black belt
+blackglasses
+charcoal
+dragon fang
+hard stone
+magnet
+metal powder
+miracle seed
+mystic water
+nevermeltice
+poison barb
+sharp beak
+silk scarf
+silver powder
+soft sand
+spell tag
+twisted spoon
+black belt
+wise glasses
+metronome
+amulet coin
+soothe bell
+cleanse tag
+smoke ball
+focus band
+lucky punch
+metal powder
+quick powder
+scope lens
+wide lens
+zoom lens
+destiny knot
+power herb
+white herb
+mental herb
+big root
+bindable
+bright powder
+choice band
+choice scarf
+choice specs
+expert belt
+flame orb
+grip claw
+iron ball
+lagging tail
+life orb
+light clay
+lucky egg
+macho brace
+metronome
+muscle band
+power herb
+quick claw
+ring target
+rocky helmet
+shell bell
+sticky barb
+toxic orb
+wise glasses
+aguav berry
+apicot berry
+aspear berry
+babiri berry
+belue berry
+bluk berry
+charti berry
+cheri berry
+chesto berry
+chilan berry
+chople berry
+coba berry
+colbur berry
+cornn berry
+custap berry
+durin berry
+enigma berry
+figy berry
+ganlon berry
+grepa berry
+haban berry
+hondew berry
+iapapa berry
+jaboca berry
+kasib berry
+kebia berry
+kelpsy berry
+lansat berry
+leppa berry
+liechi berry
+lum berry
+mago berry
+magost berry
+micle berry
+nanab berry
+nomel berry
+occa berry
+oran berry
+pamtre berry
+passho berry
+payapa berry
+pecha berry
+persim berry
+petaya berry
+pinap berry
+pomeg berry
+qualot berry
+rabuta berry
+rawst berry
+razz berry
+rindo berry
+roseli berry
+rowap berry
+salac berry
+shuca berry
+sitrus berry
+spelon berry
+starf berry
+tamato berry
+tanga berry
+wacan berry
+watmel berry
+wepear berry
+wiki berry
+yache berry
+pokemon center
+pokemon gym
+elite four
+champion
+professor oak
+professor elm
+professor birch
+professor rowan
+professor juniper
+professor sycamore
+professor kukui
+professor magnolia
+team rocket
+team magma
+team aqua
+team galactic
+team plasma
+team flare
+team skull
+team rainbow rocket
+aether foundation
+macro cosmos
+poke mart
+pokemart
+department store
+game corner
+safari zone
+daycare
+breeding center
+contest hall
+battle frontier
+battle tower
+battle factory
+battle arcade
+battle castle
+battle hall
+battle pyramid
+trainer school
+pokemon contest
+pokemon coordinator
+pokemon breeder
+pokemon ranger
+pokemon researcher
+pokemon professor
+gym leader
+elite four member
+champion
+frontier brain
+kahuna
+trial captain
+captain
+totem pokemon
+ultra necrozma
+dusk mane necrozma
+dawn wings necrozma
+ultra burst
+z move
+z crystal
+mega evolution
+mega stone
+primal reversion
+dynamax
+gigantamax
+g max move
+raid battle
+dynamax raid
+tera type
+terastallization
+tera orb
+stellar type
+blood moon
+kitakami
+blueberry academy
+area zero
+great crater
+paradise protection protocol
+ai professor
+time machine
+crystal pool
+loyal three
+treasures of ruin
+path of legends
+victory road
+starfall street
+team star
+operation starfall
+nemona
+arven
+penny
+clavell
+jacq
+tyme
+raifort
+salvatore
+miriam
+saguaro
+dendra
+hassel
+brassius
+iono
+kofu
+larry
+ryme
+tulip
+grusha
+rika
+poppy
+geeta
+kieran
+carmine
+briar
+drayton
+crispin
+amarys
+lacey
+cyrano
+indigo disk
+paldea
+kitakami
+unova academy
+naranja academy
+uva academy
+rotom phone
+picnic
+sandwich
+pokemon washing
+pokemon grooming
+pokemon playing
+auto battle
+let's go mode
+flying taxi
+koraidon
+miraidon
+great tusk
+scream tail
+brute bonnet
+flutter mane
+slither wing
+sandy shocks
+iron treads
+iron bundle
+iron hands
+iron jugulis
+iron moth
+iron thorns
+roaring moon
+iron valiant
+walking wake
+iron leaves
+gouging fire
+raging bolt
+iron boulder
+iron crown
+terapagos
+pecharunt
+ogerpon
+hearthflame mask
+wellspring mask
+cornerstone mask
+tera crown
+stellar crown
+master crown
+loyal three
+okidogi
+munkidori
+fezandipiti
+ancient pokemon
+future pokemon
+paradox pokemon
+ultra beast
+necrozma
+cosmog
+cosmoem
+solgaleo
+lunala
+necrozma
+magearna
+marshadow
+zeraora
+meltan
+melmetal
+grookey
+thwackey
+rillaboom
+scorbunny
+raboot
+cinderace
+sobble
+drizzile
+inteleon
+skwovet
+greedent
+rookidee
+corvisquire
+corviknight
+blipbug
+dottler
+orbeetle
+nickit
+thievul
+gossifleur
+eldegoss
+wooloo
+dubwool
+chewtle
+drednaw
+yamper
+boltund
+rolycoly
+carkol
+coalossal
+applin
+flapple
+appletun
+silicobra
+sandaconda
+cramorant
+arrokuda
+barraskewda
+toxel
+toxapex
+sizzlipede
+centiskorch
+clobbopus
+grapploct
+sinistea
+polteageist
+hatenna
+hattrem
+hatterene
+impidimp
+morgrem
+grimmsnarl
+obstagoon
+perrserker
+cursola
+sirfetchd
+mr rime
+runerigus
+milcery
+alcremie
+falinks
+pincurchin
+snom
+frosmoth
+stonjourner
+eiscue
+indeedee
+morpeko
+cufant
+copperajah
+dracozolt
+arctozolt
+dracovish
+arctovish
+duraludon
+dreepy
+drakloak
+dragapult
+zacian
+zamazenta
+eternatus
+kubfu
+urshifu
+regieleki
+regidrago
+glastrier
+spectrier
+calyrex
+poipole
+naganadel
+stakataka
+blacephalon
+zeraora
+meltan
+melmetal
+Zekrom
+Kyurem
+Keldeo
+Meloetta
+Genesect
+Xerneas
+Yveltal
+Zygarde
+Diancie
+Hoopa
+Volcanion
+Solgaleo
+Lunala
+Necrozma
+Magearna
+Marshadow
+Zeraora
+Meltan
+Melmetal
+Zarude
+Regieleki
+Regidrago
+Glastrier
+Spectrier
+Calyrex
+pokeball
+great ball
+ultra ball
+master ball
+safari ball
+net ball
+dive ball
+nest ball
+repeat ball
+timer ball
+luxury ball
+premier ball
+dusk ball
+heal ball
+quick ball
+cherish ball
+park ball
+fast ball
+level ball
+lure ball
+heavy ball
+love ball
+friend ball
+moon ball
+sport ball
+dream ball
+beast ball
+poke flute
+town map
+bicycle
+old rod
+good rod
+super rod
+itemfinder
+silph scope
+lift key
+card key
+gold teeth
+secret key
+bike voucher
+poke doll
+fire stone
+water stone
+thunder stone
+leaf stone
+moon stone
+sun stone
+shiny stone
+dusk stone
+dawn stone
+ice stone
+everstone
+oval stone
+rare candy
+master ball
+hyper potion
+max potion
+full restore
+revive
+max revive
+antidote
+paralyze heal
+awakening
+burn heal
+ice heal
+full heal
+ether
+max ether
+elixir
+max elixir
+pp up
+pp max
+fresh water
+soda pop
+lemonade
+moomoo milk
+energy powder
+energy root
+heal powder
+revival herb
+x attack
+x defend
+x speed
+x accuracy
+x special
+dire hit
+guard spec
+repel
+super repel
+max repel
+escape rope
+poke toy
+fluffy tail
+blue flute
+yellow flute
+red flute
+black flute
+white flute
+shoal salt
+shoal shell
+red shard
+blue shard
+yellow shard
+green shard
+heart scale
+honey
+rare bone
+stardust
+star piece
+pearl
+big pearl
+nugget
+tiny mushroom
+big mushroom
+balm mushroom
+pearl string
+comet shard
+relic copper
+relic silver
+relic gold
+relic vase
+relic band
+relic statue
+relic crown
+strange souvenir
+mega stone
+keystone
+z crystal
+dynamax crystal
+tera shard
+ability capsule
+bottle cap
+gold bottle cap
+wishing piece
+max mushroom
+galarica twig
+galarica cuff
+galarica wreath
+armorite ore
+dynite ore
+legendary clue
+rainbow wing
+silver wing
+clear bell
+gs ball
+red orb
+blue orb
+adamant orb
+lustrous orb
+griseous orb
+soul dew
+deep sea tooth
+deep sea scale
+dragon scale
+up grade
+dubious disc
+protector
+electirizer
+magmarizer
+razor fang
+razor claw
+prism scale
+whipped dream
+sachet
+oval charm
+shiny charm
+catching charm
+mark charm
+amulet coin
+luck incense
+sea incense
+lax incense
+odd incense
+rock incense
+rose incense
+pure incense
+full incense
+wave incense
+macho brace
+power weight
+power bracer
+power belt
+power lens
+power band
+power anklet
+exp share
+lucky egg
+soothe bell
+mental herb
+white herb
+bright powder
+quick claw
+kings rock
+silver powder
+focus band
+scope lens
+metal coat
+leftovers
+dragon fang
+light ball
+soft sand
+hard stone
+miracle seed
+black glasses
+black belt
+magnet
+mystic water
+sharp beak
+poison barb
+never melt ice
+spell tag
+twisted spoon
+charcoal
+dragon scale
+silk scarf
+shell bell
+sea incense
+lax incense
+lucky punch
+metal powder
+thick club
+leek
+red scarf
+blue scarf
+pink scarf
+green scarf
+yellow scarf
+wise glasses
+expert belt
+light clay
+grip claw
+wide lens
+zoom lens
+metronome
+iron ball
+flame orb
+toxic orb
+sticky barb
+shed shell
+big root
+choice specs
+choice scarf
+choice band
+focus sash
+life orb
+power herb
+white herb
+mental herb
+power bracer
+power belt
+power lens
+power band
+power anklet
+power weight
+destiny knot
+everstone
+oval stone
+dawn stone
+dusk stone
+shiny stone
+ice stone
+fire stone
+water stone
+thunder stone
+leaf stone
+moon stone
+sun stone
+oval charm
+shiny charm
+catching charm
+mark charm
+rotom catalog
+gracidea
+reveal glass
+dna splicers
+prison bottle
+n lunarizer
+n solarizer
+ultranecrozium z
+red nectar
+yellow nectar
+pink nectar
+purple nectar
+festival ticket
+mystic ticket
+aurora ticket
+old sea map
+member card
+azure flute
+liberty pass
+eon ticket
+mystic water
+blackglasses
+black belt
+charcoal
+dragon fang
+hard stone
+magnet
+metal coat
+miracle seed
+never melt ice
+poison barb
+sharp beak
+silk scarf
+silver powder
+soft sand
+spell tag
+twisted spoon
+flame plate
+splash plate
+zap plate
+meadow plate
+icicle plate
+fist plate
+toxic plate
+earth plate
+sky plate
+mind plate
+insect plate
+stone plate
+spooky plate
+draco plate
+dread plate
+iron plate
+pixie plate
+fighting memory
+flying memory
+poison memory
+ground memory
+rock memory
+bug memory
+ghost memory
+steel memory
+fire memory
+water memory
+grass memory
+electric memory
+psychic memory
+ice memory
+dragon memory
+dark memory
+fairy memory
+burn drive
+shock drive
+chill drive
+douse drive
+normalium z
+fightinium z
+flyinium z
+poisonium z
+groundium z
+rockium z
+buginium z
+ghostium z
+steelium z
+firium z
+waterium z
+grassium z
+electrium z
+psychium z
+icium z
+dragonium z
+darkinium z
+fairium z
+decidium z
+incinium z
+primarium z
+eevium z
+pikanium z
+snorlium z
+mewnium z
+pikashunium z
+marshadium z
+ultranecrozium z
+mimikium z
+lycanium z
+kommonium z
+solganium z
+lunalium z
+tapunium z
+aloraichium z
+professor oak
+professor elm
+professor birch
+professor rowan
+professor juniper
+professor sycamore
+professor kukui
+professor magnolia
+professor willow
+gym leader
+elite four
+champion
+team rocket
+team aqua
+team magma
+team galactic
+team plasma
+team flare
+team skull
+team rainbow rocket
+aether foundation
+macro cosmos
+team yell
+nurse joy
+officer jenny
+pokemon center
+pokemart
+poke stop
+gym
+pokemon league
+victory road
+elite four
+champion room
+hall of fame
+starter pokemon
+legendary pokemon
+mythical pokemon
+ultra beast
+z move
+mega evolution
+gigantamax
+dynamax
+tera type
+regional variant
+alolan form
+galarian form
+hisuian form
+paldean form
+shadow pokemon
+purified pokemon
+lucky pokemon
+shiny pokemon
+alpha pokemon
+totem pokemon
+noble pokemon
+contest pokemon
+coordinator
+pokemon contest
+pokemon showcase
+pokemon performance
+gym battle
+league battle
+tournament
+battle frontier
+battle tower
+battle factory
+battle dome
+battle pike
+battle arena
+battle pyramid
+battle palace
+pokemon world championship
+masters eight
+pokemon professor
+pokemon researcher
+pokemon trainer
+pokemon breeder
+pokemon coordinator
+pokemon ranger
+pokemon watcher
+pokemon photographer
+pokemon groomer
+pokemon doctor
+pokemon nurse
+pokemon daycare
+safari zone
+game corner
+department store
+silph co
+devon corporation
+team rocket hideout
+team aqua hideout
+team magma hideout
+team galactic headquarters
+team plasma castle
+team flare secret lab
+po town
+aether paradise
+rose tower
+energy plant
+spear pillar
+hall of origin
+distortion world
+ultra space
+ultra wormhole
+altar of the sunne
+altar of the moone
+mount lanakila
+poni island
+akala island
+melemele island
+ula ula island
+galar region
+kalos region
+unova region
+sinnoh region
+hoenn region
+johto region
+kanto region
+alola region
+paldea region
+hisui region
+orre region
+fiore region
+almia region
+oblivia region
+sevii islands
+orange islands
+decolore islands
+battle zone
+fight area
+survival area
+resort area
+pokemon village
+terminus cave
+team flare secret lab
+lysandre labs
+poke ball factory
+fossil lab
+power plant
+rocket warehouse
+silph co
+celadon game corner
+rocket hideout
+pokemon tower
+lavender town
+cerulean cave
+mt silver
+tohjo falls
+whirl islands
+slowpoke well
+ruins of alph
+union cave
+dark cave
+ice path
+dragon den
+mt mortar
+lake of rage
+radio tower
+goldenrod tunnel
+underground warehouse
+team rocket warehouse
+bell tower
+tin tower
+ecruteak gym
+violet gym
+azalea gym
+goldenrod gym
+ecruteak gym
+cianwood gym
+olivine gym
+mahogany gym
+blackthorn gym
+elite four
+indigo plateau
+mt silver summit
+champion room
+hall of fame
+pokemon league
+victory road
+tohjo falls
+route 1
+route 2
+route 3
+new bark town
+cherrygrove city
+violet city
+azalea town
+goldenrod city
+ecruteak city
+olivine city
+cianwood city
+mahogany town
+blackthorn city
+indigo plateau
+mt silver
+pallet town
+viridian city
+pewter city
+cerulean city
+vermilion city
+lavender town
+celadon city
+fuchsia city
+saffron city
+cinnabar island
+littleroot town
+oldale town
+petalburg city
+rustboro city
+dewford town
+slateport city
+mauville city
+verdanturf town
+fallarbor town
+lavaridge town
+fortree city
+lilycove city
+mossdeep city
+sootopolis city
+pacifidlog town
+ever grande city
+battle frontier
+southern island
+mirage island
+navel rock
+birth island
+faraway island
+twinleaf town
+sandgem town
+jubilife city
+oreburgh city
+floaroma town
+eterna city
+hearthome city
+solaceon town
+veilstone city
+pastoria city
+celestic town
+canalave city
+snowpoint city
+sunyshore city
+pokemon league
+fight area
+survival area
+resort area
+stark mountain
+turnback cave
+sendoff spring
+fullmoon island
+newmoon island
+flower paradise
+hall of origin
+distortion world
+nuvema town
+accumula town
+striaton city
+nacrene city
+castelia city
+nimbasa city
+anville town
+driftveil city
+mistralton city
+icirrus city
+opelucid city
+lacunosa town
+undella town
+black city
+white forest
+aspertia city
+virbank city
+humilau city
+floccesy town
+lentimas town
+reversal mountain
+strange house
+relic castle
+desert resort
+cold storage
+chargestone cave
+celestial tower
+twist mountain
+dragonspiral tower
+giant chasm
+victory road
+pokemon league
+n castle
+plasma frigate
+team plasma headquarters
+vaniville town
+aquacorde town
+santalune city
+lumiose city
+camphrier town
+cyllage city
+ambrette town
+geosenge town
+shalour city
+coumarine city
+laverre city
+dendemille town
+anistar city
+couriway town
+snowbelle city
+kiloude town
+pokemon league
+champion room
+hall of fame
+team flare secret lab
+lysandre labs
+poke ball factory
+fossil lab
+power plant
+lost hotel
+pokemon village
+terminus cave
+unknown dungeon
+kalos power plant
+team flare secret lab
+iki town
+hau oli city
+heahea city
+paniola town
+konikoni city
+malie city
+tapu village
+po town
+seafolk village
+exeggutor island
+poni wilds
+vast poni canyon
+altar of the sunne
+altar of the moone
+mount lanakila
+ultra megalopolis
+ultra necrozma
+ultra space
+ultra wormhole
+aether paradise
+aether foundation
+team skull
+team rainbow rocket
+rainbow rocket episode
+postwick
+wedgehurst
+motostoke
+turffield
+hulbury
+hammerlocke
+stow on side
+ballonlea
+circhester
+spikemuth
+wyndon
+wild area
+isle of armor
+crown tundra
+dynamax den
+max raid battle
+dynamax adventure
+galarian star tournament
+pokemon camp
+curry dex
+league card
+rotom phone
+dynamax band
+z ring
+mega ring
+key stone
+z crystal
+mega stone
+max soup
+max mushroom
+galarica twig
+galarica cuff
+galarica wreath
+dynite ore
+armorite ore
+exp candy xs
+exp candy s
+exp candy m
+exp candy l
+exp candy xl
+rare candy
+bottle cap
+gold bottle cap
+ability patch
+mint
+nature mint
+lonely mint
+adamant mint
+naughty mint
+brave mint
+bold mint
+impish mint
+lax mint
+relaxed mint
+modest mint
+mild mint
+rash mint
+quiet mint
+calm mint
+gentle mint
+careful mint
+sassy mint
+timid mint
+hasty mint
+jolly mint
+naive mint
+serious mint
+tr move
+tm move
+technical record
+technical machine
+pokejob
+poke pelago
+festival plaza
+ultra space
+ultra wormhole
+ultra necrozma
+necrozma
+solgaleo
+lunala
+cosmog
+cosmoem
+tapu koko
+tapu lele
+tapu bulu
+tapu fini
+type null
+silvally
+ultra beast
+nihilego
+buzzwole
+pheromosa
+xurkitree
+celesteela
+kartana
+guzzlord
+poipole
+naganadel
+stakataka
+blacephalon
+zeraora
+meltan
+melmetal
+grookey
+thwackey
+rillaboom
+scorbunny
+raboot
+cinderace
+sobble
+drizzile
+inteleon
+skwovet
+greedent
+rookidee
+corvisquire
+corviknight
+blipbug
+dottler
+orbeetle
+nickit
+thievul
+gossifleur
+eldegoss
+wooloo
+dubwool
+chewtle
+drednaw
+yamper
+boltund
+rolycoly
+carkol
+coalossal
+applin
+flapple
+appletun
+silicobra
+sandaconda
+cramorant
+arrokuda
+barraskewda
+toxel
+toxapex
+sizzlipede
+centiskorch
+clobbopus
+grapploct
+sinistea
+polteageist
+hatenna
+hattrem
+hatterene
+impidimp
+morgrem
+grimmsnarl
+obstagoon
+perrserker
+cursola
+sirfetchd
+mr rime
+runerigus
+milcery
+alcremie
+falinks
+pincurchin
+snom
+frosmoth
+stonjourner
+eiscue
+indeedee
+morpeko
+cufant
+copperajah
+dracozolt
+arctozolt
+dracovish
+arctovish
+duraludon
+dreepy
+drakloak
+dragapult
+zacian
+zamazenta
+eternatus
+kubfu
+urshifu
+regieleki
+regidrago
+glastrier
+spectrier
+calyrex
+enamorus
+wyrdeer
+kleavor
+ursaluna
+basculegion
+sneasler
+overqwil
+growlithe
+arcanine
+voltorb
+electrode
+typhlosion
+qwilfish
+sneasel
+samurott
+lilligant
+zorua
+zoroark
+braviary
+sliggoo
+goodra
+avalugg
+decidueye
+sprigatito
+floragato
+meowscarada
+fuecoco
+crocalor
+skeledirge
+quaxly
+quaxwell
+quaquaval
+lechonk
+oinkologne
+tarountula
+spidops
+nymble
+lokix
+pawmi
+pawmo
+pawmot
+tandemaus
+maushold
+fidough
+dachsbun
+smoliv
+dolliv
+arboliva
+squawkabilly
+nacli
+naclstack
+garganacl
+charcadet
+armarouge
+ceruledge
+tadbulb
+bellibolt
+wattrel
+kilowattrel
+maschiff
+mabosstiff
+shroodle
+grafaiai
+bramblin
+brambleghast
+toedscool
+toedscruel
+klawf
+capsakid
+scovillain
+rellor
+rabsca
+flittle
+espathra
+tinkatink
+tinkaton
+wiglett
+wugtrio
+bombirdier
+finizen
+palafin
+varoom
+revavroom
+cyclizar
+orthworm
+glimmet
+glimmora
+greavard
+houndstone
+flamigo
+cetoddle
+cetitan
+veluza
+dondozo
+tatsugiri
+annihilape
+clodsire
+farigiraf
+dudunsparce
+kingambit
+great tusk
+scream tail
+brute bonnet
+flutter mane
+slither wing
+sandy shocks
+iron treads
+iron bundle
+iron hands
+iron jugulis
+iron moth
+iron thorns
+wo chien
+chien pao
+ting lu
+chi yu
+roaring moon
+iron valiant
+koraidon
+miraidon
+walking wake
+iron leaves
+gimmighoul
+gholdengo
+poltchageist
+sinistcha
+okidogi
+munkidogi
+fezandipiti
+ogerpon
+archaludon
+hydrapple
+gouging fire
+raging bolt
+iron boulder
+iron crown
+terapagos
+pecharunt
+blood moon ursaluna
+alolan rattata
+alolan raticate
+alolan raichu
+alolan sandshrew
+alolan sandslash
+alolan vulpix
+alolan ninetales
+alolan diglett
+alolan dugtrio
+alolan meowth
+alolan persian
+alolan geodude
+alolan graveler
+alolan golem
+alolan grimer
+alolan muk
+alolan exeggutor
+alolan marowak
+galarian meowth
+galarian ponyta
+galarian rapidash
+galarian slowpoke
+galarian slowbro
+galarian farfetchd
+galarian weezing
+galarian mr mime
+galarian articuno
+galarian zapdos
+galarian moltres
+galarian slowking
+galarian corsola
+galarian zigzagoon
+galarian linoone
+galarian darumaka
+galarian darmanitan
+galarian yamask
+galarian stunfisk
+hisuian growlithe
+hisuian arcanine
+hisuian voltorb
+hisuian electrode
+hisuian typhlosion
+hisuian qwilfish
+hisuian sneasel
+hisuian samurott
+hisuian lilligant
+hisuian zorua
+hisuian zoroark
+hisuian braviary
+hisuian sliggoo
+hisuian goodra
+hisuian avalugg
+hisuian decidueye
+paldean tauros
+paldean wooper
+Bulbasaur
+Ivysaur
+Charmander
+Charmeleon
+Squirtle
+Wartortle
+Caterpie
+Metapod
+Butterfree
+Weedle
+Kakuna
+Beedrill
+Pidgey
+Pidgeotto
+Pidgeot
+Rattata
+Raticate
+Spearow
+Fearow
+Ekans
+Arbok
+Sandshrew
+Sandslash
+Nidoran Female
+Nidorina
+Nidoqueen
+Nidoran Male
+Nidorino
+Nidoking
+Clefairy
+Clefable
+Vulpix
+Ninetales
+Jigglypuff
+Wigglytuff
+Zubat
+Golbat
+Oddish
+Gloom
+Vileplume
+Paras
+Parasect
+Venonat
+Venomoth
+Diglett
+Dugtrio
+Meowth
+Persian
+Psyduck
+Golduck

@@ -1,0 +1,920 @@
+vestido de noche
+traje de gala
+smoking elegante
+esmoquin clásico
+tuxedo formal
+chaqué victoriano
+frac de etiqueta
+levita aristócrata
+redingote vintage
+toga romana
+estola eclesiástica
+casulla sacerdotal
+alba ceremonial
+sobrepelliz litúrgico
+roquete episcopal
+mitra dorada
+báculo pastoral
+cruz pectoral
+anillo episcopal
+cíngulo sagrado
+manípulo bordado
+estola diaconal
+dalmática ceremonial
+pluvial procesional
+capa magna
+muceta cardenalicia
+solideo pontificio
+birrete universitario
+capelo doctoral
+borla académica
+escapulario monástico
+hábito franciscano
+sotana jesuita
+cogulla benedictina
+capucha dominica
+velo de monja
+toca religiosa
+cíngulo de cuerda
+rosario de cuentas
+cruz de madera
+medalla milagrosa
+reliquia sagrada
+incensario humeante
+naveta aromática
+copón eucarístico
+cáliz dorado
+patena sagrada
+sagrario tabernáculo
+ambón tallado
+atril litúrgico
+credencia altar
+corporal bendito
+purificador lino
+lavabo ceremonial
+manutergium blanco
+palia bordada
+velo de cáliz
+funda de patena
+bursa eucológica
+misopedium ornado
+antipendium altar
+paño de ambón
+cubrecáliz bordado
+velo humeral
+velo de custodia
+conopeo tabernáculo
+cortinas del altar
+dosel procesional
+palio pontificio
+báculo abacial
+anillo abadesa
+cruz procesional
+estandarte parroquial
+pendón cofradiero
+guión hermandad
+bandera diocesana
+oriflama episcopal
+gonfalón medieval
+labaro imperial
+vexillum legionario
+signum militar
+águila romana
+fasces consulares
+corona imperial
+diadema real
+tiara papal
+mitra episcopal
+capelo cardenalicio
+birrete doctoral
+bonete clerical
+solideo pontificio
+kipá judío
+turbante sikh
+fez otomano
+gorro frigio
+boina vasca
+txapela tradicional
+montera torera
+chistera elegante
+bombín inglés
+homburg clásico
+fedora americana
+panamá tropical
+sombrero cordobés
+chambergo andaluz
+calañés jerezano
+sombrero jarocho
+charro mexicano
+mariachi elegante
+huipil oaxaqueño
+rebozo poblano
+sarape saltillense
+jorongo michoacano
+tilma guadalupana
+quechquémitl huasteco
+enredo purépecha
+cueitl mexica
+maxtlatl azteca
+ichcahuipilli guerrero
+tlahuiztli imperial
+plumario quetzal
+penacho real
+tocado emplumado
+máscara ceremonial
+careta ritual
+antifaz veneciano
+disfraz carnavalesco
+atuendo folclórico
+traje regional
+costume típico
+vestimenta autóctona
+indumentaria étnica
+atuendo tribal
+vestidura ancestral
+ropaje tradicional
+hábito ceremonial
+uniforme ritual
+librea cortesana
+galas palatinas
+vestiduras reales
+ropones imperiales
+mantos reales
+capas principescas
+túnicas nobiliarias
+togas senatoriales
+pretextas consulares
+trabeas ecuestres
+clavi senatoriales
+laticlavi patricios
+angusticlavi plebeyos
+tunicela diaconal
+subdiaconal vestidura
+acolitado ornamentos
+lectorado vestiduras
+ostiariado ropajes
+exorcistado hábitos
+subdiaconado vestimentas
+diaconado ornamentos
+presbiterado casullas
+episcopado mitras
+arzobispado palios
+primado coronas
+patriarca tiaras
+cardenal capelos
+pontífice vestiduras
+papa ornamentos
+vicario vestimentas
+nuncio ropajes
+legado pontificio
+abad mitras
+abadesa coronas
+prior cayados
+priora bastones
+superior cordones
+general hábitos
+provincial mantos
+guardián capas
+custodio estolas
+ministro ornamentos
+definidor insignias
+discreto símbolos
+consejero emblemas
+secretario sellos
+cronista pergaminos
+archivero documentos
+bibliotecario códices
+maestro libros
+lector volúmenes
+escriba rollos
+copista manuscritos
+iluminador miniaturas
+encuadernador cubiertas
+impresor tipos
+tipógrafo letras
+cajista caracteres
+corrector pruebas
+editor textos
+redactor artículos
+periodista crónicas
+reportero noticias
+corresponsal despachos
+cronista relatos
+historiador anales
+biógrafo memorias
+autobiógrafo confesiones
+diarista apuntes
+memorialista recuerdos
+novelista ficciones
+cuentista relatos
+poeta versos
+dramaturgo obras
+comediógrafo sainetes
+tragediógrafo dramas
+libretista óperas
+guionista películas
+argumentista series
+adaptador versiones
+traductor idiomas
+intérprete lenguas
+políglota dialectos
+lingüista fonemas
+filólogo étimos
+gramático sintaxis
+lexicógrafo diccionarios
+terminólogo glosarios
+etimólogo raíces
+semanticista significados
+pragmaticista contextos
+sociolingüista variantes
+psicolingüista procesos
+neurolingüista cerebro
+computacional algoritmos
+corpus lingüísticos
+fonética articulación
+fonología sistemas
+morfología estructuras
+sintaxis oraciones
+semántica significado
+pragmática uso
+discurso análisis
+texto coherencia
+narrativa relato
+retórica persuasión
+estilística expresión
+métrica versificación
+prosódia ritmo
+elocución dicción
+oratoria discursos
+declamación recitación
+actuación interpretación
+mímica gestual
+teatro representación
+drama conflicto
+comedia humor
+tragedia dolor
+auto sacramental
+misterio medieval
+milagro religioso
+morality moraleja
+farsa grotesca
+entremés cómico
+loa preliminar
+jácara picaresca
+mojiganga burlesca
+baile cortesano
+danza folclórica
+ballet clásico
+jazz moderno
+tap americano
+flamenco andaluz
+sevillanas populares
+fandango tradicional
+bolero romántico
+rumba cubana
+salsa caribeña
+merengue dominicano
+bachata sensual
+reggaeton urbano
+hip hop callejero
+break dance
+popping técnica
+locking estilo
+krumping agresivo
+voguing pose
+waacking brazos
+house underground
+techno electrónico
+trance hipnótico
+dubstep pesado
+drum bass
+jungle británico
+garage speed
+grime londinense
+trap atlanta
+drill chicago
+mumble rap
+cloud rap
+lo-fi hip hop
+boom bap clásico
+jazz rap
+conscious hip hop
+gangsta rap
+hardcore rap
+battle rap
+freestyle improvisación
+beatbox vocal
+turntablism dj
+scratching técnica
+mixing mezcla
+sampling muestreo
+remixing remezcla
+mashup combinación
+bootleg ilegal
+white label promo
+test pressing prueba
+acetate master
+vinyl vinilo
+cassette cinta
+compact disc
+digital audio
+streaming flujo
+download descarga
+podcast audio
+radio programa
+emisora frecuencia
+onda corta
+onda media
+onda larga
+frecuencia modulada
+amplitud modulada
+digital radio
+internet radio
+satellite radio
+webcast transmisión
+broadcast difusión
+narrowcast específico
+multicast múltiple
+unicast individual
+anycast cercano
+geocast geográfico
+mobile cast móvil
+location cast ubicación
+time cast temporal
+event cast evento
+live cast directo
+delayed cast diferido
+recorded cast grabado
+edited cast editado
+produced cast producido
+mixed cast mezclado
+mastered cast masterizado
+compressed cast comprimido
+encoded cast codificado
+decoded cast decodificado
+streamed cast transmitido
+cached cast almacenado
+buffered cast temporal
+queued cast cola
+scheduled cast programado
+automated cast automático
+manual cast manual
+interactive cast interactivo
+passive cast pasivo
+active cast activo
+real time tiempo real
+near real time casi real
+batch processing lotes
+sequential secuencial
+parallel paralelo
+distributed distribuido
+centralized centralizado
+decentralized descentralizado
+peer to peer p2p
+client server cliente
+cloud computing nube
+edge computing borde
+fog computing niebla
+grid computing rejilla
+cluster computing grupo
+supercomputing súper
+quantum computing cuántico
+neuromorphic neuromórfico
+optical computing óptico
+dna computing adn
+molecular computing molecular
+biological computing biológico
+organic computing orgánico
+carbon computing carbono
+silicon computing silicio
+gallium arsenide galio
+indium phosphide indio
+graphene computing grafeno
+carbon nanotube carbono
+quantum dots puntos
+photonic computing fotónico
+plasmonic computing plasmónico
+spintronic computing espintrónico
+memristive computing memristivo
+resistive switching resistivo
+phase change cambio
+magnetic tunnel magnético
+ferroelectric ferroeléctrico
+multiferroic multiferroico
+topological topológico
+skyrmion skyrmión
+domain wall pared
+vortex vórtice
+bubble burbuja
+stripe raya
+spiral espiral
+helical helicoidal
+cycloidal cicloidal
+conical cónico
+screw tornillo
+néel néel
+bloch bloch
+antiskyrmion antiskyrmión
+bimeron bimerón
+hopfion hopfión
+toron torón
+meron merón
+soliton solitón
+breather respirador
+rogue wave ola
+tsunami giant
+seiche oscilación
+standing wave estacionaria
+traveling wave viajera
+surface wave superficie
+internal wave interna
+gravity wave gravedad
+capillary wave capilar
+love wave amor
+rayleigh wave rayleigh
+lamb wave lamb
+stoneley wave stoneley
+scholte wave scholte
+leaky wave escape
+guided wave guiada
+bound wave ligada
+radiation wave radiación
+evanescent wave evanescente
+propagating wave propagante
+cut-off wave corte
+pass-band wave paso
+stop-band wave parada
+all-pass wave todo paso
+band-reject wave rechazo
+high-pass wave paso alto
+low-pass wave paso bajo
+band-pass wave paso banda
+notch filter filtro muesca
+comb filter filtro peine
+lattice filter filtro rejilla
+elliptic filter filtro elíptico
+butterworth filter filtro butterworth
+chebyshev filter filtro chebyshev
+bessel filter filtro bessel
+gaussian filter filtro gaussiano
+raised cosine coseno alzado
+root raised coseno raíz
+nyquist filter filtro nyquist
+matched filter filtro adaptado
+wiener filter filtro wiener
+kalman filter filtro kalman
+particle filter filtro partícula
+extended kalman extendido
+unscented kalman no perfumado
+ensemble kalman conjunto
+constrained kalman restringido
+adaptive filter filtro adaptativo
+lms filter filtro lms
+rls filter filtro rls
+nlms filter filtro nlms
+sign lms signo lms
+block lms bloque lms
+frequency domain frecuencia
+time domain tiempo
+spatial domain espacial
+transform domain transformada
+fourier transform fourier
+laplace transform laplace
+z transform z
+discrete fourier discreta
+fast fourier rápida
+short time corto tiempo
+windowed fourier ventana
+gabor transform gabor
+wavelet transform ondícula
+continuous wavelet continua
+discrete wavelet discreta
+packet wavelet paquete
+lifting wavelet elevación
+second generation segunda
+biorthogonal biortoganal
+orthogonal ortogonal
+semi-orthogonal semi
+dual tree árbol dual
+complex wavelet compleja
+real wavelet real
+integer wavelet entero
+rational wavelet racional
+irrational wavelet irracional
+transcendental trascendental
+algebraic algebraica
+polynomial polinómica
+exponential exponencial
+logarithmic logarítmica
+trigonometric trigonométrica
+hyperbolic hiperbólica
+inverse trigonometric inversa
+inverse hyperbolic hiperbólica inversa
+elliptic integral elíptica integral
+hypergeometric hipergeométrica
+confluent confluente
+degenerate degenerada
+special especial
+orthogonal polynomials polinomios ortogonales
+chebyshev polynomials chebyshev
+legendre polynomials legendre
+hermite polynomials hermite
+laguerre polynomials laguerre
+jacobi polynomials jacobi
+gegenbauer polynomials gegenbauer
+ultraspherical ultraesférica
+zernike polynomials zernike
+bessel functions funciones bessel
+modified bessel bessel modificada
+hankel functions hankel
+airy functions airy
+elliptic functions elípticas
+theta functions theta
+modular functions modulares
+automorphic automórficas
+l-functions funciones l
+zeta function zeta
+riemann zeta riemann
+hurwitz zeta hurwitz
+dirichlet eta dirichlet
+euler phi euler
+möbius function möbius
+liouville function liouville
+mangoldt function mangoldt
+divisor function divisor
+totient function totiente
+carmichael function carmichael
+jordan function jordan
+ramanujan tau ramanujan
+partition function partición
+generating function generatriz
+exponential generating exponencial generatriz
+ordinary generating ordinaria generatriz
+dirichlet generating dirichlet generatriz
+lambert series lambert
+power series potencias
+taylor series taylor
+laurent series laurent
+puiseux series puiseux
+asymptotic series asintótica
+formal power formal potencias
+convergent series convergente
+divergent series divergente
+alternating series alternante
+telescoping series telescópica
+geometric series geométrica
+arithmetic series aritmética
+harmonic series armónica
+p-series serie p
+hypergeometric series hipergeométrica
+binomial series binómica
+multinomial series multinómica
+infinite product producto infinito
+euler product euler producto
+weierstrass product weierstrass
+blaschke product blaschke
+canonical product canónico
+hadamard product hadamard
+dirichlet product dirichlet
+convolution product convolución
+correlation function correlación
+autocorrelation autocorrelación
+cross-correlation correlación cruzada
+circular convolution circular
+linear convolution lineal
+discrete convolution discreta
+continuous convolution continua
+causal convolution causal
+acausal convolution acausal
+finite impulse finito impulso
+infinite impulse infinito impulso
+moving average promedio móvil
+autoregressive autoregresivo
+arma model modelo arma
+arima model modelo arima
+garch model modelo garch
+var model modelo var
+vecm model modelo vecm
+cointegration cointegración
+unit root raíz unitaria
+stationarity estacionariedad
+ergodicity ergodicidad
+white noise ruido blanco
+colored noise ruido coloreado
+pink noise ruido rosa
+brown noise ruido marrón
+blue noise ruido azul
+violet noise ruido violeta
+grey noise ruido gris
+black noise ruido negro
+red noise ruido rojo
+green noise ruido verde
+orange noise ruido naranja
+yellow noise ruido amarillo
+indigo noise ruido índigo
+turquoise noise ruido turquesa
+magenta noise ruido magenta
+cyan noise ruido cian
+maroon noise ruido granate
+navy noise ruido marino
+olive noise ruido oliva
+lime noise ruido lima
+aqua noise ruido agua
+silver noise ruido plata
+gold noise ruido oro
+beige noise ruido beige
+tan noise ruido bronceado
+khaki noise ruido caqui
+coral noise ruido coral
+salmon noise ruido salmón
+crimson noise ruido carmesí
+scarlet noise ruido escarlata
+ruby noise ruido rubí
+emerald noise ruido esmeralda
+sapphire noise ruido zafiro
+diamond noise ruido diamante
+pearl noise ruido perla
+ivory noise ruido marfil
+bone noise ruido hueso
+cream noise ruido crema
+vanilla noise ruido vainilla
+chocolate noise ruido chocolate
+coffee noise ruido café
+espresso noise ruido espresso
+cappuccino noise ruido cappuccino
+latte noise ruido latte
+mocha noise ruido moca
+macchiato noise ruido macchiato
+americano noise ruido americano
+cortado noise ruido cortado
+gibraltar noise ruido gibraltar
+flat white plano blanco
+long black largo negro
+ristretto noise ruido ristretto
+doppio noise ruido doppio
+solo noise ruido solo
+con panna con nata
+affogato noise ruido affogato
+bicerin noise ruido bicerin
+bombón noise ruido bombón
+breve noise ruido breve
+café au lait café con leche
+café bombón café bombón
+café con leche café con leche
+café cortado café cortado
+café crema café crema
+café cubano café cubano
+café de olla café de olla
+café miel café miel
+café noisette café avellana
+café romano café romano
+café zorro café zorro
+carajillo carajillo
+corretto corretto
+dirty chai sucio chai
+espresso romano espresso romano
+eye opener abreojos
+french press prensa francesa
+gibraltar gibraltar
+lungo lungo
+marocchino marocchino
+red eye ojo rojo
+romano romano
+shakerato shakerato
+turkish coffee café turco
+vienna coffee café vienés
+black eye ojo negro
+dead eye ojo muerto
+drip eye goteo ojo
+lazy eye ojo perezoso
+red tie corbata roja
+black tie corbata negra
+white tie corbata blanca
+bow tie pajarita
+ascot ascot
+cravat corbata
+necktie corbata
+bolo tie corbata bolo
+string tie corbata cuerda
+western tie corbata western
+texas tie corbata texas
+cowboy tie corbata vaquero
+indian tie corbata india
+native tie corbata nativa
+tribal tie corbata tribal
+ethnic tie corbata étnica
+traditional tie corbata tradicional
+ceremonial tie corbata ceremonial
+formal tie corbata formal
+informal tie corbata informal
+casual tie corbata casual
+business tie corbata negocio
+dress tie corbata vestir
+evening tie corbata noche
+morning tie corbata mañana
+afternoon tie corbata tarde
+cocktail tie corbata cóctel
+dinner tie corbata cena
+opera tie corbata ópera
+theater tie corbata teatro
+concert tie corbata concierto
+symphony tie corbata sinfonía
+chamber tie corbata cámara
+recital tie corbata recital
+performance tie corbata actuación
+stage tie corbata escenario
+screen tie corbata pantalla
+camera tie corbata cámara
+studio tie corbata estudio
+location tie corbata locación
+outdoor tie corbata exterior
+indoor tie corbata interior
+natural tie corbata natural
+artificial tie corbata artificial
+synthetic tie corbata sintética
+organic tie corbata orgánica
+cotton tie corbata algodón
+silk tie corbata seda
+wool tie corbata lana
+linen tie corbata lino
+polyester tie corbata poliéster
+nylon tie corbata nylon
+rayon tie corbata rayón
+bamboo tie corbata bambú
+hemp tie corbata cáñamo
+jute tie corbata yute
+sisal tie corbata sisal
+flax tie corbata lino
+ramie tie corbata ramio
+nettle tie corbata ortiga
+pineapple tie corbata piña
+banana tie corbata plátano
+coconut tie corbata coco
+palm tie corbata palma
+date tie corbata dátil
+fig tie corbata higo
+grape tie corbata uva
+olive tie corbata oliva
+citrus tie corbata cítrico
+apple tie corbata manzana
+pear tie corbata pera
+peach tie corbata durazno
+plum tie corbata ciruela
+cherry tie corbata cereza
+berry tie corbata baya
+melon tie corbata melón
+watermelon tie corbata sandía
+pumpkin tie corbata calabaza
+squash tie corbata calabacín
+gourd tie corbata calabaza
+cucumber tie corbata pepino
+tomato tie corbata tomate
+pepper tie corbata pimiento
+chili tie corbata chile
+hot tie corbata picante
+mild tie corbata suave
+sweet tie corbata dulce
+sour tie corbata agrio
+bitter tie corbata amargo
+salty tie corbata salado
+umami tie corbata umami
+spicy tie corbata especiado
+bland tie corbata soso
+rich tie corbata rico
+poor tie corbata pobre
+thin tie corbata delgada
+thick tie corbata gruesa
+wide tie corbata ancha
+narrow tie corbata estrecha
+long tie corbata larga
+short tie corbata corta
+straight tie corbata recta
+curved tie corbata curva
+twisted tie corbata retorcida
+braided tie corbata trenzada
+knotted tie corbata anudada
+tied tie corbata atada
+loose tie corbata suelta
+tight tie corbata apretada
+adjustable tie corbata ajustable
+fixed tie corbata fija
+removable tie corbata removible
+permanent tie corbata permanente
+temporary tie corbata temporal
+seasonal tie corbata estacional
+annual tie corbata anual
+monthly tie corbata mensual
+weekly tie corbata semanal
+daily tie corbata diaria
+hourly tie corbata horaria
+minute tie corbata minuto
+second tie corbata segundo
+instant tie corbata instantáneo
+moment tie corbata momento
+brief tie corbata breve
+quick tie corbata rápida
+slow tie corbata lenta
+fast tie corbata rápida
+steady tie corbata constante
+variable tie corbata variable
+constant tie corbata constante
+changing tie corbata cambiante
+stable tie corbata estable
+unstable tie corbata inestable
+secure tie corbata segura
+insecure tie corbata insegura
+safe tie corbata segura
+dangerous tie corbata peligrosa
+risky tie corbata arriesgada
+careful tie corbata cuidadosa
+careless tie corbata descuidada
+precise tie corbata precisa
+imprecise tie corbata imprecisa
+accurate tie corbata exacta
+inaccurate tie corbata inexacta
+correct tie corbata correcta
+incorrect tie corbata incorrecta
+right tie corbata correcta
+wrong tie corbata incorrecta
+proper tie corbata apropiada
+improper tie corbata inapropiada
+suitable tie corbata adecuada
+unsuitable tie corbata inadecuada
+appropriate tie corbata apropiada
+inappropriate tie corbata inapropiada
+fitting tie corbata ajustada
+unfitting tie corbata desajustada
+matching tie corbata combinada
+mismatching tie corbata descombiada
+coordinated tie corbata coordinada
+uncoordinated tie corbata descoordinada
+harmonious tie corbata armoniosa
+disharmonious tie corbata desarmoniosa
+balanced tie corbata equilibrada
+unbalanced tie corbata desequilibrada
+symmetrical tie corbata simétrica
+asymmetrical tie corbata asimétrica
+regular tie corbata regular
+irregular tie corbata irregular
+uniform tie corbata uniforme
+nonuniform tie corbata no uniforme
+consistent tie corbata consistente
+inconsistent tie corbata inconsistente
+reliable tie corbata confiable
+unreliable tie corbata poco confiable
+dependable tie corbata dependiente
+undependable tie corbata independiente
+trustworthy tie corbata confiable
+untrustworthy tie corbata no confiable
+honest tie corbata honesta
+dishonest tie corbata deshonesta
+truthful tie corbata veraz
+untruthful tie corbata falsa
+sincere tie corbata sincera
+insincere tie corbata falsa
+genuine tie corbata genuina
+fake tie corbata falsa
+authentic tie corbata auténtica
+inauthentic tie corbata inauténtica
+original tie corbata original
+copy tie corbata copia
+replica tie corbata réplica
+imitation tie corbata imitación
+duplicate tie corbata duplicado
+unique tie corbata única
+common tie corbata común
+rare tie corbata rara
+scarce tie corbata escasa
+abundant tie corbata abundante
+plentiful tie corbata abundante
+numerous tie corbata numerosa
+few tie corbata pocas
+many tie corbata muchas
+several tie corbata varias
+multiple tie corbata múltiples
+single tie corbata única
+double tie corbata doble
+triple tie corbata triple
+quadruple tie corbata cuádruple
+quintuple tie corbata quíntuple
+sextuple tie corbata séxtuple
+septuple tie corbata séptuple
+octuple tie corbata óctuple
+nonuple tie corbata nónuple
+decuple tie corbata décuple
+dozen tie corbata docena
+score tie corbata veintena
+hundred tie corbata centena
+thousand tie corbata millar
+million tie corbata millón
+billion tie corbata billón
+trillion tie corbata trillón
+quadrillion tie corbata cuatrillón
+quintillion tie corbata quintillón
+sextillion tie corbata sextillón
+septillion tie corbata septillón
+octillion tie corbata octillón
+nonillion tie corbata nonillón
+decillion tie corbata decillón
+undecillion tie corbata undecillón
+duodecillion tie corbata duodecillón

@@ -1,0 +1,897 @@
+extreme close up
+close up
+medium close up
+medium shot
+medium long shot
+long shot
+extreme long shot
+establishing shot
+master shot
+two shot
+three shot
+over the shoulder
+point of view shot
+insert shot
+cutaway shot
+reaction shot
+reverse shot
+shot reverse shot
+match cut
+jump cut
+cross cutting
+parallel editing
+montage sequence
+tracking shot
+dolly shot
+crane shot
+steadicam shot
+handheld camera
+dutch angle
+birds eye view
+worms eye view
+low angle
+high angle
+eye level
+canted angle
+tilted horizon
+symmetrical composition
+asymmetrical balance
+rule of thirds
+golden ratio
+leading lines
+diagonal composition
+triangular composition
+circular composition
+s curve composition
+z composition
+frame within frame
+negative space
+positive space
+foreground focus
+middle ground
+background depth
+shallow depth field
+deep focus
+rack focus
+follow focus
+pull focus
+push focus
+zoom in
+zoom out
+dolly zoom
+vertigo effect
+crash zoom
+whip pan
+tilt up
+tilt down
+pan left
+pan right
+360 degree pan
+orbital shot
+gimbal movement
+drone photography
+aerial cinematography
+underwater filming
+time lapse
+slow motion
+high speed
+bullet time
+freeze frame
+split screen
+multiple exposure
+double exposure
+superimposition
+composite shot
+green screen
+blue screen
+chroma key
+motion capture
+performance capture
+facial capture
+previz animatic
+storyboard frame
+shot list sequence
+camera blocking
+actor blocking
+staging depth
+mise en scene
+production design
+set decoration
+costume design
+makeup artistry
+special effects
+visual effects
+practical effects
+miniature work
+matte painting
+digital environment
+virtual set
+volume led wall
+real time rendering
+game engine filmmaking
+unreal engine
+unity production
+virtual production
+motion control
+camera robot
+technocrane
+jib arm
+slider track
+camera car
+helicopter mount
+gimbal stabilizer
+remote head
+wireless monitoring
+video village
+dop director photography
+camera operator
+focus puller
+gaffer lighting
+key grip
+dolly grip
+camera assistant
+loader film
+dit digital imaging
+script supervisor
+continuity notes
+matching action
+eyeline match
+screen direction
+180 degree rule
+30 degree rule
+coverage shooting
+master coverage
+insert coverage
+reaction coverage
+cutaway coverage
+safety coverage
+pickup shots
+reshoots
+additional photography
+second unit
+splinter unit
+b camera
+c camera
+multi camera
+single camera
+film format
+digital format
+16mm film
+35mm film
+65mm film
+70mm film
+imax format
+red camera
+arri alexa
+sony fx
+canon eos
+blackmagic pocket
+film grain
+digital noise
+dynamic range
+color grading
+color correction
+lut application
+film emulation
+vintage look
+modern clean
+desaturated
+oversaturated
+high contrast
+low contrast
+warm tones
+cool tones
+amber highlights
+teal shadows
+orange cyan
+complementary colors
+analogous colors
+monochromatic
+black white
+sepia tone
+bleach bypass
+cross processing
+film stocks
+kodak vision
+fuji eterna
+agfa color
+tungsten balance
+daylight balance
+mixed lighting
+natural light
+artificial light
+practical lights
+motivated lighting
+unmotivated lighting
+key light
+fill light
+back light
+rim light
+hair light
+background light
+ambient light
+hard light
+soft light
+diffused light
+direct light
+bounce light
+reflected light
+window light
+candle light
+fire light
+neon light
+fluorescent light
+led panels
+hmi lights
+tungsten bulbs
+halogen lamps
+fresnel spots
+softboxes
+umbrellas
+flags and nets
+diffusion material
+color gels
+nd filters
+polarizing filters
+pro mist filters
+black mist
+glimmer glass
+streak filters
+star filters
+graduated filters
+circular polarizer
+variable nd
+matte box
+follow focus
+wireless focus
+lens control
+zoom control
+iris control
+aperture settings
+f stop numbers
+t stop ratings
+depth of field
+hyperfocal distance
+infinity focus
+macro focus
+minimum focus
+focus breathing
+lens distortion
+barrel distortion
+pincushion distortion
+chromatic aberration
+vignetting
+lens flare
+anamorphic flare
+bokeh quality
+circular bokeh
+hexagonal bokeh
+oval bokeh
+swirly bokeh
+smooth bokeh
+busy bokeh
+prime lenses
+zoom lenses
+wide angle
+normal lens
+telephoto
+super telephoto
+macro lens
+tilt shift
+fish eye
+anamorphic lens
+spherical lens
+vintage glass
+modern optics
+coated lenses
+uncoated glass
+rehoused vintage
+cine lenses
+photo lenses
+mirror lenses
+lens adapters
+speed boosters
+focal reducers
+lens filters
+protection filters
+uv filters
+skylight filters
+warming filters
+cooling filters
+color correction
+color temperature
+kelvin scale
+tungsten 3200k
+daylight 5600k
+shade 7000k
+cloudy 6500k
+fluorescent 4000k
+candlelight 1900k
+sunset 3000k
+golden hour
+blue hour
+magic hour
+civil twilight
+nautical twilight
+astronomical twilight
+solar noon
+overcast sky
+partly cloudy
+clear sky
+dramatic clouds
+storm clouds
+fog atmosphere
+haze diffusion
+smoke effects
+atmospheric perspective
+aerial perspective
+forced perspective
+miniature faking
+tilt shift effect
+selective focus
+rack focus pull
+focus transition
+smooth focus
+snap focus
+breathing lens
+parfocal zoom
+varifocal zoom
+constant aperture
+variable aperture
+image stabilization
+optical stabilization
+electronic stabilization
+in body stabilization
+lens stabilization
+gimbal stabilization
+mechanical stabilization
+software stabilization
+post stabilization
+warp stabilizer
+motion blur
+directional blur
+radial blur
+zoom blur
+camera shake
+intentional shake
+handheld aesthetic
+documentary style
+cinema verite
+observational mode
+participatory mode
+expository mode
+poetic mode
+reflexive mode
+performative mode
+interactive documentary
+mockumentary style
+found footage
+security camera
+surveillance footage
+webcam recording
+smartphone video
+social media
+vertical video
+square format
+widescreen
+cinemascope
+academy ratio
+television safe
+action safe
+title safe
+broadcast standards
+streaming formats
+web delivery
+mobile optimized
+tablet viewing
+laptop screen
+desktop monitor
+television display
+projection screen
+imax screen
+dolby cinema
+thx certified
+surround sound
+atmos audio
+binaural recording
+ambisonic audio
+spatial audio
+3d audio
+vr audio
+360 video
+virtual reality
+augmented reality
+mixed reality
+volumetric capture
+light field
+holographic display
+stereoscopic 3d
+anaglyph 3d
+polarized 3d
+active shutter
+passive glasses
+hmd headset
+haptic feedback
+motion controllers
+eye tracking
+hand tracking
+full body tracking
+mocap suit
+facial tracking
+expression capture
+emotion recognition
+ai enhancement
+machine learning
+neural networks
+deep learning
+style transfer
+upscaling
+denoising
+color matching
+auto correction
+smart editing
+automated cutting
+rhythm analysis
+beat detection
+music synchronization
+dialogue editing
+sound mixing
+foley recording
+adr looping
+voice over
+narration
+subtitle text
+closed captions
+accessibility features
+audio description
+sign language
+multi language
+international version
+domestic cut
+directors cut
+extended edition
+deleted scenes
+alternate ending
+behind scenes
+making of
+commentary track
+bonus features
+easter eggs
+hidden content
+interactive menu
+chapter selection
+scene access
+bookmark system
+playlist creation
+recommendation engine
+algorithm curation
+user generated
+crowd sourced
+collaborative editing
+remix culture
+fan edits
+mashup videos
+supercuts
+video essays
+analysis pieces
+reaction videos
+commentary videos
+review channels
+tutorial content
+educational videos
+training materials
+corporate videos
+promotional content
+advertising spots
+commercial breaks
+product placement
+brand integration
+native advertising
+influencer content
+sponsored posts
+affiliate marketing
+monetization strategies
+revenue sharing
+subscription model
+pay per view
+premium content
+exclusive access
+early release
+limited edition
+collectors items
+special packaging
+merchandise tie ins
+cross promotion
+franchise building
+universe expansion
+sequel setup
+prequel backstory
+spin off series
+reboot versions
+remake updates
+adaptation changes
+source material
+original screenplay
+adapted screenplay
+treatment document
+pitch deck
+proof concept
+test footage
+screen test
+audition tape
+casting process
+talent search
+star vehicle
+ensemble cast
+cameo appearance
+guest star
+recurring character
+background actor
+extras casting
+crowd scenes
+practical crowds
+digital crowds
+cgi doubles
+stunt doubles
+body doubles
+scale doubles
+photo doubles
+stand ins
+lighting doubles
+rehearsal process
+table reads
+blocking rehearsal
+dress rehearsal
+technical rehearsal
+camera rehearsal
+final rehearsal
+performance capture
+motion reference
+facial reference
+voice reference
+dialogue coach
+accent coach
+dialect coach
+movement coach
+fight choreographer
+stunt coordinator
+special effects supervisor
+visual effects supervisor
+animation director
+layout artist
+modeling artist
+texture artist
+lighting artist
+rendering artist
+compositing artist
+matte painter
+concept artist
+storyboard artist
+previz artist
+postvis artist
+final pixel
+color scientist
+dailies colorist
+final colorist
+conform editor
+online editor
+sound editor
+music editor
+title designer
+graphics artist
+motion graphics
+visual identity
+brand guidelines
+style guide
+color palette
+typography choices
+logo animation
+end credits
+opening titles
+main title
+title sequence
+card graphics
+lower thirds
+name plates
+location cards
+time stamps
+date stamps
+chapter titles
+act breaks
+commercial breaks
+fade to black
+fade to white
+fade in
+fade out
+cross fade
+dissolve transition
+wipe transition
+iris transition
+flip transition
+slide transition
+push transition
+split transition
+clock wipe
+heart wipe
+star wipe
+custom transition
+motion blur transition
+zoom transition
+rotation transition
+scale transition
+position change
+opacity animation
+color change
+saturation shift
+brightness adjustment
+contrast modification
+gamma correction
+highlight recovery
+shadow lifting
+midtone adjustment
+curve adjustment
+levels correction
+histogram analysis
+scopes monitoring
+waveform display
+vectorscope
+rgb parade
+luma waveform
+chroma vectorscope
+false color
+zebra patterns
+focus peaking
+exposure warning
+safe area guides
+grid overlay
+aspect ratio
+letterbox format
+pillarbox format
+windowbox format
+fullscreen format
+pan and scan
+open matte
+anamorphic desqueeze
+pixel aspect
+frame rate
+23.976 fps
+24 fps
+25 fps
+29.97 fps
+30 fps
+48 fps
+50 fps
+59.94 fps
+60 fps
+120 fps
+240 fps
+1000 fps
+high frame rate
+variable frame rate
+time remapping
+speed ramping
+overcrank
+undercrank
+film speed
+shutter angle
+180 degree
+360 degree
+90 degree
+45 degree
+motion blur amount
+stroboscopic effect
+wagon wheel
+aliasing artifacts
+moire patterns
+rolling shutter
+global shutter
+cmos sensor
+ccd sensor
+full frame
+super 35
+aps c
+micro four thirds
+medium format
+large format
+sensor size
+crop factor
+field of view
+angle of view
+effective focal length
+lens multiplication
+image circle
+vignetting natural
+vignetting added
+edge darkening
+corner shading
+light falloff
+exposure compensation
+dynamic range
+highlight rolloff
+shadow detail
+noise performance
+iso sensitivity
+base iso
+dual native iso
+extended iso
+digital gain
+analog gain
+signal to noise
+bit depth
+color depth
+chroma subsampling
+compression artifacts
+codec efficiency
+bitrate allocation
+variable bitrate
+constant bitrate
+lossless compression
+lossy compression
+raw recording
+log recording
+rec 709
+rec 2020
+dci p3
+adobe rgb
+prophoto rgb
+wide color gamut
+color space
+gamma curve
+linear gamma
+logarithmic curve
+s curve
+film curve
+digital curve
+highlight protection
+shadow protection
+exposure latitude
+overexposure recovery
+underexposure lifting
+clipping prevention
+blown highlights
+crushed blacks
+midtone preservation
+color accuracy
+color reproduction
+color consistency
+white balance
+color temperature
+tint adjustment
+magenta green
+skin tone
+memory colors
+preferred colors
+pleasing colors
+natural colors
+accurate colors
+creative colors
+stylized look
+realistic look
+documentary look
+narrative look
+commercial look
+music video
+fashion film
+art film
+experimental video
+abstract imagery
+surreal composition
+dreamlike sequence
+nightmare scenario
+fantasy realm
+science fiction
+horror atmosphere
+comedy timing
+drama pacing
+action choreography
+romance lighting
+thriller suspense
+mystery revelation
+adventure journey
+epic scope
+intimate moment
+emotional climax
+visual metaphor
+symbolic imagery
+allegorical content
+narrative structure
+three act structure
+five act structure
+hero journey
+character arc
+plot development
+conflict resolution
+rising action
+falling action
+exposition setup
+inciting incident
+plot points
+turning points
+climax moment
+denouement
+resolution
+open ending
+closed ending
+twist ending
+surprise reveal
+plot twist
+red herring
+macguffin
+chekovs gun
+foreshadowing
+callback
+payoff
+setup
+plant
+emotional beats
+character moments
+relationship dynamics
+dialogue scenes
+action sequences
+chase scenes
+fight scenes
+love scenes
+death scenes
+birth scenes
+transformation
+revelation
+recognition
+reversal
+catharsis
+emotional release
+audience manipulation
+viewer engagement
+immersive experience
+suspension disbelief
+emotional investment
+character empathy
+protagonist sympathy
+antagonist motivation
+character complexity
+moral ambiguity
+ethical dilemma
+philosophical question
+existential crisis
+identity crisis
+coming of age
+loss of innocence
+redemption arc
+corruption arc
+fall from grace
+rise to power
+underdog story
+fish out water
+mistaken identity
+case of identities
+role reversal
+power dynamics
+social commentary
+political message
+cultural critique
+historical perspective
+contemporary relevance
+universal themes
+timeless stories
+modern interpretation
+period accuracy
+anachronistic elements
+artistic license
+creative freedom
+personal vision
+auteur theory
+collaborative art
+commercial constraints
+artistic integrity
+mass appeal
+niche audience
+target demographic
+market research
+focus groups
+test screenings
+audience feedback
+critical reception
+box office performance
+awards recognition
+cultural impact
+lasting influence
+cinematic legacy

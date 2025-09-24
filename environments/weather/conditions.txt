@@ -1,0 +1,260 @@
+sunny
+cloudy
+overcast
+partly cloudy
+rainy
+stormy
+thunderstorm
+lightning
+drizzle
+misty
+foggy
+hazy
+snowy
+blizzard
+sleet
+hail
+windy
+breezy
+calm
+humid
+dry
+scorching
+freezing
+temperate
+tropical
+arctic blast with bone-chilling winds
+desert sandstorm reducing visibility to zero
+tropical cyclone with devastating wind speeds
+supercell thunderstorm spawning tornadoes
+mammatus clouds creating ominous ceiling
+wall cloud rotation indicating tornado formation
+microburst downdraft causing sudden wind shear
+macroburst affecting area over 2.5 miles
+derecho windstorm with straight-line winds
+haboob dust storm engulfing entire city
+monsoon deluge flooding streets rapidly
+atmospheric river bringing moisture from ocean
+bomb cyclone intensifying explosively
+polar vortex bringing record low temperatures
+heat dome trapping excessive temperatures
+drought conditions lasting multiple seasons
+flash flood warning with rapid water rise
+whiteout blizzard eliminating all visibility
+ice storm coating everything in glaze
+freezing rain creating treacherous surfaces
+graupel pellets bouncing off surfaces
+virga rain evaporating before reaching ground
+waterspout forming over body of water
+dust devil spinning across open terrain
+fire whirl combining wildfire with vortex
+snow squall creating sudden whiteout conditions
+lake effect snow dumping feet of accumulation
+chinook winds warming temperatures rapidly
+katabatic winds rushing down mountain slopes
+anabatic winds flowing up valley sides
+sea breeze cooling coastal areas
+land breeze flowing toward water at night
+mountain wave creating turbulence downwind
+valley fog trapped in low-lying areas
+radiation fog forming on clear calm nights
+advection fog moving in from water
+upslope fog forming on windward slopes
+steam fog rising from warm water
+ice fog crystallizing in extreme cold
+smog combining smoke and fog
+acid rain with elevated pH levels
+hail stones reaching baseball size
+supercooled water droplets in clouds
+temperature inversion trapping pollution
+thermal creating rising column of air
+convergence zone where air masses meet
+divergence aloft enhancing surface low
+jet stream meandering in wavy pattern
+rossby waves in upper atmospheric flow
+blocking pattern stalling weather systems
+teleconnection affecting distant weather
+el nino warming pacific ocean temperatures
+la nina cooling pacific ocean waters
+arctic oscillation affecting jet stream
+north atlantic oscillation influencing storms
+madden julian oscillation tropical convection
+quasi biennial oscillation stratospheric winds
+southern annular mode antarctic circulation
+indian ocean dipole affecting monsoons
+atlantic multidecadal oscillation temperature
+pacific decadal oscillation climate pattern
+sudden stratospheric warming disrupting vortex
+ozone hole expanding over antarctica
+greenhouse effect trapping infrared radiation
+albedo reflecting solar radiation back
+urban heat island raising city temperatures
+deforestation altering local precipitation
+irrigation changing regional humidity
+cloud seeding artificially inducing precipitation
+weather modification through technology
+geoengineering atmospheric composition
+solar radiation management reflecting sunlight
+carbon dioxide removal from atmosphere
+stratospheric aerosol injection cooling
+marine cloud brightening reflecting radiation
+cirrus cloud thinning reducing warming
+enhanced weathering capturing carbon
+direct air capture removing emissions
+bioenergy with carbon capture storage
+afforestation planting trees for carbon
+reforestation restoring degraded forests
+soil carbon sequestration through agriculture
+blue carbon storage in coastal ecosystems
+permafrost thaw releasing methane
+tipping point irreversible climate change
+feedback loop amplifying warming effects
+climate sensitivity temperature response
+equilibrium climate sensitivity long term
+transient climate response short term
+carbon budget remaining emissions allowance
+net zero emissions balancing sources sinks
+carbon neutral offsetting all emissions
+climate resilience adapting to changes
+vulnerability exposure sensitivity capacity
+adaptation measures reducing climate risks
+mitigation actions reducing greenhouse gases
+paris agreement limiting global warming
+nationally determined contributions emission pledges
+loss and damage climate change impacts
+climate finance funding adaptation mitigation
+technology transfer sharing clean solutions
+capacity building developing country support
+common but differentiated responsibilities
+climate justice equitable burden sharing
+intergenerational equity future generations
+precautionary principle avoiding harmful risks
+polluter pays principle responsibility costs
+sustainable development meeting present needs
+planetary boundaries safe operating space
+anthropocene human dominated geological epoch
+great acceleration rapid environmental change
+sixth mass extinction biodiversity loss
+ecosystem collapse habitat destruction
+coral bleaching ocean acidification
+sea level rise thermal expansion
+glacier retreat ice sheet melting
+arctic sea ice decline albedo feedback
+greenland ice sheet mass loss
+west antarctic ice sheet instability
+thermohaline circulation ocean currents
+gulf stream slowdown climate implications
+amoc atlantic meridional overturning circulation
+upwelling cold nutrient rich water
+downwelling surface water sinking
+thermocline temperature gradient layer
+halocline salinity gradient layer
+pycnocline density gradient layer
+mixed layer surface ocean turbulence
+deep water formation dense water sinking
+water mass distinct temperature salinity
+ocean gyre large scale circulation
+ekman transport wind driven surface flow
+geostrophic current pressure gradient balance
+contour current following depth contours
+boundary current western intensification
+eddy mesoscale circular flow
+wave action wind generated surface motion
+tsunami earthquake generated wave
+rogue wave exceptionally large unpredictable
+storm surge wind driven water elevation
+king tide highest predicted tide
+spring tide new full moon alignment
+neap tide quarter moon reduced range
+tidal bore upstream wave propagation
+tidal race fast flowing tidal current
+whirlpool rotating water vortex
+maelstrom powerful tidal whirlpool
+strait narrow water passage
+sound wide water channel
+fjord glacially carved inlet
+estuary river mouth tidal influence
+delta sediment deposition river mouth
+atoll coral reef circular formation
+barrier reef offshore coral formation
+fringing reef nearshore coral formation
+coral triangle biodiversity hotspot
+great barrier reef world largest system
+amazon rainforest lungs of earth
+congo basin second largest rainforest
+boreal forest northern coniferous belt
+temperate deciduous forest seasonal change
+grassland prairie steppe savanna ecosystem
+wetland marsh swamp bog ecosystem
+tundra permafrost treeless vegetation
+desert arid low precipitation ecosystem
+montane mountain elevation zones
+alpine above treeline vegetation
+subalpine forest mountain slopes
+mediterranean climate dry summer wet winter
+continental climate large temperature range
+oceanic climate moderated by water
+tropical climate warm year round
+subtropical climate mild winters
+temperate climate moderate seasons
+subarctic climate short cool summers
+arctic climate permafrost tundra
+polar climate ice snow year round
+equatorial climate consistent temperature
+monsoon climate seasonal precipitation
+arid climate low annual precipitation
+semiarid climate moderate precipitation
+humid subtropical hot humid summers
+humid continental cold winters
+marine west coast mild wet climate
+highland climate elevation effects
+microclimate local environmental conditions
+mesoclimate regional scale patterns
+macroclimate continental global patterns
+paleoclimate ancient climate conditions
+proxy data indirect climate evidence
+ice core atmospheric composition history
+tree ring growth climate reconstruction
+sediment core environmental record
+coral growth band climate indicator
+pollen analysis vegetation climate history
+dendrochronology tree ring dating
+radiocarbon dating organic material age
+oxygen isotope temperature proxy
+deuterium excess precipitation origin
+loess wind deposited sediment record
+speleothem cave formation climate proxy
+varve annual sediment layer
+volcanic ash layer chronological marker
+magnetic reversal geomagnetic field change
+milankovitch cycles orbital climate forcing
+eccentricity orbit shape variation
+obliquity axial tilt angle change
+precession wobble axis rotation
+solar irradiance energy output variation
+volcanic forcing aerosol cooling effect
+anthropogenic forcing human activities
+radiative forcing energy balance change
+climate feedback amplifying dampening
+water vapor feedback warming amplification
+ice albedo feedback melting acceleration
+cloud feedback uncertain sign magnitude
+vegetation feedback land cover change
+soil carbon feedback decomposition rate
+permafrost feedback methane release
+wildfires feedback carbon emissions
+extreme weather attribution human influence
+detection significant climate change
+attribution cause effect relationship
+fingerprint unique signal identification
+signal to noise ratio detection threshold
+uncertainty quantification error bounds
+confidence interval statistical range
+probability distribution outcome likelihood
+risk assessment hazard exposure vulnerability
+scenario planning future pathway exploration
+ensemble modeling multiple simulations
+downscaling global to regional resolution
+bias correction model systematic error
+validation model performance evaluation
+verification forecast accuracy assessment

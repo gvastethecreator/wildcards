@@ -1,0 +1,581 @@
+acuarela
+óleo
+acrílico
+témpera
+gouache
+pastel
+pastel al óleo
+carboncillo
+sanguina
+sepia
+tinta china
+plumilla
+rotulador
+marcador
+crayón
+lápiz de color
+lápices acuarelables
+grafito
+mina de plomo
+tiza
+tiza pastel
+pintura al fresco
+pintura mural
+pintura sobre tabla
+pintura sobre lienzo
+pintura sobre papel
+pintura sobre seda
+pintura sobre madera
+pintura sobre metal
+pintura sobre cerámica
+pintura sobre vidrio
+encáustica
+temple al huevo
+temple de caseína
+temple acrílico
+grisalla
+escorzo
+claroscuro
+sfumato
+impasto
+glazing
+veladuras
+aguadas
+frottage
+grattage
+dripping
+action painting
+color field
+gestual
+expresionismo abstracto
+hiperrealismo
+fotorrealismo
+realismo mágico
+surrealismo
+impresionismo
+postimpresionismo
+puntillismo
+divisionismo
+fauvismo
+expresionismo
+cubismo
+futurismo
+dadaísmo
+constructivismo
+suprematismo
+minimalismo
+arte pop
+arte conceptual
+land art
+arte urbano
+street art
+graffiti
+muralismo
+arte digital
+arte generativo
+arte interactivo
+arte multimedia
+videoarte
+performance art
+body art
+instalación
+escultura
+bajorrelieve
+altorrelieve
+grabado
+xilografía
+linóleo
+litografía
+serigrafía
+calcografía
+aguafuerte
+aguatinta
+punta seca
+mezzotinta
+monotipo
+estampación
+collage
+assemblage
+papier collé
+decoupage
+técnica mixta
+mixed media
+arte textil
+tapicería
+bordado
+punto de cruz
+macramé
+batik
+tie-dye
+shibori
+estarcido
+aerografía
+pistola de pintura
+brocha
+pincel plano
+pincel redondo
+pincel de abanico
+pincel de lengua de gato
+pincel de pelo de marta
+pincel sintético
+pincel de cerda
+espátula
+palette knife
+rodillo
+esponja
+difumino
+tortillón
+goma de borrar
+goma moldeable
+fixativo
+barniz
+medium
+retardante
+acelerador
+texturizador
+médium de empaste
+médium de transparencia
+médium de brillos
+médium mate
+paleta
+paleta desechable
+godete
+caballete
+atril
+tabla de dibujo
+papel de acuarela
+papel torchon
+papel satinado
+papel rugoso
+papel de grano fino
+papel de grano grueso
+lienzo
+lienzo preparado
+imprimación
+gesso
+cola de conejo
+aparejos
+preparación del soporte
+composición
+encuadre
+punto de fuga
+perspectiva lineal
+perspectiva aérea
+perspectiva atmosférica
+proporción
+regla de los tercios
+sección áurea
+ritmo visual
+equilibrio
+simetría
+asimetría
+contraste
+armonía
+unidad
+variedad
+movimiento
+repetición
+patrón
+textura visual
+textura táctil
+color local
+color reflejado
+color atmosférico
+temperatura del color
+colores cálidos
+colores fríos
+colores primarios
+colores secundarios
+colores terciarios
+colores complementarios
+colores análogos
+colores triádicos
+monocromático
+policromático
+saturación
+luminosidad
+valor tonal
+escala de grises
+alto contraste
+bajo contraste
+clave alta
+clave baja
+luz directa
+luz difusa
+luz lateral
+luz cenital
+contraluz
+luz de relleno
+sombra propia
+sombra arrojada
+penumbra
+reflejo
+brillo
+highlight
+modelado
+degradado
+esfumado
+fundido
+empaste
+pincelada suelta
+pincelada precisa
+pincelada gestual
+pincelada descriptiva
+acabado pulido
+acabado rugoso
+acabado mate
+acabado brillante
+alla prima
+por capas
+directo
+indirecto
+wet on wet
+wet on dry
+húmedo sobre húmedo
+húmedo sobre seco
+reservas
+mascarillas
+stencil
+plantilla
+estampación
+transferencia
+decalcomanía
+monoprint
+gofrado
+repujado
+punteado
+rayado
+cruzado
+paralelo
+circular
+espiral
+ondulado
+zigzag
+moteado
+salpicado
+goteado
+chorreado
+raspado
+rascado
+erosionado
+corroído
+oxidado
+pátina
+envejecido
+desgastado
+texturizado
+rugoso
+liso
+pulido
+mate
+brillante
+satinado
+sedoso
+aterciopelado
+áspero
+granulado
+poroso
+compacto
+fluido
+viscoso
+cremoso
+acuoso
+transparente
+traslúcido
+opaco
+cubriente
+veladura
+barnizado
+esmaltado
+vidriado
+cristalino
+metálico
+nacarado
+iridiscente
+fluorescente
+fosforescente
+luminiscente
+mate profundo
+negro intenso
+blanco puro
+gris neutro
+beige cálido
+ocre natural
+siena tostada
+tierra sombra
+rojo bermellón
+carmín
+magenta
+rosa
+violeta
+púrpura
+azul ultramar
+azul cobalto
+azul cerúleo
+azul prusia
+verde esmeralda
+verde viridiano
+verde oliva
+amarillo cadmio
+amarillo limón
+amarillo ocre
+naranja
+marrón
+sepia
+umber
+raw umber
+burnt umber
+raw sienna
+burnt sienna
+van dyke brown
+ivory black
+lamp black
+carbon black
+bone black
+titanium white
+zinc white
+lead white
+flake white
+chinese white
+naples yellow
+indian yellow
+aureolin
+gamboge
+quinacridone
+phthalocyanine
+dioxazine
+benzimidazole
+azo yellow
+cadmium red
+alizarin crimson
+quinacridone rose
+ultramarine blue
+prussian blue
+cerulean blue
+manganese violet
+dioxazine purple
+chromium oxide green
+viridian green
+sap green
+hooker's green
+art nouveau
+art déco
+bauhaus
+constructivismo ruso
+de stijl
+escuela de parís
+cobra
+arte bruto
+outsider art
+arte naif
+arte primitivo
+arte tribal
+arte folclórico
+arte popular
+artesanía
+cerámica artística
+vidrio artístico
+orfebrería
+joyería artística
+esmalte
+cloisonné
+champlevé
+filigrana
+grabado en metal
+cincelado
+repujado
+soldadura artística
+forja artística
+fundición artística
+patinado
+dorado
+plateado
+oxidación controlada
+pátina verde
+pátina azul
+efecto herrumbre
+textura metálica
+bokeh
+desenfoque
+profundidad de campo
+macro
+close-up
+gran angular
+teleobjetivo
+ojo de pez
+perspectiva forzada
+contrapicado
+picado
+plano cenital
+plano nadir
+encuadre simétrico
+encuadre asimétrico
+regla de los tercios fotográfica
+punto de fuga fotográfico
+líneas de fuerza
+líneas conductoras
+marco natural
+enmarcado
+vignette
+viñeteado
+halo de luz
+flare
+destello
+reflejo de lente
+aberración cromática
+distorsión
+barrel distortion
+pincushion distortion
+keystone effect
+efecto miniatura
+tilt-shift
+selective focus
+rack focus
+zoom burst
+motion blur
+panning
+barrido
+congelado
+high key
+low key
+silhouette
+silueta
+contraluz dramático
+golden hour
+blue hour
+magic hour
+long exposure
+larga exposición
+light painting
+pintura de luz
+light trails
+estelas de luz
+star trails
+estelas de estrellas
+time-lapse
+stop motion
+cinemagraph
+double exposure
+doble exposición
+multiple exposure
+exposición múltiple
+HDR
+high dynamic range
+tone mapping
+split toning
+color grading
+corrección de color
+balance de blancos
+temperatura de color
+tinte
+saturación
+vibrance
+luminancia
+contraste local
+claridad
+estructura
+dehaze
+eliminación de bruma
+noise reduction
+reducción de ruido
+sharpening
+enfoque
+unsharp mask
+máscara de enfoque
+orton effect
+efecto orton
+cross processing
+procesado cruzado
+vintage look
+look vintage
+film emulation
+emulación de película
+grain
+grano
+film grain
+grano de película
+analog
+analógico
+digital
+retoque digital
+photomanipulation
+fotomanipulación
+compositing
+composición digital
+matte painting
+concept art
+arte conceptual
+storyboard
+keyframe
+animatic
+pre-visualization
+pre-visualización
+mood board
+color script
+lighting study
+estudio de iluminación
+character design
+diseño de personajes
+environment design
+diseño de ambientes
+prop design
+diseño de objetos
+vehicle design
+diseño de vehículos
+creature design
+diseño de criaturas
+mecha design
+diseño de mechas
+architecture visualization
+visualización arquitectónica
+product visualization
+visualización de productos
+3D modeling
+modelado 3D
+sculpting
+escultura digital
+retopology
+UV mapping
+texturing
+texturizado
+shading
+sombreado
+lighting
+iluminación
+rendering
+renderizado
+ray tracing
+global illumination
+iluminación global
+ambient occlusion
+oclusión ambiental
+subsurface scattering
+dispersión subsuperficial
+volumetric lighting
+iluminación volumétrica
+caustics
+cáusticos
+motion graphics
+gráficos en movimiento
+kinetic typography
+tipografía cinética
+particle systems
+sistemas de partículas
+fluid simulation
+simulación de fluidos
+cloth simulation
+simulación de telas
+hair simulation
+simulación de cabello
+fur simulation
+simulación de pelo
+fire simulation
+simulación de fuego
+smoke simulation
+simulación de humo
+destruction simulation
+simulación de destrucción
+rigid body dynamics
+dinámicas de cuerpos rígidos
+soft body dynamics
+dinámicas de cuerpos blandos

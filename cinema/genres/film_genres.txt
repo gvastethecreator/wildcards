@@ -1,0 +1,114 @@
+Action
+Adventure
+Animation
+Biography
+Comedy
+Crime
+Documentary
+Drama
+Family
+Fantasy
+Film noir
+History
+Horror
+Music
+Musical
+Mystery
+Romance
+Science fiction
+Thriller
+War
+Western
+Superhero
+Zombie
+Vampire
+Werewolf
+Post-apocalyptic
+Dystopian
+Utopian
+Cyberpunk
+Steampunk
+Space opera
+Time travel
+Alternate history
+Found footage
+Mockumentary
+Anthology
+Experimental
+Art house
+Independent
+Mainstream
+Commercial
+B-movie
+Cult classic
+Midnight movie
+Exploitation
+Grindhouse
+Giallo
+Slasher
+Psychological horror
+Body horror
+Cosmic horror
+Gothic horror
+Supernatural horror
+Creature feature
+Monster movie
+Kaiju
+Disaster film
+Heist film
+Caper
+Spy thriller
+Political thriller
+Legal thriller
+Medical thriller
+Techno-thriller
+Eco-thriller
+Erotic thriller
+Revenge film
+Vigilante film
+Buddy cop
+Police procedural
+Detective story
+Whodunit
+Cozy mystery
+Hard-boiled
+Neo-noir
+Tech noir
+Romantic comedy
+Screwball comedy
+Dark comedy
+Black comedy
+Parody
+Satire
+Mockery
+Slapstick
+Physical comedy
+Stand-up comedy
+Sketch comedy
+Improvisational comedy
+Coming of age
+Fish out of water
+Road movie
+Chase film
+Prison film
+Courtroom drama
+Medical drama
+Sports film
+Dance film
+Martial arts
+Sword and sorcery
+Epic fantasy
+Urban fantasy
+Paranormal romance
+Historical romance
+Period piece
+Costume drama
+Biographical drama
+Social drama
+Kitchen sink realism
+Melodrama
+Soap opera
+Teen movie
+Chick flick
+Guy film
+Bromance

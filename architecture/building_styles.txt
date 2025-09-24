@@ -1,0 +1,298 @@
+gothic flying buttress stone support
+romanesque round arch thick walls
+byzantine dome pendentive transition
+baroque ornate decoration gold
+rococo delicate pastel asymmetrical
+neoclassical greek revival columns
+art nouveau organic flowing lines
+art deco geometric angular
+modernist clean lines function
+postmodern eclectic referential
+brutalist concrete raw monolithic
+deconstructivist fragmented angular
+parametric digital algorithm generated
+biomimetic nature inspired forms
+sustainable green building materials
+vernacular local traditional materials
+colonial european settler influence
+federal american early republic
+greek revival temple front
+georgian english symmetrical
+victorian ornate eclectic revival
+queen anne asymmetrical bay
+shingle style american coastal
+craftsman bungalow horizontal lines
+prairie style frank wright
+international style glass steel
+bauhaus functional minimal
+chicago school steel frame
+new york school skyscraper
+california ranch horizontal
+split level suburban
+cape cod colonial american
+saltbox colonial sloped roof
+garrison colonial overhang
+dutch colonial gambrel roof
+spanish colonial adobe tile
+mission revival california
+pueblo revival southwestern
+territorial style new mexico
+adobe brick sun dried
+rammed earth compressed soil
+cob clay straw mixture
+cordwood log mortar construction
+log cabin horizontal logs
+timber frame post beam
+pole barn post foundation
+earthship tire wall construction
+strawbale wall insulation
+hempcrete hemp lime mixture
+bamboo construction sustainable
+steel frame metal structure
+reinforced concrete steel rebar
+precast concrete factory made
+tilt up concrete panel
+insulated concrete form
+structural insulated panel
+cross laminated timber
+glue laminated timber
+engineered lumber manufactured
+steel stud framing metal
+wood frame stick built
+platform frame floor platform
+balloon frame continuous stud
+post and beam traditional
+timber post traditional
+stone masonry cut fitted
+rubble stone irregular fitted
+fieldstone natural gathered
+ashlar stone precisely cut
+coursed stone horizontal layers
+random stone irregular pattern
+dry stone mortar free
+mortared stone cement joined
+brick masonry clay fired
+common brick standard size
+face brick exterior quality
+fire brick heat resistant
+clinker brick overburned
+sand lime brick calcium
+concrete block hollow masonry
+autoclaved concrete lightweight
+glass block translucent masonry
+interlocking block engineered
+retaining wall earth holding
+foundation wall below grade
+stem wall foundation top
+slab foundation concrete pad
+crawl space foundation elevated
+basement foundation below ground
+pier foundation column support
+pile foundation deep support
+caisson foundation drilled pier
+spread footing foundation
+strip footing foundation
+mat foundation large slab
+raft foundation floating
+grade beam foundation tie
+tie beam foundation connection
+bond beam masonry reinforcement
+lintel beam opening span
+header beam load bearing
+joist beam floor support
+rafter beam roof support
+truss beam triangulated
+girder beam primary support
+beam column frame structure
+portal frame rigid connection
+moment frame rigid joint
+braced frame diagonal bracing
+shear wall lateral resistance
+diaphragm floor roof bracing
+buttress wall external support
+flying buttress gothic arch
+retaining buttress earth pressure
+gravity wall weight resistance
+cantilever wall reinforced concrete
+sheet pile wall steel
+soldier pile wall drilled
+secant pile wall overlapping
+contiguous pile wall touching
+gabion wall wire basket
+crib wall timber box
+bin wall precast concrete
+mechanically stabilized earth
+geogrid reinforced soil
+geotextile soil separation
+french drain gravel pipe
+dry well drainage pit
+catch basin storm water
+storm drain surface runoff
+sanitary sewer waste water
+septic system on site
+leach field soil absorption
+grease trap kitchen waste
+interceptor tank settlement
+manhore access opening
+utility vault underground chamber
+electrical vault power distribution
+telecommunications vault data
+water meter vault consumption
+gas meter vault natural
+steam vault heating distribution
+tunnel utility underground
+subway tunnel rapid transit
+pedestrian tunnel foot traffic
+vehicular tunnel car traffic
+railway tunnel train passage
+mountain tunnel boring
+underwater tunnel subaqueous
+cut and cover tunnel
+bored tunnel machine excavated
+immersed tube tunnel prefab
+suspension bridge cable supported
+cable stayed bridge tower
+arch bridge compression structure
+beam bridge simple span
+truss bridge triangulated
+cantilever bridge projecting
+movable bridge opening
+drawbridge lifting section
+bascule bridge counterweight
+swing bridge rotating
+lift bridge vertical lift
+transporter bridge suspended
+pontoon bridge floating
+trestle bridge post support
+viaduct bridge valley spanning
+aqueduct bridge water conveyance
+causeway bridge embankment
+pier bridge water support
+wharf structure ship docking
+quay structure stone concrete
+jetty structure harbor projection
+breakwater structure wave protection
+seawall structure coastal defense
+revetment structure slope protection
+groin structure shore perpendicular
+bulkhead structure retaining
+dock structure ship berthing
+marina structure pleasure boat
+harbor structure ship shelter
+port structure commercial shipping
+lighthouse structure navigation aid
+beacon tower warning light
+bell tower church campanile
+clock tower time display
+water tower elevated storage
+fire tower lookout structure
+radio tower transmission antenna
+cell tower communication antenna
+transmission tower power lines
+observation tower viewing platform
+control tower air traffic
+cooling tower power plant
+chimney stack smoke flue
+smokestack industrial emission
+flue gas stack pollution
+exhaust stack ventilation
+steeple church pointed tower
+spire church tall pointed
+minaret mosque tower call
+pagoda tower tiered asian
+obelisk monument pointed
+monument structure commemorative
+memorial structure remembrance
+mausoleum tomb structure
+tomb burial structure
+crypt underground burial
+catacomb underground cemetery
+ossuary bone repository
+columbarium ash repository
+pyramid tomb structure
+mastaba ancient tomb
+ziggurat stepped tower
+temple religious structure
+church christian worship
+cathedral large church
+basilica roman church
+chapel small church
+synagogue jewish worship
+mosque islamic worship
+hindu temple worship
+buddhist temple worship
+shinto shrine worship
+sikh gurdwara worship
+bahai temple worship
+jain temple worship
+zoroastrian temple worship
+pagan temple worship
+secular temple non religious
+courthouse legal building
+city hall government building
+state house government building
+capitol building legislative
+white house executive
+palace royal residence
+castle fortified residence
+fortress military stronghold
+citadel elevated fortress
+keep castle tower
+tower castle defensive
+wall castle fortification
+moat castle water defense
+drawbridge castle entrance
+portcullis castle gate
+barbican castle outer defense
+bailey castle courtyard
+ward castle enclosed area
+gatehouse castle entrance
+sally port castle exit
+postern castle secret exit
+rampart castle wall walk
+parapet castle wall top
+merlon castle wall raised
+crenel castle wall gap
+embrasure castle wall opening
+arrow loop castle archer
+murder hole castle trap
+dungeon castle prison
+torture chamber castle punishment
+great hall castle main
+solar castle private room
+garderobe castle toilet
+kitchen castle food prep
+pantry castle food storage
+buttery castle drink storage
+cellar castle underground storage
+wine cellar castle beverage
+root cellar castle vegetable
+ice house castle refrigeration
+smokehouse castle meat preservation
+stable castle horse housing
+kennel castle dog housing
+mews castle falcon housing
+aviary castle bird housing
+dovecote castle pigeon housing
+gatehouse castle entrance control
+guardhouse castle sentry
+armory castle weapon storage
+treasury castle valuable storage
+library castle book collection
+scriptorium castle writing room
+chapel castle worship
+infirmary castle medical
+herbary castle medicine garden
+physic garden castle medicinal
+kitchen garden castle vegetable
+orchard castle fruit trees
+vineyard castle grape cultivation
+brewery castle beer production
+distillery castle spirit production
+bakery castle bread production
+mill castle grain processing
+forge castle metalworking
+workshop castle crafts
+stable castle horse care
+carriage house castle vehicle
+coach house castle transport

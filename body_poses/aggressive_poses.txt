@@ -1,0 +1,502 @@
+charging forward
+battle ready stance
+war cry pose
+berserker rage
+fists clenched
+teeth gritted
+muscles tensed
+veins bulging
+intimidating glare
+menacing scowl
+aggressive lean
+forward lunge
+attack position
+striking pose
+combat stance
+fighting posture
+warrior ready
+gladiator pose
+boxer stance
+martial arts ready
+kung fu position
+karate stance
+taekwondo pose
+muay thai ready
+kickboxing stance
+wrestling position
+grappling ready
+submission hold
+chokehold position
+bear hug attack
+ground and pound
+mounted position
+side control
+guard position
+sprawl defense
+takedown attempt
+throw preparation
+slam position
+suplex stance
+powerbomb setup
+piledriver pose
+finisher position
+signature move
+special attack
+ultimate technique
+limit break
+rage mode
+fury unleashed
+bloodlust
+killing intent
+death stare
+predator gaze
+hunter stance
+stalking position
+ambush ready
+sneak attack
+stealth strike
+assassination pose
+silent takedown
+throat slice
+neck snap
+bone break
+joint lock
+pressure point
+nerve strike
+vital spot
+weak point
+target acquired
+sight locked
+aim steady
+trigger finger
+quick draw
+fast hands
+lightning reflexes
+bullet time
+slow motion
+matrix dodge
+sidestep
+duck and weave
+bob and weave
+slip and counter
+parry and riposte
+block and strike
+catch and throw
+grab and slam
+lift and drop
+pick up and toss
+overhead throw
+underhand toss
+side throw
+hip toss
+shoulder throw
+back throw
+suplex throw
+german suplex
+belly to belly
+fisherman suplex
+brainbuster
+piledriver
+tombstone
+stunner
+rock bottom
+chokeslam
+powerbomb
+jackhammer
+f5 finisher
+attitude adjustment
+rko outta nowhere
+spear tackle
+gore attack
+clothesline
+lariat
+big boot
+superkick
+sweet chin music
+pedigree
+stone cold stunner
+people's elbow
+five knuckle shuffle
+you can't see me
+hulk up
+flex pose
+muscle pose
+strongman pose
+powerlifter stance
+bodybuilder pose
+arnold pose
+lat spread
+front double bicep
+back double bicep
+side chest
+side tricep
+most muscular
+vacuum pose
+crab pose
+victory flex
+champion pose
+belt holding
+trophy raising
+fist pump
+arms raised
+crowd pleasing
+fan favorite
+heel turn
+villain pose
+bad guy stance
+evil smirk
+sinister grin
+wicked smile
+cruel laugh
+maniacal cackle
+diabolical plan
+scheming pose
+plotting stance
+conspiracy position
+secret meeting
+whispered conversation
+hushed tones
+covert operation
+undercover work
+spy mission
+stealth mode
+ninja stance
+shadow work
+darkness embrace
+night hunter
+vampire bite
+werewolf howl
+beast transformation
+monster reveal
+creature feature
+horror pose
+scary stance
+frightening position
+terrifying pose
+nightmare fuel
+jump scare
+surprise attack
+shock value
+gore fest
+blood bath
+massacre scene
+killing spree
+rampage mode
+destruction path
+chaos unleashed
+havoc wreaked
+mayhem caused
+pandemonium
+bedlam
+anarchy
+rebellion
+revolution
+uprising
+revolt
+mutiny
+insurrection
+coup attempt
+overthrow
+takeover
+conquest
+invasion
+assault
+offensive
+attack wave
+blitz krieg
+lightning war
+shock and awe
+overwhelming force
+superior firepower
+tactical advantage
+strategic position
+high ground
+commanding view
+sniper nest
+overwatch post
+covering fire
+suppressive fire
+advance formation
+retreat formation
+flanking maneuver
+pincer movement
+encirclement
+siege position
+blockade
+embargo
+quarantine
+isolation
+separation
+division
+split formation
+scattered ranks
+broken lines
+routing army
+fleeing troops
+panic retreat
+disorderly withdrawal
+strategic withdrawal
+tactical retreat
+fighting withdrawal
+rear guard action
+delaying action
+holding action
+defensive stance
+fortified position
+entrenched
+dug in
+hunkered down
+battle hardened
+war weary
+combat veteran
+seasoned fighter
+experienced warrior
+skilled combatant
+trained killer
+professional soldier
+elite forces
+special ops
+black ops
+covert ops
+classified mission
+top secret
+need to know
+eyes only
+clearance required
+authorized personnel
+restricted access
+limited entry
+high security
+maximum security
+lockdown
+martial law
+state of emergency
+crisis mode
+red alert
+defcon one
+nuclear option
+mutually assured destruction
+doomsday scenario
+apocalypse now
+end times
+armageddon
+ragnarok
+final battle
+last stand
+desperate hour
+darkest moment
+bleakest time
+hopeless situation
+impossible odds
+against all odds
+miracle needed
+divine intervention
+acts of god
+supernatural aid
+otherworldly help
+mystical powers
+magical assistance
+arcane knowledge
+ancient wisdom
+forbidden lore
+secret arts
+hidden techniques
+lost methods
+forgotten ways
+old traditions
+time honored
+battle tested
+proven effective
+reliable tactics
+sound strategy
+winning formula
+successful approach
+victorious method
+triumphant technique
+conquering strategy
+dominating tactic
+overwhelming approach
+unstoppable force
+irresistible power
+immovable object
+unbreakable defense
+impenetrable armor
+invincible shield
+indestructible barrier
+unassailable fortress
+impregnable stronghold
+unconquerable bastion
+undefeatable champion
+invincible warrior
+supreme fighter
+ultimate combatant
+apex predator
+alpha male
+pack leader
+dominant force
+ruling power
+controlling authority
+commanding presence
+authoritative stance
+leadership position
+executive decision
+final word
+last say
+ultimate authority
+supreme command
+absolute power
+total control
+complete dominance
+full authority
+unrestricted access
+unlimited power
+boundless energy
+infinite strength
+endless endurance
+tireless effort
+relentless pursuit
+unstoppable advance
+inevitable victory
+certain triumph
+assured success
+guaranteed win
+definite conquest
+absolute victory
+total domination
+complete control
+full mastery
+perfect execution
+flawless performance
+impeccable technique
+precise movement
+accurate strike
+perfect hit
+direct impact
+bullseye shot
+dead center
+right on target
+spot on
+exactly right
+perfectly timed
+precisely executed
+flawlessly performed
+masterfully done
+expertly handled
+skillfully managed
+professionally executed
+competently performed
+efficiently done
+effectively accomplished
+successfully completed
+victoriously finished
+triumphantly concluded
+gloriously ended
+magnificently achieved
+brilliantly accomplished
+superbly executed
+excellently performed
+outstandingly done
+remarkably achieved
+extraordinarily accomplished
+exceptionally performed
+phenomenally executed
+incredibly achieved
+amazingly accomplished
+astonishingly performed
+shockingly executed
+surprisingly achieved
+unexpectedly accomplished
+unpredictably performed
+randomly executed
+chaotically achieved
+wildly accomplished
+frantically performed
+desperately executed
+urgently achieved
+hurriedly accomplished
+hastily performed
+quickly executed
+rapidly achieved
+swiftly accomplished
+speedily performed
+fast executed
+instantly achieved
+immediately accomplished
+suddenly performed
+abruptly executed
+sharply achieved
+violently accomplished
+forcefully performed
+powerfully executed
+strongly achieved
+mightily accomplished
+robustly performed
+vigorously executed
+energetically achieved
+dynamically accomplished
+actively performed
+aggressively executed
+assertively achieved
+confidently accomplished
+boldly performed
+courageously executed
+bravely achieved
+fearlessly accomplished
+daringly performed
+recklessly executed
+carelessly achieved
+thoughtlessly accomplished
+mindlessly performed
+automatically executed
+mechanically achieved
+robotically accomplished
+systematically performed
+methodically executed
+orderly achieved
+organized accomplished
+structured performed
+planned executed
+prepared achieved
+ready accomplished
+set performed
+established executed
+founded achieved
+created accomplished
+formed performed
+shaped executed
+molded achieved
+designed accomplished
+crafted performed
+made executed
+built achieved
+constructed accomplished
+assembled performed
+manufactured executed
+produced achieved
+generated accomplished
+developed performed
+grown executed
+cultivated achieved
+raised accomplished
+trained performed
+educated executed
+taught achieved
+instructed accomplished
+guided performed
+directed executed
+led achieved
+managed accomplished
+controlled performed
+operated executed
+handled achieved
+used accomplished
+employed performed
+utilized executed
+applied achieved
+implemented accomplished
+executed performed
+carried out executed
+accomplished achieved
+completed accomplished
+finished performed
+done executed

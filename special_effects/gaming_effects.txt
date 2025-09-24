@@ -1,0 +1,140 @@
+fireball projectile
+energy beam blast
+lightning bolt strike
+ice shard barrage
+wind slash cut
+earth spike eruption
+water wave crash
+shadow clone technique
+teleportation flash
+time stop effect
+gravity manipulation
+force field barrier
+healing aura glow
+poison cloud mist
+explosion blast wave
+smoke screen cover
+illusion mirage
+transformation burst
+power-up sparkle
+level-up flash
+critical hit glow
+combo chain effect
+super move activation
+ultimate ability charge
+special attack buildup
+finishing move finale
+victory celebration
+defeat fade out
+respawn animation
+checkpoint save
+loading screen
+menu transition
+button prompt
+control scheme
+damage number
+health recovery
+mana restoration
+stamina depletion
+experience gain
+skill unlock
+achievement popup
+score multiplier
+time bonus
+perfect clear
+game over screen
+continue countdown
+high score entry
+leaderboard display
+tournament bracket
+match result
+round winner
+set victory
+championship title
+hall of fame
+statistics screen
+replay system
+slow motion
+bullet time
+matrix dodge
+speed lines
+motion blur
+particle effects
+lens flare
+screen shake
+impact frame
+freeze frame
+close-up shot
+dynamic angle
+overhead view
+side profile
+three-quarter view
+first person
+third person
+isometric perspective
+bird's eye view
+worm's eye view
+dutch angle
+panoramic shot
+macro detail
+microscopic zoom
+telescopic distance
+x-ray vision
+thermal imaging
+night vision
+infrared view
+ultraviolet spectrum
+radio wave
+gamma ray
+cosmic radiation
+quantum field
+molecular structure
+atomic level
+subatomic particles
+electromagnetic pulse
+gravitational wave
+spacetime distortion
+dimensional rift
+portal opening
+wormhole entrance
+black hole event
+white hole exit
+stellar explosion
+supernova blast
+cosmic storm
+solar flare
+meteor shower
+asteroid impact
+comet tail
+planet collision
+moon eclipse
+solar eclipse
+aurora borealis
+lightning storm
+tornado funnel
+hurricane eye
+earthquake crack
+volcanic eruption
+tsunami wave
+avalanche flow
+sandstorm wall
+blizzard fury
+desert mirage
+oasis shimmer
+jungle density
+forest canopy
+mountain peak
+valley depth
+ocean trench
+coral reef
+underwater current
+surface tension
+bubble formation
+steam rising
+fog rolling
+mist descending
+cloud formation
+rain pattern
+snow falling
+hail storm
+sleet mixture

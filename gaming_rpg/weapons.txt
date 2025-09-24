@@ -1,0 +1,98 @@
+sword
+longsword
+broadsword
+bastard sword
+two-handed sword
+greatsword
+claymore
+katana
+wakizashi
+tanto
+scimitar
+rapier
+saber
+cutlass
+falchion
+gladius
+short sword
+dagger
+stiletto
+dirk
+kukri
+kris
+machete
+cleaver
+axe
+battle axe
+war axe
+hatchet
+tomahawk
+mace
+war hammer
+flail
+morningstar
+club
+quarterstaff
+staff
+spear
+lance
+halberd
+glaive
+trident
+javelin
+pike
+poleaxe
+scythe
+sickle
+whip
+chain whip
+nunchaku
+bow
+longbow
+shortbow
+crossbow
+heavy crossbow
+hand crossbow
+ballista
+catapult
+trebuchet
+cannon
+musket
+rifle
+shotgun
+pistol
+revolver
+machine gun
+sniper rifle
+assault rifle
+laser gun
+plasma rifle
+energy sword
+lightsaber
+photon torpedo
+phaser
+disruptor
+blaster
+ray gun
+particle beam
+ion cannon
+railgun
+gauss rifle
+coilgun
+grenade
+smoke bomb
+flash bang
+molotov cocktail
+dynamite
+C4 explosive
+landmine
+rocket launcher
+bazooka
+RPG
+missile launcher
+flamethrower
+freeze ray
+stun gun
+taser
+cattle prod
+electric baton

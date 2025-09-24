@@ -1,0 +1,101 @@
+Soccer
+Football
+Basketball
+Baseball
+Hockey
+Tennis
+Table tennis
+Badminton
+Volleyball
+Handball
+Rugby
+Cricket
+Golf
+Boxing
+MMA
+Wrestling
+Fencing
+Archery
+Shooting sports
+Track and field
+Marathon
+Triathlon
+Cycling
+Mountain biking
+BMX
+Skateboarding
+Snowboarding
+Skiing
+Surfing
+Windsurfing
+Kitesurfing
+Sailing
+Rowing
+Canoeing
+Kayaking
+Climbing
+Bouldering
+Mountaineering
+Hiking
+Trail running
+Parkour
+Gymnastics
+Cheerleading
+Dance sports
+Figure skating
+Speed skating
+Weightlifting
+Powerlifting
+Bodybuilding
+CrossFit
+eSports
+Field hockey
+Ice hockey
+Lacrosse
+Water polo
+Polo
+Softball
+Fastpitch softball
+Baseball5
+Dodgeball
+Ultimate frisbee
+Disc golf
+Pickleball
+Squash
+Racquetball
+Padel
+Handball court
+Sepak takraw
+Gaelic football
+Australian rules football
+Canadian football
+Arena football
+Beach volleyball
+Snow volleyball
+Beach soccer
+Beach handball
+Footvolley
+Futsal
+Indoor soccer
+Roller derby
+Short track
+Long track
+Skeleton
+Luge
+Bobsleigh
+Curling
+Biathlon
+Nordic combined
+Cross-country skiing
+Freestyle skiing
+Moguls
+Ski jumping
+Halfpipe skiing
+Freeride skiing
+Freestyle snowboarding
+Slopestyle
+Big air
+Alpine skiing
+Telemark skiing
+Ski mountaineering
+Paragliding

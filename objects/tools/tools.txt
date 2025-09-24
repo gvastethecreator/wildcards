@@ -1,0 +1,20 @@
+hammer
+screwdriver
+wrench
+pliers
+saw
+drill
+chisel
+file
+sandpaper
+measuring tape
+level
+square
+compass
+protractor
+caliper
+multimeter
+soldering iron
+wire cutters
+needle-nose pliers
+utility knife

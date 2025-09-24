@@ -1,0 +1,80 @@
+human
+elf
+high elf
+wood elf
+dark elf
+drow
+dwarf
+mountain dwarf
+hill dwarf
+halfling
+gnome
+orc
+goblin
+hobgoblin
+ogre
+troll
+giant
+titan
+dragon
+dragonborn
+tiefling
+aasimar
+genasi
+goliath
+minotaur
+centaur
+satyr
+faun
+pixie
+fairy
+sprite
+nymph
+dryad
+naiad
+siren
+mermaid
+merfolk
+triton
+lizardfolk
+kobold
+yuan-ti
+naga
+lamia
+sphinx
+harpy
+gargoyle
+demon
+devil
+angel
+celestial
+fiend
+elemental
+air elemental
+earth elemental
+fire elemental
+water elemental
+undead
+zombie
+skeleton
+ghost
+wraith
+specter
+lich
+vampire
+werewolf
+lycanthrope
+shapeshifter
+construct
+golem
+automaton
+warforged
+android
+cyborg
+alien
+extraterrestrial
+cosmic being
+void creature
+shadow being
+light being
+energy being

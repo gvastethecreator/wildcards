@@ -1,0 +1,158 @@
+hammer
+screwdriver
+wrench
+pliers
+saw
+drill
+circular saw
+jigsaw
+miter saw
+table saw
+band saw
+reciprocating saw
+chainsaw
+angle grinder
+belt sander
+orbital sander
+router
+planer
+chisel
+file
+rasp
+level
+measuring tape
+ruler
+square
+protractor
+compass
+calipers
+micrometer
+multimeter
+voltmeter
+oscilloscope
+soldering iron
+heat gun
+glue gun
+staple gun
+nail gun
+paint sprayer
+airbrush
+sandblaster
+pressure washer
+shop vacuum
+compressor
+generator
+welder
+torch
+blowtorch
+crowbar
+pry bar
+sledgehammer
+pickaxe
+shovel
+spade
+rake
+hoe
+pruning shears
+hedge trimmer
+lawn mower
+leaf blower
+snow blower
+chainsaw
+axe
+hatchet
+machete
+knife
+utility knife
+box cutter
+scissors
+tin snips
+bolt cutters
+pipe cutter
+tube cutter
+hacksaw
+coping saw
+keyhole saw
+dovetail saw
+tenon saw
+back saw
+flush cut saw
+pruning saw
+bone saw
+meat cleaver
+carving knife
+paring knife
+bread knife
+chef's knife
+butcher knife
+fillet knife
+boning knife
+skinning knife
+hunting knife
+survival knife
+tactical knife
+pocket knife
+multi-tool
+Swiss army knife
+Leatherman tool
+toolbox
+tool chest
+tool belt
+safety glasses
+work gloves
+hard hat
+steel-toed boots
+respirator
+dust mask
+ear protection
+first aid kit
+impact driver
+impact wrench
+torque wrench
+socket wrench
+ratchet handle
+socket set
+allen wrench
+torx driver
+nut driver
+pipe wrench
+adjustable wrench
+crescent wrench
+vise grip
+locking pliers
+needle nose pliers
+channel lock pliers
+lineman pliers
+wire stripper
+crimping tool
+fish tape
+stud finder
+laser level
+chalk line
+plumb bob
+putty knife
+paint roller
+paint tray
+caulking gun
+tile cutter
+glass cutter
+tube bender
+conduit bender
+post hole digger
+earth auger
+hand tamper
+spokeshave
+drawknife
+scratch awl
+center punch
+nail set
+tap wrench
+die set
+bearing puller
+gear puller
+hydraulic jack
+bottle jack
+jack stand
+come along
+chain hoist
+grease gun

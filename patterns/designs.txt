@@ -1,0 +1,20 @@
+stripes
+dots
+checkerboard
+plaid
+paisley
+floral
+geometric
+abstract
+swirls
+spirals
+zigzag
+herringbone
+houndstooth
+damask
+baroque
+art deco
+mandala
+tribal
+celtic
+fractal

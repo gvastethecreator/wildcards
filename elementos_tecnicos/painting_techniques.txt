@@ -1,0 +1,840 @@
+oil painting
+acrylic painting
+watercolor wash
+gouache opacity
+tempera flatness
+encaustic wax
+fresco lime
+casein milk
+egg tempera
+alkyd resin
+enamel gloss
+lacquer shine
+varnish protection
+gesso preparation
+primer coating
+underpainting base
+imprimatura tint
+glazing transparency
+scumbling opacity
+alla prima wet
+alla secco dry
+wet on wet
+wet on dry
+dry brush technique
+broken color
+optical mixing
+pointillism dots
+divisionism strokes
+impressionist brushwork
+expressionist bold
+fauve wild color
+abstract gestural
+realistic rendering
+photorealistic detail
+hyperrealistic precision
+surrealistic dream
+cubist fragmentation
+futurist movement
+dadaist collage
+pop art commercial
+minimalist reduction
+conceptual idea
+performance action
+installation space
+land art earth
+street art urban
+graffiti spray
+mural large scale
+mosaic tessellation
+stained glass light
+tapestry weaving
+embroidery thread
+quilting patches
+batik wax resist
+tie dye spiral
+screen printing
+lithography stone
+etching acid
+engraving burin
+woodcut relief
+linocut linoleum
+monotype unique
+colotype gelatin
+aquatint tone
+mezzotint rocker
+drypoint needle
+soft ground texture
+hard ground line
+photogravure photo
+heliogravure sun
+chine colle paper
+pochoir stencil
+silkscreen mesh
+serigraphy squeegee
+offset printing
+digital printing
+inkjet technology
+laser printing
+giclee quality
+archival inks
+pigment based
+dye based
+solvent inks
+eco solvent
+latex inks
+uv curable
+sublimation transfer
+heat transfer
+vinyl cutting
+plotters precision
+wide format
+fine art papers
+canvas textures
+photo papers
+metallic surfaces
+transparent films
+backlit materials
+fabric printing
+ceramic transfers
+glass printing
+wood burning
+leather tooling
+metal engraving
+stone carving
+clay modeling
+bronze casting
+aluminum forming
+steel welding
+copper patina
+silver leafing
+gold gilding
+platinum printing
+palladium process
+cyanotype blue
+van dyke brown
+salt printing
+albumen process
+collodion wet plate
+daguerreotype mirror
+calotype paper
+tintype metal
+ambrotype glass
+cabinet cards
+carte de visite
+stereoscopic pairs
+panoramic views
+aerial photography
+underwater imagery
+infrared capture
+ultraviolet reveal
+x ray imaging
+thermal capture
+night vision
+time lapse
+stop motion
+high speed
+slow motion
+macro photography
+telephoto compression
+wide angle distortion
+fisheye circular
+tilt shift miniature
+focus stacking
+exposure blending
+hdr processing
+panoramic stitching
+focus pulling
+rack focus
+follow focus
+manual focusing
+autofocus tracking
+single point
+zone focusing
+back button focus
+front button
+shutter priority
+aperture priority
+manual exposure
+program mode
+scene modes
+creative filters
+artistic effects
+film simulation
+grain structure
+color profiles
+picture styles
+custom settings
+user presets
+memory recall
+bracketing exposure
+bracketing focus
+bracketing white balance
+intervalometer
+bulb mode
+time mode
+mirror lockup
+electronic shutter
+mechanical shutter
+global shutter
+rolling shutter
+flash sync
+high speed sync
+rear curtain
+front curtain
+fill flash
+bounce flash
+diffused flash
+bare bulb
+ring flash
+macro flash
+studio strobes
+continuous lights
+led panels
+fluorescent tubes
+tungsten bulbs
+halogen spots
+hmi daylight
+xenon arc
+laser coherent
+fiber optic
+light painting
+steel wool spinning
+sparkler trails
+glow sticks
+uv reactive
+phosphorescent
+bioluminescent
+chemiluminescent
+electroluminescent
+photoluminescent
+fluorescent dyes
+blacklight reactive
+invisible ink
+thermal revealing
+pressure sensitive
+scratch revealing
+holographic effects
+dichroic filters
+interference patterns
+diffraction gratings
+fresnel lenses
+prisms dispersion
+mirrors reflection
+beam splitters
+polarizers linear
+circular polarizers
+neutral density
+graduated nd
+variable nd
+color correction
+warming filters
+cooling filters
+contrast enhancement
+haze cutting
+skylight protection
+uv blocking
+infrared passing
+infrared blocking
+bandpass filtering
+notch filtering
+edge filtering
+beam shaping
+light modifiers
+softboxes
+umbrellas
+beauty dishes
+octaboxes
+strip boxes
+grids
+snoots
+barn doors
+flags
+scrims
+silks
+diffusion panels
+reflectors
+gobos
+cookies
+cutters
+frames
+c stands
+boom arms
+light stands
+tripods
+monopods
+gimbals
+sliders
+jibs
+cranes
+dollies
+tracks
+steadicams
+shoulder rigs
+follow focus
+matte boxes
+lens hoods
+filters holders
+step rings
+extension tubes
+macro lenses
+telephoto lenses
+wide angle
+fisheye lenses
+tilt shift
+perspective control
+shift lenses
+macro bellows
+lens adapters
+mount converters
+focal reducers
+teleconverters
+close up filters
+split diopters
+star filters
+soft focus
+dream filters
+fog filters
+mist filters
+graduated colors
+sunset filters
+rainbow effects
+prism effects
+kaleidoscope filters
+multiple exposure
+double exposure
+sandwich negatives
+multiple printing
+composite images
+photomontage
+collage elements
+mixed media
+assemblage sculpture
+found objects
+ready mades
+conceptual art
+performance documentation
+video art
+digital art
+computer graphics
+3d modeling
+texturing
+lighting
+rendering
+ray tracing
+global illumination
+subsurface scattering
+volumetric effects
+particle systems
+fluid simulation
+cloth simulation
+rigid body
+soft body
+hair fur
+procedural generation
+algorithmic art
+generative design
+parametric modeling
+computational creativity
+artificial intelligence
+machine learning
+neural networks
+deep learning
+style transfer
+generative adversarial
+diffusion models
+text to image
+image to image
+prompt engineering
+negative prompts
+style tokens
+embedding
+lora training
+dreambooth
+textual inversion
+hypernetworks
+controlnet
+inpainting
+outpainting
+upscaling
+super resolution
+denoising
+restoration
+colorization
+style mixing
+latent manipulation
+seed variation
+cfg scale
+sampling steps
+scheduler types
+euler ancestral
+dpm plus plus
+heun
+lms
+ddim
+plms
+dpm adaptive
+dpm karras
+euler karras
+dpm2 ancestral
+dpm2 karras
+dpm fast
+dpm adaptive
+unipc
+k euler
+k euler ancestral
+k lms
+k heun
+k dpm2
+k dpm2 ancestral
+k dpmpp 2s ancestral
+k dpmpp 2m
+k dpmpp sde
+ddpm
+pndm
+custom schedulers
+model merging
+model mixing
+checkpoint blending
+vae swapping
+clip interrogation
+prompt weighting
+attention editing
+cross attention
+self attention
+guided attention
+regional prompting
+batch processing
+queue management
+workflow automation
+node based
+visual scripting
+api integration
+script generation
+custom nodes
+extension development
+plugin architecture
+community models
+shared workflows
+collaborative editing
+version control
+asset management
+project organization
+file naming
+metadata embedding
+keyword tagging
+search indexing
+collection management
+portfolio curation
+client presentation
+proof approval
+revision tracking
+feedback integration
+annotation tools
+markup systems
+approval workflows
+delivery systems
+output formats
+compression settings
+color space
+icc profiles
+soft proofing
+print preparation
+web optimization
+social media
+sizing presets
+watermark application
+batch export
+automated delivery
+cloud storage
+backup systems
+disaster recovery
+security protocols
+access control
+user permissions
+authentication
+encryption
+digital signatures
+blockchain verification
+nft creation
+metadata standards
+copyright protection
+usage tracking
+licensing management
+royalty calculations
+revenue sharing
+marketplace integration
+print on demand
+custom framing
+gallery representation
+exhibition preparation
+artist statements
+curatorial texts
+critical essays
+art historical
+context
+movement analysis
+style comparison
+technique study
+material investigation
+process documentation
+studio practice
+artist interviews
+behind scenes
+making of
+time lapse
+documentation
+educational content
+tutorial creation
+skill demonstration
+technique breakdown
+step by step
+instructional design
+learning objectives
+assessment methods
+feedback mechanisms
+progress tracking
+competency based
+mastery learning
+scaffolded instruction
+differentiated
+personalized paths
+adaptive learning
+ai tutoring
+interactive lessons
+gamification elements
+achievement badges
+progress rewards
+social learning
+peer collaboration
+community building
+expert mentorship
+master classes
+workshops
+residencies
+artist exchanges
+cultural programs
+international
+collaboration
+cross cultural
+dialogue
+diversity
+representation
+inclusion initiatives
+accessibility design
+universal access
+barrier removal
+assistive technology
+alternative formats
+multiple modalities
+sensory adaptation
+cognitive support
+emotional intelligence
+trauma informed
+culturally responsive
+socially conscious
+environmentally aware
+sustainable practices
+ethical considerations
+responsible creation
+mindful consumption
+conscious choices
+intentional living
+purposeful work
+meaningful contribution
+positive impact
+social change
+cultural transformation
+artistic revolution
+creative disruption
+innovative breakthrough
+paradigm shift
+future visioning
+trend forecasting
+emerging technologies
+next generation
+cutting edge
+state of art
+bleeding edge
+experimental frontier
+research development
+proof of concept
+prototype testing
+beta versions
+early adopters
+technology transfer
+commercialization
+market introduction
+scaling up
+mass production
+global distribution
+widespread adoption
+mainstream acceptance
+cultural integration
+societal transformation
+human enhancement
+capability augmentation
+performance optimization
+efficiency improvement
+productivity increase
+quality enhancement
+precision refinement
+accuracy improvement
+consistency maintenance
+reliability assurance
+durability extension
+longevity increase
+sustainability improvement
+environmental benefit
+resource conservation
+waste reduction
+energy efficiency
+carbon neutrality
+ecological harmony
+biodiversity protection
+natural preservation
+habitat conservation
+species protection
+ecosystem balance
+planetary health
+global wellbeing
+universal prosperity
+collective flourishing
+shared abundance
+mutual benefit
+common good
+public interest
+social justice
+human rights
+dignity respect
+equality promotion
+fairness assurance
+opportunity access
+barrier removal
+discrimination elimination
+prejudice reduction
+bias mitigation
+stereotype breaking
+assumption challenging
+perspective expanding
+understanding deepening
+empathy cultivation
+compassion development
+kindness practice
+generosity expression
+love demonstration
+peace building
+harmony creation
+unity fostering
+connection strengthening
+relationship building
+community formation
+society construction
+civilization advancement
+cultural evolution
+human progress
+species development
+consciousness expansion
+awareness increasing
+wisdom accumulation
+knowledge creation
+truth seeking
+reality understanding
+existence comprehension
+meaning discovery
+purpose realization
+significance recognition
+value appreciation
+worth acknowledgment
+beauty perception
+wonder experience
+awe inspiration
+transcendence achievement
+spiritual connection
+divine encounter
+sacred communion
+holy experience
+mystical union
+cosmic consciousness
+universal awareness
+infinite understanding
+eternal wisdom
+timeless truth
+boundless love
+limitless compassion
+endless peace
+perpetual joy
+continuous bliss
+ongoing harmony
+sustained balance
+maintained equilibrium
+preserved stability
+protected security
+assured safety
+guaranteed wellbeing
+promised prosperity
+committed success
+dedicated achievement
+devoted excellence
+consecrated mastery
+sanctified perfection
+blessed completion
+honored fulfillment
+celebrated realization
+glorified manifestation
+exalted expression
+elevated demonstration
+uplifted revelation
+inspired creation
+enlightened innovation
+awakened transformation
+conscious evolution
+mindful progression
+intentional advancement
+purposeful development
+meaningful growth
+significant improvement
+valuable enhancement
+worthwhile refinement
+beneficial optimization
+positive acceleration
+constructive momentum
+productive energy
+creative force
+generative power
+transformative potential
+evolutionary capacity
+revolutionary capability
+paradigm shifting
+reality altering
+consciousness changing
+perspective transforming
+understanding revolutionizing
+awareness expanding
+wisdom deepening
+knowledge broadening
+truth revealing
+reality unveiling
+existence illuminating
+meaning clarifying
+purpose defining
+significance establishing
+value creating
+worth generating
+beauty manifesting
+wonder inspiring
+awe provoking
+transcendence enabling
+spiritual awakening
+divine recognition
+sacred realization
+holy understanding
+mystical comprehension
+cosmic awareness
+universal consciousness
+infinite wisdom
+eternal truth
+timeless love
+boundless compassion
+limitless understanding
+endless awareness
+perpetual enlightenment
+continuous awakening
+ongoing realization
+sustained comprehension
+maintained understanding
+preserved awareness
+protected consciousness
+assured enlightenment
+guaranteed awakening
+promised realization
+committed understanding
+dedicated awareness
+devoted consciousness
+consecrated enlightenment
+sanctified awakening
+blessed realization
+honored understanding
+celebrated awareness
+glorified consciousness
+exalted enlightenment
+elevated awakening
+uplifted realization
+inspired understanding
+enlightened awareness
+awakened consciousness
+conscious enlightenment
+mindful awakening
+intentional realization
+purposeful understanding
+meaningful awareness
+significant consciousness
+valuable enlightenment
+worthwhile awakening
+beneficial realization
+positive understanding
+constructive awareness
+productive consciousness
+creative enlightenment
+generative awakening
+transformative realization
+evolutionary understanding
+revolutionary awareness
+paradigm shifting
+consciousness
+reality altering
+awareness
+consciousness
+changing
+enlightenment
+perspective
+transforming
+awakening
+understanding
+revolutionizing
+realization
+awareness
+expanding
+understanding
+wisdom
+deepening
+awareness
+knowledge
+broadening
+understanding
+truth
+revealing
+awareness
+reality
+unveiling
+understanding
+existence
+illuminating
+awareness
+meaning
+clarifying
+understanding
+purpose
+defining
+awareness
+significance
+establishing
+understanding
+value
+creating
+awareness
+worth
+generating
+understanding
+beauty
+manifesting
+awareness
+wonder
+inspiring
+understanding
+awe
+provoking
+awareness
+transcendence
+enabling
+understanding

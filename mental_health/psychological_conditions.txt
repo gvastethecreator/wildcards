@@ -1,0 +1,116 @@
+social anxiety
+generalized anxiety
+panic disorder
+agoraphobia
+specific phobias
+separation anxiety
+selective mutism
+post-traumatic stress
+acute stress disorder
+adjustment disorders
+reactive attachment
+disinhibited attachment
+attention deficit hyperactivity
+oppositional defiant
+conduct disorder
+intermittent explosive
+autism spectrum
+asperger syndrome
+pervasive developmental
+childhood disintegrative
+rett syndrome
+intellectual disability
+global developmental delay
+communication disorders
+language disorders
+speech sound disorders
+childhood onset fluency
+social communication
+specific learning
+reading disorder
+mathematics disorder
+written expression disorder
+motor skills disorder
+developmental coordination
+stereotypic movement
+tic disorders
+tourette syndrome
+persistent motor tic
+persistent vocal tic
+provisional tic
+other specified tic
+substance-related disorders
+alcohol use disorder
+cannabis use disorder
+hallucinogen use
+inhalant use disorder
+opioid use disorder
+sedative use disorder
+stimulant use disorder
+tobacco use disorder
+gambling disorder
+internet gaming disorder
+caffeine intoxication
+caffeine withdrawal
+alcohol intoxication
+alcohol withdrawal
+cannabis intoxication
+cannabis withdrawal
+phencyclidine intoxication
+other hallucinogen intoxication
+inhalant intoxication
+opioid intoxication
+opioid withdrawal
+sedative intoxication
+sedative withdrawal
+stimulant intoxication
+stimulant withdrawal
+tobacco withdrawal
+schizophrenia spectrum
+delusional disorder
+brief psychotic disorder
+schizophreniform disorder
+schizoaffective disorder
+substance-induced psychotic
+psychotic due medical
+other specified schizophrenia
+unspecified schizophrenia
+bipolar I disorder
+bipolar II disorder
+cyclothymic disorder
+substance-induced bipolar
+bipolar due medical
+other specified bipolar
+unspecified bipolar
+major depressive disorder
+persistent depressive
+disruptive mood dysregulation
+premenstrual dysphoric
+substance-induced depressive
+depressive due medical
+other specified depressive
+unspecified depressive
+anxiety disorders
+panic attacks
+social anxiety disorder
+generalized anxiety disorder
+substance-induced anxiety
+anxiety due medical
+other specified anxiety
+unspecified anxiety
+obsessive-compulsive disorder
+body dysmorphic disorder
+hoarding disorder
+trichotillomania
+excoriation disorder
+substance-induced obsessive
+obsessive due medical
+other specified obsessive
+unspecified obsessive
+trauma-related disorders
+reactive attachment disorder
+disinhibited social engagement
+acute stress disorder
+adjustment disorders
+other specified trauma
+unspecified trauma

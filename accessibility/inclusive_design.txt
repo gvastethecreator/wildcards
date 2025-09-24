@@ -1,0 +1,148 @@
+universal design principles
+inclusive design
+barrier-free design
+accessible architecture
+curb cuts
+ramps
+elevators
+accessible parking
+wide doorways
+automatic doors
+lever handles
+accessible bathrooms
+grab bars
+roll-in showers
+adjustable fixtures
+lowered counters
+accessible kitchens
+reachable storage
+front-loading appliances
+accessible controls
+tactile indicators
+braille signage
+high contrast signage
+large print materials
+audio descriptions
+descriptive video
+closed captioning
+open captioning
+sign language interpretation
+assistive listening
+hearing loops
+FM systems
+infrared systems
+wheelchair accessibility
+mobility device access
+transfer surfaces
+clear floor space
+maneuvering clearance
+accessible routes
+accessible entrances
+accessible egress
+emergency evacuation
+refuge areas
+areas of rescue assistance
+visual alarms
+audible alarms
+tactile alarms
+emergency communication
+accessible parking spaces
+van accessible spaces
+passenger loading zones
+accessible transportation
+paratransit services
+accessible vehicles
+wheelchair lifts
+ramps
+securement systems
+accessible seating
+priority seating
+companion seating
+accessible workstations
+adjustable desks
+sit-stand desks
+keyboard trays
+monitor arms
+task lighting
+ergonomic seating
+lumbar support
+armrest adjustment
+footrests
+document holders
+accessible software
+screen magnification
+high contrast displays
+large cursors
+sticky keys
+filter keys
+toggle keys
+slow keys
+bounce keys
+repeat keys
+mouse keys
+on-screen keyboards
+voice recognition
+switch access
+eye tracking
+head tracking
+alternative keyboards
+large key keyboards
+one-handed keyboards
+ergonomic keyboards
+programmable keyboards
+touch screens
+accessible mobile apps
+voice over
+talk back
+voice assistant
+smart speakers
+home automation
+environmental controls
+smart thermostats
+automated lighting
+motorized window coverings
+door openers
+accessible gaming
+adaptive controllers
+one-handed controllers
+foot controllers
+eye tracking gaming
+voice controlled gaming
+switch gaming
+accessible game design
+subtitles
+audio cues
+adjustable difficulty
+pause functions
+accessible menus
+colorblind friendly
+seizure safe
+motion sensitivity
+cognitive accessibility
+plain language
+simple navigation
+clear instructions
+consistent layout
+error prevention
+error correction
+timeout warnings
+session extensions
+progress indicators
+help systems
+tutorials
+accessible media
+alt text
+captions
+transcripts
+audio descriptions
+sign language videos
+accessible documents
+structured headings
+proper reading order
+meaningful links
+form labels
+table headers
+accessible PDFs
+tagged PDFs
+accessible presentations
+accessible spreadsheets

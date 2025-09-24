@@ -1,0 +1,195 @@
+VHS tape distortion
+video cassette noise
+analog static interference
+tracking line errors
+color bleeding
+chroma displacement
+luma ghosting
+dropout artifacts
+tape wear degradation
+magnetic head clog
+speed variation flutter
+time base error
+sync pulse drift
+field dominance
+interlaced scanning
+progressive display
+motion blur
+compression artifacts
+digital noise
+pixelation
+banding
+posterization
+aliasing
+moiré pattern
+jagged edges
+staircase effect
+ringing artifacts
+oversharpening
+undersaturation
+oversaturation
+color cast
+white balance shift
+exposure latitude
+dynamic range
+highlight clipping
+shadow crushing
+blown highlights
+crushed blacks
+lifted blacks
+film grain texture
+35mm grain structure
+16mm grain coarse
+8mm super grain
+kodak vision3
+fuji eterna
+agfa vista
+ilford hp5
+tri-x black white
+portra color
+ektar vibrant
+velvia saturated
+provia natural
+ektachrome slide
+polaroid instant
+impossible project
+instax mini
+wide format
+medium format
+large format
+daguerreotype
+calotype
+tintype
+albumen print
+gelatin silver
+carbon print
+platinum print
+cyanotype blue
+van dyke brown
+gum bichromate
+oil print
+bromoil
+photogravure
+collotype
+woodburytype
+autocrome
+kinemacolor
+technicolor
+cinecolor
+eastmancolor
+metrocolor
+warnercolor
+deluxe color
+panavision
+cinemascope
+vistavision
+super panavision
+ultra panavision
+techniscope
+superscope
+dyaliscope
+franscope
+totalscope
+megascope
+naturama
+regalscope
+superama
+wonderama
+dimension 150
+cinerama
+imax dome
+omnimax
+iwerks
+showscan
+douglas trumbull
+maxivision
+digital intermediate
+telecine transfer
+color timing
+color grading
+lut application
+film emulation
+grain overlay
+damage simulation
+dust and scratches
+hair in gate
+splice marks
+frame jitter
+gate weave
+registration
+steadiness
+sharpness
+resolution
+contrast ratio
+gamma correction
+color space
+rec 709
+rec 2020
+dci p3
+adobe rgb
+prophoto rgb
+srgb standard
+linear gamma
+log encoding
+hlg hybrid
+pq perceptual
+dolby vision
+hdr10 plus
+hdr metadata
+tone mapping
+gamut mapping
+color management
+icc profile
+display calibration
+monitor profiling
+print matching
+soft proofing
+perceptual rendering
+relative colorimetric
+absolute colorimetric
+saturation intent
+black point compensation
+chromatic adaptation
+white point
+illuminant d65
+illuminant d50
+tungsten 3200k
+daylight 5600k
+fluorescent
+led panel
+hmi arc
+xenon projection
+laser display
+oled organic
+qled quantum
+micro led
+e-ink paper
+crt phosphor
+plasma gas
+lcd backlight
+projection mapping
+holographic display
+augmented overlay
+virtual environment
+mixed reality
+spatial computing
+volumetric capture
+photogrammetry
+lidar scanning
+structured light
+time of flight
+stereo vision
+depth sensing
+motion capture
+facial tracking
+eye tracking
+gesture recognition
+voice control
+haptic feedback
+force feedback
+tactile sensation
+temperature feeling
+smell synthesis
+taste simulation
+synesthesia cross
+multisensory experience

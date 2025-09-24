@@ -1,0 +1,393 @@
+longsword
+broadsword
+bastard sword
+two-handed sword
+greatsword
+claymore
+katana
+wakizashi
+tanto
+nodachi
+tachi
+uchigatana
+ninjato
+shirasaya
+iaito
+shinken
+samurai sword
+sabre
+saber
+cavalry saber
+cutlass
+rapier
+smallsword
+epee
+foil
+fencing sword
+dueling sword
+court sword
+dress sword
+ceremonial sword
+gladius
+spatha
+falcata
+xiphos
+kopis
+khopesh
+scimitar
+shamshir
+tulwar
+kilij
+saif
+yataghan
+cinquedea
+falchion
+messer
+kriegsmesser
+flamberge
+zweihander
+montante
+espadon
+spadone
+bidenhander
+bearing sword
+executioner sword
+headsman sword
+viking sword
+norse sword
+seax
+scramasax
+dao
+jian
+dadao
+pudao
+changdao
+miao dao
+yanmaodao
+liuyedao
+wodao
+zhanmadao
+butterfly sword
+hook sword
+tiger hook sword
+deer horn knives
+emei daggers
+sai
+chinese sword
+japanese sword
+korean sword
+european sword
+medieval sword
+renaissance sword
+baroque sword
+gothic sword
+romanesque sword
+celtic sword
+germanic sword
+slavic sword
+scandinavian sword
+anglo-saxon sword
+frankish sword
+crusader sword
+templar sword
+hospitaller sword
+teutonic sword
+holy sword
+blessed sword
+cursed sword
+demon sword
+evil sword
+dark sword
+shadow sword
+blood sword
+soul sword
+spirit sword
+ghostly sword
+phantom sword
+ethereal sword
+magical sword
+enchanted sword
+runic sword
+mystical sword
+legendary sword
+mythical sword
+divine sword
+godly sword
+celestial sword
+heavenly sword
+infernal sword
+hellish sword
+abyssal sword
+void sword
+cosmic sword
+stellar sword
+solar sword
+lunar sword
+elemental sword
+fire sword
+flame sword
+burning sword
+ice sword
+frost sword
+frozen sword
+lightning sword
+thunder sword
+storm sword
+wind sword
+air sword
+earth sword
+stone sword
+crystal sword
+diamond sword
+adamantine sword
+mithril sword
+silver sword
+golden sword
+platinum sword
+titanium sword
+steel sword
+iron sword
+bronze sword
+copper sword
+obsidian sword
+volcanic glass sword
+bone sword
+tooth sword
+claw sword
+horn sword
+antler sword
+wooden sword
+bamboo sword
+reed sword
+paper sword
+cloth sword
+rope sword
+chain sword
+whip sword
+flexible sword
+segmented sword
+telescopic sword
+retractable sword
+folding sword
+collapsible sword
+modular sword
+composite sword
+layered sword
+laminated sword
+forged sword
+cast sword
+wrought sword
+hammered sword
+tempered sword
+quenched sword
+annealed sword
+hardened sword
+sharpened sword
+polished sword
+decorated sword
+engraved sword
+etched sword
+inlaid sword
+jeweled sword
+gemstone sword
+ruby sword
+sapphire sword
+emerald sword
+diamond-edged sword
+serrated sword
+jagged sword
+notched sword
+chipped sword
+broken sword
+cracked sword
+bent sword
+twisted sword
+warped sword
+corroded sword
+rusted sword
+tarnished sword
+weathered sword
+ancient sword
+old sword
+vintage sword
+antique sword
+relic sword
+artifact sword
+archaeological sword
+museum sword
+collector sword
+replica sword
+reproduction sword
+training sword
+practice sword
+sparring sword
+blunt sword
+dull sword
+sharp sword
+razor-sharp sword
+keen sword
+honed sword
+whetted sword
+ground sword
+filed sword
+stropped sword
+maintained sword
+well-kept sword
+pristine sword
+perfect sword
+flawless sword
+masterwork sword
+artisan sword
+crafted sword
+handmade sword
+custom sword
+bespoke sword
+commissioned sword
+personalized sword
+unique sword
+one-of-a-kind sword
+rare sword
+uncommon sword
+special sword
+extraordinary sword
+remarkable sword
+notable sword
+famous sword
+renowned sword
+celebrated sword
+honored sword
+revered sword
+worshipped sword
+sacred sword
+holy relic sword
+religious sword
+spiritual sword
+ceremonial blade
+ritual sword
+sacrificial sword
+offering sword
+prayer sword
+meditation sword
+zen sword
+martial arts sword
+kung fu sword
+wushu sword
+taiji sword
+bagua sword
+xingyi sword
+aikido sword
+iaido sword
+kendo sword
+kenjutsu sword
+battojutsu sword
+tameshigiri sword
+test cutting sword
+cutting sword
+slashing sword
+thrusting sword
+stabbing sword
+piercing sword
+penetrating sword
+armor-piercing sword
+mail-breaking sword
+plate-cutting sword
+shield-splitting sword
+bone-crushing sword
+flesh-rending sword
+blood-drinking sword
+soul-stealing sword
+life-draining sword
+energy-absorbing sword
+magic-disrupting sword
+spell-breaking sword
+ward-piercing sword
+barrier-cutting sword
+dimension-slicing sword
+reality-rending sword
+time-cutting sword
+space-splitting sword
+void-piercing sword
+existence-severing sword
+creation-destroying sword
+apocalyptic sword
+world-ending sword
+universe-splitting sword
+omnipotent sword
+omniscient sword
+omnipresent sword
+transcendent sword
+ascendant sword
+immortal sword
+eternal sword
+everlasting sword
+timeless sword
+ageless sword
+undying sword
+indestructible sword
+unbreakable sword
+invincible sword
+invulnerable sword
+impenetrable sword
+impervious sword
+resistant sword
+immune sword
+protected sword
+shielded sword
+warded sword
+blessed protection sword
+divine protection sword
+holy aegis sword
+sacred guardian sword
+celestial defender sword
+heavenly protector sword
+angelic sword
+seraphic sword
+cherubic sword
+archangelic sword
+divine messenger sword
+god's will sword
+creator's tool sword
+maker's instrument sword
+architect's blade sword
+designer's edge sword
+artist's brush sword
+sculptor's chisel sword
+writer's pen sword
+poet's quill sword
+musician's bow sword
+dancer's partner sword
+actor's prop sword
+performer's tool sword
+entertainer's device sword
+showman's equipment sword
+magician's wand sword
+wizard's staff sword
+sorcerer's rod sword
+witch's athame sword
+warlock's blade sword
+necromancer's tool sword
+summoner's focus sword
+conjurer's implement sword
+enchanter's device sword
+illusionist's prop sword
+diviner's instrument sword
+oracle's conduit sword
+prophet's sign sword
+seer's lens sword
+sage's wisdom sword
+scholar's knowledge sword
+teacher's lesson sword
+student's practice sword
+apprentice's trial sword
+master's test sword
+grandmaster's challenge sword
+champion's trophy sword
+victor's prize sword
+winner's reward sword
+hero's badge sword
+legend's mark sword
+myth's symbol sword
+story's plot sword
+tale's twist sword
+narrative's turn sword
+epic's climax sword

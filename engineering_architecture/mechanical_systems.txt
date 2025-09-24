@@ -1,0 +1,456 @@
+gear system
+pulley system
+lever mechanism
+screw mechanism
+inclined plane
+wedge system
+wheel and axle
+cam mechanism
+crankshaft
+connecting rod
+piston
+cylinder
+valve
+spring mechanism
+damper
+shock absorber
+bearing
+bushing
+coupling
+clutch
+brake system
+transmission
+differential
+universal joint
+CV joint
+belt drive
+chain drive
+gear train
+planetary gears
+worm gear
+helical gear
+spur gear
+bevel gear
+rack and pinion
+hydraulic system
+pneumatic system
+vacuum system
+pressure system
+pump mechanism
+compressor
+turbine
+impeller
+propeller
+rotor
+stator
+armature
+commutator
+brushes
+windings
+coil
+transformer
+generator
+motor
+actuator
+servo motor
+stepper motor
+linear actuator
+rotary actuator
+solenoid
+relay
+switch
+sensor
+transducer
+encoder
+decoder
+amplifier
+filter
+regulator
+controller
+processor
+microcontroller
+circuit board
+PCB
+integrated circuit
+chip
+transistor
+diode
+resistor
+capacitor
+inductor
+fuse
+breaker
+contactor
+starter
+inverter
+converter
+rectifier
+oscillator
+timer
+counter
+logic gate
+flip-flop
+memory
+RAM
+ROM
+EPROM
+EEPROM
+flash memory
+hard drive
+SSD
+optical drive
+display
+LCD
+LED
+OLED
+CRT
+plasma
+projection
+touchscreen
+keyboard
+mouse
+trackball
+joystick
+gamepad
+stylus
+tablet
+scanner
+printer
+plotter
+speaker
+microphone
+camera
+webcam
+projector
+monitor
+television
+radio
+antenna
+receiver
+transmitter
+transceiver
+modem
+router
+switch
+hub
+bridge
+gateway
+firewall
+server
+workstation
+desktop
+laptop
+tablet
+smartphone
+smartwatch
+fitness tracker
+GPS
+navigation
+compass
+accelerometer
+gyroscope
+magnetometer
+barometer
+thermometer
+hygrometer
+anemometer
+weather station
+seismometer
+spectrometer
+microscope
+telescope
+binoculars
+periscope
+endoscope
+stethoscope
+otoscope
+ophthalmoscope
+X-ray machine
+MRI scanner
+CT scanner
+ultrasound
+ECG machine
+EEG machine
+defibrillator
+pacemaker
+insulin pump
+dialysis machine
+ventilator
+anesthesia machine
+surgical robot
+prosthetic limb
+hearing aid
+cochlear implant
+contact lens
+glasses
+laser
+fiber optic
+LED light
+halogen bulb
+fluorescent tube
+incandescent bulb
+neon light
+strobe light
+searchlight
+flashlight
+headlamp
+lantern
+candle
+torch
+fire
+combustion engine
+steam engine
+electric motor
+jet engine
+rocket engine
+turbofan
+turbojet
+turboprop
+propeller engine
+diesel engine
+gasoline engine
+hybrid engine
+hydrogen fuel cell
+solar panel
+wind turbine
+hydroelectric generator
+nuclear reactor
+coal power plant
+natural gas plant
+geothermal plant
+biomass plant
+tidal generator
+wave generator
+battery
+rechargeable battery
+lithium ion
+nickel metal hydride
+lead acid
+alkaline
+fuel cell
+capacitor
+supercapacitor
+flywheel
+compressed air
+pumped hydro
+thermal storage
+electrical grid
+power line
+transformer
+substation
+distribution panel
+circuit breaker
+fuse box
+electrical outlet
+plug
+extension cord
+power strip
+surge protector
+UPS
+voltage regulator
+power supply
+charger
+adapter
+inverter
+converter
+rectifier
+oscilloscope
+multimeter
+ammeter
+voltmeter
+ohmmeter
+frequency counter
+signal generator
+power meter
+spectrum analyzer
+logic analyzer
+protocol analyzer
+network analyzer
+antenna analyzer
+field strength meter
+radiation detector
+gas detector
+smoke detector
+carbon monoxide detector
+fire alarm
+security alarm
+motion detector
+proximity sensor
+photoelectric sensor
+ultrasonic sensor
+magnetic sensor
+hall effect sensor
+reed switch
+limit switch
+pressure switch
+temperature switch
+float switch
+flow switch
+level sensor
+pH sensor
+conductivity sensor
+turbidity sensor
+dissolved oxygen sensor
+chlorine sensor
+UV sensor
+infrared sensor
+visible light sensor
+laser sensor
+radar sensor
+lidar sensor
+sonar sensor
+GPS receiver
+inertial navigation
+dead reckoning
+triangulation
+trilateration
+multilateration
+time of flight
+phase measurement
+frequency measurement
+amplitude measurement
+pulse width measurement
+duty cycle measurement
+rise time measurement
+fall time measurement
+slew rate measurement
+settling time measurement
+overshoot measurement
+undershoot measurement
+ringing measurement
+noise measurement
+distortion measurement
+linearity measurement
+accuracy measurement
+precision measurement
+resolution measurement
+sensitivity measurement
+selectivity measurement
+dynamic range measurement
+bandwidth measurement
+frequency response measurement
+step response measurement
+impulse response measurement
+transfer function measurement
+stability measurement
+margin measurement
+loop gain measurement
+phase margin measurement
+gain margin measurement
+bode plot
+nyquist plot
+root locus
+pole zero plot
+smith chart
+constellation diagram
+eye diagram
+waterfall plot
+spectrogram
+histogram
+scatter plot
+trend plot
+control chart
+pareto chart
+fishbone diagram
+flowchart
+block diagram
+schematic diagram
+wiring diagram
+piping diagram
+process flow diagram
+instrumentation diagram
+layout drawing
+assembly drawing
+detail drawing
+section view
+elevation view
+plan view
+isometric view
+perspective view
+exploded view
+cutaway view
+cross section
+blueprint
+technical drawing
+engineering drawing
+CAD model
+3D model
+solid model
+surface model
+wireframe model
+parametric model
+feature based model
+assembly model
+simulation model
+finite element model
+computational fluid dynamics
+computational electromagnetics
+multiphysics simulation
+optimization
+topology optimization
+shape optimization
+size optimization
+material optimization
+process optimization
+design optimization
+performance optimization
+cost optimization
+weight optimization
+strength optimization
+stiffness optimization
+vibration optimization
+thermal optimization
+electromagnetic optimization
+acoustic optimization
+aerodynamic optimization
+hydrodynamic optimization
+active suspension system
+adaptive damping
+anti-lock braking system
+automatic transmission
+belt tensioner
+camshaft
+centrifugal clutch
+continuously variable transmission
+dual-clutch gearbox
+electrohydraulic actuator
+fuel injection system
+gearbox housing
+hydraulic accumulator
+hydraulic manifold
+hydrostatic transmission
+intercooler
+kinetic energy recovery system
+magnetorheological damper
+mechanical governor
+oscillating cylinder
+peristaltic pump
+planetary differential
+regenerative braking system
+rotary engine
+scroll compressor
+servo valve
+swashplate mechanism
+torsion bar suspension
+turbocharger
+variable geometry turbocharger
+variable valve timing
+vibration isolator
+worm drive actuator
+yaw damper
+vacuum pump
+positive displacement pump
+gear oil pump
+sprag clutch
+torque converter
+harmonic drive
+planetary reducer
+ball screw drive
+linear guide
+magnetic bearing
+air bearing
+lubrication system
+cooling radiator module
+thermal management loop
+electric power steering
+hydraulic power steering

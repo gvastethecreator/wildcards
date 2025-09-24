@@ -1,0 +1,108 @@
+Bitcoin mining rigs
+Ethereum staking nodes
+Proof of work algorithms
+Proof of stake consensus
+Delegated proof of stake
+Proof of authority
+Practical Byzantine fault tolerance
+Tendermint consensus
+Ouroboros protocol
+Avalanche consensus
+Algorand pure proof of stake
+Tezos liquid proof of stake
+Cardano extended UTXO
+Polkadot nominated proof of stake
+Cosmos inter-blockchain communication
+Chainlink decentralized oracles
+Uniswap automated market makers
+Compound interest protocols
+Aave lending pools
+MakerDAO collateralized debt
+Synthetix synthetic assets
+Yearn Finance yield farming
+Curve Finance stable swaps
+Balancer automated portfolios
+SushiSwap decentralized exchange
+PancakeSwap BSC trading
+Trader Joe Avalanche DEX
+QuickSwap Polygon exchange
+SpookySwap Fantom DeFi
+Raydium Solana liquidity
+Serum order book DEX
+Jupiter aggregator protocols
+Orca concentrated liquidity
+Marinade liquid staking
+Lido staking derivatives
+Rocket Pool decentralized staking
+Frax algorithmic stablecoin
+Terra Luna ecosystem
+Anchor savings protocol
+Mirror synthetic stocks
+Astroport DEX aggregator
+Osmosis cosmos DEX
+JunoSwap interchain trading
+Secret Network privacy DeFi
+Monero privacy coins
+Zcash zero-knowledge proofs
+Tornado Cash mixing service
+Aztec privacy rollups
+Polygon zero-knowledge proofs
+StarkNet validity rollups
+Optimism optimistic rollups
+Arbitrum fraud proofs
+Loopring zkRollups
+Immutable X gaming NFTs
+dYdX perpetual trading
+GMX decentralized derivatives
+Dopex options protocols
+Ribbon Finance structured products
+Hegic options trading
+Opyn protective puts
+Primitive RMM protocols
+Pendle yield tokenization
+Element fixed income
+Notional fixed rate lending
+Sense Finance yield stripping
+APWine future yield trading
+Tempus Finance yield tokens
+Swivel fixed rate protocols
+88mph fixed rate deposits
+BarnBridge risk tranching
+Saffron Finance risk selection
+Structured products protocols
+Credit default swaps
+Decentralized insurance
+Nexus Mutual coverage
+InsurAce multi-chain protection
+Cover Protocol risk coverage
+Armor.fi DeFi insurance
+Opium derivatives protocols
+UMA optimistic oracles
+Mirror Protocol synthetic assets
+Injective decentralized derivatives
+dHEDGE asset management
+Set Protocol portfolio management
+TokenSets automated strategies
+DeFi Pulse Index
+Indexed Finance market cap
+PieDAO asset allocation
+PowerPool governance mining
+Badger DAO Bitcoin DeFi
+Convex Finance Curve boosts
+Votium Curve governance
+Llama Airforce Convex tooling
+Beefy Finance yield optimization
+Harvest Finance auto-compounding
+Auto farm yield strategies
+Belt Finance multi-chain yields
+Alpha Homora leveraged yield
+Alpaca Finance lending
+Venus Protocol BSC lending
+Scream lending Fantom
+Geist Finance lending
+Tarot lending protocol
+Hundred Finance Ethereum lending
+Rari Capital Fuse pools
+Cream Finance multi-chain lending
+Iron Bank undercollateralized loans
+Euler Finance reactive interest

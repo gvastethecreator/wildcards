@@ -1,0 +1,97 @@
+warrior
+paladin
+knight
+barbarian
+berserker
+fighter
+guardian
+defender
+tank
+mage
+wizard
+sorcerer
+warlock
+witch
+necromancer
+elementalist
+pyromancer
+cryomancer
+storm mage
+arcane mage
+battle mage
+rogue
+thief
+assassin
+ninja
+spy
+scout
+ranger
+hunter
+archer
+marksman
+sniper
+gunslinger
+cleric
+priest
+healer
+monk
+shaman
+druid
+bard
+minstrel
+troubadour
+alchemist
+artificer
+engineer
+inventor
+tinkerer
+blacksmith
+craftsman
+merchant
+trader
+scholar
+sage
+loremaster
+summoner
+beast master
+tamer
+shapeshifter
+lycanthrope
+vampire
+demon hunter
+exorcist
+templar
+crusader
+inquisitor
+death knight
+dark knight
+samurai
+ronin
+shogun
+ninja master
+sensei
+pirate
+buccaneer
+corsair
+swashbuckler
+captain
+admiral
+commander
+general
+tactician
+strategist
+warlord
+chieftain
+king
+queen
+emperor
+empress
+noble
+lord
+lady
+duke
+duchess
+count
+countess
+baron
+baroness

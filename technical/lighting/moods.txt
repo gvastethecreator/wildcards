@@ -1,0 +1,76 @@
+Warm lighting
+Cool lighting
+Neutral lighting
+Golden hour
+Blue hour
+Magic hour
+Sunrise lighting
+Sunset lighting
+Midday sun
+Overcast lighting
+Stormy lighting
+Moonlight
+Starlight
+Candlelight
+Firelight
+Campfire glow
+Torch light
+Lantern light
+Oil lamp
+Gas lamp
+Street lamp
+Neon lighting
+LED lighting
+Fluorescent lighting
+Halogen lighting
+Incandescent lighting
+Tungsten lighting
+Daylight balanced
+Sodium vapor
+Mercury vapor
+UV lighting
+Blacklight
+Infrared lighting
+Laser lighting
+Strobe lighting
+Flash lighting
+Continuous lighting
+Pulsing light
+Flickering light
+Steady light
+Bright lighting
+Dim lighting
+Harsh lighting
+Gentle lighting
+Dramatic lighting
+Subtle lighting
+High contrast lighting
+Low contrast lighting
+Even lighting
+Uneven lighting
+Directional lighting
+Omnidirectional lighting
+Spot lighting
+Flood lighting
+Accent lighting
+Task lighting
+Ambient lighting
+Decorative lighting
+Architectural lighting
+Landscape lighting
+Security lighting
+Emergency lighting
+Stage lighting
+Studio lighting
+Photography lighting
+Film lighting
+Theater lighting
+Concert lighting
+Club lighting
+Disco lighting
+Party lighting
+Wedding lighting
+Christmas lighting
+Holiday lighting
+Festival lighting
+Carnival lighting

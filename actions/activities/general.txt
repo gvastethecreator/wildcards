@@ -1,0 +1,66 @@
+walking
+running
+jumping
+dancing
+sitting
+standing
+kneeling
+reaching
+leaning
+staring
+reading
+writing
+drawing
+climbing
+swimming
+fighting
+backpacking
+baking bread
+barbecue grilling
+bartending
+birdwatching
+brainstorming
+breakdancing
+brewing coffee
+brewing tea
+camping
+canoeing
+carving wood
+chatting
+cheering
+coding
+composing music
+cooking dinner
+crafting jewelry
+cycling
+daydreaming
+designing
+diving
+gardening
+handshaking
+hiking
+ice skating
+juggling
+kayaking
+knitting
+meditating
+mountain biking
+organizing
+painting walls
+photographing
+piloting
+playing chess
+playing piano
+playing soccer
+playing tennis
+pottery throwing
+practicing yoga
+quilting
+rock climbing
+roller skating
+sculpting clay
+skateboarding
+snowboarding
+stargazing
+stretching
+surfing

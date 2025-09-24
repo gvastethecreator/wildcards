@@ -1,0 +1,20 @@
+novel
+novella
+short story
+flash fiction
+epic poem
+ballad
+screenplay
+stage play
+radio drama
+podcast series
+web serial
+graphic novel
+manga
+comic book
+visual novel
+interactive fiction
+anthology
+collection
+trilogy
+saga

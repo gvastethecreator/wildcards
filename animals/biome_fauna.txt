@@ -1,0 +1,165 @@
+amazon rainforest jaguar howler monkey toucan
+amazon rainforest poison dart frog sloth
+amazon rainforest anaconda piranha river dolphin
+amazon rainforest harpy eagle tapir capybara
+amazon rainforest giant otter manatee caiman
+congo rainforest gorilla chimpanzee forest elephant
+congo rainforest okapi leopard bongo antelope
+congo rainforest mandrill baboon colobus monkey
+congo rainforest african grey parrot hornbill
+congo rainforest forest buffalo giant pangolin
+borneo rainforest orangutan proboscis monkey
+borneo rainforest clouded leopard sun bear
+borneo rainforest hornbill flying squirrel
+borneo rainforest pygmy elephant bearded pig
+borneo rainforest binturong tarsier gibbon
+madagascar rainforest lemur fossa chameleon
+madagascar rainforest tenrec gecko boa
+madagascar rainforest comet moth orchid mantis
+madagascar rainforest tomato frog leaf tailed
+madagascar rainforest indri sifaka aye aye
+temperate rainforest grizzly bear black bear
+temperate rainforest mountain goat elk deer
+temperate rainforest salmon trout bald eagle
+temperate rainforest wolf cougar lynx
+temperate rainforest spotted owl marbled murrelet
+african savanna lion leopard cheetah
+african savanna elephant rhinoceros hippopotamus
+african savanna giraffe zebra wildebeest
+african savanna hyena wild dog jackal
+african savanna ostrich secretary bird vulture
+african savanna gazelle impala springbok
+african savanna buffalo warthog aardvark
+african savanna meerkat mongoose caracal
+african savanna aardwolf bat eared fox
+african savanna ground squirrel rock hyrax
+australian outback kangaroo wallaby koala
+australian outback dingo echidna platypus
+australian outback wombat tasmanian devil quoll
+australian outback bilby bandicoot potoroo
+australian outback frilled lizard bearded dragon
+australian outback emu cassowary kookaburra
+australian outback lyrebird cockatoo galah
+australian outback wedge tailed eagle peregrine
+australian outback huntsman spider redback
+australian outback funnel web spider taipan
+great plains bison elk pronghorn
+great plains prairie dog black footed ferret
+great plains burrowing owl meadowlark
+great plains coyote mountain lion bobcat
+great plains badger ground squirrel jackrabbit
+great plains rattlesnake bull snake garter
+great plains monarch butterfly meadow fritillary
+great plains thirteen lined ground squirrel
+great plains white tailed deer mule deer
+great plains wild turkey sharp tailed grouse
+arctic tundra polar bear arctic fox
+arctic tundra caribou muskox reindeer
+arctic tundra snowy owl gyrfalcon
+arctic tundra arctic hare lemming
+arctic tundra walrus seal whale
+arctic tundra beluga narwhal bowhead
+arctic tundra arctic tern ivory gull
+arctic tundra wolverine ermine stoat
+arctic tundra ptarmigan snow bunting
+arctic tundra arctic char grayling
+alpine mountains mountain goat bighorn sheep
+alpine mountains snow leopard lynx
+alpine mountains golden eagle lammergeier
+alpine mountains pika marmot chinchilla
+alpine mountains ibex chamois markhor
+alpine mountains yak bharal blue sheep
+alpine mountains himalayan tahr serow
+alpine mountains red panda giant panda
+alpine mountains takin goral argali
+alpine mountains marco polo sheep urial
+desert coyote kit fox fennec fox
+desert roadrunner cactus wren burrowing owl
+desert bighorn sheep javelina pronghorn
+desert kangaroo rat pocket mouse jerboa
+desert gila monster chuckwalla desert tortoise
+desert diamondback rattlesnake coral snake
+desert tarantula scorpion camel spider
+desert desert pupfish killifish
+desert addax oryx gazelle
+desert sand cat caracal serval
+wetland alligator crocodile turtle
+wetland great blue heron egret ibis
+wetland duck goose swan pelican
+wetland beaver muskrat otter
+wetland frog toad salamander
+wetland dragonfly damselfly mayfly
+wetland bass pike catfish perch
+wetland mink raccoon opossum
+wetland red winged blackbird marsh wren
+wetland bittern rail sora
+coral reef clownfish angelfish parrotfish
+coral reef grouper snapper triggerfish
+coral reef butterflyfish wrasse damselfish
+coral reef surgeon fish puffer fish
+coral reef sea turtle ray shark
+coral reef moray eel octopus squid
+coral reef sea horse sea cucumber
+coral reef giant clam conch shell
+coral reef lobster crab shrimp
+coral reef sea anemone coral polyp
+deep ocean anglerfish lanternfish hatchetfish
+deep ocean vampire squid giant squid
+deep ocean gulper eel snipe eel
+deep ocean barreleye fish viperfish
+deep ocean dumbo octopus sea pig
+deep ocean giant isopod amphipod
+deep ocean sixgill shark frilled shark
+deep ocean coelacanth chimera ratfish
+deep ocean giant tube worm yeti crab
+deep ocean sea spider glass sponge
+kelp forest sea otter harbor seal
+kelp forest garibaldi fish rockfish
+kelp forest abalone sea urchin
+kelp forest sea star brittle star
+kelp forest california sea lion elephant seal
+kelp forest leopard shark horn shark
+kelp forest bat ray electric ray
+kelp forest moray eel wolf eel
+kelp forest lingcod cabezon sculpin
+kelp forest turban snail limpet chiton
+mangrove manatee crocodile dolphin
+mangrove roseate spoonbill flamingo heron
+mangrove fiddler crab mud crab
+mangrove mudskipper puffer fish
+mangrove oyster mussel barnacle
+mangrove tree boa constrictor iguana
+mangrove salt water crocodile monitor lizard
+mangrove proboscis monkey macaque
+mangrove kingfisher bee eater hornbill
+mangrove flying fox fruit bat
+bamboo forest giant panda red panda
+bamboo forest golden snub nosed monkey
+bamboo forest asiatic black bear sun bear
+bamboo forest bamboo rat bamboo viper
+bamboo forest bamboo partridge laughing thrush
+bamboo forest pheasant tragopan monal
+bamboo forest leopard cat fishing cat
+bamboo forest serow takin goral
+bamboo forest golden pheasant silver pheasant
+bamboo forest bamboo pit viper green snake
+boreal forest moose elk reindeer caribou
+boreal forest brown bear black bear wolverine
+boreal forest lynx bobcat pine marten
+boreal forest wolf coyote red fox
+boreal forest great horned owl snowy owl
+boreal forest woodpecker nuthatch chickadee
+boreal forest crossbill siskin grosbeak
+boreal forest grouse ptarmigan capercaillie
+boreal forest porcupine beaver snowshoe hare
+boreal forest mink fisher weasel
+steppe saiga antelope przewalski horse
+steppe steppe eagle golden eagle buzzard
+steppe ground squirrel jerboa hamster
+steppe corsac fox manul pallas cat
+steppe demoiselle crane bustard plover
+steppe viper sand boa racerdog
+steppe steppe polecat marbled polecat
+steppe tolai hare long eared hedgehog
+steppe steppe lemming birch mouse
+steppe red deer roe deer wild boar

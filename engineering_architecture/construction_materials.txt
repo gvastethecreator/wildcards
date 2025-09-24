@@ -1,0 +1,421 @@
+concrete
+reinforced concrete
+prestressed concrete
+precast concrete
+ready mix concrete
+high strength concrete
+lightweight concrete
+heavyweight concrete
+fiber reinforced concrete
+polymer concrete
+recycled concrete
+pervious concrete
+self-healing concrete
+ultra-high performance concrete
+steel
+carbon steel
+stainless steel
+alloy steel
+tool steel
+spring steel
+weathering steel
+galvanized steel
+coated steel
+painted steel
+aluminum
+aluminum alloy
+anodized aluminum
+powder coated aluminum
+copper
+brass
+bronze
+titanium
+titanium alloy
+magnesium
+magnesium alloy
+zinc
+lead
+tin
+nickel
+chromium
+molybdenum
+tungsten
+vanadium
+cobalt
+iron
+cast iron
+wrought iron
+ductile iron
+malleable iron
+gray iron
+white iron
+nodular iron
+compacted graphite iron
+wood
+hardwood
+softwood
+engineered wood
+plywood
+particle board
+oriented strand board
+medium density fiberboard
+laminated veneer lumber
+glue laminated timber
+cross laminated timber
+pressure treated wood
+fire retardant wood
+bamboo
+cork
+natural fiber
+synthetic fiber
+glass fiber
+carbon fiber
+aramid fiber
+basalt fiber
+ceramic fiber
+metal fiber
+polymer fiber
+composite material
+fiber reinforced plastic
+carbon fiber reinforced plastic
+glass fiber reinforced plastic
+aramid fiber reinforced plastic
+natural fiber composite
+biocomposite
+nanocomposite
+ceramic
+porcelain
+stoneware
+earthenware
+refractory ceramic
+technical ceramic
+advanced ceramic
+glass
+plate glass
+tempered glass
+laminated glass
+insulated glass
+low-e glass
+tinted glass
+reflective glass
+smart glass
+electrochromic glass
+photochromic glass
+thermochromic glass
+plastic
+thermoplastic
+thermoset
+elastomer
+polyethylene
+polypropylene
+polystyrene
+polyvinyl chloride
+polyethylene terephthalate
+polycarbonate
+polyurethane
+epoxy
+polyester
+acrylic
+nylon
+polytetrafluoroethylene
+silicone
+rubber
+natural rubber
+synthetic rubber
+neoprene
+EPDM
+butyl rubber
+nitrile rubber
+foam
+polyurethane foam
+polystyrene foam
+polyethylene foam
+phenolic foam
+closed cell foam
+open cell foam
+rigid foam
+flexible foam
+spray foam
+board foam
+adhesive
+structural adhesive
+construction adhesive
+epoxy adhesive
+polyurethane adhesive
+silicone adhesive
+acrylic adhesive
+hot melt adhesive
+pressure sensitive adhesive
+contact adhesive
+anaerobic adhesive
+cyanoacrylate adhesive
+sealant
+silicone sealant
+polyurethane sealant
+polysulfide sealant
+acrylic sealant
+butyl sealant
+structural sealant
+weatherstrip sealant
+joint sealant
+gasket material
+O-ring material
+weather stripping
+thermal insulation
+fiberglass insulation
+mineral wool insulation
+cellulose insulation
+spray foam insulation
+rigid foam insulation
+reflective insulation
+radiant barrier
+vapor barrier
+air barrier
+waterproof membrane
+roof membrane
+EPDM membrane
+TPO membrane
+PVC membrane
+modified bitumen
+built-up roofing
+metal roofing
+tile roofing
+slate roofing
+wood shingle
+asphalt shingle
+clay tile
+concrete tile
+membrane roofing
+green roof
+living roof
+solar roof
+photovoltaic panel
+solar thermal collector
+geothermal system
+heat pump
+air conditioning
+ventilation
+HVAC system
+ductwork
+piping
+plumbing
+electrical wiring
+conduit
+cable tray
+junction box
+electrical panel
+circuit breaker
+fuse
+switch
+outlet
+lighting fixture
+LED fixture
+fluorescent fixture
+incandescent fixture
+halogen fixture
+emergency lighting
+exit sign
+fire alarm system
+sprinkler system
+standpipe system
+fire pump
+fire hydrant
+fire extinguisher
+smoke detector
+heat detector
+flame detector
+gas detector
+security system
+access control
+surveillance camera
+intercom system
+public address system
+elevator
+escalator
+moving walkway
+crane
+hoist
+conveyor
+material handling equipment
+loading dock
+overhead door
+roll-up door
+sliding door
+swing door
+revolving door
+automatic door
+manual door
+window
+casement window
+double hung window
+single hung window
+sliding window
+awning window
+hopper window
+fixed window
+picture window
+bay window
+bow window
+dormer window
+skylight
+clerestory
+curtain wall
+storefront
+entrance
+vestibule
+lobby
+corridor
+stairway
+ramp
+handrail
+guardrail
+balustrade
+railing
+fence
+gate
+wall
+load bearing wall
+non-load bearing wall
+shear wall
+retaining wall
+partition wall
+exterior wall
+interior wall
+foundation wall
+basement wall
+crawl space wall
+stem wall
+grade beam
+pile
+caisson
+footing
+spread footing
+strip footing
+pad footing
+mat foundation
+raft foundation
+deep foundation
+shallow foundation
+pile foundation
+pier foundation
+drilled shaft
+micropile
+helical pile
+driven pile
+concrete pile
+steel pile
+timber pile
+composite pile
+soil nail
+ground anchor
+tie back
+soil improvement
+ground improvement
+compaction
+stabilization
+reinforcement
+geotextile
+geogrid
+geocell
+geomembrane
+drainage
+subdrainage
+French drain
+catch basin
+storm drain
+sanitary sewer
+water supply
+distribution system
+transmission main
+service line
+meter
+valve
+hydrant
+pump station
+treatment plant
+storage tank
+reservoir
+tower
+elevated tank
+ground tank
+underground tank
+pressure vessel
+boiler
+chiller
+cooling tower
+heat exchanger
+evaporator
+condenser
+compressor
+expansion tank
+accumulator
+separator
+filter
+strainer
+check valve
+gate valve
+globe valve
+ball valve
+butterfly valve
+plug valve
+needle valve
+relief valve
+pressure reducing valve
+temperature control valve
+flow control valve
+solenoid valve
+actuated valve
+manual valve
+pneumatic valve
+hydraulic valve
+electric valve
+hempcrete
+geopolymer concrete
+self-compacting concrete
+translucent concrete
+foam concrete
+shotcrete
+ferrocement
+autoclaved aerated concrete
+insulating concrete form
+roller compacted concrete
+high performance fiber concrete
+basalt rebar
+carbon fiber rebar
+glass fiber rebar
+engineered stone slab
+quartz composite
+terrazzo flooring
+porcelain tile
+ceramic mosaic tile
+rammed earth
+stabilized earth block
+compressed earth block
+adobe brick
+cob mixture
+straw bale
+bamboo laminate
+recycled plastic lumber
+reclaimed timber
+mass plywood panel
+nanocellulose panel
+cross laminated bamboo
+hemp fiber insulation
+aerogel insulation
+vacuum insulated panel
+phase change material panel
+structural insulated panel
+structural honeycomb panel
+fiberglass reinforced gypsum
+glass fiber reinforced concrete
+polymer modified bitumen
+permeable paver
+rubberized asphalt
+geopolymer mortar
+lime plaster
+earth plaster
+gypsum plaster
+magnesium oxide board
+fiber cement siding
+zinc cladding
+corten steel panels

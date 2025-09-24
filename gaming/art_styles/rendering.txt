@@ -1,0 +1,84 @@
+8-bit pixel art
+16-bit pixel art
+32-bit sprite art
+Voxel art
+Low poly 3D
+High poly 3D
+Cel shading
+Toon shading
+Photorealistic 3D
+Stylized 3D
+2D hand-drawn animation
+Vector graphics
+Isometric art
+Side-scrolling art
+Top-down perspective
+First-person perspective
+Third-person perspective
+Cartoon style
+Anime style
+Realistic style
+Semi-realistic style
+Abstract art style
+Minimalist game art
+Detailed game art
+Retro game art
+Modern game art
+Indie game aesthetic
+AAA game production
+Mobile game art
+Browser game graphics
+Arcade game style
+Console game quality
+PC game graphics
+VR game art
+AR game visuals
+Pixel perfect art
+Hand-painted textures
+Procedural textures
+Photogrammetry
+PBR materials
+Stylized materials
+Cartoon materials
+Realistic materials
+Environmental art
+Character art
+Concept art
+UI design
+Icon design
+Sprite animation
+3D animation
+Particle effects
+Shader effects
+Post-processing effects
+Bloom lighting
+God rays
+Volumetric lighting
+Real-time lighting
+Baked lighting
+Dynamic lighting
+Static lighting
+Ambient lighting
+Directional lighting
+Point lighting
+Spot lighting
+Area lighting
+Global illumination
+Ray tracing
+Rasterization
+Wireframe rendering
+Normal mapping
+Bump mapping
+Displacement mapping
+Texture atlasing
+Sprite sheets
+Animation frames
+Keyframe animation
+Tweening animation
+Physics simulation
+Cloth simulation
+Fluid simulation
+Particle simulation
+Weather effects
+Environmental effects
+Atmospheric effects

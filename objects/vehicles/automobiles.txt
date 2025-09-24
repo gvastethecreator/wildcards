@@ -1,0 +1,74 @@
+sports car
+muscle car
+supercar
+hypercar
+luxury car
+sedan
+coupe
+convertible
+SUV
+crossover
+pickup truck
+van
+minivan
+hatchback
+station wagon
+limousine
+taxi
+police car
+ambulance
+fire truck
+race car
+Formula 1 car
+NASCAR
+drag racing car
+rally car
+drift car
+lowrider
+hot rod
+classic car
+vintage car
+antique car
+electric car
+hybrid car
+hydrogen car
+autonomous car
+self-driving car
+concept car
+prototype car
+tuned car
+modified car
+custom car
+off-road vehicle
+4x4 truck
+jeep
+ATV
+UTV
+buggy
+monster truck
+tractor
+bulldozer
+excavator
+crane
+dump truck
+cement mixer
+garbage truck
+delivery truck
+semi-truck
+big rig
+18-wheeler
+trailer truck
+motorcycle
+sport bike
+cruiser
+chopper
+scooter
+moped
+dirt bike
+touring bike
+electric bike
+bicycle
+mountain bike
+road bike
+BMX bike
+tricycle

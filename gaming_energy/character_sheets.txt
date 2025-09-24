@@ -1,0 +1,398 @@
+character portrait
+full body character
+action pose
+idle stance
+walking animation
+running animation
+jumping animation
+attacking animation
+defending animation
+spell casting animation
+death animation
+victory pose
+hurt animation
+dodge animation
+block animation
+combo attack
+special move
+ultimate ability
+transformation sequence
+level up effect
+equipment change
+weapon swap
+magic circle
+spell effect
+particle effect
+status effect
+buff indicator
+debuff indicator
+health bar
+mana bar
+experience bar
+level indicator
+name tag
+dialogue box
+speech bubble
+thought bubble
+emotion icon
+facial expression
+eye animation
+mouth animation
+hair physics
+clothing physics
+cape physics
+weapon trail
+magic aura
+elemental effect
+fire effect
+ice effect
+lightning effect
+earth effect
+wind effect
+water effect
+light effect
+dark effect
+holy effect
+shadow effect
+poison effect
+healing effect
+shield effect
+barrier effect
+explosion effect
+impact effect
+slash effect
+pierce effect
+crush effect
+burn effect
+freeze effect
+shock effect
+stun effect
+sleep effect
+charm effect
+confusion effect
+fear effect
+rage effect
+berserk effect
+invisible effect
+camouflage effect
+teleport effect
+dash effect
+speed boost
+strength boost
+defense boost
+magic boost
+accuracy boost
+evasion boost
+critical hit
+damage numbers
+floating text
+UI elements
+inventory icons
+skill icons
+spell icons
+item icons
+weapon icons
+armor icons
+accessory icons
+consumable icons
+key item icons
+quest item icons
+currency icons
+gem icons
+rune icons
+scroll icons
+book icons
+potion icons
+food icons
+tool icons
+crafting materials
+equipment stats
+weapon damage
+armor defense
+resistance values
+attribute points
+skill points
+talent tree
+ability tree
+class tree
+progression path
+unlock requirements
+level requirements
+prerequisite skills
+passive abilities
+active abilities
+cooldown timers
+cast time
+channel time
+duration
+range indicator
+area of effect
+target indicator
+selection highlight
+hover effect
+click effect
+button press
+menu transition
+screen transition
+fade in
+fade out
+slide in
+slide out
+zoom in
+zoom out
+rotate
+flip
+stretch
+squash
+bounce
+elastic
+spring
+wobble
+shake
+vibrate
+pulse
+glow
+flicker
+strobe
+wave
+ripple
+distort
+blur
+focus
+sharpen
+pixelate
+mosaic
+posterize
+invert
+grayscale
+sepia
+color shift
+hue rotation
+saturation
+brightness
+contrast
+gamma
+exposure
+highlights
+shadows
+midtones
+color grading
+film grain
+noise
+chromatic aberration
+vignette
+lens flare
+bloom
+god rays
+volumetric lighting
+ambient occlusion
+screen space reflection
+depth of field
+motion blur
+temporal anti-aliasing
+multisample anti-aliasing
+super sampling
+upscaling
+downscaling
+texture filtering
+anisotropic filtering
+mipmap
+level of detail
+culling
+occlusion culling
+frustum culling
+backface culling
+alpha testing
+alpha blending
+additive blending
+subtractive blending
+multiplicative blending
+screen blending
+overlay blending
+hard light
+soft light
+color dodge
+color burn
+linear burn
+vivid light
+linear light
+pin light
+hard mix
+difference
+exclusion
+normal blending
+dissolve
+darken
+lighten
+color
+luminosity
+saturation blending
+hue blending
+vertex shader
+pixel shader
+fragment shader
+geometry shader
+tessellation shader
+compute shader
+material shader
+surface shader
+volume shader
+displacement shader
+normal mapping
+bump mapping
+parallax mapping
+relief mapping
+height mapping
+ambient mapping
+diffuse mapping
+specular mapping
+roughness mapping
+metallic mapping
+emission mapping
+opacity mapping
+transmission mapping
+subsurface scattering
+physically based rendering
+deferred rendering
+forward rendering
+tile based rendering
+clustered rendering
+ray tracing
+path tracing
+global illumination
+local illumination
+direct lighting
+indirect lighting
+ambient lighting
+directional lighting
+point lighting
+spot lighting
+area lighting
+image based lighting
+environment mapping
+cube mapping
+sphere mapping
+cylindrical mapping
+planar mapping
+triplanar mapping
+world space mapping
+object space mapping
+tangent space mapping
+UV mapping
+texture coordinates
+texture atlas
+texture streaming
+texture compression
+model optimization
+polygon reduction
+mesh decimation
+level of detail system
+impostor rendering
+billboard rendering
+sprite rendering
+particle system
+particle emitter
+particle behavior
+particle physics
+collision detection
+collision response
+rigid body physics
+soft body physics
+fluid simulation
+cloth simulation
+hair simulation
+fur rendering
+grass rendering
+foliage rendering
+terrain rendering
+water rendering
+sky rendering
+cloud rendering
+weather effects
+day night cycle
+seasonal changes
+dynamic lighting
+real time shadows
+shadow mapping
+cascade shadow mapping
+variance shadow mapping
+exponential shadow mapping
+moment shadow mapping
+contact shadows
+screen space shadows
+ray traced shadows
+volumetric shadows
+soft shadows
+hard shadows
+self shadowing
+shadow bias
+shadow acne
+peter panning
+light bleeding
+shadow filter
+percentage closer filtering
+percentage closer soft shadows
+contact hardening shadows
+area light shadows
+transparent shadows
+colored shadows
+shadow casters
+shadow receivers
+shadow distance
+shadow resolution
+shadow cascade
+shadow split
+shadow stabilization
+shadow jittering
+temporal shadow filtering
+shadow denoising
+aggro meter
+alignment chart
+affinity meter
+armor slot display
+attack pattern diagram
+attribute growth chart
+battle log window
+buff timer wheel
+chain combo tracker
+character bio panel
+character concept art
+character creation sliders
+character equipment grid
+character sheet overlay
+codex entry
+combo counter
+damage multiplier icon
+damage over time tracker
+elemental weakness chart
+enemy compendium page
+equipment rarity border
+experience gain rate
+faction reputation bar
+gear score indicator
+hit chance meter
+inventory grid layout
+loot rarity beam
+morale meter
+overdrive gauge
+party formation panel
+perk tree
+power level rating
+progression milestone
+quest tracker arrow
+quick slot bar
+rarity notification
+resource regeneration meter
+skill cooldown wheel
+skill loadout menu
+skill synergy map
+stat allocation screen
+status ailment tracker
+threat indicator
+turn order bar
+ultimate gauge fill
+upgrade highlight
+weapon proficiency bar
+world map marker
+xp boost icon
+revive prompt

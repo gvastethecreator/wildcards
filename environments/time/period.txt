@@ -1,0 +1,70 @@
+dawn
+sunrise
+morning
+late morning
+noon
+afternoon
+late afternoon
+golden hour
+sunset
+dusk
+blue hour
+night
+midnight
+pre-dawn
+overcast day
+foggy morning
+stormy evening
+clear night
+full moon night
+new moon night
+astral twilight
+aurora-lit night
+autumn dawn
+autumnal equinox
+blazing midday
+blue moon night
+boreal midnight
+candlelit evening
+chilly dawn
+cloudless noon
+comet shower night
+crescent moonrise
+crimson sunset
+deep night
+desert twilight
+drizzle morning
+early evening
+eclipse midday
+frosty morning
+harvest dusk
+harvest moon night
+high noon
+humid afternoon
+late night
+lunar eclipse night
+midday storm
+midnight storm
+misty night
+monsoon afternoon
+morning haze
+new year's dawn
+nightfall storm
+overcast dusk
+rainy midnight
+silver dawn
+snowy afternoon
+spring sunrise
+starfall night
+starlit dusk
+stormlit midnight
+summer noon
+sun-dappled morning
+sunlit afternoon
+thunderstorm evening
+twilight rain
+winter dawn
+winter solstice night
+witching hour
+zenith sun
+zero hour

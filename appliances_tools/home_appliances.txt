@@ -1,0 +1,149 @@
+refrigerator
+freezer
+washing machine
+dryer
+dishwasher
+microwave oven
+toaster oven
+coffee maker
+espresso machine
+blender
+food processor
+mixer
+stand mixer
+hand mixer
+juicer
+slow cooker
+pressure cooker
+rice cooker
+bread maker
+ice cream maker
+waffle maker
+pancake griddle
+electric grill
+air fryer
+deep fryer
+toaster
+electric kettle
+hot plate
+induction cooktop
+convection oven
+steam oven
+vacuum cleaner
+robotic vacuum
+steam cleaner
+carpet cleaner
+air purifier
+humidifier
+dehumidifier
+fan
+ceiling fan
+tower fan
+space heater
+electric fireplace
+air conditioner
+central air
+window AC unit
+portable AC
+heat pump
+furnace
+water heater
+tankless water heater
+garbage disposal
+trash compactor
+wine cooler
+mini fridge
+kegerator
+ice maker
+water dispenser
+water filter
+iron
+steamer
+sewing machine
+serger
+embroidery machine
+hair dryer
+curling iron
+flat iron
+electric razor
+electric toothbrush
+massage chair
+treadmill
+exercise bike
+elliptical machine
+rowing machine
+smart home hub
+security system
+doorbell camera
+smart thermostat
+smart lock
+smart lights
+smart speaker
+smart TV
+streaming device
+gaming console
+computer
+laptop
+tablet
+smartphone
+printer
+scanner
+router
+modem
+smart watch
+fitness tracker
+wireless charger
+power bank
+extension cord
+surge protector
+UPS battery backup
+beverage fridge
+portable ice maker
+water cooler
+water filtration system
+radiant heater
+oil-filled radiator
+ceramic heater
+portable air conditioner
+window air conditioner
+ductless mini-split
+whole-house fan
+desk fan
+handheld vacuum
+stick vacuum
+upright vacuum
+canister vacuum
+robot mop
+steam mop
+floor scrubber
+garment steamer
+clothes steamer
+steam iron
+ironing press
+vacuum sealer
+food dehydrator
+yogurt maker
+pasta maker
+sous vide cooker
+immersion circulator
+electric skillet
+electric wok
+panini press
+sandwich maker
+hot dog roller
+popcorn maker
+cotton candy machine
+soda maker
+carbonated water maker
+electric smoker
+indoor grill
+outdoor electric grill
+electric griddle
+fondue pot
+chocolate fountain
+butter churn
+nut milk maker
+grain mill
+spice grinder
+coffee grinder
+bean roaster

@@ -1,0 +1,68 @@
+Ferrari
+Lamborghini
+Porsche
+McLaren
+Bugatti
+Koenigsegg
+Pagani
+Aston Martin
+Bentley
+Rolls-Royce
+Mercedes-Benz
+BMW
+Audi
+Volkswagen
+Toyota
+Honda
+Nissan
+Mazda
+Subaru
+Mitsubishi
+Lexus
+Infiniti
+Acura
+Ford
+Chevrolet
+Dodge
+Jeep
+Cadillac
+Lincoln
+Buick
+GMC
+Ram
+Chrysler
+Tesla
+Rivian
+Lucid Motors
+Fisker
+Polestar
+Genesis
+Hyundai
+Kia
+Volvo
+Saab
+Jaguar
+Land Rover
+Range Rover
+Mini Cooper
+Fiat
+Alfa Romeo
+Maserati
+Lancia
+Peugeot
+Citroën
+Renault
+Bugatti
+Škoda
+Seat
+Opel
+Vauxhall
+Dacia
+Lotus
+Caterham
+Morgan
+TVR
+Noble
+Ariel
+Ginetta
+Radical

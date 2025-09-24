@@ -1,0 +1,501 @@
+zombie
+skeleton
+ghost
+wraith
+specter
+banshee
+poltergeist
+phantom
+spirit
+apparition
+shadow figure
+dark entity
+demon
+devil
+succubus
+incubus
+hellhound
+gargoyle
+imp
+fiend
+monster
+beast
+creature
+abomination
+aberration
+mutant
+freak
+nightmare
+horror
+terror
+fear
+dread
+panic
+anxiety
+paranoia
+phobia
+madness
+insanity
+lunacy
+psychosis
+schizophrenia
+multiple personality
+split personality
+possession
+exorcism
+curse
+hex
+jinx
+voodoo
+black magic
+dark arts
+necromancy
+witchcraft
+sorcery
+evil spell
+blood ritual
+sacrifice
+satanic ritual
+cult
+occult
+supernatural
+paranormal
+otherworldly
+unearthly
+unholy
+cursed
+damned
+doomed
+forsaken
+abandoned
+lost soul
+tormented spirit
+restless dead
+undead
+living dead
+walking dead
+reanimated corpse
+flesh-eating
+blood-sucking
+soul-draining
+life-stealing
+death-dealing
+bone-chilling
+spine-tingling
+hair-raising
+blood-curdling
+nerve-wracking
+mind-bending
+sanity-breaking
+soul-crushing
+heart-stopping
+breath-taking
+terrifying
+horrifying
+frightening
+scary
+spooky
+eerie
+creepy
+uncanny
+sinister
+menacing
+threatening
+ominous
+foreboding
+dark
+gloomy
+shadowy
+murky
+misty
+foggy
+hazy
+cloudy
+overcast
+stormy
+thunderous
+lightning
+rain
+downpour
+deluge
+flood
+drought
+famine
+plague
+pestilence
+disease
+infection
+contagion
+epidemic
+pandemic
+outbreak
+contamination
+radiation
+poison
+toxic
+venomous
+deadly
+lethal
+fatal
+mortal
+terminal
+incurable
+untreatable
+hopeless
+desperate
+doomed
+dying
+death
+deceased
+corpse
+cadaver
+remains
+bones
+skull
+skeleton
+graveyard
+cemetery
+mausoleum
+tomb
+crypt
+coffin
+casket
+funeral
+burial
+cremation
+ashes
+urn
+headstone
+gravestone
+epitaph
+obituary
+mourning
+grief
+sorrow
+sadness
+depression
+despair
+hopelessness
+emptiness
+void
+abyss
+darkness
+shadow
+nightmare
+bad dream
+night terror
+sleep paralysis
+insomnia
+restlessness
+unease
+discomfort
+pain
+suffering
+agony
+torture
+torment
+anguish
+distress
+misery
+woe
+tragedy
+disaster
+catastrophe
+calamity
+apocalypse
+end times
+judgment day
+armageddon
+destruction
+annihilation
+extinction
+obliteration
+ruin
+devastation
+chaos
+disorder
+anarchy
+mayhem
+pandemonium
+bedlam
+turmoil
+upheaval
+revolution
+rebellion
+uprising
+revolt
+war
+battle
+conflict
+violence
+bloodshed
+massacre
+slaughter
+carnage
+genocide
+holocaust
+murder
+assassination
+execution
+hanging
+beheading
+guillotine
+electric chair
+gas chamber
+firing squad
+stabbing
+shooting
+poisoning
+drowning
+suffocation
+strangulation
+burning
+immolation
+crucifixion
+torture
+rack
+iron maiden
+thumbscrew
+waterboarding
+flaying
+dismemberment
+disembowelment
+evisceration
+mutilation
+disfigurement
+scarring
+branding
+tattooing
+piercing
+cutting
+slashing
+hacking
+chopping
+sawing
+grinding
+crushing
+smashing
+breaking
+shattering
+exploding
+imploding
+collapsing
+crumbling
+decaying
+rotting
+putrefying
+decomposing
+festering
+moldering
+cracking
+splitting
+tearing
+ripping
+shredding
+mangling
+twisting
+contorting
+warping
+distorting
+deforming
+transforming
+metamorphosis
+mutation
+evolution
+devolution
+regression
+deterioration
+degradation
+corruption
+contamination
+infection
+infestation
+invasion
+occupation
+conquest
+domination
+subjugation
+enslavement
+captivity
+imprisonment
+confinement
+isolation
+solitary confinement
+exile
+banishment
+ostracism
+rejection
+abandonment
+betrayal
+treachery
+backstabbing
+sabotage
+espionage
+conspiracy
+plot
+scheme
+trap
+ambush
+sneak attack
+surprise attack
+stealth
+invisibility
+camouflage
+disguise
+mask
+hood
+cloak
+robe
+shroud
+veil
+blindfold
+gag
+restraints
+chains
+shackles
+handcuffs
+straightjacket
+cage
+cell
+dungeon
+prison
+asylum
+madhouse
+sanitarium
+hospital
+morgue
+autopsy
+dissection
+surgery
+operation
+amputation
+transplant
+implant
+prosthetic
+artificial
+robotic
+cybernetic
+bionic
+enhanced
+augmented
+modified
+mutated
+genetically altered
+cloned
+synthetic
+artificial intelligence
+robot
+android
+cyborg
+machine
+computer
+technology
+science
+experiment
+laboratory
+mad scientist
+dr frankenstein
+jekyll and hyde
+werewolf
+vampire
+dracula
+frankenstein
+mummy
+zombie
+jason voorhees
+freddy krueger
+michael myers
+leatherface
+chucky
+pennywise
+it
+the shining
+psycho
+silence of the lambs
+hannibal lecter
+texas chainsaw massacre
+friday the 13th
+nightmare on elm street
+halloween
+scream
+saw
+final destination
+the ring
+the grudge
+paranormal activity
+conjuring
+insidious
+sinister
+annabelle
+nun
+exorcist
+omen
+rosemary's baby
+carrie
+stephen king
+edgar allan poe
+h p lovecraft
+cthulhu
+lovecraftian
+cosmic horror
+eldritch
+ancient one
+old god
+great old one
+outer god
+necronomicon
+arkham
+dunwich
+innsmouth
+kingsport
+miskatonic university
+wendigo
+chupacabra
+skinwalker
+ghoul
+revenant
+draugr
+jiangshi
+aswang
+pontianak
+penanggalan
+rakshasa
+oni
+yurei
+kitsune
+tengu
+kappa
+yuki-onna
+dullahan
+kelpie
+selkie
+nuckelavee
+baba yaga
+leshy
+domovoi
+boggart
+redcap
+grue
+shadow man
+hat man
+night hag
+black dog
+barghest
+wight
+lich
+bone golem
+flesh golem
+manticore
+chimera
+basilisk
+cockatrice
+wyvern
+kraken
+leviathan
+sea serpent
+deep one
+elder thing
+mi-go
+nightgaunt
+shoggoth
+colour out of space

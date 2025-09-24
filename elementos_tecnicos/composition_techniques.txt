@@ -1,0 +1,958 @@
+rule of thirds composition
+golden ratio layout
+fibonacci spiral arrangement
+leading lines composition
+diagonal composition
+triangular composition
+circular composition
+radial composition
+symmetrical balance
+asymmetrical balance
+dynamic balance
+static balance
+visual weight distribution
+focal point placement
+center composition
+off center placement
+frame within frame
+negative space usage
+positive space balance
+depth of field composition
+foreground emphasis
+midground balance
+background simplicity
+layered composition
+overlapping elements
+size contrast
+scale relationships
+proportion harmony
+visual hierarchy
+dominant elements
+subordinate elements
+accent points
+rhythm patterns
+repetition elements
+pattern breaking
+texture contrast
+smooth rough contrast
+organic geometric contrast
+warm cool color balance
+complementary colors
+analogous harmonies
+triadic color schemes
+split complementary
+tetradic color schemes
+monochromatic schemes
+achromatic schemes
+high key lighting
+low key lighting
+dramatic lighting
+soft diffused light
+hard directional light
+rim lighting effects
+backlighting silhouettes
+three point lighting
+key light placement
+fill light balance
+hair light accent
+background separation
+chiaroscuro technique
+rembrandt lighting
+butterfly lighting
+split lighting
+loop lighting
+broad lighting
+short lighting
+paramount lighting
+clamshell lighting
+natural lighting
+window light usage
+golden hour warmth
+blue hour mood
+overcast diffusion
+direct sunlight
+reflected light
+bounced illumination
+studio lighting setup
+continuous lighting
+strobe flash lighting
+led panel arrays
+softbox diffusion
+umbrella reflection
+beauty dish glow
+ring light even
+octabox softness
+strip light accent
+snoot concentration
+barn door control
+grid spot focus
+color gel effects
+cto orange warming
+ctb blue cooling
+minus green correction
+plus green enhancement
+neutral density
+graduated filters
+polarizing filters
+uv protection
+infrared conversion
+false color infrared
+black white conversion
+sepia tone warming
+split tone effects
+color grading luts
+film emulation
+digital simulation
+vintage processing
+modern clean look
+faded film aesthetic
+cross processing
+bleach bypass
+day for night
+night for day
+magic hour timing
+sunrise golden
+sunset amber
+twilight purple
+night time mood
+moonlight silver
+starlight subtle
+artificial neon
+street lamp orange
+car headlight beams
+building interior glow
+fire flame flicker
+candle warm glow
+practical lighting
+motivated sources
+unmotivated accent
+dramatic shadows
+mystery silhouettes
+horror lighting
+romantic ambiance
+corporate clean
+industrial harsh
+artistic creative
+commercial polished
+editorial striking
+fashion glamorous
+portrait flattering
+landscape majestic
+architecture detailed
+product highlighting
+macro close detail
+wildlife natural
+sports action
+documentary candid
+street photography
+reportage authentic
+fine art expressive
+conceptual abstract
+surreal dreamlike
+minimalist clean
+maximalist busy
+chaotic energy
+calm serenity
+tension building
+release calming
+movement blur
+frozen action
+time lapse compression
+slow motion extension
+multiple exposure
+double exposure
+long exposure trails
+short exposure sharp
+panning motion
+tracking subjects
+handheld organic
+tripod stability
+drone aerial
+helicopter high
+satellite overview
+ground level
+eye level natural
+high angle dominance
+low angle power
+dutch angle unease
+straight horizon
+tilted dynamics
+vertical orientation
+horizontal landscape
+square format
+panoramic wide
+circular crop
+oval vignette
+irregular borders
+film grain texture
+digital noise
+smooth gradients
+sharp transitions
+soft focus dreamy
+tack sharp detail
+selective focus
+zone focusing
+hyperfocal distance
+infinity focus
+macro magnification
+telephoto compression
+wide angle distortion
+fisheye circular
+rectilinear correction
+perspective control
+keystone correction
+barrel distortion
+pincushion distortion
+chromatic aberration
+purple fringing
+lens flare artistic
+sunstar effects
+bokeh quality
+smooth circular
+nervous hexagonal
+soap bubble
+swirly vintage
+creamy backgrounds
+busy distracting
+clean separation
+subject isolation
+environmental context
+storytelling elements
+narrative composition
+emotional impact
+psychological tension
+visual metaphors
+symbolic elements
+cultural references
+universal themes
+personal expression
+artistic vision
+technical excellence
+creative innovation
+boundary pushing
+conventional mastery
+experimental approach
+traditional techniques
+modern interpretation
+classic composition
+contemporary style
+timeless appeal
+trendy aesthetic
+commercial viability
+artistic integrity
+mass appeal
+niche audience
+broad demographic
+target market
+cultural sensitivity
+global perspective
+local flavor
+regional character
+national identity
+international style
+cross cultural
+multicultural
+diverse representation
+inclusive imagery
+accessible design
+universal language
+visual communication
+graphic hierarchy
+typographic rhythm
+font weight contrast
+serif sans contrast
+script decorative
+display headlines
+body text legibility
+caption sizing
+white space breathing
+margin proportions
+grid system
+modular spacing
+baseline alignment
+optical adjustments
+kerning refinement
+tracking adjustment
+leading optimization
+paragraph spacing
+column width
+line length
+reading comfort
+scan patterns
+f pattern layout
+z pattern flow
+gutenberg diagram
+visual flow
+eye movement
+attention guidance
+information hierarchy
+primary messages
+secondary details
+tertiary support
+call to action
+user interface
+user experience
+interaction design
+responsive layout
+mobile optimization
+desktop enhancement
+tablet adaptation
+cross platform
+device agnostic
+resolution independent
+vector scalability
+pixel perfect
+retina optimization
+high dpi support
+low bandwidth
+fast loading
+progressive enhancement
+graceful degradation
+accessibility compliance
+screen reader friendly
+keyboard navigation
+color blind consideration
+contrast ratios
+wcag guidelines
+inclusive design
+universal access
+barrier removal
+assistive technology
+semantic markup
+structured data
+seo optimization
+search visibility
+social sharing
+viral potential
+engagement metrics
+conversion rates
+performance indicators
+analytics tracking
+heat map analysis
+ab testing
+multivariate testing
+user feedback
+iterative improvement
+data driven decisions
+evidence based design
+scientific approach
+systematic methodology
+design thinking
+human centered
+problem solving
+solution focused
+constraint driven
+resource optimization
+time management
+budget allocation
+scope definition
+requirement gathering
+stakeholder alignment
+client communication
+team collaboration
+project coordination
+workflow efficiency
+quality assurance
+version control
+file organization
+asset management
+library maintenance
+style guide
+brand consistency
+design system
+component library
+pattern documentation
+best practices
+standard procedures
+professional ethics
+copyright respect
+intellectual property
+fair use guidelines
+attribution requirements
+licensing compliance
+commercial usage
+editorial purposes
+creative commons
+public domain
+royalty free
+rights managed
+exclusive licensing
+non exclusive
+unlimited usage
+limited distribution
+geographic restrictions
+time limitations
+medium specifications
+print resolution
+web optimization
+broadcast standards
+cinema quality
+streaming compression
+lossless preservation
+archival standards
+color space
+gamut mapping
+profile embedding
+calibration accuracy
+monitor profiling
+printer calibration
+output consistency
+proofing procedures
+soft proofing
+hard proofing
+contract proofing
+press approval
+quality control
+color management
+workflow automation
+batch processing
+action scripts
+custom presets
+keyboard shortcuts
+efficiency tools
+productivity enhancement
+time saving
+cost reduction
+error minimization
+consistency maintenance
+standardization
+documentation
+training materials
+educational resources
+skill development
+continuous learning
+professional growth
+industry standards
+best practices
+emerging trends
+future technologies
+innovation adoption
+change management
+adaptation strategies
+competitive advantage
+market positioning
+brand differentiation
+unique selling
+proposition
+value creation
+customer satisfaction
+client retention
+referral generation
+portfolio development
+case study
+documentation
+success stories
+testimonials
+peer recognition
+industry awards
+professional
+associations
+networking
+opportunities
+collaboration
+partnerships
+mentorship
+knowledge sharing
+community building
+thought leadership
+expertise demonstration
+credibility
+establishment
+reputation
+management
+personal branding
+professional identity
+career advancement
+business development
+entrepreneurship
+freelance success
+agency growth
+studio expansion
+team building
+talent acquisition
+skill assessment
+performance
+evaluation
+goal setting
+strategic planning
+tactical execution
+project management
+resource allocation
+timeline development
+milestone tracking
+deliverable
+definition
+quality metrics
+success criteria
+stakeholder
+satisfaction
+client feedback
+continuous
+improvement
+process
+optimization
+efficiency
+enhancement
+innovation
+cultivation
+creative
+exploration
+artistic
+development
+technical
+mastery
+craft
+refinement
+vision
+articulation
+style
+development
+signature
+aesthetic
+personal
+voice
+unique
+perspective
+original
+contribution
+influential
+work
+lasting
+impact
+legacy
+creation
+cultural
+significance
+historical
+importance
+artistic
+movement
+design
+revolution
+paradigm
+shift
+industry
+transformation
+technological
+advancement
+creative
+breakthrough
+innovative
+solution
+groundbreaking
+approach
+pioneering
+technique
+experimental
+method
+unconventional
+strategy
+disruptive
+innovation
+game changing
+concept
+paradigm
+breaking
+revolutionary
+idea
+transformative
+vision
+evolutionary
+step
+progressive
+development
+incremental
+improvement
+refinement
+process
+optimization
+cycle
+enhancement
+iteration
+continuous
+development
+ongoing
+evolution
+perpetual
+growth
+endless
+learning
+lifelong
+education
+professional
+development
+skill
+expansion
+knowledge
+acquisition
+expertise
+building
+mastery
+pursuit
+excellence
+achievement
+quality
+commitment
+standard
+maintenance
+consistency
+delivery
+reliability
+assurance
+trust
+building
+relationship
+cultivation
+partnership
+development
+collaboration
+facilitation
+teamwork
+promotion
+communication
+enhancement
+understanding
+improvement
+clarity
+achievement
+precision
+targeting
+accuracy
+maintenance
+detail
+attention
+thoroughness
+demonstration
+completeness
+assurance
+comprehensiveness
+guarantee
+exhaustiveness
+promise
+inclusiveness
+commitment
+coverage
+maximization
+scope
+expansion
+range
+extension
+variety
+increase
+diversity
+enhancement
+richness
+addition
+depth
+improvement
+complexity
+management
+sophistication
+handling
+elegance
+achievement
+grace
+demonstration
+beauty
+creation
+aesthetic
+pleasure
+visual
+delight
+sensory
+satisfaction
+emotional
+connection
+psychological
+impact
+spiritual
+resonance
+transcendent
+experience
+transformative
+encounter
+life changing
+moment
+perspective
+shifting
+reality
+altering
+consciousness
+expanding
+awareness
+increasing
+understanding
+deepening
+knowledge
+broadening
+wisdom
+accumulating
+insight
+gaining
+revelation
+experiencing
+epiphany
+achieving
+enlightenment
+attaining
+realization
+reaching
+comprehension
+developing
+appreciation
+cultivating
+gratitude
+fostering
+respect
+building
+admiration
+generating
+wonder
+inspiring
+awe
+creating
+amazement
+producing
+astonishment
+causing
+surprise
+delivering
+shock
+providing
+excitement
+offering
+thrill
+giving
+adventure
+supplying
+journey
+enabling
+exploration
+facilitating
+discovery
+supporting
+learning
+encouraging
+growth
+promoting
+development
+advancing
+progress
+driving
+evolution
+pushing
+boundaries
+breaking
+limits
+exceeding
+expectations
+surpassing
+standards
+transcending
+norms
+redefining
+possibilities
+expanding
+horizons
+opening
+doors
+creating
+opportunities
+enabling
+potential
+unleashing
+power
+harnessing
+energy
+channeling
+force
+directing
+strength
+focusing
+intensity
+concentrating
+effort
+maximizing
+impact
+optimizing
+results
+perfecting
+outcomes
+achieving
+goals
+realizing
+dreams
+fulfilling
+vision
+manifesting
+destiny
+creating
+future
+shaping
+tomorrow
+building
+legacy
+leaving
+mark
+making
+difference
+changing
+world
+transforming
+reality
+improving
+existence
+enhancing
+life
+enriching
+experience
+elevating
+consciousness
+raising
+awareness
+expanding
+understanding
+deepening
+appreciation
+broadening
+perspective
+widening
+view
+opening
+mind
+freeing
+spirit
+liberating
+soul
+awakening
+heart
+touching
+core
+reaching
+essence
+connecting
+truth
+finding
+meaning
+discovering
+purpose
+realizing
+significance
+understanding
+importance
+grasping
+value
+appreciating
+worth
+recognizing
+beauty
+seeing
+wonder
+experiencing
+magic
+feeling
+mystery
+sensing
+divine
+touching
+sacred
+encountering
+holy
+meeting
+eternal
+facing
+infinite
+embracing
+limitless
+accepting
+boundless
+welcoming
+endless
+greeting
+timeless
+acknowledging
+ageless
+recognizing
+immortal
+understanding
+everlasting
+realizing
+permanent
+grasping
+enduring
+appreciating
+lasting
+valuing
+persistent
+treasuring
+continuing
+cherishing
+ongoing
+protecting
+perpetual
+preserving
+eternal
+maintaining
+infinite
+sustaining
+boundless
+supporting
+limitless
+upholding
+endless
+defending
+timeless
+safeguarding
+ageless
+securing
+immortal
+ensuring
+everlasting
+guaranteeing
+permanent
+promising
+enduring
+committing
+lasting
+dedicating
+persistent
+devoting
+continuing
+consecrating
+ongoing
+sanctifying
+perpetual
+blessing
+eternal
+honoring
+infinite
+revering
+boundless
+celebrating
+limitless
+glorifying
+endless
+exalting
+timeless
+praising
+ageless
+worshipping
+immortal
+adoring
+everlasting
+venerating
+permanent
+respecting
+enduring
+esteeming
+lasting
+valuing
+persistent
+treasuring
+continuing
+cherishing
+ongoing
+protecting
+perpetual
+preserving
+eternal

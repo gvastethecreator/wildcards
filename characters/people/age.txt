@@ -1,0 +1,20 @@
+child
+teenager
+young adult
+middle-aged
+elderly
+senior
+toddler
+preteen
+adult
+mature adult
+octogenarian
+centenarian
+infant
+adolescent
+twentysomething
+thirtysomething
+fortysomething
+fiftysomething
+sixtysomething
+ageless

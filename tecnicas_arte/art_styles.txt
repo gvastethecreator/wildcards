@@ -1,0 +1,445 @@
+realismo
+hiperrealismo
+fotorrealismo
+surrealismo
+realismo mágico
+impresionismo
+postimpresionismo
+neoimpresionismo
+puntillismo
+divisionismo
+fauvismo
+expresionismo
+expresionismo abstracto
+cubismo
+cubismo analítico
+cubismo sintético
+futurismo
+constructivismo
+suprematismo
+dadaísmo
+arte pop
+pop art
+minimalismo
+arte conceptual
+land art
+earth art
+arte povera
+arte urbano
+street art
+graffiti
+muralismo
+neo-expresionismo
+transvanguardia
+bad painting
+pintura gestual
+action painting
+color field painting
+hard edge painting
+precisionism
+regionalismo americano
+nueva objetividad
+arte naif
+arte primitivo
+arte outsider
+arte bruto
+arte marginal
+arte folclórico
+arte popular
+academicismo
+clasicismo
+neoclasicismo
+romanticismo
+naturalismo
+simbolismo
+art nouveau
+modernismo
+art déco
+bauhaus
+de stijl
+cobra
+escuela de parís
+escuela de nueva york
+escuela del río hudson
+macchiaioli
+barbizón
+grupo aivazovsky
+grupo wanderer
+nazarenos
+prerrafaelitas
+arts and crafts
+jugendstil
+secesión vienesa
+modernisme català
+noucentisme
+arte degenerado
+socialist realism
+realismo socialista
+muralismo mexicano
+escuela mexicana
+magic realism
+photorealism
+hyperrealism
+superrealism
+nouveau réalisme
+neo-dadaísmo
+happening
+performance art
+body art
+video art
+arte digital
+arte generativo
+arte interactivo
+arte multimedia
+net art
+arte sonoro
+instalación
+site-specific art
+environmental art
+arte relacional
+arte crítico institucional
+arte político
+arte feminista
+arte queer
+arte postcolonial
+arte contemporáneo
+posmodernismo
+neoconceptualismo
+young british artists
+bad boy art
+shock art
+kitsch
+camp
+lowbrow art
+pop surrealism
+arte kawaii
+arte manga
+arte anime
+arte cyberpunk
+arte steampunk
+arte retrofuturista
+arte sci-fi
+arte fantasy
+arte gótico
+arte románico
+arte bizantino
+arte islámico
+arte oriental
+arte asiático
+arte africano
+arte precolombino
+arte aborigen
+arte inuit
+arte tribal
+arte étnico
+pintura al óleo
+pintura acrílica
+acuarela
+gouache
+témpera
+temple
+fresco
+encáustica
+pastel
+carboncillo
+sanguina
+sepia
+tinta
+plumilla
+grabado
+litografía
+serigrafía
+xilografía
+linóleo
+aguafuerte
+aguatinta
+punta seca
+mezzotinta
+monotipo
+collage
+assemblage
+papier collé
+decoupage
+técnica mixta
+arte textil
+tapicería
+bordado
+cerámica
+escultura
+bajorrelieve
+altorrelieve
+escultura cinética
+arte lumínico
+arte sonoro
+videoarte
+arte digital
+arte generativo
+arte algorítmico
+arte fractal
+arte vectorial
+pixel art
+voxel art
+arte 3D
+realidad virtual
+realidad aumentada
+arte inmersivo
+arte interactivo
+bio art
+arte transgénico
+arte robótico
+arte cibernético
+arte telemático
+retrato
+autorretrato
+paisaje
+marina
+bodegón
+naturaleza muerta
+pintura de género
+pintura histórica
+pintura religiosa
+pintura mitológica
+pintura alegórica
+desnudo
+desnudo académico
+estudio anatómico
+vanitas
+memento mori
+trompe-l'oeil
+anamorfosis
+grisalla
+monotonía
+policromía
+claroscuro
+sfumato
+chiaroscuro
+tenebrismo
+luminismo
+divisionismo cromático
+simultáneo
+contraste simultáneo
+contraste sucesivo
+contraste de complementarios
+contraste de saturación
+contraste de temperatura
+contraste de extensión
+contraste de proporción
+esquema monocromático
+esquema análogo
+esquema complementario
+esquema triádico
+esquema tetrádico
+esquema split-complementario
+paleta limitada
+paleta extendida
+color local
+color atmosférico
+color reflejado
+color inducido
+temperatura de color
+colores cálidos
+colores fríos
+colores neutros
+valor tonal
+escala de grises
+alto contraste
+bajo contraste
+clave alta
+clave media
+clave baja
+modelado
+degradado
+esfumado
+empaste
+impasto
+alla prima
+wet on wet
+wet on dry
+glazing
+scumbling
+veladuras
+aguadas
+lavados
+reservas
+máscaras
+stencils
+plantillas
+aerografía
+dripping
+splattering
+salpicado
+action painting
+gestural painting
+pintura gestual
+pincelada visible
+pincelada invisible
+acabado liso
+acabado rugoso
+acabado mate
+acabado brillante
+textura visual
+textura táctil
+ilusión de textura
+textura real
+superficie lisa
+superficie rugosa
+superficie porosa
+superficie absorbente
+superficie no absorbente
+preparación del soporte
+imprimación
+gesso
+aparejo
+cola de conejo
+medium
+retardante
+acelerador
+secante
+diluyente
+barniz
+fixativo
+composición
+encuadre
+format
+formato horizontal
+formato vertical
+formato cuadrado
+formato panorámico
+formato circular
+formato oval
+tondo
+díptico
+tríptico
+políptico
+retablo
+predella
+perspectiva lineal
+perspectiva aérea
+perspectiva atmosférica
+perspectiva de color
+punto de fuga
+línea de horizonte
+línea de tierra
+plano de cuadro
+distancia principal
+círculo de distancia
+perspectiva central
+perspectiva oblicua
+perspectiva de pájaro
+vista de gusano
+escorzo
+anamorfosis
+proporción
+canon
+módulo
+escala
+golden ratio
+sección áurea
+divina proporción
+regla de los tercios
+ley de los impares
+principio de parsimonia
+principio de pregnancia
+gestalt
+figura-fondo
+proximidad
+similitud
+continuidad
+cierre
+simetría
+asimetría
+equilibrio
+peso visual
+tensión visual
+ritmo
+repetición
+alternancia
+progresión
+gradación
+radiación
+concentración
+expansión
+movimiento
+dirección
+estatismo
+dinamismo
+reposo
+agitación
+calma
+violencia
+serenidad
+dramatismo
+lirismo
+épico
+narrativo
+descriptivo
+expresivo
+decorativo
+ornamental
+funcional
+simbólico
+alegórico
+metafórico
+abstracto
+figurativo
+representativo
+mimético
+interpretativo
+idealizado
+realista
+naturalista
+estilizado
+esquematizado
+geometrizado
+orgánico
+biomorfo
+antropomorfo
+zoomorfo
+fitomorfo
+artificial
+sintético
+orgánico
+mineral
+vegetal
+animal
+humano
+divino
+celestial
+terrenal
+acuático
+aéreo
+ígneo
+pétreo
+metálico
+cristalino
+transparente
+traslúcido
+opaco
+brillante
+mate
+satinado
+sedoso
+aterciopelado
+rugoso
+liso
+pulido
+erosionado
+corroído
+oxidado
+patinado
+envejecido
+desgastado
+nuevo
+pristino
+deteriorado
+fragmentado
+completo
+íntegro
+roto
+agrietado
+manchado
+limpio
+puro
+sucio
+contaminado
+prístino

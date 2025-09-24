@@ -1,0 +1,121 @@
+penrose triangle impossible three dimensional object
+möbius strip one sided surface infinite loop
+klein bottle inside outside topology confusion
+tesseract four dimensional cube shadow projection
+hypercube dimensional folding visible impossible
+non euclidean geometry curved space architecture
+impossible staircase escher ascending descending simultaneously
+fractal infinite detail finite space
+mandelbrot set complex number visual infinity
+julia set complex plane mathematical beauty
+sierpinski triangle recursive geometric pattern
+cantor set infinite points zero measure
+hilbert curve space filling mathematical path
+dragon curve fractional dimension geometric growth
+koch snowflake infinite perimeter finite area
+menger sponge three dimensional sierpinski analog
+apollonian gasket circle packing geometric harmony
+fibonacci spiral golden ratio natural mathematics
+logarithmic spiral constant angle mathematical curve
+hyperbolic geometry saddle surface negative curvature
+spherical geometry positive curvature closed surface
+projective geometry infinite points parallel lines
+topology rubber sheet geometry preserved properties
+differential geometry smooth manifold calculus application
+riemannian geometry curved spacetime einstein relativity
+euclidean geometry flat space parallel postulate
+cartesian coordinate system perpendicular axes mathematics
+polar coordinate system radius angle circular
+spherical coordinate system three dimensional angles
+cylindrical coordinate system circular height coordinates
+complex plane real imaginary number visualization
+quaternion four dimensional rotation mathematical object
+octonion eight dimensional number system
+sedenion sixteen dimensional hypercomplex numbers
+clifford algebra geometric product mathematical structure
+exterior algebra antisymmetric tensor product
+grassmann algebra wedge product geometric algebra
+lie algebra infinitesimal transformation mathematical structure
+group theory symmetry mathematical abstract algebra
+field theory algebraic structure mathematical operations
+ring theory multiplication addition mathematical structure
+module theory generalized vector space structure
+vector space linear combination mathematical framework
+metric space distance function mathematical topology
+normed space vector length mathematical structure
+inner product space angle measurement mathematical framework
+hilbert space complete inner product mathematical analysis
+banach space complete normed mathematical vector space
+topological space open sets mathematical structure
+manifold locally euclidean topological mathematical space
+fiber bundle local product mathematical structure
+principal bundle group action mathematical geometry
+vector bundle linear algebra mathematical topology
+tangent bundle velocity vectors mathematical manifold
+cotangent bundle dual space mathematical geometry
+tensor bundle multilinear algebra mathematical structure
+jet bundle derivative information mathematical geometry
+frame bundle orthonormal bases mathematical structure
+connection curvature parallel transport mathematical geometry
+holonomy group loop transportation mathematical structure
+gauge theory symmetry physics mathematical framework
+yang mills theory non abelian mathematical gauge
+chern simons theory topological mathematical field
+jones polynomial knot invariant mathematical topology
+alexander polynomial knot theory mathematical invariant
+homfly polynomial knot link mathematical invariant
+kauffman polynomial knot theory mathematical bracket
+vassiliev invariant finite type mathematical knot
+reidemeister moves knot equivalence mathematical topology
+seifert surface knot spanning mathematical surface
+genus surface holes mathematical topological invariant
+fundamental group loops mathematical algebraic topology
+homology group boundary cycle mathematical topology
+cohomology group dual homology mathematical structure
+homotopy group sphere maps mathematical topology
+k theory vector bundle mathematical algebraic topology
+elliptic curve cubic equation mathematical algebraic geometry
+modular form complex analysis mathematical number theory
+riemann surface complex manifold mathematical analysis
+algebraic variety polynomial equation mathematical geometry
+scheme modern algebraic mathematical geometric object
+stack quotient mathematical geometric moduli
+motive algebraic cycle mathematical cohomology theory
+galois group field extension mathematical symmetry
+class field theory abelian extension mathematical number
+iwasawa theory p adic mathematical number theory
+langlands program automorphic mathematical representation theory
+shimura variety modular mathematical algebraic geometry
+perfectoid space p adic mathematical geometry
+berkovich space non archimedean mathematical analysis
+formal scheme completion mathematical algebraic geometry
+deformation theory infinitesimal mathematical change
+derived category triangulated mathematical homological algebra
+stable homotopy theory spectrum mathematical topology
+chromatic homotopy theory periodic mathematical phenomena
+equivariant topology group action mathematical symmetry
+surgery theory manifold modification mathematical topology
+cobordism theory manifold boundary mathematical relation
+characteristic class bundle invariant mathematical topology
+index theory differential operator mathematical analysis
+atiyah singer theorem topological analytical mathematical connection
+riemann roch theorem sheaf cohomology mathematical algebraic geometry
+grothendieck riemann roch theorem relative mathematical version
+hirzebruch riemann roch theorem multiplicative mathematical sequence
+adams spectral sequence homotopy group mathematical computation
+leray spectral sequence sheaf cohomology mathematical computation
+serre spectral sequence fibration cohomology mathematical tool
+eilenberg moore spectral sequence tor mathematical homology
+lyndon hochschild serre spectral sequence group cohomology mathematical tool
+bockstein spectral sequence torsion mathematical cohomology
+universal coefficient theorem homology cohomology mathematical relation
+künneth theorem product space mathematical homology
+mayer vietoris sequence union intersection mathematical exact
+long exact sequence short mathematical connecting homomorphism
+five lemma diagram chasing mathematical homological algebra
+snake lemma connecting homomorphism mathematical exact sequence
+splitting lemma short exact mathematical sequence decomposition
+schur lemma irreducible representation mathematical character theory
+nakayama lemma local ring mathematical commutative algebra
+zorn lemma maximal element mathematical set theory
+banach tarski paradox sphere decomposition mathematical set theory

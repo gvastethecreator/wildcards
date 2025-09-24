@@ -1,0 +1,122 @@
+space elevators
+orbital rings
+Bishop rings
+Stanford torus
+O'Neill cylinders
+Bernal spheres
+rotating habitats
+artificial gravity
+centrifugal force
+Coriolis effects
+space colonies
+lunar bases
+Mars settlements
+asteroid mining
+Dyson spheres
+Kardashev scale
+megastructures
+ringworlds
+Alderson disks
+matrioshka brains
+Jupiter brains
+computronium
+utility fog
+smart matter
+programmable matter
+molecular assemblers
+disassemblers
+replicators
+nanofactories
+molecular manufacturing
+atomically precise manufacturing
+desktop nanofabrication
+personal fabricators
+molecular electronics
+nanocomputers
+quantum computers
+quantum dots
+quantum wells
+quantum wires
+carbon nanotubes
+graphene sheets
+fullerenes
+buckyballs
+nanodiamonds
+nanoribbons
+nanocones
+nanohorns
+nanobuds
+peapods
+onions
+scrolls
+toroids
+helices
+junctions
+heterojunctions
+metallic nanotubes
+semiconducting nanotubes
+armchair nanotubes
+zigzag nanotubes
+chiral nanotubes
+single-walled
+multi-walled
+double-walled
+few-walled
+bundled nanotubes
+nanotube ropes
+nanotube yarns
+nanotube forests
+vertically aligned
+horizontally aligned
+patterned growth
+selective growth
+catalyst particles
+chemical vapor deposition
+arc discharge
+laser ablation
+high-pressure CO
+plasma enhanced
+thermal decomposition
+template synthesis
+electrochemical
+solution phase
+liquid phase
+gas phase
+solid phase
+epitaxial growth
+self-assembly
+directed assembly
+hierarchical assembly
+bottom-up fabrication
+top-down lithography
+electron beam lithography
+focused ion beam
+scanning probe lithography
+dip-pen nanolithography
+molecular beam epitaxy
+atomic layer deposition
+chemical beam epitaxy
+physical vapor deposition
+sputtering deposition
+evaporation coating
+pulsed laser deposition
+sol-gel processing
+hydrothermal synthesis
+solvothermal synthesis
+microwave synthesis
+sonochemical synthesis
+electrospinning
+electrospraying
+spray pyrolysis
+flame synthesis
+combustion synthesis
+mechanochemical synthesis
+ball milling
+high-energy milling
+cryogenic milling
+reactive milling
+template-directed
+surfactant-mediated
+biomimetic synthesis
+green synthesis
+sustainable fabrication

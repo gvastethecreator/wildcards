@@ -1,0 +1,2869 @@
+quantum entanglement
+superposition
+wave function collapse
+uncertainty principle
+double slit experiment
+many worlds interpretation
+copenhagen interpretation
+schrodinger equation
+planck constant
+heisenberg uncertainty
+quantum tunneling
+quantum field theory
+standard model
+higgs boson
+dark matter
+dark energy
+cosmic microwave background
+big bang nucleosynthesis
+inflation theory
+multiverse hypothesis
+string theory
+m theory
+extra dimensions
+calabi yau manifolds
+supersymmetry
+grand unified theory
+theory of everything
+loop quantum gravity
+emergent spacetime
+holographic principle
+black hole information paradox
+hawking radiation
+event horizon
+singularity
+wormhole
+white hole
+naked singularity
+ergosphere
+photon sphere
+schwarzschild radius
+kerr metric
+general relativity
+special relativity
+spacetime curvature
+geodesics
+four momentum
+energy momentum tensor
+einstein field equations
+cosmological constant
+lambda cdm model
+friedmann equations
+hubble constant
+redshift
+doppler effect
+gravitational waves
+ligo detector
+neutron star collision
+supernova
+gamma ray burst
+quasar
+active galactic nucleus
+supermassive black hole
+stellar evolution
+main sequence
+red giant
+white dwarf
+neutron star
+pulsar
+magnetar
+brown dwarf
+protostar
+t tauri star
+herbig haro object
+planetary nebula
+supernova remnant
+cosmic rays
+solar wind
+heliosphere
+magnetosphere
+van allen belts
+aurora
+solar flare
+coronal mass ejection
+sunspot cycle
+solar maximum
+solar minimum
+maunder minimum
+little ice age
+climate change
+greenhouse effect
+carbon cycle
+nitrogen cycle
+phosphorus cycle
+biogeochemical cycles
+ecosystem dynamics
+food web
+trophic levels
+energy flow
+nutrient cycling
+primary productivity
+biomass
+biodiversity
+species richness
+endemism
+adaptive radiation
+convergent evolution
+divergent evolution
+coevolution
+sexual selection
+natural selection
+genetic drift
+gene flow
+population bottleneck
+founder effect
+hardy weinberg equilibrium
+allele frequency
+genotype frequency
+phenotype
+genotype
+chromosome
+gene
+allele
+mutation
+recombination
+crossing over
+meiosis
+mitosis
+dna replication
+transcription
+translation
+protein synthesis
+genetic code
+codon
+anticodon
+ribosome
+messenger rna
+transfer rna
+ribosomal rna
+polymerase
+helicase
+ligase
+primase
+exonuclease
+endonuclease
+restriction enzyme
+pcr amplification
+gel electrophoresis
+dna sequencing
+genome
+proteome
+transcriptome
+metabolome
+epigenome
+chromatin
+histone
+nucleosome
+euchromatin
+heterochromatin
+gene expression
+gene regulation
+transcription factor
+enhancer
+promoter
+silencer
+operator
+operon
+lac operon
+trp operon
+crispr cas9
+gene editing
+genetic engineering
+recombinant dna
+cloning
+transgenic
+knockout
+knockin
+rnai
+sirna
+microrna
+long noncoding rna
+circular rna
+ribozyme
+prion
+virus
+bacteriophage
+retrovirus
+lentivirus
+adenovirus
+coronavirus
+influenza
+hiv
+ebola
+zika
+dengue
+malaria
+tuberculosis
+antibiotic resistance
+mrsa
+vre
+c diff
+sepsis
+immune system
+innate immunity
+adaptive immunity
+antibody
+antigen
+t cell
+b cell
+cytokine
+interferon
+interleukin
+tumor necrosis factor
+complement system
+major histocompatibility
+hla typing
+organ transplant
+tissue rejection
+immunosuppression
+autoimmune disease
+allergy
+hypersensitivity
+anaphylaxis
+vaccination
+herd immunity
+epidemic
+pandemic
+endemic
+r naught
+contact tracing
+quarantine
+isolation
+social distancing
+ppe
+n95 mask
+ventilator
+ecmo
+intensive care
+critical care
+emergency medicine
+trauma surgery
+neurosurgery
+cardiac surgery
+orthopedic surgery
+plastic surgery
+ophthalmology
+otolaryngology
+dermatology
+radiology
+pathology
+anesthesiology
+psychiatry
+neurology
+cardiology
+pulmonology
+gastroenterology
+nephrology
+endocrinology
+oncology
+hematology
+rheumatology
+infectious disease
+internal medicine
+family medicine
+pediatrics
+obstetrics
+gynecology
+urology
+orthopedics
+emergency medicine
+diagnostic imaging
+ct scan
+mri
+pet scan
+ultrasound
+x ray
+fluoroscopy
+mammography
+nuclear medicine
+radiotherapy
+chemotherapy
+immunotherapy
+targeted therapy
+precision medicine
+personalized medicine
+pharmacogenomics
+biomarker
+companion diagnostic
+liquid biopsy
+circulating tumor dna
+minimal residual disease
+tumor heterogeneity
+clonal evolution
+cancer stem cell
+metastasis
+angiogenesis
+tumor microenvironment
+immune checkpoint
+pd1 pd l1
+ctla4
+car t cell
+tcr
+tumor infiltrating lymphocyte
+microsatellite instability
+homologous recombination
+brca mutation
+lynch syndrome
+hereditary cancer
+tumor suppressor
+oncogene
+proto oncogene
+ras
+p53
+rb
+apc
+myc
+egfr
+her2
+vegf
+pdgf
+fgf
+igf
+tgf beta
+wnt
+hedgehog
+notch
+hippo
+pi3k akt
+mtor
+mapk
+jak stat
+nf kappa b
+cell cycle
+g1 s g2 m
+checkpoint
+cyclin
+cdk
+cki
+apoptosis
+necrosis
+autophagy
+senescence
+dna damage
+dna repair
+homologous recombination
+non homologous end joining
+base excision repair
+nucleotide excision repair
+mismatch repair
+telomere
+telomerase
+aging
+longevity
+caloric restriction
+intermittent fasting
+rapamycin
+metformin
+nad
+sirtuin
+resveratrol
+antioxidant
+oxidative stress
+free radical
+reactive oxygen species
+mitochondria
+atp synthesis
+electron transport chain
+citric acid cycle
+glycolysis
+gluconeogenesis
+lipogenesis
+lipolysis
+beta oxidation
+ketogenesis
+ketosis
+metabolism
+metabolic syndrome
+diabetes
+insulin resistance
+glucose
+hemoglobin a1c
+lipid profile
+cholesterol
+triglyceride
+hdl
+ldl
+vldl
+atherosclerosis
+coronary artery disease
+myocardial infarction
+stroke
+hypertension
+heart failure
+arrhythmia
+atrial fibrillation
+ventricular tachycardia
+sudden cardiac death
+cardiac arrest
+defibrillation
+cardioversion
+pacemaker
+icd
+heart transplant
+artificial heart
+ventricular assist device
+balloon pump
+stent
+angioplasty
+bypass surgery
+valve replacement
+valve repair
+transcatheter
+minimally invasive
+robotic surgery
+laparoscopy
+endoscopy
+arthroscopy
+microsurgery
+nanosurgery
+precision surgery
+image guided
+computer assisted
+augmented reality
+virtual reality
+artificial intelligence
+machine learning
+deep learning
+neural network
+artificial neural network
+convolutional neural network
+recurrent neural network
+transformer
+attention mechanism
+natural language processing
+computer vision
+pattern recognition
+feature extraction
+dimensionality reduction
+principal component analysis
+independent component analysis
+clustering
+classification
+regression
+supervised learning
+unsupervised learning
+reinforcement learning
+generative adversarial network
+variational autoencoder
+diffusion model
+large language model
+foundation model
+multimodal model
+emergent behavior
+artificial general intelligence
+singularity
+technological singularity
+moore law
+nielsen law
+metcalfe law
+reed law
+amdahl law
+little law
+brooks law
+parkinson law
+murphy law
+godwin law
+betteridge law
+cunningham law
+dunning kruger effect
+imposter syndrome
+peter principle
+dilbert principle
+pareto principle
+80 20 rule
+zipf law
+benford law
+power law
+normal distribution
+gaussian distribution
+poisson distribution
+exponential distribution
+binomial distribution
+chi square
+t test
+anova
+correlation
+regression
+p value
+confidence interval
+significance level
+null hypothesis
+alternative hypothesis
+type i error
+type ii error
+power analysis
+effect size
+meta analysis
+systematic review
+randomized controlled trial
+double blind
+placebo
+control group
+bias
+confounding
+selection bias
+survivorship bias
+publication bias
+statistical significance
+clinical significance
+evidence based medicine
+cochrane collaboration
+systematic review
+clinical practice guideline
+quality improvement
+patient safety
+adverse event
+medical error
+root cause analysis
+failure mode
+risk management
+quality assurance
+accreditation
+certification
+regulatory approval
+fda
+ema
+health authority
+clinical trial
+phase i
+phase ii
+phase iii
+phase iv
+investigational new drug
+new drug application
+biologics license application
+regulatory science
+pharmacovigilance
+post market surveillance
+real world evidence
+pragmatic trial
+comparative effectiveness
+health technology assessment
+cost effectiveness
+quality adjusted life year
+disability adjusted life year
+health economics
+value based care
+precision medicine
+digital health
+telemedicine
+mobile health
+wearable device
+internet of things
+big data
+cloud computing
+edge computing
+blockchain
+distributed ledger
+smart contract
+cryptocurrency
+bitcoin
+ethereum
+decentralized finance
+non fungible token
+web3
+metaverse
+virtual world
+augmented reality
+mixed reality
+extended reality
+brain computer interface
+neural implant
+optogenetics
+gene therapy
+cell therapy
+regenerative medicine
+tissue engineering
+3d printing
+bioprinting
+organ on chip
+microfluidics
+nanotechnology
+molecular machine
+dna origami
+protein design
+synthetic biology
+metabolic engineering
+biofuel
+carbon capture
+geoengineering
+climate intervention
+renewable energy
+solar power
+wind power
+hydroelectric
+geothermal
+nuclear power
+fusion power
+fission power
+tokamak
+stellarator
+inertial confinement
+magnetic confinement
+plasma physics
+superconductivity
+room temperature superconductor
+quantum computer
+quantum supremacy
+quantum advantage
+quantum algorithm
+shor algorithm
+grover algorithm
+quantum error correction
+quantum cryptography
+quantum key distribution
+quantum internet
+quantum sensor
+atomic clock
+laser interferometer
+gravitational wave detector
+particle accelerator
+large hadron collider
+synchrotron
+linear accelerator
+cyclotron
+betatron
+mass spectrometer
+electron microscope
+atomic force microscope
+scanning tunneling microscope
+x ray crystallography
+neutron scattering
+nuclear magnetic resonance
+magnetic resonance imaging
+positron emission tomography
+single photon emission computed tomography
+optical coherence tomography
+confocal microscopy
+two photon microscopy
+super resolution microscopy
+cryo electron microscopy
+protein structure
+x ray crystal structure
+nmr structure
+cryo em structure
+alphafold
+protein folding
+misfolding
+aggregation
+amyloid
+prion disease
+alzheimer disease
+parkinson disease
+huntington disease
+als
+multiple sclerosis
+dementia
+neurodegeneration
+neuroprotection
+neuroplasticity
+synaptic plasticity
+long term potentiation
+long term depression
+learning
+memory
+consciousness
+free will
+qualia
+hard problem
+binding problem
+explanatory gap
+philosophical zombie
+chinese room
+turing test
+artificial consciousness
+machine consciousness
+integrated information theory
+global workspace theory
+higher order thought
+predictive processing
+embodied cognition
+extended mind
+distributed cognition
+social cognition
+theory of mind
+mirror neuron
+empathy
+emotion
+mood
+affect
+temperament
+personality
+big five
+introversion
+extraversion
+neuroticism
+openness
+conscientiousness
+agreeableness
+dark triad
+narcissism
+machiavellianism
+psychopathy
+antisocial personality
+borderline personality
+schizophrenia
+bipolar disorder
+depression
+anxiety
+ptsd
+ocd
+adhd
+autism
+asperger syndrome
+tourette syndrome
+epilepsy
+migraine
+chronic pain
+fibromyalgia
+chronic fatigue syndrome
+autoimmune disease
+inflammatory bowel disease
+rheumatoid arthritis
+systemic lupus erythematosus
+multiple sclerosis
+type 1 diabetes
+celiac disease
+psoriasis
+eczema
+asthma
+allergic rhinitis
+food allergy
+drug allergy
+anaphylaxis
+immunodeficiency
+primary immunodeficiency
+secondary immunodeficiency
+acquired immunodeficiency syndrome
+human immunodeficiency virus
+hepatitis b
+hepatitis c
+tuberculosis
+malaria
+dengue fever
+zika virus
+ebola virus
+marburg virus
+hanta virus
+sin nombre virus
+rift valley fever
+crimean congo hemorrhagic fever
+lassa fever
+nipah virus
+hendra virus
+mers cov
+sars cov
+sars cov 2
+covid 19
+pandemic
+epidemic
+outbreak
+emerging infectious disease
+zoonosis
+vector borne disease
+waterborne disease
+foodborne disease
+nosocomial infection
+healthcare associated infection
+antimicrobial resistance
+multidrug resistant
+extensively drug resistant
+totally drug resistant
+methicillin resistant staphylococcus aureus
+vancomycin resistant enterococcus
+carbapenem resistant enterobacteriaceae
+new delhi metallo beta lactamase
+extended spectrum beta lactamase
+amp c beta lactamase
+klebsiella pneumoniae carbapenemase
+oxacillinase
+pseudomonas aeruginosa
+acinetobacter baumannii
+enterococcus faecium
+staphylococcus aureus
+streptococcus pneumoniae
+mycobacterium tuberculosis
+clostridium difficile
+candida auris
+aspergillus fumigatus
+cryptococcus neoformans
+pneumocystis jirovecii
+toxoplasma gondii
+plasmodium falciparum
+plasmodium vivax
+leishmania
+trypanosoma
+schistosoma
+wuchereria bancrofti
+onchocerca volvulus
+dracunculus medinensis
+ascaris lumbricoides
+trichuris trichiura
+hookworm
+strongyloides stercoralis
+enterobius vermicularis
+taenia solium
+taenia saginata
+echinococcus granulosus
+echinococcus multilocularis
+diphyllobothrium latum
+hymenolepis nana
+clonorchis sinensis
+opisthorchis viverrini
+fasciola hepatica
+schistosoma mansoni
+schistosoma haematobium
+schistosoma japonicum
+paragonimus westermani
+tropical disease
+neglected tropical disease
+global health
+health equity
+social determinants
+environmental health
+occupational health
+public health
+epidemiology
+biostatistics
+environmental epidemiology
+infectious disease epidemiology
+chronic disease epidemiology
+cancer epidemiology
+cardiovascular epidemiology
+nutritional epidemiology
+pharmacoepidemiology
+clinical epidemiology
+field epidemiology
+outbreak investigation
+disease surveillance
+syndromic surveillance
+sentinel surveillance
+active surveillance
+passive surveillance
+case control study
+cohort study
+cross sectional study
+ecological study
+case series
+case report
+systematic review
+meta analysis
+randomized controlled trial
+cluster randomized trial
+stepped wedge trial
+crossover trial
+n of 1 trial
+pragmatic trial
+effectiveness trial
+superiority trial
+non inferiority trial
+equivalence trial
+dose finding trial
+adaptive trial
+basket trial
+umbrella trial
+platform trial
+master protocol
+seamless design
+bayesian design
+frequentist design
+intention to treat
+per protocol
+as treated
+missing data
+multiple imputation
+sensitivity analysis
+subgroup analysis
+interim analysis
+data safety monitoring board
+independent data monitoring committee
+clinical research organization
+good clinical practice
+institutional review board
+ethics committee
+informed consent
+assent
+vulnerable population
+research ethics
+human subjects research
+animal research
+three rs
+replacement
+reduction
+refinement
+animal welfare
+institutional animal care
+laboratory animal medicine
+veterinary medicine
+one health
+comparative medicine
+translational research
+bench to bedside
+reverse translation
+preclinical research
+basic research
+applied research
+clinical research
+health services research
+implementation science
+knowledge translation
+research to practice
+evidence based practice
+quality improvement
+continuous quality improvement
+plan do study act
+lean
+six sigma
+kaizen
+root cause analysis
+failure mode effects analysis
+high reliability organization
+just culture
+safety culture
+patient safety
+adverse event
+near miss
+medical error
+diagnostic error
+medication error
+surgical error
+communication error
+system error
+human factor
+usability
+user experience
+design thinking
+human centered design
+participatory design
+co design
+user testing
+usability testing
+accessibility
+universal design
+inclusive design
+digital divide
+health literacy
+numeracy
+shared decision making
+patient engagement
+patient activation
+patient reported outcome
+patient reported experience
+quality of life
+health related quality of life
+functional status
+disability
+impairment
+activity limitation
+participation restriction
+international classification
+world health organization
+healthy life expectancy
+disability adjusted life year
+quality adjusted life year
+health utility
+preference based measure
+generic measure
+disease specific measure
+symptom specific measure
+clinician reported outcome
+observer reported outcome
+performance based measure
+biomarker
+surrogate endpoint
+composite endpoint
+time to event
+survival analysis
+kaplan meier
+log rank test
+cox regression
+competing risk
+cure model
+landmark analysis
+restricted mean survival time
+hazard ratio
+odds ratio
+relative risk
+absolute risk
+number needed to treat
+number needed to harm
+attributable risk
+population attributable risk
+preventable fraction
+etiologic fraction
+relative risk reduction
+absolute risk reduction
+confidence interval
+prediction interval
+tolerance interval
+reference interval
+clinical decision limit
+analytical measurement range
+limit of detection
+limit of quantification
+precision
+accuracy
+bias
+calibration
+traceability
+uncertainty
+quality control
+quality assurance
+proficiency testing
+external quality assessment
+reference material
+certified reference material
+standard reference material
+international standard
+primary standard
+secondary standard
+working standard
+calibrator
+control
+blank
+matrix effect
+interference
+carryover
+contamination
+preanalytical
+analytical
+postanalytical
+total testing process
+laboratory medicine
+clinical chemistry
+hematology
+coagulation
+immunology
+microbiology
+virology
+parasitology
+mycology
+molecular diagnostics
+cytogenetics
+flow cytometry
+mass spectrometry
+chromatography
+immunoassay
+enzyme linked immunosorbent assay
+chemiluminescent immunoassay
+fluorescence polarization immunoassay
+radioimmunoassay
+western blot
+northern blot
+southern blot
+polymerase chain reaction
+real time pcr
+quantitative pcr
+reverse transcription pcr
+nested pcr
+multiplex pcr
+digital pcr
+loop mediated isothermal amplification
+nucleic acid sequence based amplification
+transcription mediated amplification
+branched dna
+hybrid capture
+in situ hybridization
+fluorescence in situ hybridization
+chromogenic in situ hybridization
+array comparative genomic hybridization
+single nucleotide polymorphism array
+exome sequencing
+whole genome sequencing
+targeted sequencing
+amplicon sequencing
+rna sequencing
+single cell sequencing
+long read sequencing
+short read sequencing
+oxford nanopore
+pacific biosciences
+illumina
+ion torrent
+454 sequencing
+sanger sequencing
+maxam gilbert
+chain termination
+next generation sequencing
+third generation sequencing
+fourth generation sequencing
+bioinformatics
+computational biology
+systems biology
+network biology
+pathway analysis
+gene ontology
+kyoto encyclopedia
+reactome
+string
+cytoscape
+gephi
+r
+bioconductor
+python
+biopython
+perl
+java
+c++
+matlab
+mathematica
+wolfram alpha
+data science
+data mining
+knowledge discovery
+pattern recognition
+machine learning
+artificial intelligence
+deep learning
+neural network
+support vector machine
+random forest
+decision tree
+naive bayes
+k means clustering
+hierarchical clustering
+principal component analysis
+independent component analysis
+t distributed stochastic neighbor embedding
+uniform manifold approximation
+dimensionality reduction
+feature selection
+cross validation
+bootstrap
+permutation test
+multiple testing correction
+false discovery rate
+family wise error rate
+bonferroni correction
+benjamini hochberg
+q value
+local false discovery rate
+empirical bayes
+bayesian statistics
+frequentist statistics
+maximum likelihood
+method of moments
+least squares
+ridge regression
+lasso regression
+elastic net
+generalized linear model
+linear mixed model
+generalized linear mixed model
+survival model
+time series analysis
+longitudinal data analysis
+missing data
+multiple imputation
+maximum likelihood
+expectation maximization
+markov chain monte carlo
+gibbs sampling
+metropolis hastings
+hamiltonian monte carlo
+variational inference
+approximate bayesian computation
+likelihood free inference
+simulation based inference
+digital twin
+in silico
+computational model
+mathematical model
+mechanistic model
+phenomenological model
+empirical model
+statistical model
+stochastic model
+deterministic model
+discrete model
+continuous model
+compartmental model
+agent based model
+cellular automaton
+network model
+graph theory
+complex network
+scale free network
+small world network
+random network
+preferential attachment
+network topology
+centrality
+betweenness centrality
+closeness centrality
+eigenvector centrality
+pagerank
+community detection
+modularity
+clustering coefficient
+assortativity
+robustness
+resilience
+percolation
+phase transition
+critical point
+universality
+scaling
+power law
+pareto distribution
+zipf law
+benford law
+levy flight
+random walk
+brownian motion
+fractional brownian motion
+fractals
+mandelbrot set
+julia set
+cantor set
+sierpinski triangle
+koch snowflake
+dragon curve
+hilbert curve
+space filling curve
+chaos theory
+butterfly effect
+sensitive dependence
+lyapunov exponent
+strange attractor
+lorenz attractor
+henon map
+logistic map
+feigenbaum constant
+period doubling
+bifurcation
+catastrophe theory
+complexity theory
+emergence
+self organization
+autopoiesis
+dissipative structure
+far from equilibrium
+nonlinear dynamics
+feedback loop
+positive feedback
+negative feedback
+homeostasis
+allostasis
+adaptation
+evolution
+natural selection
+genetic algorithm
+evolutionary computation
+swarm intelligence
+ant colony optimization
+particle swarm optimization
+genetic programming
+differential evolution
+simulated annealing
+tabu search
+hill climbing
+gradient descent
+stochastic gradient descent
+adam optimizer
+backpropagation
+forward propagation
+convolutional neural network
+recurrent neural network
+long short term memory
+gated recurrent unit
+transformer
+attention mechanism
+self attention
+multi head attention
+positional encoding
+encoder decoder
+sequence to sequence
+generative adversarial network
+discriminator
+generator
+variational autoencoder
+diffusion model
+flow based model
+autoregressive model
+masked language model
+bert
+gpt
+t5
+dalle
+stable diffusion
+midjourney
+imagen
+flamingo
+palm
+lamda
+chatgpt
+claude
+bard
+large language model
+foundation model
+pretrained model
+fine tuning
+transfer learning
+few shot learning
+zero shot learning
+in context learning
+prompt engineering
+chain of thought
+tree of thought
+retrieval augmented generation
+knowledge graph
+semantic web
+ontology
+taxonomy
+controlled vocabulary
+metadata
+data provenance
+fair principles
+open science
+reproducible research
+replication crisis
+p hacking
+publication bias
+preregistration
+registered report
+open access
+preprint
+peer review
+scientific method
+hypothesis
+prediction
+theory
+law
+principle
+paradigm
+research program
+normal science
+revolutionary science
+paradigm shift
+scientific revolution
+structure of scientific revolutions
+philosophy of science
+epistemology
+empiricism
+rationalism
+positivism
+falsifiability
+demarcation problem
+induction
+deduction
+abduction
+inference to best explanation
+underdetermination
+theory ladenness
+scientific realism
+antirealism
+instrumentalism
+constructivism
+relativism
+objectivity
+subjectivity
+bias
+value free science
+ethics of science
+responsible conduct
+research integrity
+scientific misconduct
+fabrication
+falsification
+plagiarism
+authorship
+conflict of interest
+institutional review board
+research ethics
+human subjects
+animal welfare
+dual use research
+gain of function
+biosafety
+biosecurity
+biodefense
+bioterrorism
+biological weapons
+chemical weapons
+nuclear weapons
+weapons of mass destruction
+arms control
+nonproliferation
+verification
+monitoring
+inspection
+compliance
+sanctions
+deterrence
+defense
+security
+threat assessment
+risk assessment
+vulnerability assessment
+impact assessment
+environmental impact
+social impact
+technology assessment
+foresight
+horizon scanning
+early warning
+weak signal
+emerging technology
+disruptive technology
+breakthrough
+innovation
+invention
+discovery
+creativity
+serendipity
+eureka moment
+aha moment
+insight
+intuition
+inspiration
+imagination
+curiosity
+wonder
+awe
+beauty
+elegance
+simplicity
+occam razor
+parsimony
+symmetry
+harmony
+proportion
+golden ratio
+fibonacci sequence
+pi
+e
+euler gamma
+planck constant
+speed of light
+gravitational constant
+fine structure constant
+avogadro number
+boltzmann constant
+gas constant
+faraday constant
+electron charge
+electron mass
+proton mass
+neutron mass
+atomic mass unit
+mole
+ampere
+kelvin
+candela
+meter
+kilogram
+second
+radian
+steradian
+hertz
+newton
+pascal
+joule
+watt
+coulomb
+volt
+farad
+ohm
+siemens
+weber
+tesla
+henry
+lumen
+lux
+becquerel
+gray
+sievert
+international system
+metric system
+base unit
+derived unit
+supplementary unit
+prefix
+kilo
+mega
+giga
+tera
+peta
+exa
+zetta
+yotta
+milli
+micro
+nano
+pico
+femto
+atto
+zepto
+yocto
+scientific notation
+exponential notation
+logarithm
+natural logarithm
+common logarithm
+antilog
+inverse function
+trigonometry
+sine
+cosine
+tangent
+cotangent
+secant
+cosecant
+inverse trigonometric
+hyperbolic function
+sinh
+cosh
+tanh
+complex number
+imaginary unit
+real part
+imaginary part
+magnitude
+phase
+euler formula
+de moivre theorem
+fundamental theorem algebra
+polynomial
+quadratic formula
+cubic formula
+quartic formula
+galois theory
+group theory
+ring theory
+field theory
+vector space
+linear algebra
+matrix
+determinant
+eigenvalue
+eigenvector
+singular value decomposition
+principal component analysis
+linear transformation
+basis
+dimension
+rank
+null space
+column space
+row space
+inner product
+norm
+metric
+topology
+open set
+closed set
+compact set
+connected set
+continuous function
+limit
+derivative
+integral
+fundamental theorem calculus
+taylor series
+fourier series
+fourier transform
+laplace transform
+differential equation
+ordinary differential equation
+partial differential equation
+boundary value problem
+initial value problem
+numerical method
+finite difference
+finite element
+monte carlo
+random number
+pseudorandom
+quasirandom
+distribution
+probability
+conditional probability
+bayes theorem
+independence
+correlation
+covariance
+variance
+standard deviation
+moment
+skewness
+kurtosis
+central limit theorem
+law large numbers
+chebyshev inequality
+markov inequality
+jensen inequality
+hölder inequality
+minkowski inequality
+cauchy schwarz
+triangle inequality
+information theory
+entropy
+mutual information
+kullback leibler divergence
+channel capacity
+shannon theorem
+error correcting code
+hamming code
+reed solomon
+ldpc
+turbo code
+convolutional code
+block code
+cyclic code
+bch code
+golay code
+hadamard code
+walsh code
+gold code
+kasami code
+barker sequence
+maximal length sequence
+pseudo noise
+spread spectrum
+frequency hopping
+direct sequence
+code division multiple access
+time division multiple access
+frequency division multiple access
+orthogonal frequency division multiplexing
+multiple input multiple output
+beamforming
+spatial diversity
+temporal diversity
+frequency diversity
+coding gain
+diversity gain
+array gain
+processing gain
+signal to noise ratio
+bit error rate
+symbol error rate
+packet error rate
+frame error rate
+throughput
+latency
+jitter
+quality of service
+bandwidth
+spectral efficiency
+energy efficiency
+capacity
+coverage
+interference
+fading
+multipath
+doppler shift
+line of sight
+non line of sight
+fresnel zone
+path loss
+shadowing
+fast fading
+slow fading
+rayleigh fading
+ricean fading
+nakagami fading
+weibull fading
+log normal shadowing
+hata model
+okumura model
+cost 231
+winner
+3gpp
+channel model
+antenna
+isotropic
+directional
+gain
+beamwidth
+front to back ratio
+polarization
+impedance
+vswr
+return loss
+insertion loss
+isolation
+coupling
+radiation pattern
+near field
+far field
+electromagnetic wave
+maxwell equations
+wave equation
+helmholtz equation
+green function
+dyadic green function
+method of moments
+finite element method
+finite difference time domain
+transmission line theory
+smith chart
+scattering parameters
+abcd parameters
+z parameters
+y parameters
+h parameters
+network analyzer
+spectrum analyzer
+signal generator
+oscilloscope
+logic analyzer
+protocol analyzer
+bit error rate tester
+vector network analyzer
+electromagnetic compatibility
+electromagnetic interference
+electrostatic discharge
+conducted emission
+radiated emission
+conducted immunity
+radiated immunity
+surge
+burst
+voltage dip
+voltage sag
+power quality
+harmonic distortion
+intermodulation
+spurious emission
+out of band emission
+adjacent channel leakage ratio
+error vector magnitude
+peak to average power ratio
+complementary cumulative distribution function
+probability density function
+cumulative distribution function
+moment generating function
+characteristic function
+cumulant generating function
+probability mass function
+joint distribution
+marginal distribution
+conditional distribution
+likelihood function
+maximum likelihood estimator
+method of moments estimator
+unbiased estimator
+consistent estimator
+sufficient statistic
+minimal sufficient statistic
+complete statistic
+ancillary statistic
+pivotal quantity
+confidence interval
+prediction interval
+tolerance interval
+hypothesis test
+null hypothesis
+alternative hypothesis
+test statistic
+p value
+significance level
+power
+type i error
+type ii error
+critical value
+rejection region
+acceptance region
+one tailed test
+two tailed test
+parametric test
+nonparametric test
+distribution free
+rank test
+sign test
+wilcoxon test
+mann whitney test
+kruskal wallis test
+friedman test
+chi square test
+fisher exact test
+mcnemar test
+cochran q test
+kolmogorov smirnov test
+anderson darling test
+shapiro wilk test
+jarque bera test
+durbin watson test
+runs test
+wald test
+score test
+likelihood ratio test
+lagrange multiplier test
+akaike information criterion
+bayesian information criterion
+hannan quinn criterion
+cross validation
+leave one out
+k fold
+bootstrap
+jackknife
+permutation test
+randomization test
+exact test
+asymptotic test
+large sample theory
+central limit theorem
+delta method
+taylor expansion
+cramér rao bound
+fisher information
+efficient estimator
+uniformly minimum variance unbiased estimator
+rao blackwell theorem
+lehmann scheffé theorem
+neyman pearson lemma
+uniformly most powerful test
+likelihood ratio test
+generalized likelihood ratio test
+score test
+wald test
+lagrange multiplier test
+robust statistics
+influence function
+breakdown point
+m estimator
+l estimator
+r estimator
+trimmed mean
+winsorized mean
+median
+mode
+quantile
+percentile
+interquartile range
+median absolute deviation
+robust regression
+least absolute deviation
+huber regression
+tukey biweight
+hampel estimator
+andrews estimator
+bisquare estimator
+resistant line
+theil regression
+passing bablok regression
+deming regression
+errors in variables
+measurement error
+berkson error
+classical error
+attenuation
+regression dilution
+correction for attenuation
+instrumental variable
+two stage least squares
+three stage least squares
+generalized method of moments
+empirical likelihood
+jackknife empirical likelihood
+bootstrap
+parametric bootstrap
+nonparametric bootstrap
+wild bootstrap
+block bootstrap
+circular bootstrap
+stationary bootstrap
+moving block bootstrap
+overlapping block bootstrap
+maximum entropy bootstrap
+bayesian bootstrap
+bag of little bootstraps
+subsampling
+m out of n bootstrap
+importance sampling
+rejection sampling
+inverse transform sampling
+box muller transform
+marsaglia polar method
+ziggurat algorithm
+alias method
+reservoir sampling
+latin hypercube sampling
+quasi monte carlo
+low discrepancy sequence
+halton sequence
+sobol sequence
+faure sequence
+niederreiter sequence
+scrambled sequence
+randomized quasi monte carlo
+variance reduction
+antithetic variates
+control variates
+importance sampling
+stratified sampling
+latin hypercube
+orthogonal array
+fractional factorial
+response surface methodology
+design of experiments
+factorial design
+fractional factorial design
+central composite design
+box behnken design
+optimal design
+d optimal
+a optimal
+e optimal
+g optimal
+v optimal
+minimax design
+maximin design
+bayesian design
+adaptive design
+sequential design
+multi stage design
+group sequential
+adaptive randomization
+response adaptive
+covariate adaptive
+minimization
+dynamic allocation
+urn model
+pólya urn
+reinforcement learning
+multi armed bandit
+exploration exploitation
+epsilon greedy
+upper confidence bound
+thompson sampling
+contextual bandit
+adversarial bandit
+online learning
+regret minimization
+pac learning
+probably approximately correct
+statistical learning theory
+vc dimension
+rademacher complexity
+empirical risk minimization
+structural risk minimization
+regularization
+bias variance tradeoff
+overfitting
+underfitting
+generalization
+cross validation
+hold out
+train validation test
+early stopping
+dropout
+batch normalization
+layer normalization
+weight decay
+data augmentation
+transfer learning
+domain adaptation
+multi task learning
+meta learning
+few shot learning
+zero shot learning
+one shot learning
+continual learning
+lifelong learning
+catastrophic forgetting
+elastic weight consolidation
+progressive neural networks
+memory replay
+gradient episodic memory
+packnet
+hat
+supermask
+lottery ticket hypothesis
+network pruning
+quantization
+knowledge distillation
+neural architecture search
+automl
+hyperparameter optimization
+grid search
+random search
+bayesian optimization
+gaussian process
+acquisition function
+expected improvement
+probability of improvement
+upper confidence bound
+entropy search
+predictive entropy search
+max value entropy search
+knowledge gradient
+parallel optimization
+multi objective optimization
+pareto frontier
+scalarization
+weighted sum
+epsilon constraint
+goal programming
+lexicographic ordering
+compromise programming
+topsis
+electre
+promethee
+ahp
+analytic hierarchy process
+analytic network process
+fuzzy logic
+fuzzy set
+membership function
+linguistic variable
+fuzzy rule
+fuzzy inference
+mamdani
+takagi sugeno
+defuzzification
+centroid
+bisector
+mean of maximum
+smallest of maximum
+largest of maximum
+rough set
+approximation
+lower approximation
+upper approximation
+boundary region
+positive region
+negative region
+dependency
+reducts
+core
+discretization
+feature selection
+wrapper
+filter
+embedded
+mutual information
+relief
+correlation
+chi square
+information gain
+gain ratio
+gini impurity
+classification
+regression
+clustering
+association rule mining
+frequent itemset
+apriori
+fp growth
+market basket analysis
+collaborative filtering
+content based filtering
+hybrid filtering
+matrix factorization
+singular value decomposition
+non negative matrix factorization
+principal component analysis
+independent component analysis
+factor analysis
+latent semantic analysis
+latent dirichlet allocation
+topic modeling
+natural language processing
+text mining
+information retrieval
+search engine
+inverted index
+tf idf
+bm25
+pagerank
+hits
+precision
+recall
+f measure
+average precision
+mean average precision
+normalized discounted cumulative gain
+reciprocal rank
+learning to rank
+pointwise
+pairwise
+listwise
+click through rate
+conversion rate
+a b testing
+multi armed bandit
+contextual bandit
+reinforcement learning
+markov decision process
+state
+action
+reward
+policy
+value function
+q function
+bellman equation
+dynamic programming
+value iteration
+policy iteration
+temporal difference
+q learning
+sarsa
+actor critic
+policy gradient
+reinforce
+advantage actor critic
+proximal policy optimization
+trust region policy optimization
+deep deterministic policy gradient
+twin delayed deep deterministic
+soft actor critic
+maximum entropy reinforcement learning
+inverse reinforcement learning
+imitation learning
+behavioral cloning
+generative adversarial imitation learning
+apprenticeship learning
+preference learning
+reward learning
+curiosity driven
+intrinsic motivation
+exploration bonus
+count based exploration
+prediction error
+information gain
+empowerment
+diversity
+novelty
+surprise
+uncertainty
+epistemic uncertainty
+aleatoric uncertainty
+bayesian neural network
+variational inference
+monte carlo dropout
+ensemble
+bootstrap aggregating
+bagging
+random forest
+extra trees
+gradient boosting
+adaboost
+xgboost
+lightgbm
+catboost
+stacking
+blending
+voting
+model selection
+nested cross validation
+permutation importance
+partial dependence
+accumulated local effects
+lime
+shap
+shapley values
+integrated gradients
+grad cam
+attention
+saliency map
+occlusion
+perturbation
+adversarial example
+adversarial attack
+adversarial training
+certified defense
+robustness
+fairness
+bias
+discrimination
+disparate impact
+disparate treatment
+equalized odds
+demographic parity
+calibration
+individual fairness
+group fairness
+counterfactual fairness
+causal fairness
+algorithmic accountability
+explainable ai
+interpretable machine learning
+transparency
+trust
+ethics
+responsible ai
+ai safety
+alignment problem
+value alignment
+outer alignment
+inner alignment
+mesa optimizer
+goodhart law
+optimization pressure
+capability control
+oracle ai
+tool ai
+agent
+corrigibility
+containment
+boxing
+ai governance
+ai policy
+beneficial ai
+friendly ai
+artificial general intelligence
+superintelligence
+intelligence explosion
+technological singularity
+existential risk
+global catastrophic risk
+long termism
+effective altruism
+rationality
+cognitive bias
+systematic error
+heuristic
+availability heuristic
+representativeness heuristic
+anchoring bias
+confirmation bias
+selection bias
+survivorship bias
+publication bias
+hindsight bias
+overconfidence
+dunning kruger effect
+impostor syndrome
+planning fallacy
+base rate neglect
+conjunction fallacy
+disjunction fallacy
+gambler fallacy
+hot hand fallacy
+regression to mean
+clustering illusion
+texas sharpshooter
+post hoc ergo propter hoc
+cum hoc ergo propter hoc
+correlation causation
+simpson paradox
+berkson paradox
+monty hall problem
+birthday paradox
+friendship paradox
+inspection paradox
+waiting time paradox
+boy or girl paradox
+two envelope problem
+st petersburg paradox
+allais paradox
+ellsberg paradox
+newcomb paradox
+prisoner dilemma
+tragedy of commons
+free rider problem
+collective action problem
+social dilemma
+coordination game
+chicken game
+battle of sexes
+stag hunt
+ultimatum game
+dictator game
+public goods game
+trust game
+gift exchange
+experimental economics
+behavioral economics
+neuroeconomics
+decision theory
+expected utility theory
+prospect theory
+regret theory
+rank dependent utility
+cumulative prospect theory
+behavioral finance
+anomaly
+market efficiency
+efficient market hypothesis
+random walk
+martingale
+arbitrage
+risk neutral measure
+black scholes
+binomial model
+monte carlo
+finite difference
+partial differential equation
+stochastic calculus
+ito lemma
+brownian motion
+geometric brownian motion
+mean reversion
+jump diffusion
+levy process
+stable distribution
+fat tail
+extreme value theory
+value at risk
+expected shortfall
+conditional value at risk
+coherent risk measure
+copula
+dependence
+correlation
+tail dependence
+extreme dependence
+contagion
+systemic risk
+too big to fail
+moral hazard
+adverse selection
+principal agent
+asymmetric information
+signaling
+screening
+mechanism design
+auction theory
+game theory
+nash equilibrium
+subgame perfect equilibrium
+bayesian nash equilibrium
+perfect bayesian equilibrium
+evolutionary game theory
+replicator dynamics
+evolutionarily stable strategy
+kin selection
+group selection
+multilevel selection
+cooperation
+altruism
+reciprocity
+punishment
+reputation
+social norm
+institution
+culture
+evolution
+gene culture coevolution
+dual inheritance theory
+cultural evolution
+meme
+memetics
+cultural transmission
+social learning
+imitation
+teaching
+communication
+language
+syntax
+semantics
+pragmatics
+phonology
+morphology
+lexicon
+grammar
+universal grammar
+language acquisition
+critical period
+bilingualism
+multilingualism
+code switching
+pidgin
+creole
+sign language
+writing system
+literacy
+numeracy
+cognitive science
+artificial intelligence
+machine learning
+neural network
+cognitive psychology
+cognitive neuroscience
+computational neuroscience
+systems neuroscience
+molecular neuroscience
+cellular neuroscience
+developmental neuroscience
+social neuroscience
+affective neuroscience
+neuroeconomics
+neuromarketing
+neuroeducation
+neuroplasticity
+brain computer interface
+optogenetics
+chemogenetics
+calcium imaging
+electrophysiology
+fmri
+pet
+eeg
+meg
+nirs
+dti
+connectome
+brain atlas
+parcellation
+cytoarchitecture
+myeloarchitecture
+chemoarchitecture
+brodmann area
+cortical column
+laminar organization
+retinotopy
+tonotopy
+somatotopy
+visual cortex
+auditory cortex
+somatosensory cortex
+motor cortex
+prefrontal cortex
+parietal cortex
+temporal cortex
+occipital cortex
+cingulate cortex
+insular cortex
+hippocampus
+amygdala
+basal ganglia
+thalamus
+hypothalamus
+brainstem
+cerebellum
+spinal cord
+peripheral nervous system
+autonomic nervous system
+sympathetic
+parasympathetic
+enteric
+neuron
+axon
+dendrite
+synapse
+neurotransmitter
+action potential
+membrane potential
+ion channel
+pump
+transporter
+receptor
+metabotropic
+ionotropic
+neuromodulator
+dopamine
+serotonin
+norepinephrine
+acetylcholine
+gaba
+glutamate
+glycine
+adenosine
+histamine
+orexin
+neuropeptide
+hormone
+endocrine
+paracrine
+autocrine
+growth factor
+cytokine
+chemokine
+interleukin
+interferon
+tumor necrosis factor
+transforming growth factor
+nerve growth factor
+brain derived neurotrophic factor
+glial cell line derived neurotrophic factor
+insulin like growth factor
+epidermal growth factor
+fibroblast growth factor
+platelet derived growth factor
+vascular endothelial growth factor
+angiopoietin
+erythropoietin
+thrombopoietin
+colony stimulating factor
+stem cell factor
+flt3 ligand
+stem cell
+pluripotent
+multipotent
+embryonic stem cell
+induced pluripotent stem cell
+mesenchymal stem cell
+hematopoietic stem cell
+neural stem cell
+cancer stem cell
+organoid
+spheroid
+organ on chip
+tissue engineering
+regenerative medicine
+gene therapy
+cell therapy
+immunotherapy
+precision medicine
+personalized medicine
+pharmacogenomics
+companion diagnostic
+theranostics
+nanomedicine
+drug delivery
+controlled release
+sustained release
+immediate release
+modified release
+extended release
+delayed release
+enteric coating
+film coating
+sugar coating
+compression coating
+fluid bed coating
+spray drying
+lyophilization
+freeze drying
+microencapsulation
+nanoencapsulation
+liposome
+micelle
+nanoparticle
+microparticle
+microsphere
+nanosphere
+nanocapsule
+microcapsule
+hydrogel
+scaffold
+matrix
+implant
+device
+stent
+catheter
+pacemaker
+defibrillator
+cochlear implant
+artificial heart
+ventricular assist device
+dialysis
+hemodialysis
+peritoneal dialysis
+plasmapheresis
+extracorporeal membrane oxygenation
+heart lung machine
+artificial lung
+bioartificial liver
+artificial kidney
+artificial pancreas
+continuous glucose monitor
+insulin pump
+closed loop
+artificial retina
+brain computer interface
+neural prosthetic
+deep brain stimulation
+vagus nerve stimulation
+transcranial magnetic stimulation
+transcranial direct current stimulation
+electroconvulsive therapy
+transcranial focused ultrasound
+photobiomodulation
+low level laser therapy
+hyperbaric oxygen
+ozone therapy
+chelation therapy
+stem cell therapy
+platelet rich plasma
+prolotherapy
+viscosupplementation
+botulinum toxin
+dermal filler
+chemical peel
+laser resurfacing
+radiofrequency
+ultrasound
+cryotherapy
+thermotherapy
+photodynamic therapy
+radiation therapy
+stereotactic radiosurgery
+gamma knife
+cyberknife
+proton therapy
+heavy ion therapy
+boron neutron capture therapy
+radioimmunotherapy
+peptide receptor radionuclide therapy
+selective internal radiation therapy
+hyperthermia
+cryoablation
+radiofrequency ablation
+microwave ablation
+high intensity focused ultrasound
+irreversible electroporation
+stereotactic body radiation therapy
+intensity modulated radiation therapy
+image guided radiation therapy
+adaptive radiation therapy
+particle therapy
+carbon ion therapy
+neutron therapy
+alpha particle therapy
+targeted alpha therapy
+radiopharmaceutical
+radiolabeled
+radiotracer
+positron emission tomography
+single photon emission computed tomography
+hybrid imaging
+pet ct
+pet mri
+spect ct
+molecular imaging
+optical imaging
+fluorescence imaging
+bioluminescence imaging
+photoacoustic imaging
+ultrasound imaging
+magnetic resonance imaging
+computed tomography
+cone beam computed tomography
+digital radiography
+mammography
+bone densitometry
+nuclear medicine
+scintigraphy
+gamma camera
+anger camera
+spect
+pet
+cyclotron
+linear accelerator
+cobalt 60
+cesium 137
+iridium 192
+iodine 125
+palladium 103
+radium 226
+radon 222
+technetium 99m
+fluorine 18
+carbon 11
+nitrogen 13
+oxygen 15
+gallium 68
+copper 64
+zirconium 89
+yttrium 90
+lutetium 177
+actinium 225
+radium 223
+thorium 227
+bismuth 213
+astatine 211
+dosimetry
+absorbed dose
+equivalent dose
+effective dose
+committed dose
+collective dose
+dose rate
+exposure
+air kerma
+kerma
+linear energy transfer
+relative biological effectiveness
+radiation weighting factor
+tissue weighting factor
+dose limit
+alara
+as low as reasonably achievable
+optimization
+justification
+radiation protection
+shielding
+time
+distance
+activity
+half life
+decay constant
+radioactive decay
+alpha decay
+beta decay
+gamma decay
+electron capture
+internal conversion
+branching ratio
+secular equilibrium
+transient equilibrium
+no equilibrium
+radioactive series
+decay chain
+parent
+daughter
+granddaughter
+radionuclide
+radioisotope
+stable isotope
+isotopic abundance
+mass number
+atomic number
+neutron number
+nuclear reaction
+fission
+fusion
+activation
+transmutation
+cross section
+neutron flux
+reaction rate
+critical mass
+criticality
+chain reaction
+moderator
+control rod
+fuel rod
+reactor core
+containment
+cooling system
+emergency core cooling
+loss of coolant accident
+meltdown
+containment breach
+release
+atmospheric release
+aquatic release
+contamination
+decontamination
+cleanup
+remediation
+waste management
+low level waste
+intermediate level waste
+high level waste
+transuranic waste
+spent fuel
+reprocessing
+vitrification
+geological disposal
+deep geological repository
+near surface disposal
+storage
+interim storage
+long term storage
+permanent disposal
+waste isolation
+engineered barrier
+natural barrier
+multiple barrier
+defense in depth
+quality assurance
+safety culture
+safety case
+probabilistic safety assessment
+deterministic safety assessment
+beyond design basis
+severe accident
+emergency response
+evacuation
+shelter in place
+potassium iodide
+prussian blue
+dtpa
+emergency planning zone
+ingestion pathway
+inhalation pathway
+external exposure
+internal exposure
+bioassay
+whole body counting
+thyroid monitoring
+lung counting
+urine analysis
+fecal analysis
+breath analysis
+nasal smear
+wound monitoring
+contamination monitoring
+area monitoring
+personnel monitoring
+environmental monitoring
+effluent monitoring
+stack monitoring
+liquid discharge
+gaseous discharge
+environmental surveillance
+food monitoring
+milk monitoring
+water monitoring
+soil monitoring
+vegetation monitoring
+wildlife monitoring
+dose assessment
+pathway analysis
+exposure scenario
+critical group
+representative person
+reference person
+standard man
+reference man
+icrp
+international commission
+radiological protection
+nuclear regulatory commission
+international atomic energy agency
+world health organization
+united nations
+scientific committee
+atomic radiation
+national council
+radiation protection
+health physics
+medical physics
+nuclear medicine
+radiation oncology
+diagnostic radiology
+interventional radiology
+nuclear engineering
+reactor physics
+nuclear fuel cycle
+uranium mining
+uranium enrichment
+fuel fabrication
+reactor operation
+spent fuel management
+waste disposal
+decommissioning
+site restoration
+legacy waste
+orphan source
+lost source
+stolen source
+malicious use
+radiological dispersal device
+dirty bomb
+nuclear terrorism
+nuclear security
+nuclear safeguards
+non proliferation
+comprehensive test ban treaty
+nuclear weapon
+thermonuclear weapon
+fission weapon
+fusion weapon
+boosted fission weapon
+nuclear explosive device
+improvised nuclear device
+highly enriched uranium
+weapons grade plutonium
+special nuclear material
+category i
+category ii
+category iii
+physical protection
+detection
+identification
+interdiction
+response
+nuclear forensics
+attribution
+isotopic signature
+age dating
+origin determination
+pathway reconstruction

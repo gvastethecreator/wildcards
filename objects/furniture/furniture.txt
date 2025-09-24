@@ -1,0 +1,20 @@
+sofa
+armchair
+recliner
+ottoman
+coffee table
+dining table
+desk
+chair
+stool
+bookshelf
+wardrobe
+dresser
+nightstand
+bed
+mattress
+headboard
+mirror
+lamp
+chandelier
+ceiling fan

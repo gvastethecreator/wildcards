@@ -1,0 +1,20 @@
+elemental magic
+divine magic
+arcane magic
+nature magic
+blood magic
+runic magic
+alchemy
+necromancy
+illusion magic
+enchantment
+transmutation
+divination
+evocation
+conjuration
+abjuration
+psionics
+technomancy
+chaos magic
+wild magic
+ritual magic

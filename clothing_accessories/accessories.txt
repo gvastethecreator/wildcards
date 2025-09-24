@@ -1,0 +1,135 @@
+necklace
+pendant
+chain
+choker
+pearl necklace
+gold necklace
+silver necklace
+diamond necklace
+statement necklace
+delicate necklace
+locket
+cross necklace
+earrings
+stud earrings
+hoop earrings
+drop earrings
+chandelier earrings
+dangly earrings
+gold earrings
+silver earrings
+diamond earrings
+pearl earrings
+bracelet
+charm bracelet
+tennis bracelet
+gold bracelet
+silver bracelet
+leather bracelet
+beaded bracelet
+watch
+smartwatch
+ring
+wedding ring
+engagement ring
+class ring
+cocktail ring
+statement ring
+simple ring
+gold ring
+silver ring
+diamond ring
+gemstone ring
+signet ring
+pinky ring
+thumb ring
+nose ring
+eyebrow piercing
+lip piercing
+tongue piercing
+ear piercing
+multiple piercings
+sunglasses
+reading glasses
+designer glasses
+vintage glasses
+cat-eye glasses
+round glasses
+square glasses
+aviator sunglasses
+wayfarer sunglasses
+oversized sunglasses
+mirrored sunglasses
+tinted glasses
+clear glasses
+no glasses
+contact lenses
+scarf
+silk scarf
+wool scarf
+infinity scarf
+pashmina
+shawl
+wrap
+cape
+poncho
+belt
+leather belt
+chain belt
+fabric belt
+wide belt
+thin belt
+statement belt
+buckle belt
+no belt
+bag
+handbag
+purse
+clutch
+tote bag
+crossbody bag
+backpack
+messenger bag
+satchel
+briefcase
+duffel bag
+gym bag
+laptop bag
+camera bag
+designer bag
+vintage bag
+leather bag
+canvas bag
+no bag
+wallet
+phone case
+keychain
+hair accessories
+hair clip
+hair tie
+scrunchie
+bobby pins
+barrettes
+headband
+hair bow
+flower crown
+makeup
+lipstick
+mascara
+eyeliner
+eyeshadow
+blush
+foundation
+nail polish
+perfume
+cologne
+temporary tattoos
+body jewelry
+ankle bracelet
+toe ring
+charm
+brooch
+pin
+badge
+patches
+buttons

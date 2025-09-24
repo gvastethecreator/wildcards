@@ -1,0 +1,163 @@
+screen readers
+voice control
+eye tracking
+head tracking
+switch controls
+joystick navigation
+mouth stick typing
+breath controls
+sip-and-puff devices
+foot switches
+chin controls
+tongue switches
+brain-computer interfaces
+electromyography controls
+gesture recognition
+motion sensors
+proximity sensors
+pressure sensors
+tactile feedback
+haptic interfaces
+vibrotactile displays
+ultrasonic haptics
+force feedback
+tactile substitution
+sensory substitution
+visual-to-tactile conversion
+audio-to-tactile conversion
+cochlear implants
+bone anchored hearing aids
+personal amplification devices
+assistive listening systems
+induction loops
+FM systems
+infrared systems
+captioning services
+real-time captioning
+automatic speech recognition
+sign language interpretation
+video relay services
+text relay services
+voice carry over
+hearing carry over
+speech generating devices
+communication apps
+symbol-based communication
+picture exchange systems
+augmentative alternative communication
+high-tech AAC
+low-tech AAC
+dedicated speech devices
+tablet-based AAC
+smartphone AAC
+eye-gaze systems
+partner-assisted scanning
+row-column scanning
+group-item scanning
+linear scanning
+inverse scanning
+step scanning
+automatic scanning
+switch-activated scanning
+voice recognition
+speaker identification
+voice banking
+message banking
+text-to-speech synthesis
+neural voice synthesis
+expressive speech synthesis
+multilingual synthesis
+emotion-aware synthesis
+prosody modeling
+speech rate adjustment
+pitch modification
+volume control
+voice effects
+speech clarity
+articulation training
+pronunciation practice
+accent reduction
+fluency therapy
+stuttering therapy
+voice therapy
+respiratory therapy
+swallowing therapy
+cognitive rehabilitation
+memory training
+attention training
+executive function
+problem-solving
+reasoning skills
+processing speed
+working memory
+long-term memory
+semantic memory
+episodic memory
+procedural memory
+metamemory
+prospective memory
+retrospective memory
+memory strategies
+mnemonics
+elaborative rehearsal
+maintenance rehearsal
+organization strategies
+categorization
+chunking
+association
+visualization
+method of loci
+keyword method
+peg word system
+story method
+acronym creation
+acrostic devices
+rhyme schemes
+rhythm patterns
+melody aids
+music therapy
+art therapy
+drama therapy
+dance therapy
+play therapy
+animal therapy
+equine therapy
+canine therapy
+dolphin therapy
+nature therapy
+horticultural therapy
+wilderness therapy
+adventure therapy
+outdoor therapy
+recreational therapy
+sports therapy
+aquatic therapy
+hydrotherapy
+cryotherapy
+thermotherapy
+electrotherapy
+ultrasound therapy
+laser therapy
+magnetic therapy
+acupuncture
+acupressure
+massage therapy
+chiropractic
+osteopathy
+physical therapy
+occupational therapy
+speech therapy
+respiratory therapy
+cardiac rehabilitation
+pulmonary rehabilitation
+neurological rehabilitation
+stroke rehabilitation
+traumatic brain injury
+spinal cord injury
+amputation rehabilitation
+joint replacement
+fracture rehabilitation
+burn rehabilitation
+cancer rehabilitation
+pediatric rehabilitation
+geriatric rehabilitation

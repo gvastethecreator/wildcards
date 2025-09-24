@@ -1,0 +1,49 @@
+CPU
+GPU
+TPU
+NPU
+FPGA
+ASIC
+Motherboard
+RAM
+SSD
+HDD
+Power supply
+Cooling system
+Air cooling
+Liquid cooling
+Heat pipes
+Heatsink
+Thermal paste
+Fan curve
+Overclocking
+Undervolting
+Case airflow
+PCIe bus
+NVMe storage
+SATA interface
+USB-C
+Thunderbolt
+HDMI
+DisplayPort
+Ethernet
+Wi-Fi 6E
+Bluetooth 5.3
+Router
+Switch
+Firewall
+NAS
+Server rack
+Blade server
+Edge device
+IoT gateway
+Microcontroller
+Raspberry Pi
+Arduino
+Sensor array
+Lidar
+Radar
+Camera module
+IMU
+GPS
+Antenna

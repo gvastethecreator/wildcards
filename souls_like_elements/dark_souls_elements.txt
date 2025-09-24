@@ -1,0 +1,1284 @@
+estus flask
+bonfire
+soul
+humanity
+ember
+tarnished
+maidenless
+grace
+rune
+blood echoes
+insight
+blood vial
+quicksilver bullet
+bold hunter's mark
+hunter's mark
+madman's knowledge
+great one's wisdom
+pebble
+bloodstone shard
+twin bloodstone shard
+bloodstone chunk
+blood rock
+ritual blood
+tomb mold
+nightmare vortex
+frenzied coldblood
+kin coldblood
+arcane haze
+sage's hair
+yellow backbone
+red jelly
+blue elixir
+lead elixir
+beast blood pellet
+fire paper
+bolt paper
+empty phantasm shell
+bone marrow ash
+shining coins
+pungent blood cocktail
+molotov cocktail
+rope molotov cocktail
+oil urn
+numbing mist
+poison knife
+throwing knife
+poison dart
+sedative
+antidote
+tear stone
+blue tearstone ring
+red tearstone ring
+ring of favor and protection
+havel's ring
+wolf ring
+steel protection ring
+speckled stoneplate ring
+flame stoneplate ring
+thunder stoneplate ring
+magic stoneplate ring
+cursebite ring
+bloodbite ring
+poisonbite ring
+rare ring of sacrifice
+ring of sacrifice
+darkmoon blade covenant ring
+princess guard covenant ring
+chaos servant covenant ring
+forest hunter covenant ring
+blade of the darkmoon
+warriors of sunlight
+chaos servant
+forest hunter covenant
+princess guard
+gravelord servant
+path of the dragon
+darkwraith
+sunlight maggot
+crystal lizard
+mimic
+chest
+illusory wall
+fog gate
+white sign soapstone
+red sign soapstone
+orange guidance soapstone
+prism stone
+dried finger
+cracked red eye orb
+red eye orb
+black separation crystal
+homeward bone
+darksign
+pendant
+peculiar doll
+lordvessel
+orange charred ring
+covenant of artorias
+rusted iron ring
+hawk ring
+hornet ring
+leo ring
+ring of the evil eye
+cloranthy ring
+ring of steel protection
+tiny being's ring
+old witch's ring
+bellowing dragoncrest ring
+dusk crown ring
+seance ring
+white seance ring
+slumbering dragoncrest ring
+lingering dragoncrest ring
+dragoncrest shield
+silver knight shield
+black knight shield
+tower kite shield
+hollow soldier shield
+wooden shield
+plank shield
+leather shield
+buckler
+target shield
+small leather shield
+crystal ring shield
+pierce shield
+spiked shield
+iron round shield
+warrior's round shield
+caduceus round shield
+red and white round shield
+bonewheel shield
+sanctus
+bloodshield
+spider shield
+grass crest shield
+knight shield
+tower shield
+giant's shield
+stone greatshield
+eagle shield
+silver knight spear
+partizan
+winged spear
+spear
+pike
+demon's spear
+channeler's trident
+dragonslayer spear
+moonlight butterfly horn
+gargoyle tail axe
+golem axe
+dragon king greataxe
+demon's greataxe
+black knight greataxe
+greataxe
+large club
+great club
+demon's great hammer
+dragon tooth
+grant
+smough's hammer
+gargoyle tail hammer
+reinforced club
+club
+mace
+morning star
+pickaxe
+reinforced club
+winged spear
+halberd
+gargoyle's halberd
+giant's halberd
+black knight halberd
+lifehunt scythe
+great scythe
+scythe
+falchion
+painting guardian sword
+balder side sword
+longsword
+broad sword
+broken straight sword
+straight sword hilt
+drake sword
+astora's straight sword
+sunlight straight sword
+darksword
+silver knight straight sword
+barbed straight sword
+crystal straight sword
+shortsword
+thrusting sword
+estoc
+rapier
+ricard's rapier
+mail breaker
+velka's rapier
+crystal ring shield
+parrying dagger
+ghost blade
+bandit's knife
+priscilla's dagger
+dark silver tracer
+gold tracer
+uchigatana
+iaito
+washing pole
+chaos blade
+furysword
+quelaag's furysword
+server
+murakumo
+great lord greatsword
+black knight sword
+silver knight sword
+astora's straight sword
+crystal straight sword
+moonlight greatsword
+greatsword of artorias
+greatsword of artorias (cursed)
+abyss greatsword
+sword of the giants
+flamberge
+claymore
+bastard sword
+man-serpent greatsword
+stone greatsword
+greatsword
+zweihander
+demon great machete
+dragon greatsword
+black knight greatsword
+pursuer's ultra greatsword
+cathedral knight greatsword
+demon's scar
+gargoyle flame spear
+gargoyle flame hammer
+crystal sage's rapier
+dancer's enchanted swords
+dragonslayer greataxe
+yhorm's great machete
+storm ruler
+firelink greatsword
+twin princes' greatsword
+lothric's holy sword
+lorian's greatsword
+hollowslayer greatsword
+dark sword
+anri's straight sword
+astora greatsword
+greatsword of judgment
+profaned greatsword
+cathedral knight sword
+irithyll straight sword
+irithyll rapier
+pontiff knight curved sword
+pontiff knight great scythe
+aldrich's sapphire
+aldrich's ruby
+soul of cinder
+soul of the nameless king
+soul of aldrich
+soul of yhorm
+soul of the twin princes
+soul of champion gundyr
+soul of the deacons of the deep
+soul of the crystal sage
+soul of the abyss watchers
+soul of the rotted greatwood
+soul of vordt
+soul of the dancer
+soul of dragonslayer armor
+soul of oceiros
+soul of consumed king oceiros
+soul of lothric prince
+soul of lorian prince
+soul of sister friede
+soul of champion's gravetender
+soul of demon prince
+soul of slave knight gael
+soul of darkeater midir
+soul of pontiff sulyvahn
+bonfires
+lordran
+drangleic
+lothric
+kiln of the first flame
+firelink shrine
+majula
+things betwixt
+forest of fallen giants
+heide's tower of flame
+no man's wharf
+lost bastille
+huntsman's copse
+harvest valley
+earthen peak
+iron keep
+shaded woods
+doors of pharros
+brightstone cove tseldora
+drangleic castle
+shrine of amana
+undead crypt
+aldia's keep
+dragon aerie
+dragon shrine
+memory of jeigh
+memory of vammar
+memory of orro
+anor londo
+undead burg
+undead parish
+depths
+blighttown
+sen's fortress
+painted world of ariamis
+new londo ruins
+valley of drakes
+darkroot garden
+darkroot basin
+royal wood
+oolacile township
+chasm of the abyss
+demon ruins
+izalith
+lost izalith
+crystal cave
+ash lake
+great hollow
+northern undead asylum
+kiln of the first flame
+cemetery of ash
+high wall of lothric
+undead settlement
+road of sacrifices
+crucifixion woods
+cathedral of the deep
+farron keep
+catacombs of carthus
+smouldering lake
+irithyll of the boreal valley
+irithyll dungeon
+profaned capital
+anor londo
+lothric castle
+consumed king's garden
+untended graves
+grand archives
+archdragon peak
+kiln of the first flame
+painted world of ariandel
+corvian settlement
+ariandel chapel
+snowy mountain pass
+depths of the painting
+dreg heap
+earthen peak ruins
+ringed inner wall
+ringed city streets
+shared grave
+ringed city
+filianore's rest
+central yharnam
+old yharnam
+cathedral ward
+hemwick charnel lane
+forbidden woods
+byrgenwerth
+yahar'gul unseen village
+hypogean gaol
+cainhurst castle
+nightmare frontier
+nightmare of mensis
+hunter's dream
+hunter's nightmare
+research hall
+fishing hamlet
+astral clocktower
+living failures arena
+ludwig's arena
+lady maria's arena
+orphan of kos arena
+laurence's arena
+gehrman's arena
+moon presence arena
+limgrave
+caelid
+liurnia of the lakes
+altus plateau
+leyndell royal capital
+mountaintops of the giants
+consecrated snowfield
+crumbling farum azula
+mohgwyn palace
+siofra river
+ainsel river
+deeproot depths
+lake of rot
+nokron eternal city
+nokstella eternal city
+haligtree
+elphael brace of the haligtree
+academy gate town
+raya lucaria academy
+volcano manor
+gelmir hero's grave
+sainted hero's grave
+giant-conquering hero's grave
+auriza hero's grave
+leyndell catacombs
+caelid catacombs
+war-dead catacombs
+minor erdtree catacombs
+cliffbottom catacombs
+wyndham catacombs
+black knife catacombs
+unsightly catacombs
+road's end catacombs
+murkwater catacombs
+tombsward catacombs
+impaler's catacombs
+stormfoot catacombs
+deathtouched catacombs
+limgrave tunnels
+morne tunnel
+caelid dragonbarrow
+sellia crystal tunnel
+gael tunnel
+sealed tunnel
+abandoned cave
+coastal cave
+highroad cave
+murkwater cave
+groveside cave
+stillwater cave
+lakeside crystal cave
+academy crystal cave
+seethewater cave
+volcano cave
+perfumer's grotto
+sage's cave
+spiritcaller's cave
+tombsward cave
+earthbore cave
+gaol cave
+caelam ruins
+forlorn hound evergaol
+forlorn hound
+crucible knight
+erdtree avatar
+tree sentinel
+night's cavalry
+death rite bird
+tibia mariner
+flying dragon agheel
+elder dragon greyoll
+ancient dragon lansseax
+borealis the freezing fog
+adula carian royal knight
+glintstone dragon smarag
+glintstone dragon adula
+dragonlord placidusax
+lichdragon fortissax
+astel naturalborn of the void
+astel stars of darkness
+fallingstar beast
+full-grown fallingstar beast
+red wolf of radagon
+rennala queen of the full moon
+royal knight loretta
+loretta knight of the haligtree
+godrick the grafted
+margit the fell omen
+morgott the omen king
+mohg lord of blood
+radahn starscourge general
+malenia blade of miquella
+godfrey first elden lord
+hoarah loux warrior
+radagon of the golden order
+elden beast
+fire giant
+godskin duo
+godskin noble
+godskin apostle
+crucible knight ordovis
+crucible knight siluria
+ancient hero of zamor
+beastman of farum azula
+dragonkin soldier
+dragonkin soldier of nokstella
+valiant gargoyle
+gargoyle twinblade
+cemetery shade
+putrid avatar
+ulcerated tree spirit
+erdtree burial watchdog
+crucible knight duo
+misbegotten warrior
+leonine misbegotten
+perfumer tricia
+omenkiller
+miranda the blighted bloom
+bloodhound knight darriwil
+mad pumpkin head
+stonedigger troll
+grave warden duelist
+cleanrot knight
+kindred of rot
+rotten stray
+giant crayfish
+giant lobster
+giant octopus
+giant squid
+runebear
+giant bat
+giant rat
+giant dog
+giant crow
+giant hand
+fingercreeper
+grafted scion
+soldier of godrick
+godrick soldier
+raya lucaria soldier
+leyndell soldier
+redmane soldier
+cleanrot soldier
+haligtree soldier
+fire monk
+blackflame monk
+guardian golem
+crystal snail
+crystal maiden
+albinauric
+perfumer
+noble sorcerer
+glintstone sorcerer
+carian knight
+cuckoo knight
+twinsage sorcerer
+battlemage hugues
+preceptor miriam
+sorcerer rogier
+sorceress sellen
+azur comet sorcerer
+lusat stars sorcerer
+gideon ofnir the all-knowing
+sir gideon ofnir
+fia deathbed companion
+dung eater
+goldmask
+corhyn brother
+millicent
+hyetta
+irina of morne
+edgar the revenger
+boc the seamster
+roderika spirit tuner
+hewg master smith
+ranni the witch
+blaidd half-wolf
+alexander iron fist
+diallos hoslow
+nepheli loux
+kenneth haight
+thops sorcerer
+miriel pastor of vows
+turtle pope
+iron fist alexander
+jar bairn
+patches the untethered
+rya serpent scout
+tanith volcano manor
+bernahl recusant knight
+zoryas volcano manor
+knight bernahl
+diallos hoslow knight
+rykard lord of blasphemy
+eiglay serpent-god
+godwyn the golden
+miquella the unalloyed
+malenia rot goddess
+radahn festival
+starfall
+caelid wilds
+dragonbarrow west
+dragonbarrow east
+greyoll's dragonbarrow
+fort faroth
+redmane castle
+caelem ruins
+sellia town of sorcery
+street of sages ruins
+gowry's shack
+sellia hideaway
+sellia evergaol
+aeonia swamp
+heart of aeonia
+shaded castle
+cleanrot knights
+putrid crystalians
+commander o'neil
+putrid tree spirit
+kindred of rot pest
+giant dog
+rotten stray
+t-rex dog
+caelid dog
+scarlet rot
+rot essence
+aeonia flower
+rot god
+outer god of rot
+formless mother
+frenzied flame
+three fingers
+shabriri
+vyke knight of the roundtable
+hyetta frenzied maiden
+irina frenzied maiden
+frenzied village
+frenzied burst
+frenzied flame seal
+inescapable frenzy
+howl of shabriri
+flame of frenzy
+madness
+frenzy buildup
+yellow flame
+chaos flame
+unalloyed gold
+miquella's needle
+malenia's waterfowl dance
+scarlet aeonia
+rot breath
+ekzykes's decay
+cleanrot spear
+winged scythe
+scorpion's stinger
+venomous fang
+mushroom crown
+mushroom armor
+miranda flower
+rot pods
+kindred of rot
+pest threads
+rot grease
+preserving boluses
+neutralizing boluses
+clarifying boluses
+stimulating boluses
+exalted flesh
+raw meat dumpling
+boiled crab
+boiled prawn
+pickled turtle neck
+rowa fruit
+sweet rowa
+rimed rowa
+gold-pickled fowl foot
+silver-pickled fowl foot
+arteria leaf
+grave violet
+root resin
+nascent butterfly
+aeonian butterfly
+smoldering butterfly
+rising butterfly
+faded erdleaf flower
+erdleaf flower
+altus bloom
+miranda powder
+trina's lily
+dewkissed herba
+herba
+poisonbloom
+budding horn
+beast bone
+thin beast bones
+hefty beast bones
+budding cave moss
+cave moss
+crystal cave moss
+string
+thin string
+drawstring
+fetid pot
+roped pot
+oil pot
+fire pot
+redmane fire pot
+giantsflame fire pot
+sleep pot
+poison pot
+rot pot
+freezing pot
+lightning pot
+holy water pot
+rancor pot
+volcano pot
+alluring pot
+bewitching branch
+stanching boluses
+crimson tears
+crimson crystal tears
+cerulean tears
+cerulean crystal tears
+flask of crimson tears
+flask of cerulean tears
+sacred tear
+golden seed
+memory stone
+sorcery scroll
+incantation prayerbook
+ash of war
+spirit ash
+spirit calling bell
+torrent spectral steed
+spectral steed whistle
+lantern
+twinblade talisman
+claw talisman
+axe talisman
+hammer talisman
+spear talisman
+dagger talisman
+curved sword talisman
+straight sword talisman
+colossal sword talisman
+great sword talisman
+thrusting sword talisman
+heavy load talisman
+medium load talisman
+light load talisman
+arsenal charm
+great-jar's arsenal
+radagon's scarseal
+radagon's soreseal
+marika's scarseal
+marika's soreseal
+crimson amber medallion
+cerulean amber medallion
+viridian amber medallion
+crimson seed talisman
+cerulean seed talisman
+blessed dew talisman
+taker's cameo
+godskin swaddling cloth
+ancestral spirit's horn
+kindred of rot's exultation
+lord of blood's exultation
+rotten winged sword insignia
+winged sword insignia
+millicent's prosthesis
+prosthesis-wearer heirloom
+warrior jar shard
+shard of alexander
+perfumer's talisman
+flamedrake talisman
+boltdrake talisman
+haligdrake talisman
+pearldrake talisman
+dragoncrest shield talisman
+dragoncrest greatshield talisman
+spelldrake talisman
+immunizing horn charm
+stalwart horn charm
+clarifying horn charm
+prince of death's pustule
+prince of death's cyst
+mottled necklace
+longtail cat talisman
+assassin's cerulean dagger
+assassin's crimson dagger
+green turtle talisman
+stargazer heirloom
+two fingers heirloom
+silver scarab
+gold scarab
+moon of nokstella
+crepus's vial
+albinauric mask
+silver tear mask
+juvenile scholar cap
+glintstone crowns
+olivinus glintstone crown
+lazuli glintstone crown
+haima glintstone crown
+karolos glintstone crown
+witch's glintstone crown
+hierodas glintstone crown
+night's cavalry helm
+bloodhound knight helm
+crucible knight helm
+tree sentinel helm
+cleanrot helm
+haligtree helm
+godrick soldier helm
+raya lucaria soldier helm
+leyndell soldier helm
+redmane knight helm
+cuckoo knight helm
+gelmir knight helm
+tree-and-beast surcoat
+knight armor
+chain armor
+scale armor
+banished knight armor
+cleanrot armor
+crucible knight armor
+tree sentinel armor
+bloodhound knight armor
+night's cavalry armor
+haligtree knight armor
+godrick knight armor
+leyndell knight armor
+carian knight armor
+raya lucaria robe
+alberich's robe
+azur's glintstone robe
+lusat's robe
+snow witch robe
+traveling maiden robe
+perfumer robe
+aristocrat coat
+noble's traveling garb
+preceptor's big hat
+imp head gargoyle
+silver tear mask
+jar
+fingerprint stone shield
+eclipse crest heater shield
+brass shield
+red thorn roundshield
+scripture wooden shield
+riveted wooden shield
+blue-white wooden shield
+rift shield
+manor towershield
+crossed-tree towershield
+inverted hawk towershield
+hawk crest wooden shield
+large leather shield
+leather shield
+studded leather shield
+iron roundshield
+gilded iron shield
+perfumer's shield
+smoldering shield
+carian knight's shield
+albinauric shield
+jellyfish shield
+spiralhorn shield
+coil shield
+golden greatshield
+manor greatshield
+crucible hornshield
+dragonclaw shield
+briar greatshield
+erdtree greatshield
+haligtree crest surcoat
+elden lord crown
+godfrey icon
+radagon icon
+marika's hammer
+sacred relic sword
+elden remembrance
+remembrance of the grafted
+remembrance of the full moon queen
+remembrance of the starscourge
+remembrance of the blasphemous
+remembrance of the blood lord
+remembrance of the naturalborn
+remembrance of the rot goddess
+remembrance of hoarah loux
+remembrance of the elden beast
+great rune of godrick
+great rune of radahn
+great rune of rykard
+great rune of mohg
+great rune of malenia
+great rune of rennala
+unborn great rune
+phantom great rune
+rune arc
+lord's rune
+hero's rune
+golden rune
+numen's rune
+soldier's rune
+turtle neck meat
+crab eggs
+prawns
+arteria leaves
+gold firefly
+silver firefly
+crystal tears
+wondrous physick
+flask of wondrous physick
+mixed physick
+opaline bubbletear
+crimsonspill crystal tear
+ceruleanspill crystal tear
+greenspill crystal tear
+leaden hardtear
+twiggy cracked tear
+crimsonburst crystal tear
+ceruleanburst crystal tear
+greenburst crystal tear
+strength-knot crystal tear
+dexterity-knot crystal tear
+intelligence-knot crystal tear
+faith-knot crystal tear
+opaline hardtear
+stonebark cracked tear
+speckled hardtear
+magic-shrouding cracked tear
+flame-shrouding cracked tear
+lightning-shrouding cracked tear
+holy-shrouding cracked tear
+purifying crystal tear
+prattling pate you're beautiful
+prattling pate please help
+prattling pate thank you
+prattling pate wonderful
+prattling pate let's get to it
+prattling pate my beloved
+prattling pate hello
+lantern torch
+steel-wire torch
+ghostflame torch
+sentry's torch
+serpent-god's curved sword
+magma wyrm's scalesword
+grafted dragon
+dragon communion seal
+frenzied flame seal
+godslayer's seal
+giant's seal
+erdtree seal
+finger seal
+prince of death's staff
+death ritual spear
+eclipse shotel
+helphen's steeple
+sword of night and flame
+winged scythe
+halo scythe
+grave scythe
+cipher pata
+coded sword
+golden epitaph
+miquellan knight's sword
+sword of st. trina
+crystal sword
+carian glintblade staff
+staff of loss
+staff of the guilty
+carian glintstone staff
+meteorite staff
+demi-human queen's staff
+carian regal scepter
+renalla's full moon
+azur's comet
+comet azur
+stars of ruin
+rock sling
+glintstone pebble
+glintstone shard
+great glintstone shard
+comet
+glintstone cometshard
+swift glintstone shard
+glintstone arc
+glintstone stars
+star shower
+meteorite
+meteorite of astel
+collapsing stars
+gravity well
+radahn's rain
+founding rain of stars
+ranni's dark moon
+rennala's full moon
+loretta's greatbow
+loretta's mastery
+great oracular bubble
+magic glintblade
+carian greatsword
+adula's moonblade
+carian piercer
+gavel of haima
+rock blaster
+shatter earth
+gelmir's fury
+rykard's rancor
+flame of the fell god
+giant's flame take thee
+burn o flame!
+bloodflame talons
+bloodboon
+swarm of flies
+pest threads
+scarlet aeonia
+rot breath
+ekzykes's decay
+ancient dragons' lightning spear
+lansseax's glaive
+fortissax's lightning spear
+dragon ice
+borealis's mist
+dragonfire
+agheel's flame
+smarag's glintstone breath
+placidusax's ruin
+greyoll's roar
+flame grant me strength
+golden vow
+barrier of gold
+protection of the erdtree
+erdtree heal
+great heal
+heal
+urgent heal
+cure poison
+flame cleanse me
+order healing
+law of regression
+discus of light
+triple rings of light
+wrath of gold
+black blade
+destined death
+godslayer's greatsword
+black knife
+assassinate
+reduvia
+rivers of blood
+mohgwyn's sacred spear
+eleonora's poleblade
+bloodhound's fang
+blaidd's greatsword
+royal greatsword
+starscourge greatsword
+ruins greatsword
+giant-crusher
+prelate's inferno crozier
+watchdog's greatsword
+troll's golden sword
+golden halberd
+commander's standard
+nightrider glaive
+loretta's war sickle
+vulgar militia shotel
+crystal spear
+death ritual spear
+vyke's war spear
+serpent-hunter
+bolt of gransax
+envoy's longhorn
+envoy's horn
+envoy's greathorn
+horn bow
+erdtree bow
+longbow
+composite bow
+shortbow
+red branch shortbow
+misbegotten shortbow
+harp bow
+pulley bow
+black bow of pharis
+serpent bow
+albinauric bow
+greatbow
+golem greatbow
+lion greatbow
+radahn's rain
+mighty shot
+through and through
+sky shot
+rain of arrows
+barrage
+enchanted shot
+golden shot
+loretta's greatbow
+loretta's mastery
+great arrow
+golem's great arrow
+radahn's spear
+bone great arrow
+sleepbone arrow
+stormwing bone arrow
+spiritflame arrow
+magicbone arrow
+lightningbone arrow
+haligbone arrow
+bone arrow
+fire arrow
+serpent arrow
+st. trina's arrow
+bloodbone arrow
+rotbone arrow
+coldbone arrow
+poisonbone arrow
+kukri
+fan daggers
+crystal dart
+poisondart
+sleepbone dart
+st. trina's arrow
+bewitching branch
+soap
+ritual pot
+cracked pot
+perfume bottle
+uplifting aromatic
+ironjar aromatic
+bloodboil aromatic
+exalted flesh
+boiled crab
+boiled prawn
+pickled turtle neck
+rowa raisin
+sweet rowa
+rimed rowa
+strip of white flesh
+white-faced war paint
+silver-pickled fowl foot
+gold-pickled fowl foot
+exalted flesh
+invigorating white cured meat
+invigorating cured meat
+warming stone
+rainbow stone
+glowstone
+scriptstone
+grace mimic
+margit's shackle
+mohg's shackle
+mimic's veil
+host's trick-mirror
+furled finger's trick-mirror
+seedbed curse
+deathbed dress
+fia's mist
+elden stars
+law of regression
+golden order totality
+discus of light
+triple rings of light
+wrath of gold
+litany of proper death
+order's blade
+urgent heal
+great heal
+heal
+erdtree heal
+blessing's boon
+flame grant me strength
+protection of the erdtree
+golden vow
+barrier of gold
+lord's heal
+lord's aid
+assassin's approach
+darkness
+unseen blade
+unseen form
+scholar's shield
+magic weapon
+great magic weapon
+crystal magic weapon
+magic glintblade
+glintstone pebble
+glintstone shard
+great glintstone shard
+swift glintstone shard
+glintstone arc
+glintstone stars
+comet
+comet azur
+meteorite
+cannon of haima
+gavel of haima
+rock sling
+gravitas
+gravity well
+collapsing stars
+star shower
+meteorite of astel
+ancient death rancor
+tibia's summons
+explosive ghostflame
+black flame
+noble presence
+black flame ritual
+black flame blade
+scouring black flame
+bloodflame blade
+bloodflame talons
+bloodboon
+swarm of flies
+pest threads
+scarlet aeonia
+rot breath
+ekzykes's decay
+aspects of the crucible tail
+aspects of the crucible horn
+crucible horn
+dragonclaw
+dragonfire
+agheel's flame
+dragon ice
+borealis's mist
+smarag's glintstone breath
+greyoll's roar
+placidusax's ruin
+ancient dragons' lightning spear
+lansseax's glaive
+fortissax's lightning spear
+frozen lightning spear
+lightning spear
+honed bolt
+electrify armament
+vyke's dragonbolt
+dragon cult prayerbook
+fire monks' prayerbook
+giant's prayerbook
+dragon communion prayerbook
+ancient dragon prayerbook
+godslayer's prayerbook
+assassin's prayerbook
+two fingers' prayerbook
+golden order principia
+academy scroll
+royal house scroll
+conspiracy scroll
+raya lucaria scroll
+imbued sword key
+rusty key
+cemetery shade
+stonesword key
+ornamental straight sword
+weathered straight sword
+ornamental curved sword
+bloodstained dagger
+highland axe
+jawbone axe
+iron cleaver
+celebrant's sickle
+grave scythe
+winged scythe
+halo scythe
+bloodhound claws
+venomous fang
+caestus
+spiked caestus
+grafted dragon
+dragon communion seal
+clawmark seal
+giant's seal
+erdtree seal
+godslayer's seal
+frenzied flame seal
+prince of death's staff
+staff of the guilty
+carian glintstone staff
+academy glintstone staff
+crystal staff
+gelmir glintstone staff
+staff of loss
+meteorite staff
+carian regal scepter
+renalla's full moon
+lusat's glintstone staff
+azur's glintstone staff
+staff of the avatar
+prince of death's staff
+death ritual spear
+eclipse shotel

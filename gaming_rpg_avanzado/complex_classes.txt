@@ -1,0 +1,1735 @@
+artificer
+arcane trickster
+artillerist
+armorer
+battle smith
+alchemist
+chronurgy wizard
+divination wizard
+war magic wizard
+bladesinger
+graviturgy wizard
+scribes wizard
+enchantment wizard
+necromancy wizard
+circle of the moon druid
+circle of the land druid
+circle of dreams druid
+circle of the shepherd druid
+circle of spores druid
+circle of stars druid
+circle of wildfire druid
+circle of twilight druid
+echo knight
+eldritch knight
+psi warrior
+rune knight
+samurai
+champion
+battle master
+arcane archer
+banneret
+cavalier
+gunslinger
+great weapon master
+sharpshooter
+polearm master
+sentinel
+lucky
+observant
+ritual caster
+spell sniper
+war caster
+elemental adept
+metamagic adept
+fey touched
+shadow touched
+telekinetic
+telepathic
+crusher
+piercer
+slasher
+fighting initiate
+skill expert
+chef
+healer
+linguist
+actor
+alert
+athlete
+charger
+crossbow expert
+defensive duelist
+dual wielder
+dungeon delver
+durable
+fey touched
+grappler
+heavily armored
+heavy armor master
+inspiring leader
+keen mind
+lightly armored
+mage slayer
+magic initiate
+martial adept
+medium armor master
+mobile
+moderately armored
+mounted combatant
+observant
+resilient
+ritual caster
+savage attacker
+shield master
+skilled
+skulker
+spell sniper
+tavern brawler
+tough
+war caster
+weapon master
+aberrant mind sorcerer
+clockwork soul sorcerer
+divine soul sorcerer
+draconic bloodline sorcerer
+shadow magic sorcerer
+storm sorcery sorcerer
+wild magic sorcerer
+aberrant dragonmark
+dragonmark of detection
+dragonmark of finding
+dragonmark of handling
+dragonmark of healing
+dragonmark of hospitality
+dragonmark of making
+dragonmark of passage
+dragonmark of scribing
+dragonmark of sentinel
+dragonmark of shadow
+dragonmark of storm
+dragonmark of warding
+mark of death
+siberys dragonmark
+archfey warlock
+celestial warlock
+fathomless warlock
+fiend warlock
+genie warlock
+great old one warlock
+hexblade warlock
+undead warlock
+undying warlock
+dao genie
+djinni genie
+efreeti genie
+marid genie
+devotion paladin
+ancients paladin
+vengeance paladin
+crown paladin
+conquest paladin
+redemption paladin
+glory paladin
+watchers paladin
+oathbreaker paladin
+death domain cleric
+forge domain cleric
+grave domain cleric
+knowledge domain cleric
+life domain cleric
+light domain cleric
+nature domain cleric
+order domain cleric
+peace domain cleric
+tempest domain cleric
+trickery domain cleric
+twilight domain cleric
+war domain cleric
+arcana domain cleric
+city domain cleric
+moon domain cleric
+travel domain cleric
+college of creation bard
+college of eloquence bard
+college of glamour bard
+college of lore bard
+college of spirits bard
+college of swords bard
+college of valor bard
+college of whispers bard
+beast master ranger
+fey wanderer ranger
+gloom stalker ranger
+horizon walker ranger
+hunter ranger
+monster slayer ranger
+swarmkeeper ranger
+drakewarden ranger
+assassin rogue
+arcane trickster rogue
+inquisitive rogue
+mastermind rogue
+phantom rogue
+scout rogue
+soulknife rogue
+swashbuckler rogue
+thief rogue
+way of mercy monk
+way of shadow monk
+way of the four elements monk
+way of the kensei monk
+way of the long death monk
+way of the open hand monk
+way of the sun soul monk
+way of the astral self monk
+way of the drunken master monk
+ancestral guardian barbarian
+beast barbarian
+berserker barbarian
+storm herald barbarian
+totem warrior barbarian
+wild magic barbarian
+zealot barbarian
+battlerager barbarian
+giant barbarian
+juggernaut barbarian
+path of wild soul barbarian
+blood hunter
+lycan blood hunter
+mutant blood hunter
+ghostslayer blood hunter
+profane soul blood hunter
+order of the mutant
+order of the lycan
+order of the ghostslayer
+order of the profane soul
+monster hunter
+vampire hunter
+demon slayer
+witch hunter
+inquisitor
+templar
+crusader
+guardian
+protector
+defender
+avenger
+revenger
+executioner
+dark knight
+death knight
+hell knight
+black guard
+anti paladin
+fallen paladin
+corrupted knight
+shadow knight
+void knight
+chaos knight
+doom knight
+bane knight
+scourge knight
+plague knight
+bone knight
+skull knight
+undead knight
+lich knight
+vampire knight
+wraith knight
+specter knight
+phantom knight
+ghost knight
+spirit knight
+soul knight
+essence knight
+energy knight
+force knight
+power knight
+might knight
+strength knight
+warrior knight
+battle knight
+war knight
+combat knight
+fighting knight
+sword knight
+blade knight
+weapon knight
+armor knight
+shield knight
+helm knight
+mail knight
+plate knight
+chain knight
+scale knight
+leather knight
+cloth knight
+robe knight
+wizard knight
+mage knight
+sorcerer knight
+warlock knight
+cleric knight
+druid knight
+ranger knight
+bard knight
+rogue knight
+monk knight
+barbarian knight
+fighter knight
+artificer knight
+psionicist
+telepath
+telekinetic
+pyrokinetic
+cryokinetic
+electrokinetic
+terrakinetic
+aerokinetic
+hydrokinetic
+biokinetic
+technokinetic
+chronokinetic
+dimensional knight
+planar knight
+astral knight
+ethereal knight
+material knight
+elemental knight
+fire knight
+water knight
+earth knight
+air knight
+ice knight
+lightning knight
+thunder knight
+storm knight
+wind knight
+nature knight
+plant knight
+animal knight
+beast knight
+dragon knight
+phoenix knight
+unicorn knight
+griffin knight
+pegasus knight
+hippogriff knight
+chimera knight
+sphinx knight
+manticore knight
+hydra knight
+basilisk knight
+cockatrice knight
+wyvern knight
+drake knight
+wyrm knight
+serpent knight
+snake knight
+viper knight
+cobra knight
+python knight
+anaconda knight
+boa knight
+adder knight
+asp knight
+mamba knight
+copperhead knight
+rattlesnake knight
+coral snake knight
+king cobra knight
+sea serpent knight
+leviathan knight
+kraken knight
+octopus knight
+squid knight
+cuttlefish knight
+nautilus knight
+jellyfish knight
+starfish knight
+sea urchin knight
+sea anemone knight
+coral knight
+reef knight
+kelp knight
+seaweed knight
+algae knight
+plankton knight
+krill knight
+shrimp knight
+crab knight
+lobster knight
+crawfish knight
+barnacle knight
+mussel knight
+clam knight
+oyster knight
+scallop knight
+abalone knight
+conch knight
+whelk knight
+snail knight
+slug knight
+earthworm knight
+leech knight
+centipede knight
+millipede knight
+spider knight
+scorpion knight
+tick knight
+mite knight
+flea knight
+louse knight
+mosquito knight
+fly knight
+gnat knight
+midge knight
+ant knight
+bee knight
+wasp knight
+hornet knight
+yellowjacket knight
+bumblebee knight
+honeybee knight
+carpenter bee knight
+mason bee knight
+sweat bee knight
+leafcutter bee knight
+cuckoo bee knight
+butterfly knight
+moth knight
+caterpillar knight
+chrysalis knight
+cocoon knight
+larva knight
+pupa knight
+grub knight
+maggot knight
+worm knight
+beetle knight
+ladybug knight
+firefly knight
+lightning bug knight
+glowworm knight
+weevil knight
+borer knight
+termite knight
+carpenter ant knight
+fire ant knight
+army ant knight
+leaf cutter ant knight
+harvester ant knight
+pharaoh ant knight
+pavement ant knight
+little black ant knight
+odorous house ant knight
+thief ant knight
+ghost ant knight
+crazy ant knight
+bigheaded ant knight
+acrobat ant knight
+field ant knight
+cornfield ant knight
+citronella ant knight
+yellow meadow ant knight
+larger yellow ant knight
+smaller yellow ant knight
+winter ant knight
+moisture ant knight
+little fire ant knight
+tropical fire ant knight
+red imported fire ant knight
+black imported fire ant knight
+southern fire ant knight
+desert fire ant knight
+golden fire ant knight
+hybrid fire ant knight
+native fire ant knight
+tawny crazy ant knight
+longhorn crazy ant knight
+hairy crazy ant knight
+caribbean crazy ant knight
+rasberry crazy ant knight
+white footed ant knight
+rover ant knight
+pyramid ant knight
+false honey ant knight
+honeypot ant knight
+argentine ant knight
+linepithema ant knight
+asian needle ant knight
+red wood ant knight
+allegheny mound ant knight
+red mound ant knight
+texas leaf cutter ant knight
+fungus garden ant knight
+mushroom ant knight
+atta ant knight
+acromyrmex ant knight
+trachymyrmex ant knight
+cyphomyrmex ant knight
+mycocepurus ant knight
+myrmicocrypta ant knight
+sericomyrmex ant knight
+pseudoatta ant knight
+kalathomyrmex ant knight
+mycetagroicus ant knight
+mycetarotes ant knight
+mycetophylax ant knight
+mycetosoritis ant knight
+paratrachymyrmex ant knight
+xerolitor ant knight
+amoimyrmex ant knight
+cyatta ant knight
+neoatta ant knight
+archaeoatta ant knight
+protatta ant knight
+paleoatta ant knight
+mesoatta ant knight
+epiatta ant knight
+metaatta ant knight
+paraatta ant knight
+pseudatta ant knight
+quasiatta ant knight
+semiatta ant knight
+subatta ant knight
+superatta ant knight
+ultraatta ant knight
+hyperatta ant knight
+megaatta ant knight
+gigaatta ant knight
+terraatta ant knight
+astraatta ant knight
+cosmatta ant knight
+galacatta ant knight
+stellaatta ant knight
+solaratta ant knight
+lunaratta ant knight
+planetatta ant knight
+satelliatta ant knight
+asteroidatta ant knight
+cometatta ant knight
+meteoratta ant knight
+nebulatta ant knight
+galaxatta ant knight
+universatta ant knight
+omniaatta ant knight
+infinitatta ant knight
+eternalatta ant knight
+immortalatta ant knight
+divineatta ant knight
+holyatta ant knight
+sacredatta ant knight
+blessedatta ant knight
+cursedatta ant knight
+damnedatta ant knight
+doomedatta ant knight
+lostatta ant knight
+forgottenatta ant knight
+hiddenatta ant knight
+secretatta ant knight
+mysteriousatta ant knight
+unknownatta ant knight
+strangeatta ant knight
+weirdatta ant knight
+bizarreatta ant knight
+oddatta ant knight
+peculiaratta ant knight
+unusualatta ant knight
+rareatta ant knight
+uniqueatta ant knight
+specialatta ant knight
+extraordinaryatta ant knight
+remarkableatta ant knight
+exceptionalatta ant knight
+outstandingatta ant knight
+magnificentatta ant knight
+marvelousatta ant knight
+wonderfulatta ant knight
+fantasticatta ant knight
+incredibleatta ant knight
+amazingatta ant knight
+astonishingatta ant knight
+astoundingatta ant knight
+stunningatta ant knight
+breathtakingatta ant knight
+jaw droppingatta ant knight
+mind blowingatta ant knight
+earth shatteringatta ant knight
+world changingatta ant knight
+life alteringatta ant knight
+game changingatta ant knight
+paradigm shiftingatta ant knight
+reality bendingatta ant knight
+dimension warpingatta ant knight
+time manipulatingatta ant knight
+space distortingatta ant knight
+gravity defyingatta ant knight
+physics breakingatta ant knight
+logic defyingatta ant knight
+reason challengingatta ant knight
+sanity questioningatta ant knight
+mind bogglingatta ant knight
+consciousness expandingatta ant knight
+awareness heighteningatta ant knight
+perception alteringatta ant knight
+reality shiftingatta ant knight
+dimension jumpingatta ant knight
+plane walkingatta ant knight
+portal openingatta ant knight
+gate keepingatta ant knight
+barrier breakingatta ant knight
+wall piercingatta ant knight
+shield shatteringatta ant knight
+armor crushingatta ant knight
+weapon destroyingatta ant knight
+spell cancelingatta ant knight
+magic disruptingatta ant knight
+enchantment breakingatta ant knight
+curse liftingatta ant knight
+hex removingatta ant knight
+jinx clearingatta ant knight
+bad luck eliminatingatta ant knight
+misfortune endingatta ant knight
+disaster preventingatta ant knight
+catastrophe avoidingatta ant knight
+apocalypse stoppingatta ant knight
+armageddon preventingatta ant knight
+doomsday averting
+judgment delaying
+rapture postponing
+tribulation surviving
+persecution enduring
+martyrdom accepting
+sacrifice making
+ritual performing
+ceremony conducting
+tradition following
+custom observing
+practice maintaining
+habit continuing
+routine executing
+procedure implementing
+protocol following
+method applying
+technique utilizing
+approach adopting
+strategy employing
+tactic using
+plan executing
+scheme implementing
+plot hatching
+design creating
+pattern forming
+template following
+model copying
+example imitating
+sample replicating
+specimen studying
+instance examining
+case analyzing
+situation assessing
+condition evaluating
+state determining
+status checking
+position locating
+location finding
+place discovering
+site identifying
+spot marking
+point indicating
+area defining
+zone establishing
+region mapping
+territory claiming
+domain ruling
+realm governing
+kingdom managing
+empire controlling
+nation leading
+country guiding
+state directing
+province administering
+county overseeing
+city managing
+town governing
+village leading
+hamlet guiding
+settlement establishing
+colony founding
+outpost creating
+base building
+camp setting
+station positioning
+post establishing
+stronghold fortifying
+fortress defending
+castle protecting
+citadel guarding
+keep watching
+tower monitoring
+wall patrolling
+gate securing
+door locking
+entrance blocking
+exit sealing
+passage barring
+corridor guarding
+hallway patrolling
+room searching
+chamber exploring
+vault opening
+treasury accessing
+armory raiding
+library studying
+laboratory researching
+workshop crafting
+forge smithing
+anvil hammering
+bellows pumping
+furnace heating
+kiln firing
+oven baking
+stove cooking
+kitchen preparing
+pantry stocking
+cellar storing
+basement hiding
+attic concealing
+loft secreting
+garret hiding
+closet concealing
+cupboard storing
+cabinet organizing
+drawer arranging
+shelf displaying
+rack hanging
+hook securing
+peg fastening
+nail hammering
+screw tightening
+bolt locking
+nut securing
+washer spacing
+gasket sealing
+o ring containing
+valve controlling
+pipe conducting
+tube channeling
+hose flowing
+cable transmitting
+wire conducting
+cord connecting
+rope binding
+chain linking
+shackle restraining
+manacle confining
+handcuff restraining
+fetter limiting
+bond securing
+tie fastening
+knot tying
+loop forming
+circle creating
+ring shaping
+band wrapping
+belt securing
+strap fastening
+harness fitting
+yoke joining
+collar restraining
+leash controlling
+lead guiding
+rein directing
+bridle controlling
+saddle mounting
+stirrup supporting
+bit controlling
+halter leading
+hobble restraining
+tether securing
+anchor holding
+mooring fastening
+dock securing
+pier extending
+wharf providing
+quay loading
+jetty protecting
+breakwater defending
+seawall protecting
+levee containing
+dam blocking
+dike restraining
+embankment protecting
+retaining wall supporting
+foundation supporting
+footing stabilizing
+slab providing
+beam supporting
+joist carrying
+rafter supporting
+truss reinforcing
+column supporting
+pillar holding
+post standing
+stud framing
+plate connecting
+sill supporting
+header spanning
+lintel bridging
+arch supporting
+vault spanning
+dome covering
+roof protecting
+ceiling covering
+floor supporting
+wall enclosing
+partition dividing
+panel covering
+board providing
+plank flooring
+tile covering
+brick building
+block constructing
+stone laying
+concrete pouring
+mortar binding
+grout filling
+caulk sealing
+putty filling
+filler smoothing
+primer preparing
+paint covering
+stain coloring
+varnish protecting
+lacquer finishing
+shellac sealing
+polyurethane protecting
+epoxy bonding
+adhesive sticking
+glue binding
+cement bonding
+paste attaching
+tape securing
+staple fastening
+tack attaching
+pin securing
+clip holding
+clamp gripping
+vise holding
+wrench turning
+pliers gripping
+screwdriver turning
+hammer striking
+saw cutting
+drill boring
+chisel carving
+plane smoothing
+file shaping
+sandpaper smoothing
+grinder sharpening
+polisher smoothing
+buffer shining
+wax protecting
+oil lubricating
+grease lubricating
+solvent cleaning
+detergent washing
+soap cleaning
+shampoo washing
+conditioner softening
+lotion moisturizing
+cream protecting
+ointment healing
+salve soothing
+balm comforting
+liniment relieving
+poultice drawing
+compress applying
+bandage wrapping
+gauze covering
+tape securing
+splint supporting
+cast immobilizing
+brace supporting
+crutch assisting
+cane supporting
+walker aiding
+wheelchair transporting
+stretcher carrying
+gurney moving
+litter transporting
+ambulance rushing
+helicopter flying
+airplane soaring
+jet speeding
+rocket launching
+missile targeting
+bomb exploding
+grenade detonating
+mine exploding
+torpedo striking
+depth charge sinking
+cannon firing
+artillery bombarding
+mortar lobbing
+howitzer shelling
+catapult hurling
+trebuchet launching
+ballista piercing
+crossbow shooting
+longbow drawing
+shortbow shooting
+recurve bow bending
+compound bow releasing
+sling hurling
+staff sling whirling
+atlatl throwing
+javelin hurling
+spear thrusting
+lance charging
+pike bracing
+halberd chopping
+glaive slashing
+partisan stabbing
+ranseur catching
+voulge hooking
+fauchard cutting
+guisarme slashing
+bill hook catching
+war scythe reaping
+death dealer harvesting
+soul reaper collecting
+spirit harvester gathering
+essence collector accumulating
+energy absorber draining
+power vampire feeding
+mana leech siphoning
+life drain channeling
+vitality tap drawing
+health siphon extracting
+blood letter bleeding
+wound opener cutting
+flesh render tearing
+bone breaker crushing
+skull crusher smashing
+brain splatter exploding
+mind melt dissolving
+psyche shatter fragmenting
+soul tear ripping
+spirit rend shredding
+essence scatter dispersing
+energy disperse scattering
+power fragment breaking
+force shatter shattering
+strength crush crushing
+might overwhelm overwhelming
+potency dominate dominating
+intensity overpower overpowering
+magnitude crush crushing
+amplitude overwhelm overwhelming
+frequency dominate dominating
+wavelength control controlling
+spectrum command commanding
+range rule ruling
+scope govern governing
+scale manage managing
+dimension oversee overseeing
+size supervise supervising
+volume monitor monitoring
+mass watch watching
+weight observe observing
+density examine examining
+pressure inspect inspecting
+tension investigate investigating
+stress analyze analyzing
+strain evaluate evaluating
+compression assess assessing
+expansion review reviewing
+extension study studying
+contraction research researching
+reduction explore exploring
+shrinkage discover discovering
+enlargement find finding
+amplification locate locating
+magnification identify identifying
+multiplication recognize recognizing
+addition acknowledge acknowledging
+subtraction accept accepting
+division approve approving
+calculation endorse endorsing
+computation support supporting
+processing back backing
+analysis assist assisting
+synthesis help helping
+creation aid aiding
+generation serve serving
+production provide providing
+manufacturing offer offering
+fabrication give giving
+construction deliver delivering
+building hand handing
+assembly pass passing
+installation transfer transferring
+setup move moving
+configuration shift shifting
+arrangement change changing
+organization alter altering
+structure modify modifying
+framework adjust adjusting
+foundation adapt adapting
+base evolve evolving
+support develop developing
+platform grow growing
+stage expand expanding
+level increase increasing
+tier enlarge enlarging
+layer extend extending
+stratum stretch stretching
+depth lengthen lengthening
+height prolong prolonging
+width continue continuing
+length persist persisting
+breadth endure enduring
+span last lasting
+reach remain remaining
+range stay staying
+distance linger lingering
+space dwell dwelling
+area reside residing
+region live living
+zone exist existing
+sector survive surviving
+section thrive thriving
+segment flourish flourishing
+portion prosper prospering
+part succeed succeeding
+piece triumph triumphing
+fragment prevail prevailing
+shard conquer conquering
+splinter defeat defeating
+chip overcome overcoming
+flake surpass surpassing
+particle exceed exceeding
+grain outperform outperforming
+speck outdo outdoing
+dot outshine outshining
+point outclass outclassing
+spot outrank outranking
+mark top topping
+stain lead leading
+blemish head heading
+flaw command commanding
+defect direct directing
+fault guide guiding
+error steer steering
+mistake navigate navigating
+blunder pilot piloting
+slip drive driving
+lapse operate operating
+oversight control controlling
+omission manage managing
+negligence handle handling
+carelessness deal dealing
+recklessness cope coping
+heedlessness manage managing
+thoughtlessness survive surviving
+inconsideration endure enduring
+inattention withstand withstanding
+distraction resist resisting
+diversion oppose opposing
+deviation fight fighting
+detour battle battling
+bypass war warring
+circumvention combat combating
+avoidance contest contesting
+evasion challenge challenging
+escape dispute disputing
+flight argue arguing
+retreat debate debating
+withdrawal discuss discussing
+departure talk talking
+exit speak speaking
+leaving say saying
+abandonment tell telling
+desertion inform informing
+forsaking advise advising
+rejection counsel counseling
+refusal guide guiding
+denial direct directing
+negation instruct instructing
+contradiction teach teaching
+opposition educate educating
+resistance train training
+defiance coach coaching
+rebellion mentor mentoring
+revolt tutor tutoring
+uprising school schooling
+insurrection enlighten enlightening
+revolution illuminate illuminating
+overthrow clarify clarifying
+coup explain explaining
+takeover describe describing
+conquest detail detailing
+invasion outline outlining
+attack summarize summarizing
+assault brief briefing
+strike update updating
+blow inform informing
+hit notify notifying
+impact alert alerting
+collision warn warning
+crash caution cautioning
+smash advise advising
+break recommend recommending
+shatter suggest suggesting
+fracture propose proposing
+crack offer offering
+split present presenting
+tear submit submitting
+rip provide providing
+cut supply supplying
+slash deliver delivering
+slice give giving
+chop hand handing
+hack pass passing
+cleave transfer transferring
+sever move moving
+divide shift shifting
+separate change changing
+isolate alter altering
+quarantine modify modifying
+contain adjust adjusting
+confine adapt adapting
+restrict evolve evolving
+limit develop developing
+bound grow growing
+border expand expanding
+edge increase increasing
+rim enlarge enlarging
+margin extend extending
+perimeter stretch stretching
+circumference lengthen lengthening
+outline prolong prolonging
+contour continue continuing
+profile persist persisting
+silhouette endure enduring
+shadow last lasting
+shade remain remaining
+darkness stay staying
+blackness linger lingering
+void dwell dwelling
+emptiness reside residing
+nothingness live living
+nullity exist existing
+zero survive surviving
+null thrive thriving
+blank flourish flourishing
+vacant prosper prospering
+hollow succeed succeeding
+cavity triumph triumphing
+hole prevail prevailing
+gap conquer conquering
+space defeat defeating
+interval overcome overcoming
+pause surpass surpassing
+break exceed exceeding
+rest outperform outperforming
+stop outdo outdoing
+halt outshine outshining
+cessation outclass outclassing
+termination outrank outranking
+end top topping
+conclusion lead leading
+finish head heading
+completion command commanding
+fulfillment direct directing
+achievement guide guiding
+accomplishment steer steering
+success navigate navigating
+victory pilot piloting
+triumph drive driving
+conquest operate operating
+win control controlling
+gain manage managing
+profit handle handling
+benefit deal dealing
+advantage cope coping
+privilege manage managing
+right survive surviving
+entitlement endure enduring
+claim withstand withstanding
+ownership resist resisting
+possession oppose opposing
+property fight fighting
+asset battle battling
+resource war warring
+wealth combat combating
+riches contest contesting
+fortune challenge challenging
+treasure dispute disputing
+valuables argue arguing
+precious debate debating
+valuable discuss discussing
+costly talk talking
+expensive speak speaking
+pricey say saying
+dear tell telling
+beloved inform informing
+cherished advise advising
+treasured counsel counseling
+prized guide guiding
+valued direct directing
+esteemed instruct instructing
+respected teach teaching
+honored educate educating
+revered train training
+worshipped coach coaching
+adored mentor mentoring
+loved tutor tutoring
+favored school schooling
+preferred enlighten enlightening
+chosen illuminate illuminating
+selected clarify clarifying
+picked explain explaining
+elected describe describing
+appointed detail detailing
+designated outline outlining
+assigned summarize summarizing
+allocated brief briefing
+distributed update updating
+given inform informing
+granted notify notifying
+awarded alert alerting
+presented warn warning
+bestowed caution cautioning
+conferred advise advising
+endowed recommend recommending
+gifted suggest suggesting
+donated propose proposing
+contributed offer offering
+provided present presenting
+supplied submit submitting
+furnished provide providing
+equipped supply supplying
+armed deliver delivering
+prepared give giving
+ready hand handing
+set pass passing
+positioned transfer transferring
+placed move moving
+located shift shifting
+situated change changing
+stationed alter altering
+posted modify modifying
+deployed adjust adjusting
+arranged adapt adapting
+organized evolve evolving
+structured develop developing
+ordered grow growing
+sorted expand expanding
+classified increase increasing
+categorized enlarge enlarging
+grouped extend extending
+clustered stretch stretching
+bunched lengthen lengthening
+gathered prolong prolonging
+collected continue continuing
+assembled persist persisting
+compiled endure enduring
+accumulated last lasting
+amassed remain remaining
+stockpiled stay staying
+stored linger lingering
+warehoused dwell dwelling
+archived reside residing
+preserved live living
+conserved exist existing
+maintained survive surviving
+kept thrive thriving
+held flourish flourishing
+retained prosper prospering
+sustained succeed succeeding
+supported triumph triumphing
+upheld prevail prevailing
+defended conquer conquering
+protected defeat defeating
+guarded overcome overcoming
+secured surpass surpassing
+safeguarded exceed exceeding
+shielded outperform outperforming
+covered outdo outdoing
+concealed outshine outshining
+hidden outclass outclassing
+disguised outrank outranking
+masked top topping
+veiled lead leading
+shrouded head heading
+cloaked command commanding
+wrapped direct directing
+enveloped guide guiding
+enclosed steer steering
+surrounded navigate navigating
+encircled pilot piloting
+encompassed drive driving
+embraced operate operating
+hugged control controlling
+clasped manage managing
+gripped handle handling
+grasped deal dealing
+seized cope coping
+caught manage managing
+captured survive surviving
+trapped endure enduring
+snared withstand withstanding
+ensnared resist resisting
+entangled oppose opposing
+tangled fight fighting
+twisted battle battling
+coiled war warring
+wound combat combating
+wrapped contest contesting
+bound challenge challenging
+tied dispute disputing
+knotted argue arguing
+braided debate debating
+woven discuss discussing
+interlaced talk talking
+intertwined speak speaking
+interwoven say saying
+meshed tell telling
+networked inform informing
+connected advise advising
+linked counsel counseling
+joined guide guiding
+united direct directing
+merged instruct instructing
+combined teach teaching
+fused educate educating
+blended train training
+mixed coach coaching
+stirred mentor mentoring
+shaken tutor tutoring
+agitated school schooling
+disturbed enlighten enlightening
+disrupted illuminate illuminating
+interrupted clarify clarifying
+broken explain explaining
+damaged describe describing
+harmed detail detailing
+injured outline outlining
+hurt summarize summarizing
+wounded brief briefing
+scarred update updating
+marked inform informing
+branded notify notifying
+stamped alert alerting
+sealed warn warning
+signed caution cautioning
+certified advise advising
+approved recommend recommending
+authorized suggest suggesting
+licensed propose proposing
+permitted offer offering
+allowed present presenting
+enabled submit submitting
+empowered provide providing
+strengthened supply supplying
+fortified deliver delivering
+reinforced give giving
+hardened hand handing
+toughened pass passing
+steeled transfer transferring
+tempered move moving
+seasoned shift shifting
+experienced change changing
+skilled alter altering
+trained modify modifying
+educated adjust adjusting
+learned adapt adapting
+knowledgeable evolve evolving
+wise develop developing
+intelligent grow growing
+smart expand expanding
+clever increase increasing
+cunning enlarge enlarging
+sly extend extending
+crafty stretch stretching
+sneaky lengthen lengthening
+stealthy prolong prolonging
+subtle continue continuing
+delicate persist persisting
+gentle endure enduring
+soft last lasting
+tender remain remaining
+kind stay staying
+compassionate linger lingering
+merciful dwell dwelling
+forgiving reside residing
+understanding live living
+patient exist existing
+tolerant survive surviving
+accepting thrive thriving
+welcoming flourish flourishing
+friendly prosper prospering
+sociable succeed succeeding
+outgoing triumph triumphing
+extroverted prevail prevailing
+confident conquer conquering
+bold defeat defeating
+brave overcome overcoming
+courageous surpass surpassing
+fearless exceed exceeding
+daring outperform outperforming
+adventurous outdo outdoing
+exploratory outshine outshining
+curious outclass outclassing
+inquisitive outrank outranking
+investigative top topping
+analytical lead leading
+logical head heading
+rational command commanding
+reasonable direct directing
+sensible guide guiding
+practical steer steering
+realistic navigate navigating
+grounded pilot piloting
+earthbound drive driving
+terrestrial operate operating
+worldly control controlling
+material manage managing
+physical handle handling
+tangible deal dealing
+solid cope coping
+substantial manage managing
+real survive surviving
+actual endure enduring
+genuine withstand withstanding
+authentic resist resisting
+true oppose opposing
+honest fight fighting
+sincere battle battling
+faithful war warring
+loyal combat combating
+devoted contest contesting
+dedicated challenge challenging
+committed dispute disputing
+determined argue arguing
+resolute debate debating
+steadfast discuss discussing
+unwavering talk talking
+constant speak speaking
+steady say saying
+stable tell telling
+secure inform informing
+safe advise advising
+protected counsel counseling
+sheltered guide guiding
+shielded direct directing
+defended instruct instructing
+guarded teach teaching
+watched educate educating
+monitored train training
+observed coach coaching
+seen mentor mentoring
+visible tutor tutoring
+apparent school schooling
+obvious enlighten enlightening
+clear illuminate illuminating
+transparent clarify clarifying
+open explain explaining
+exposed describe describing
+revealed detail detailing
+uncovered outline outlining
+unveiled summarize summarizing
+disclosed brief briefing
+shown update updating
+displayed inform informing
+exhibited notify notifying
+demonstrated alert alerting
+illustrated warn warning
+depicted caution cautioning
+portrayed advise advising
+represented recommend recommending
+symbolized suggest suggesting
+embodied propose proposing
+incarnated offer offering
+manifested present presenting
+materialized submit submitting
+appeared provide providing
+emerged supply supplying
+surfaced deliver delivering
+arose give giving
+rose hand handing
+ascended pass passing
+climbed transfer transferring
+mounted move moving
+scaled shift shifting
+reached change changing
+attained alter altering
+achieved modify modifying
+accomplished adjust adjusting
+completed adapt adapting
+finished evolve evolving
+ended develop developing
+concluded grow growing
+terminated expand expanding
+stopped increase increasing
+ceased enlarge enlarging
+halted extend extending
+paused stretch stretching
+rested lengthen lengthening
+relaxed prolong prolonging
+calmed continue continuing
+soothed persist persisting
+comforted endure enduring
+consoled last lasting
+reassured remain remaining
+encouraged stay staying
+supported linger lingering
+helped dwell dwelling
+assisted reside residing
+aided live living
+benefited exist existing
+served survive surviving
+provided thrive thriving
+offered flourish flourishing
+given prosper prospering
+delivered succeed succeeding
+handed triumph triumphing
+passed prevail prevailing
+transferred conquer conquering
+moved defeat defeating
+shifted overcome overcoming
+changed surpass surpassing
+altered exceed exceeding
+modified outperform outperforming
+adjusted outdo outdoing
+adapted outshine outshining
+evolved outclass outclassing
+developed outrank outranking
+grew top topping
+expanded lead leading
+increased head heading
+enlarged command commanding
+extended direct directing
+stretched guide guiding
+lengthened steer steering
+prolonged navigate navigating
+continued pilot piloting
+persisted drive driving
+endured operate operating
+lasted control controlling
+remained manage managing
+stayed handle handling
+lingered deal dealing
+dwelt cope coping
+resided manage managing
+lived survive surviving
+existed endure enduring
+survived withstand withstanding
+thrived resist resisting
+flourished oppose opposing
+prospered fight fighting
+succeeded battle battling
+triumphed war warring
+prevailed combat combating
+conquered contest contesting
+defeated challenge challenging
+overcame dispute disputing
+surpassed argue arguing
+exceeded debate debating
+outperformed discuss discussing
+outdid talk talking
+outshone speak speaking
+outclassed say saying
+outranked tell telling
+topped inform informing
+led advise advising
+headed counsel counseling
+commanded guide guiding
+directed direct directing
+guided instruct instructing
+steered teach teaching
+navigated educate educating
+piloted train training
+drove coach coaching
+operated mentor mentoring
+controlled tutor tutoring
+managed school schooling
+handled enlighten enlightening
+dealt illuminate illuminating
+coped clarify clarifying
+managed explain explaining
+survived describe describing
+endured detail detailing
+withstood outline outlining
+resisted summarize summarizing
+opposed brief briefing
+fought update updating
+battled inform informing
+warred notify notifying
+combated alert alerting
+contested warn warning
+challenged caution cautioning
+disputed advise advising
+argued recommend recommending
+debated suggest suggesting
+discussed propose proposing
+talked offer offering
+spoke present presenting
+said submit submitting
+told provide providing
+informed supply supplying
+advised deliver delivering
+counseled give giving
+guided hand handing
+directed pass passing
+instructed transfer transferring
+taught move moving
+educated shift shifting
+trained change changing
+coached alter altering
+mentored modify modifying
+tutored adjust adjusting
+schooled adapt adapting
+enlightened evolve evolving
+illuminated develop developing
+clarified grow growing
+explained expand expanding
+described increase increasing
+detailed enlarge enlarging
+outlined extend extending
+summarized stretch stretching
+briefed lengthen lengthening
+updated prolong prolonging
+informed continue continuing
+notified persist persisting
+alerted endure enduring
+warned last lasting
+cautioned remain remaining
+advised stay staying
+recommended linger lingering
+suggested dwell dwelling
+proposed reside residing
+offered live living
+presented exist existing
+submitted survive surviving
+provided thrive thriving
+supplied flourish flourishing
+delivered prosper prospering
+gave succeed succeeding
+handed triumph triumphing
+passed prevail prevailing
+transferred conquer conquering
+moved defeat defeating
+shifted overcome overcoming
+changed surpass surpassing
+altered exceed exceeding
+modified outperform outperforming
+adjusted outdo outdoing
+adapted outshine outshining
+evolved outclass outclassing
+developed outrank outranking
+grew top topping
+expanded lead leading
+increased head heading
+enlarged command commanding
+extended direct directing
+stretched guide guiding
+lengthened steer steering
+prolonged navigate navigating
+continued pilot piloting
+persisted drive driving
+endured operate operating
+lasted control controlling
+remained manage managing
+stayed handle handling
+lingered deal dealing
+dwelt cope coping
+resided manage managing
+lived survive surviving
+existed endure enduring
+survived withstand withstanding
+thrived resist resisting
+flourished oppose opposing
+prospered fight fighting
+succeeded battle battling
+triumphed war warring
+prevailed combat combating
+conquered contest contesting
+defeated challenge challenging
+overcame dispute disputing
+surpassed argue arguing
+exceeded debate debating
+outperformed discuss discussing
+outdid talk talking
+outshone speak speaking
+outclassed say saying
+outranked tell telling
+topped inform informing
+led advise advising
+headed counsel counseling
+commanded guide guiding
+directed direct directing
+guided instruct instructing
+steered teach teaching
+navigated educate educating
+piloted train training
+drove coach coaching
+operated mentor mentoring
+controlled tutor tutoring
+managed school schooling
+handled enlighten enlightening
+dealt illuminate illuminating
+coped clarify clarifying
+managed explain explaining
+survived describe describing
+endured detail detailing
+withstood outline outlining
+resisted summarize summarizing
+opposed brief briefing
+fought update updating
+battled inform informing
+warred notify notifying
+combated alert alerting
+contested warn warning
+challenged caution cautioning
+disputed advise advising
+argued recommend recommending
+debated suggest suggesting
+discussed propose proposing
+talked offer offering
+spoke present presenting
+said submit submitting
+told provide providing
+informed supply supplying
+advised deliver delivering
+counseled give giving
+guided hand handing
+directed pass passing
+instructed transfer transferring
+taught move moving
+educated shift shifting
+trained change changing
+coached alter altering
+mentored modify modifying
+tutored adjust adjusting
+schooled adapt adapting
+enlightened evolve evolving
+illuminated develop developing
+clarified grow growing
+explained expand expanding
+described increase increasing
+detailed enlarge enlarging
+outlined extend extending
+summarized stretch stretching
+briefed lengthen lengthening
+updated prolong prolonging
+informed continue continuing
+notified persist persisting
+alerted endure enduring
+warned last lasting
+cautioned remain remaining
+advised stay staying

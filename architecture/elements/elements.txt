@@ -1,0 +1,58 @@
+Arch
+Vault
+Dome
+Column
+Pillar
+Pilaster
+Entablature
+Cornice
+Frieze
+Pediment
+Buttress
+Flying buttress
+Nave
+Aisle
+Apse
+Transept
+Clerestory
+Rose window
+Lancet window
+Oculus
+Atrium
+Courtyard
+Colonnade
+Portico
+Loggia
+Balustrade
+Balcony
+Terrace
+Veranda
+Pergola
+Cantilever
+Truss
+Girder
+Beam
+Lintel
+Mullion
+Muntin
+Spandrel
+Soffit
+Parapet
+Brise-soleil
+Lightwell
+Skylight
+Atrium garden
+Green roof
+Solar facade
+Double-skin facade
+Curtain wall
+Glass wall
+Stone cladding
+Brickwork
+Timber framing
+Steel frame
+Reinforced concrete
+Ram earth
+Cob walls
+Adobe
+Wattle and daub

@@ -1,0 +1,31 @@
+14mm focal length
+16mm focal length
+20mm focal length
+24mm focal length
+28mm focal length
+35mm focal length
+50mm focal length
+85mm focal length
+100mm focal length
+135mm focal length
+200mm focal length
+300mm focal length
+400mm focal length
+500mm focal length
+600mm focal length
+800mm focal length
+ultra wide angle
+wide angle
+normal lens
+short telephoto
+medium telephoto
+long telephoto
+super telephoto
+fisheye perspective
+rectilinear perspective
+compressed perspective
+expanded perspective
+shallow perspective
+deep perspective
+distorted perspective
+natural perspective

@@ -1,0 +1,20 @@
+physically based rendering
+path tracing
+ray tracing
+global illumination
+real-time rendering
+volumetric rendering
+subsurface scattering
+caustics
+reflections
+refractions
+anti-aliasing
+temporal anti-aliasing
+screen space reflections
+ambient occlusion
+contact shadows
+soft shadows
+hard shadows
+dynamic lighting
+static lighting
+baked lighting

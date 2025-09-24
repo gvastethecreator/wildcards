@@ -1,0 +1,68 @@
+Metropolitan city
+Downtown skyline
+Busy street
+Quiet alley
+Subway station
+Train station
+Airport
+Harbor
+Marina
+Industrial district
+Residential neighborhood
+Shopping district
+Financial district
+Historic district
+Art district
+Chinatown
+Little Italy
+Market square
+Town square
+Village green
+Countryside
+Rural road
+Farmland
+Ranch
+Windmill
+Lighthouse
+Bridge
+Tunnel
+Highway
+Freeway
+Parking lot
+Gas station
+Diner
+Cafe
+Restaurant
+Hotel
+Motel
+Hospital
+School
+University campus
+Library
+Museum
+Art gallery
+Theater
+Cinema
+Concert hall
+Stadium
+Arena
+Park
+Playground
+Zoo
+Aquarium
+Botanical garden
+Cemetery
+Church
+Cathedral
+Temple
+Mosque
+Synagogue
+Monastery
+Castle
+Palace
+Fortress
+Ruins
+Archaeological site
+Monument
+Statue
+Fountain

@@ -1,0 +1,120 @@
+surgical robot systems
+microsurgery instruments
+laparoscopic tools
+endoscopic cameras
+ultrasound transducers
+MRI imaging coils
+CT scanner detectors
+X-ray tube assemblies
+gamma camera heads
+PET scanner rings
+SPECT imaging systems
+fluoroscopy equipment
+mammography devices
+bone densitometry
+cardiac catheterization
+angiography systems
+interventional radiology
+image-guided surgery
+stereotactic radiosurgery
+CyberKnife systems
+Gamma Knife devices
+proton beam therapy
+heavy ion therapy
+brachytherapy sources
+linear accelerators
+electron beam systems
+neutron capture therapy
+photodynamic therapy
+laser surgery systems
+radiofrequency ablation
+microwave ablation
+cryoablation systems
+focused ultrasound
+high-intensity ultrasound
+shockwave therapy
+extracorporeal lithotripsy
+dialysis machines
+heart-lung bypass
+extracorporeal membrane oxygenation
+ventricular assist devices
+artificial heart systems
+pacemaker devices
+defibrillator units
+cardiac resynchronization
+neurostimulation systems
+deep brain stimulation
+vagus nerve stimulation
+spinal cord stimulation
+cochlear implants
+retinal implants
+brain-computer interfaces
+neural prosthetics
+myoelectric prosthetics
+bionic limbs
+exoskeleton systems
+rehabilitation robots
+gait training devices
+balance training systems
+cognitive training tools
+vision therapy equipment
+hearing therapy devices
+speech therapy systems
+physical therapy equipment
+occupational therapy tools
+respiratory therapy devices
+sleep therapy equipment
+infusion pump systems
+syringe pump devices
+enteral feeding pumps
+insulin delivery systems
+pain management pumps
+chemotherapy infusion
+blood transfusion systems
+blood processing equipment
+cell separator systems
+plasma collection devices
+blood bank refrigeration
+organ preservation systems
+tissue processing equipment
+histopathology systems
+cytology screening
+molecular diagnostics
+PCR amplification
+DNA sequencing systems
+protein analysis equipment
+mass spectrometry
+chromatography systems
+electrophoresis equipment
+flow cytometry
+cell sorting systems
+microscopy platforms
+confocal microscopy
+fluorescence microscopy
+electron microscopy
+atomic force microscopy
+scanning probe systems
+laboratory automation
+sample preparation robots
+liquid handling systems
+plate readers
+microplate washers
+incubator systems
+biosafety cabinets
+laminar flow hoods
+autoclave sterilizers
+ethylene oxide sterilization
+gamma ray sterilization
+electron beam sterilization
+hydrogen peroxide systems
+ozone sterilization
+UV disinfection
+HEPA filtration
+cleanroom technology
+pharmaceutical manufacturing
+bioprocessing equipment
+fermentation systems
+cell culture bioreactors
+downstream processing
+chromatography columns
+ultrafiltration membranes

@@ -1,0 +1,20 @@
+beach
+ocean
+sea
+lake
+river
+waterfall
+mountain peak
+valley
+forest
+jungle
+desert
+prairie
+meadow
+cave
+canyon
+cliff
+volcano
+glacier
+tundra
+swamp

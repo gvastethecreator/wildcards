@@ -1,0 +1,504 @@
+good hunter
+paleblood
+blood echoes
+insight
+madman's knowledge
+great one's wisdom
+blood vial
+quicksilver bullet
+bold hunter's mark
+hunter's mark
+blood stone shard
+twin blood stone shard
+blood stone chunk
+blood rock
+ritual blood
+tomb mold
+nightmare vortex
+frenzied coldblood
+kin coldblood
+arcane haze
+sage's hair
+yellow backbone
+red jelly
+blue elixir
+lead elixir
+beast blood pellet
+fire paper
+bolt paper
+empty phantasm shell
+bone marrow ash
+shining coins
+pungent blood cocktail
+molotov cocktail
+rope molotov cocktail
+oil urn
+numbing mist
+poison knife
+throwing knife
+poison dart
+sedative
+antidote
+tear stone
+antidote
+pebble
+central yharnam
+old yharnam
+cathedral ward
+hemwick charnel lane
+forbidden woods
+byrgenwerth
+yahar'gul unseen village
+hypogean gaol
+cainhurst castle
+nightmare frontier
+nightmare of mensis
+hunter's dream
+hunter's nightmare
+research hall
+fishing hamlet
+astral clocktower
+orphanage
+ludiwg's nightmare
+maria's nightmare
+kos nightmare
+laurence's nightmare
+gehrman's arena
+moon presence arena
+yharnam queen
+blood queen
+pthumerian queen
+pthumerian elder
+pthumerian descendant
+bloodletting beast
+watchdog of the old lords
+undead giant
+keeper of the old lords
+pthumerian labyrinth
+cursed pthumerian defilement
+great pthumeru ihyll
+ailing loran
+defiled chalice
+isz gravestone
+lower hintertomb
+central pthumeru
+pthumeru root
+loran root
+isz root
+sinister bell
+beckoning bell
+silencing blank
+hunter's mark
+bold hunter's mark
+tiny music box
+father gascoigne
+cleric beast
+blood-starved beast
+vicar amelia
+shadow of yharnam
+rom the vacuous spider
+the one reborn
+darkbeast paarl
+amygdala
+martyr logarius
+lady maria
+orphan of kos
+ludwig the holy blade
+living failures
+laurence the first vicar
+gehrman the first hunter
+moon presence
+wet nurse
+mergo's wet nurse
+micolash host of the nightmare
+ebrietas daughter of the cosmos
+celestial emissary
+witch of hemwick
+gascoigne
+amelia
+rom
+paarl
+logarius
+maria
+orphan
+ludwig
+laurence
+gehrman
+moon presence
+wet nurse
+micolash
+ebrietas
+celestial emissary
+hemwick witch
+saw cleaver
+saw spear
+hunter axe
+threaded cane
+kirkhammer
+ludwig's holy blade
+holy moonlight sword
+burial blade
+blade of mercy
+chikage
+bloodletter
+rakuyo
+beast claw
+amygdalan arm
+whirligig saw
+boom hammer
+church pick
+saif
+beasthunter saif
+kos parasite
+logarius' wheel
+rifle spear
+reiterpallasch
+stake driver
+tonitrus
+hunter's torch
+torch
+rosmarinus
+flamesprayer
+bone ash cannon
+cannon
+gatling gun
+church cannon
+piercing rifle
+blunderbuss
+hunter pistol
+evelyn
+repeating pistol
+cainhurst shield
+wooden shield
+loch shield
+hunter garb
+hunter coat
+hunter trousers
+hunter gloves
+hunter cap
+hunter hat
+yharnam hunter garb
+gascoigne's garb
+henryk's garb
+eileen's garb
+djura's garb
+valtr's garb
+executioner garb
+cainhurst garb
+knight's garb
+noble dress
+church garb
+choir garb
+student uniform
+surgical long gloves
+graveguard mask
+gold ardeo
+crown of illusions
+bone ash mask
+charred hunter garb
+decorative old hunter garb
+old hunter garb
+constable garb
+yamamura garb
+harrowed garb
+tomb prospector garb
+madman garb
+ashen hunter garb
+gehrman's hunter garb
+maria's hunter garb
+doll clothes
+plain doll garb
+white church garb
+black church garb
+executioner helm
+knight's helm
+cainhurst helm
+crowfeather garb
+beak mask
+top hat
+tricorne
+messenger head bandage
+messenger ribbon
+red messenger ribbon
+blue messenger ribbon
+bold messenger ribbon
+skull messenger ribbon
+white messenger ribbon
+black messenger ribbon
+gold messenger ribbon
+messenger urn festival
+messenger bath
+great ones
+old ones
+kin
+church
+healing church
+choir
+school of mensis
+executioners
+vileblood
+cainhurst vilebloods
+hunters
+workshop
+old hunters
+powder kegs
+league
+confederates
+corruption rune
+radiance rune
+hunter rune
+blood rapture rune
+clawmark rune
+beast rune
+anti-clockwise metamorphosis
+clockwise metamorphosis
+heir rune
+moon rune
+lake rune
+deep sea rune
+great lake rune
+guidance rune
+communion rune
+formless oedon
+oedon writhe
+caryll runes
+arcane
+bloodtinge
+skill
+strength
+vitality
+endurance
+blood echoes
+insight
+frenzy
+beasthood
+rally
+visceral attack
+parry
+backstab
+blood gems
+physical gems
+blood attack gems
+arcane gems
+fire gems
+bolt gems
+poison gems
+slow poison gems
+rapid poison gems
+kin down gems
+beast down gems
+add physical gems
+add blood gems
+add arcane gems
+add fire gems
+add bolt gems
+tempering gems
+heavy gems
+sharp gems
+bloodtinge gems
+nourishing gems
+abyssal gems
+cursed gems
+radial gems
+triangular gems
+waning gems
+circle gems
+droplet gems
+chalice dungeons
+root chalice
+offering
+additional rites
+fetid offering
+rotted offering
+cursed offering
+sinister offering
+false depth
+glyphs
+chalice materials
+ritual blood
+tomb mold
+arcane haze
+sage's hair
+yellow backbone
+red jelly
+coldblood dew
+thick coldblood
+frenzied coldblood
+kin coldblood
+old blood
+forbidden blood
+beast blood
+tainted blood
+nightmare blood
+great one blood
+umbilical cord
+one third of umbilical cord
+wet nurse umbilical cord
+orphan umbilical cord
+iosefka umbilical cord
+arianna's umbilical cord
+workshop haze extractor
+abandoned old workshop
+upper cathedral ward
+research hall
+hunter's nightmare
+fishing hamlet
+astral clocktower
+ludwig's arena
+maria's clocktower
+kos orphan beach
+laurence's grand cathedral
+gehrman's garden
+moon presence chamber
+nightmare fog
+bloodborne
+the hunt
+night of the hunt
+beast scourge
+ashen blood
+old blood
+paleblood
+dream
+nightmare
+great ones
+kin
+hunters
+church
+vilebloods
+executioners
+workshop
+powder kegs
+league
+choir
+school of mensis
+byrgenwerth
+cainhurst
+yharnam
+pthumeru
+loran
+isz
+hintertomb
+defiled chalice
+great pthumeru ihyll
+cursed and defiled
+false depth
+sinister resonant bell
+beckoning bell
+small resonant bell
+silencing blank
+notebook
+hunter's craft
+caryll
+willem
+laurence
+gehrman
+maria
+ludwig
+gascoigne
+henryk
+eileen
+djura
+alfred
+valtr
+annalise
+logarius
+micolash
+rom
+ebrietas
+amygdala
+oedon
+kos
+orphan
+wet nurse
+moon presence
+plain doll
+doll
+blood minister
+blood administration
+blood cocktail
+blood healing
+blood ministration
+beast transformation
+beast plague
+scourge of beasts
+church workshop
+old workshop
+abandoned workshop
+healing church workshop
+upper cathedral ward
+choir loft
+grand cathedral
+cathedral ward lamp
+old yharnam lamp
+central yharnam lamp
+hemwick charnel lane lamp
+forbidden woods lamp
+byrgenwerh lamp
+yahar'gul chapel lamp
+nightmare frontier lamp
+nightmare of mensis lamp
+hunter's dream lamp
+research hall lamp
+fishing hamlet lamp
+astral clocktower lamp
+ludwig's arena lamp
+maria's clocktower lamp
+kos orphan beach lamp
+laurence's grand cathedral lamp
+gehrman's garden lamp
+first floor sickroom
+second floor sickroom
+byrgenwerth balcony
+nightmare lecture building
+mensis cage
+winter lantern
+brain of mensis
+amygdala
+lesser amygdala
+nightmare amygdala
+celestial being
+celestial child
+celestial minion
+celestial mob
+kin enemy
+great one
+old one
+beast
+were-beast
+huntsman
+church servant
+church giant
+church doctor
+executioner
+cainhurst knight
+cainhurst guard
+vileblood
+ghost
+shadow
+pthumerian
+labyrinth warrior
+labyrinth sage
+labyrinth madman
+bone ash hunter
+yahar'gul hunter
+nightmare hunter
+old hunter
+workshop hunter
+powder keg hunter
+league hunter
+confederate
+bell ringer
+chime maiden
+silverbeast
+blood-licking beast
+scourge beast
+huntsman's minion
+church servant
+brick troll
+church giant
+snatcher
+kidnapper
+yahar'gul snatcher
+hypogean gaol
+bag man
+sack man

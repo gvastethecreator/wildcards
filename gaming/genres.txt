@@ -1,0 +1,86 @@
+Action RPG
+Turn-based RPG
+JRPG
+Western RPG
+Tactical RPG
+Action adventure
+Platform game
+Metroidvania
+Soulslike
+Roguelike
+Roguelite
+Battle royale
+MOBA
+RTS
+4X strategy
+Grand strategy
+Tower defense
+City builder
+Management sim
+Life simulation
+Racing game
+Fighting game
+Beat 'em up
+Shoot 'em up
+Bullet hell
+First-person shooter
+Third-person shooter
+Tactical shooter
+Stealth game
+Survival game
+Horror game
+Walking simulator
+Visual novel
+Dating sim
+Puzzle game
+Match-3 game
+Hidden object
+Point and click
+Text adventure
+Interactive fiction
+Sandbox game
+Open world
+Linear game
+Procedural generation
+Permadeath
+Crafting game
+Base building
+Resource management
+Economics game
+Trading game
+Farming sim
+Cooking game
+Music game
+Rhythm game
+Dance game
+Sports game
+Racing sim
+Flight sim
+Space sim
+Mech game
+Naval combat
+Tank game
+War game
+Military sim
+Tactical combat
+Squad-based
+Party-based
+Solo adventure
+Cooperative
+Multiplayer
+MMO
+MMORPG
+Browser game
+Mobile game
+Casual game
+Hardcore game
+Indie game
+AAA game
+Retro game
+Modern game
+Experimental
+Art game
+Educational
+Serious game
+Gamification
+Edutainment

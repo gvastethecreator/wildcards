@@ -1,0 +1,46 @@
+monochromatic palette
+analogous palette
+triadic palette
+tetradic palette
+split-complementary palette
+warm color palette
+cool color palette
+earth tone palette
+pastel palette
+neon palette
+muted palette
+vibrant palette
+dark palette
+light palette
+neutral palette
+autumn palette
+spring palette
+summer palette
+winter palette
+sunset palette
+sunrise palette
+ocean palette
+forest palette
+desert palette
+tropical palette
+arctic palette
+vintage palette
+retro palette
+modern palette
+minimalist palette
+maximalist palette
+gothic palette
+romantic palette
+industrial palette
+organic palette
+cosmic palette
+galactic palette
+nebula palette
+aurora palette
+rainbow palette
+gradient palette
+ombre palette
+duotone palette
+sepia palette
+black and white palette
+grayscale palette

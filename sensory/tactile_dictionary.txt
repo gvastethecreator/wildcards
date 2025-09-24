@@ -1,0 +1,381 @@
+velvet curtain luxury
+sandpaper rough grit
+silk scarf smooth flow
+burlap sack coarse weave
+cashmere sweater cloud soft
+wool blanket scratchy itch
+cotton sheet thread count
+linen fabric wrinkle natural
+polyester blend artificial
+nylon stocking slippery
+spandex stretch recovery
+leather jacket break in
+suede shoe brush marks
+vinyl record groove spiral
+plastic wrap cling static
+aluminum foil crinkle sharp
+parchment paper baking brown
+tissue paper delicate tear
+newsprint ink smudge
+cardboard box corrugate
+bubble wrap pop therapy
+styrofoam squeak nails
+cork board push pin
+rubber mat grip traction
+foam padding density
+memory foam slow return
+gel insert cooling
+air pocket cushion
+spring coil support
+down feather luxury
+synthetic fill budget
+batting quilt layer
+interfacing sewing stabilizer
+felt craft thickness
+fleece jacket pill
+terrycloth towel loop
+microfiber cleaning cloth
+chamois car drying
+sponge kitchen absorption
+steel wool scrub abrasive
+pumice stone callus
+emery board nail file
+nail file metal
+tweezers eyebrow precision
+razor blade sharpness
+scissors fabric shear
+knife blade edge
+saw tooth cut
+file metal rasp
+sandpaper grit progression
+steel brush wire
+paint brush bristle
+foam brush smooth
+roller paint texture
+spray gun mist
+airbrush fine control
+stencil pattern repeat
+template shape guide
+ruler measurement precision
+protractor angle degree
+compass circle perfect
+square corner right angle
+level bubble center
+plumb bob gravity
+measuring tape retract
+calipers precision measurement
+micrometer thousandth inch
+dial indicator needle
+pressure gauge reading
+thermometer mercury rise
+barometer weather prediction
+hygrometer humidity
+ph meter acidity
+multimeter electrical
+oscilloscope wave form
+function generator signal
+spectrum analyzer frequency
+network analyzer impedance
+logic analyzer digital
+power supply voltage
+soldering iron tip temperature
+heat gun air flow
+blow torch flame intensity
+welding arc brightness
+plasma cutter precision
+laser cutter beam focus
+3d printer layer adhesion
+cnc machine tool path
+lathe wood turning
+mill metal cutting
+drill press hole accuracy
+band saw blade tension
+table saw fence alignment
+miter saw angle cut
+circular saw kickback
+jigsaw blade orbital
+reciprocating saw demolition
+router bit speed
+planer wood shaving
+jointer edge straight
+belt sander aggressive
+orbital sander fine finish
+palm sander detail work
+mouse sander tight spaces
+detail sander triangular
+drum sander thickness
+wide belt industrial
+disc sander edge
+spindle sander curves
+oscillating tool multipurpose
+rotary tool versatile
+angle grinder sparks
+cutoff tool precision
+die grinder detail
+bench grinder wheel
+wire brush motor
+buffer polishing compound
+polisher car wax
+burnisher cabinet scraper
+card scraper wood curl
+plane iron sharpness
+chisel wood pare
+gouge carving curve
+skew chisel detail
+parting tool separation
+roughing gouge material removal
+bowl gouge interior
+spindle gouge exterior
+turning tool carbide
+scraper negative rake
+hook tool aggressive
+ring tool smooth
+hollowing tool deep
+texturing tool surface
+chattering tool vibration
+tear out grain direction
+end grain hardness
+cross grain cutting
+rip cut grain direction
+cross cut grain perpendicular
+miter cut angle
+bevel cut edge
+dado cut groove
+rabbet cut shoulder
+mortise cut square hole
+tenon cut projection
+dovetail cut triangle
+finger joint box
+lap joint overlap
+butt joint simple
+scarf joint length
+splice joint repair
+bridle joint open mortise
+half lap joint thickness
+through joint visible
+blind joint hidden
+sliding joint movement
+hinge joint rotation
+pivot joint single axis
+ball joint universal
+universal joint cross
+flexible joint bend
+rigid joint solid
+permanent joint glue
+removable joint hardware
+mechanical joint fastener
+adhesive joint chemical
+welded joint metal
+brazed joint high temperature
+soldered joint low temperature
+riveted joint mechanical
+bolted joint removable
+screwed joint threaded
+nailed joint impact
+stapled joint multiple
+clipped joint spring
+clamped joint pressure
+tied joint rope
+lashed joint cordage
+sewn joint thread
+glued joint adhesive
+taped joint sticky
+pinned joint dowel
+keyed joint wedge
+fitted joint precision
+loose joint tolerance
+tight joint interference
+press fit force
+shrink fit thermal
+expansion fit temperature
+contraction fit cooling
+thermal expansion heat
+thermal contraction cold
+coefficient expansion
+young modulus
+shear modulus
+bulk modulus
+poisson ratio
+yield strength
+tensile strength
+compressive strength
+flexural strength
+torsional strength
+fatigue strength
+impact strength
+hardness scale
+brittleness fracture
+ductility stretch
+malleability hammer
+elasticity return
+plasticity permanent
+viscosity flow
+density mass
+specific gravity
+thermal conductivity
+electrical conductivity
+magnetic permeability
+dielectric constant
+refractive index
+surface tension
+contact angle
+wetting agent
+hydrophobic water repel
+hydrophilic water attract
+oleophobic oil repel
+oleophilic oil attract
+amphiphilic both
+surfactant surface active
+emulsifier mix oil water
+stabilizer prevent separation
+thickener increase viscosity
+thinner decrease viscosity
+solvent dissolve
+solute dissolved
+solution homogeneous
+suspension heterogeneous
+colloid intermediate
+gel semi solid
+foam gas bubbles
+aerosol liquid droplets
+smoke solid particles
+dust fine particles
+powder bulk material
+granules small pieces
+pellets compressed
+flakes thin pieces
+chips wood pieces
+shavings metal curls
+filings metal dust
+swarf machining waste
+burr rough edge
+flash excess material
+sprue injection molding
+runner material flow
+gate entry point
+riser casting feed
+shrinkage cooling contraction
+warpage uneven cooling
+stress concentration
+crack propagation
+failure analysis
+root cause
+corrective action
+preventive action
+quality control
+quality assurance
+statistical process control
+six sigma
+lean manufacturing
+continuous improvement
+kaizen events
+gemba walk
+value stream mapping
+waste elimination
+just in time
+pull system
+kanban signal
+single minute exchange
+total productive maintenance
+overall equipment effectiveness
+key performance indicator
+balanced scorecard
+dashboard metrics
+real time monitoring
+predictive maintenance
+condition monitoring
+vibration analysis
+thermal imaging
+ultrasonic testing
+magnetic particle
+dye penetrant
+radiographic testing
+eddy current
+visual inspection
+dimensional measurement
+coordinate measuring machine
+optical comparator
+surface roughness
+geometric dimensioning
+tolerance stack
+worst case
+root sum square
+monte carlo simulation
+design of experiments
+factorial design
+response surface
+optimization algorithm
+genetic algorithm
+particle swarm
+simulated annealing
+neural network
+machine learning
+artificial intelligence
+expert system
+knowledge base
+rule engine
+inference engine
+natural language
+computer vision
+pattern recognition
+signal processing
+image processing
+data mining
+big data
+cloud computing
+edge computing
+internet of things
+cyber physical system
+digital twin
+augmented reality
+virtual reality
+mixed reality
+blockchain
+cryptocurrency
+smart contract
+decentralized finance
+non fungible token
+metaverse
+web3
+semantic web
+linked data
+ontology
+taxonomy
+classification
+clustering
+dimensionality reduction
+feature selection
+feature engineering
+data preprocessing
+data cleaning
+missing value
+outlier detection
+anomaly detection
+fraud detection
+intrusion detection
+malware detection
+spam filtering
+recommendation system
+collaborative filtering
+content based
+hybrid approach
+cold start
+matrix factorization
+deep learning
+neural network
+convolutional neural
+recurrent neural
+transformer
+attention mechanism
+generative adversarial
+variational autoencoder
+reinforcement learning
+transfer learning
+few shot learning
+zero shot learning
+meta learning
+federated learning
+differential privacy
+homomorphic encryption
+secure multiparty computation
+zero knowledge proof

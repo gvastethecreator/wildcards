@@ -1,0 +1,120 @@
+datamosh smear
+chromatic aberration split
+scanline interlacing
+CRT bloom bleed
+macroblock artifacting
+ghosting frame trails
+signal dropout bands
+VHS tracking jitter
+compression ringing
+pixel sort streaks
+bitflip noise speckles
+moire pattern crawl
+posterization steps
+color channel misalignment
+time slice stutter
+rolling shutter skew
+aliasing stair-steps
+buffer underrun tear
+overexposure bloom spike
+underexposure crush
+digital snow static
+analog tape wobble
+RF interference shimmer
+waveform inversion pulse
+pixelated mosaic blocks
+frame skip jitter
+audio desync blur
+databend rainbow bands
+shader compilation noise
+corrupted LUT tint
+glitch bloom overdrive
+waveform distortion ripples
+bitcrush luminance jitter
+codec glitch smear
+signal scramble mosaic
+glitch wipe tearing
+chroma key spill glitch
+glitch grid overlay
+VHS head switching pulse
+desaturated glitch wash
+glitch echo duplication
+asynchronous interleave blur
+jitter zoom artifact
+pixel drift warp
+scanline roll crawl
+tilt displacement glitch
+datastep quantization
+corrupted buffer smear
+fractal glitch noise
+kaleidoscope glitch shards
+mirror trail duplication
+rolling pixelation bands
+vertical hold collapse
+horizontal hold slide
+ghosted field blending
+interlaced comb tearing
+digital bloom clipping
+ripple displacement glitch
+compression mosquito noise
+rainbow alias shimmer
+chroma crawl smear
+halftone breakup glitch
+stuttered motion tiles
+offset channel echoes
+lens swirl glitch
+pixel scatter burst
+color flicker pulses
+corrupted alpha holes
+dissolve scramble glitch
+garbled subtitle overlay
+bloom ghost trails
+waveform glitch stripes
+buffer rewind smear
+particle spray glitch
+frozen frame fragments
+diagonal shear tearing
+ghost frame overlays
+smear streak trailing
+dripping dissolve glitch
+looping buffer echo
+noise storm overlay
+neon edge glitch
+double exposure glitch
+radial push distortion
+warp tunnel glitch
+parallax shift jitter
+chroma prism fracture
+freeze mosaic breakup
+VHS dropout specks
+multi-exposure haze
+electric flicker jitter
+saturation bloom glitch
+pixel smear drag
+temporal echo stacking
+databurst streak glitch
+blocky ramp tearing
+channel swap flicker
+glitch bloom flare
+bitplane reveal glitch
+analog static smear
+corrupted caption jitter
+negative inversion flashes
+glow trail duplication
+datastream bleed
+wave warp distort
+pixel scramble vortex
+signal garble ripple
+compression block pop
+RGB split trail
+glitch smear ghost
+tearing seam artifact
+feedback loop bloom
+z-fighting shimmer
+quantized color steps
+offset mask glitch
+skip frame smear
+feedback delay trails
+noisy pixel jitter
+glitch spark shower
+glitch jitter haze

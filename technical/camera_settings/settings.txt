@@ -1,0 +1,61 @@
+f/1.4
+f/1.8
+f/2.8
+f/4.0
+f/5.6
+f/8.0
+f/11.0
+f/16.0
+f/22.0
+wide open aperture
+shallow depth of field
+deep depth of field
+bokeh background
+sharp background
+tack sharp
+soft focus
+selective focus
+hyperfocal distance
+macro focus
+infinity focus
+manual focus
+autofocus
+single point focus
+zone focus
+back button focus
+focus peaking
+focus stacking
+focus pulling
+rack focus
+split focus
+pull focus
+follow focus
+continuous autofocus
+single shot autofocus
+eye detection autofocus
+face detection autofocus
+subject tracking
+servo focus
+AI focus
+predictive focus
+burst mode
+single shot mode
+continuous shooting
+high speed sync
+slow sync
+rear curtain sync
+front curtain sync
+manual exposure
+aperture priority
+shutter priority
+program mode
+automatic mode
+bulb mode
+timer mode
+self timer
+interval timer
+bracketing
+exposure compensation
+highlight priority
+shadow priority
+dynamic range

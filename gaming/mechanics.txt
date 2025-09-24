@@ -1,0 +1,120 @@
+roguelite meta-progression
+deckbuilding synergies
+soulslike stamina management
+parry-and-riposte windows
+bullet hell pattern reading
+crafting with emergent recipes
+physics-based puzzles
+stealth light-and-shadow
+portal-linked traversal
+time rewind limited charges
+companion AI bonding
+dialogue dice checks
+morality sliders with factions
+survival hunger-thirst-temperature
+base building logistics
+automation conveyor networks
+terraforming feedback loops
+photo mode objectives
+permadeath with legacy
+asymmetric co-op roles
+diegetic HUD minimalism
+rhythm-based combat cues
+card-driven narrative choices
+procedural quest generation
+skill tree specializations
+combo meter rewards
+environmental storytelling triggers
+dynamic weather modifiers
+climbing stamina gauge
+glider traversal currents
+grappling hook momentum
+mount taming bonds
+pet evolution mechanics
+settlement diplomacy management
+resource node respawn cycles
+crafting mini-games
+branching reputation dialogue
+skill-shot timing windows
+stealth disguise blending
+noise meter stealth
+cover shooter vaulting
+destructible environment physics
+adaptive enemy AI squads
+stealth takedown chains
+reactive boss phases
+combo-based spell casting
+elemental reaction loops
+weapon durability decay
+suit customization perks
+gear set bonuses
+mod socket crafting
+blueprint discovery hunts
+research tech trees
+faction reputation economy
+caravan trading routes
+fishing mini-game physics
+cooking combo buffs
+rhythm lockpicking
+empathy dialogue prompts
+time dilation focus mode
+bullet time dodges
+paragliding wind currents
+procedural dungeon layouts
+settlement upgrade meta
+daily quest reset loops
+seasonal event rotations
+cross-class skill synergies
+mutation crafting systems
+territory control PVP
+guild raid coordination
+asynchronous multiplayer ghosts
+spectral investigation vision
+detective deduction board
+morality-driven endings
+time-of-day stealth windows
+notoriety wanted levels
+disguise heat meters
+hacking rhythm puzzles
+drone scouting gameplay
+scanning augmented overlays
+environmental hazard crafting
+hazard suit upgrades
+oxygen management loops
+gravitational sling travel
+exosuit boost jumps
+wall-running flow chains
+slide tackle combat
+dual-wield stance switching
+weapon stance system
+combo finisher prompts
+quicktime minimal inputs
+context-sensitive takedowns
+adaptive soundtrack combat
+procedural narrative seeds
+base defense tower building
+siege tower offense
+supply line management
+war table strategic planning
+morale buffs and debuffs
+weather-altered ammunition
+biome-specific survival rules
+crafting station bonuses
+portable workshop deployables
+artifact identification mini-game
+relic synergy loadouts
+AI companion command wheel
+formation tactics switching
+squad synergy combos
+cover destruction rebuilding
+shield bash parry loops
+stamina break mechanics
+deflection parry windows
+enemy stagger meters
+poise stability stats
+dodge roll i-frames
+context climbing handholds
+photogrammetry scanning puzzles
+blueprint puzzle assembly
+relic forging rituals
+cooperative puzzle locks

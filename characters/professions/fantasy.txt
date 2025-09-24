@@ -1,0 +1,80 @@
+Knight
+Paladin
+Warrior
+Barbarian
+Berserker
+Gladiator
+Samurai
+Ninja
+Monk
+Assassin
+Rogue
+Thief
+Archer
+Ranger
+Hunter
+Scout
+Wizard
+Mage
+Sorcerer
+Warlock
+Witch
+Enchanter
+Necromancer
+Druid
+Shaman
+Cleric
+Priest
+Priestess
+Oracle
+Prophet
+Sage
+Scholar
+Alchemist
+Blacksmith
+Armorer
+Weaponsmith
+Merchant
+Trader
+Innkeeper
+Tavern keeper
+Bard
+Minstrel
+Storyteller
+Healer
+Herbalist
+Apothecary
+King
+Queen
+Prince
+Princess
+Noble
+Lord
+Lady
+Duke
+Duchess
+Baron
+Baroness
+Knight-errant
+Crusader
+Templar
+Inquisitor
+Guard
+City watch
+Royal guard
+Captain
+General
+Admiral
+Pirate
+Corsair
+Buccaneer
+Smuggler
+Bandit
+Outlaw
+Mercenary
+Bounty hunter
+Explorer
+Adventurer
+Treasure hunter
+Grave robber
+Tomb raider

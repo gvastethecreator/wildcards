@@ -1,0 +1,111 @@
+artifact
+relic
+talisman
+fetish
+idol
+totem
+sigil
+glyph
+rune
+scroll
+codex
+grimoire
+palimpsest
+manuscript
+folio
+monolith
+obelisk
+stela
+stele
+cairn
+menhir
+dolmen
+keystone
+lintel
+portcullis
+portico
+colonnade
+cantilever
+trireme
+galley
+aerostat
+autogyro
+ornithopter
+mechanism
+contraption
+automaton
+golem
+homunculus
+android
+cyborg
+prosthetic
+exoskeleton
+nanomachine
+microchip
+qubit
+entangler
+tachyon emitter
+neutrino array
+fusion core
+antimatter bottle
+warp drive
+jump gate
+stasis field
+force field
+gravity well
+singularity engine
+chronometer
+orrery
+astrolabe
+sextant
+armillary sphere
+aether engine
+chrono gear
+astral compass
+void battery
+quantum rune
+seraphim circuit
+daemon core
+luminous array
+celestial engine
+ethereal module
+divination console
+oracle matrix
+spirit conduit
+soul capacitor
+reality anchor
+dimension gate
+phase portal
+time chamber
+mythic server
+legendarium drive
+totemic processor
+ritual interface
+spell lattice
+arcane generator
+eldritch relay
+shadow transmitter
+dream transceiver
+prophecy node
+ancestral archive
+mythos codex
+fable databank
+heroic algorithm
+sigil firewall
+wyrm core
+phoenix coil
+oracle crystal
+mystic lens
+astral gyroscope
+chrono stabilizer
+etheric antenna
+leyline tap
+mana turbine
+spirit gyroscope
+divine actuator
+destiny loom
+fate sequencer
+chronicle vault
+ritual engine
+soulforge drive
+mana capacitor

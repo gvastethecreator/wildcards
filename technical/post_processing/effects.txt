@@ -1,0 +1,20 @@
+color grading
+tone mapping
+HDR processing
+bloom effect
+lens distortion
+chromatic aberration
+vignetting
+film grain
+noise reduction
+sharpening
+blur effects
+depth of field
+bokeh
+motion blur
+light rays
+glare
+flare
+glow
+rim lighting
+ambient occlusion

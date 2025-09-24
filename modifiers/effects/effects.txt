@@ -1,0 +1,77 @@
+bokeh
+motion blur
+film grain
+lens flare
+vignette
+chromatic aberration
+bloom
+depth of field
+tilt-shift
+long exposure
+double exposure
+light leaks
+halation
+grain
+noise
+scanlines
+CRT filter
+VHS artifact
+glitch
+dispersion
+volumetric fog
+god rays
+rim light
+backlight
+silhouette
+high key lighting
+low key lighting
+afterimage ghosting
+anamorphic flare
+barrel distortion
+caustic highlights
+color bleed
+color grading
+cross processing
+defocus blur
+diffraction spikes
+distortion ripple
+dolly zoom
+double tone
+dream glow
+edge glow
+exposure bracketing
+film burn
+flicker noise
+freeze frame
+ghost trails
+glare bloom
+gobo projection
+gradient overlay
+heat haze
+hdr tonemapping
+holographic shimmer
+hue shift
+iridescent sheen
+kaleidoscope effect
+lens breathing
+lens distortion
+light painting
+light streaks
+light wrap
+long shadow
+monochrome wash
+motion trails
+night vision tint
+parallax shift
+particle overlay
+pixel sort glitch
+posterization
+prism split
+radial blur
+rainbow refraction
+ripple distortion
+scanline jitter
+soft focus
+spectral highlights
+starburst filter
+strobe lighting

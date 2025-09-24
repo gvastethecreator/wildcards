@@ -1,0 +1,483 @@
+arte conceptual
+concept art
+diseño conceptual
+visual development
+desarrollo visual
+pre-producción
+pre-production art
+production art
+keyframe
+key art
+arte clave
+storyboard
+animatic
+pre-visualización
+previsualization
+previs
+mood board
+tablero de mood
+color script
+script de color
+lighting study
+estudio de iluminación
+composition study
+estudio de composición
+thumbnail sketch
+boceto miniatura
+rough sketch
+boceto rough
+tight sketch
+boceto detallado
+final artwork
+arte final
+character design
+diseño de personajes
+character concept
+concepto de personaje
+character sheet
+hoja de personaje
+character turnaround
+vista de personaje
+expression sheet
+hoja de expresiones
+pose sheet
+hoja de poses
+gesture drawing
+dibujo gestual
+figure drawing
+dibujo de figura
+life drawing
+dibujo del natural
+anatomy study
+estudio anatómico
+muscle study
+estudio muscular
+skeleton study
+estudio esquelético
+proportions study
+estudio de proporciones
+silhouette design
+diseño de siluetas
+shape language
+lenguaje de formas
+design principles
+principios de diseño
+visual hierarchy
+jerarquía visual
+focal point
+punto focal
+center of interest
+centro de interés
+golden ratio
+proporción áurea
+rule of thirds
+regla de los tercios
+leading lines
+líneas guía
+framing
+encuadre
+negative space
+espacio negativo
+positive space
+espacio positivo
+balance
+equilibrio
+symmetry
+simetría
+asymmetry
+asimetría
+rhythm
+ritmo
+repetition
+repetición
+pattern
+patrón
+unity
+unidad
+variety
+variedad
+emphasis
+énfasis
+contrast
+contraste
+harmony
+armonía
+movement
+movimiento
+scale
+escala
+proportion
+proporción
+environment design
+diseño de ambientes
+environment concept
+concepto de ambiente
+background design
+diseño de fondos
+scenery design
+diseño de escenarios
+landscape design
+diseño de paisajes
+architectural design
+diseño arquitectónico
+interior design
+diseño de interiores
+set design
+diseño de sets
+matte painting
+pintura mate
+digital matte painting
+pintura mate digital
+photobashing
+photobash
+photo manipulation
+manipulación fotográfica
+digital painting
+pintura digital
+speed painting
+pintura rápida
+prop design
+diseño de objetos
+object design
+diseño de objetos
+asset design
+diseño de assets
+item design
+diseño de ítems
+weapon design
+diseño de armas
+armor design
+diseño de armaduras
+costume design
+diseño de vestuario
+fashion design
+diseño de moda
+creature design
+diseño de criaturas
+monster design
+diseño de monstruos
+alien design
+diseño de aliens
+fantasy creature design
+diseño de criaturas fantásticas
+animal design
+diseño de animales
+dragon design
+diseño de dragones
+robot design
+diseño de robots
+mecha design
+diseño de mechas
+vehicle design
+diseño de vehículos
+spaceship design
+diseño de naves espaciales
+car design
+diseño de automóviles
+aircraft design
+diseño de aeronaves
+architecture visualization
+visualización arquitectónica
+product visualization
+visualización de productos
+industrial design
+diseño industrial
+user interface design
+diseño de interfaz de usuario
+user experience design
+diseño de experiencia de usuario
+ui design
+diseño ui
+ux design
+diseño ux
+graphic design
+diseño gráfico
+logo design
+diseño de logos
+branding design
+diseño de marca
+packaging design
+diseño de empaque
+poster design
+diseño de carteles
+book cover design
+diseño de portadas
+magazine design
+diseño de revistas
+web design
+diseño web
+motion graphics
+gráficos en movimiento
+title sequence
+secuencia de títulos
+animation
+animación
+2d animation
+animación 2d
+3d animation
+animación 3d
+stop motion
+stop motion
+frame by frame
+cuadro por cuadro
+keyframe animation
+animación por keyframes
+tweening
+interpolación
+morphing
+transformación gradual
+rigging
+aparejo
+character rigging
+aparejo de personajes
+facial rigging
+aparejo facial
+motion capture
+captura de movimiento
+mocap
+performance capture
+captura de actuación
+rotoscoping
+rotoscopía
+compositing
+composición
+visual effects
+efectos visuales
+vfx
+special effects
+efectos especiales
+sfx
+digital compositing
+composición digital
+green screen
+pantalla verde
+blue screen
+pantalla azul
+chroma key
+croma
+matte extraction
+extracción de mate
+alpha channel
+canal alfa
+masking
+enmascarado
+rotoscope
+rotoscopía
+tracking
+seguimiento
+match moving
+igualación de movimiento
+camera tracking
+seguimiento de cámara
+object tracking
+seguimiento de objetos
+planar tracking
+seguimiento planar
+stabilization
+estabilización
+color correction
+corrección de color
+color grading
+gradación de color
+look development
+desarrollo de look
+lighting
+iluminación
+shading
+sombreado
+texturing
+texturizado
+material development
+desarrollo de materiales
+shader development
+desarrollo de shaders
+3d modeling
+modelado 3d
+hard surface modeling
+modelado de superficies duras
+organic modeling
+modelado orgánico
+character modeling
+modelado de personajes
+environment modeling
+modelado de ambientes
+architectural modeling
+modelado arquitectónico
+product modeling
+modelado de productos
+sculpting
+escultura digital
+digital sculpting
+escultura digital
+retopology
+retopología
+uv mapping
+mapeo uv
+texture painting
+pintura de texturas
+substance painting
+pintura en substance
+procedural texturing
+texturizado procedimental
+pbr texturing
+texturizado pbr
+physically based rendering
+renderizado físicamente basado
+ray tracing
+trazado de rayos
+global illumination
+iluminación global
+ambient occlusion
+oclusión ambiental
+subsurface scattering
+dispersión subsuperficial
+volumetric lighting
+iluminación volumétrica
+caustics
+cáusticos
+particle systems
+sistemas de partículas
+fluid simulation
+simulación de fluidos
+cloth simulation
+simulación de telas
+hair simulation
+simulación de cabello
+fur simulation
+simulación de pelaje
+fire simulation
+simulación de fuego
+smoke simulation
+simulación de humo
+destruction simulation
+simulación de destrucción
+rigid body dynamics
+dinámicas de cuerpos rígidos
+soft body dynamics
+dinámicas de cuerpos blandos
+crowd simulation
+simulación de multitudes
+procedural generation
+generación procedimental
+algorithmic art
+arte algorítmico
+generative art
+arte generativo
+parametric design
+diseño paramétrico
+fractal art
+arte fractal
+mathematical art
+arte matemático
+ai art
+arte de ia
+machine learning art
+arte de aprendizaje automático
+neural network art
+arte de redes neuronales
+deep learning art
+arte de aprendizaje profundo
+gan art
+arte gan
+style transfer
+transferencia de estilo
+neural style transfer
+transferencia de estilo neuronal
+text to image
+texto a imagen
+image to image
+imagen a imagen
+inpainting
+repintado
+outpainting
+pintura externa
+image synthesis
+síntesis de imágenes
+procedural art
+arte procedimental
+interactive art
+arte interactivo
+immersive art
+arte inmersivo
+virtual reality art
+arte de realidad virtual
+augmented reality art
+arte de realidad aumentada
+mixed reality art
+arte de realidad mixta
+projection mapping
+mapeo de proyección
+holographic art
+arte holográfico
+light art
+arte lumínico
+kinetic art
+arte cinético
+sound art
+arte sonoro
+bio art
+bio arte
+transgenic art
+arte transgénico
+robotic art
+arte robótico
+cybernetic art
+arte cibernético
+telematic art
+arte telemático
+net art
+arte de internet
+digital installation
+instalación digital
+media art
+arte de medios
+new media art
+arte de nuevos medios
+electronic art
+arte electrónico
+video art
+videoarte
+performance art
+arte de performance
+body art
+arte corporal
+land art
+land art
+earth art
+arte terrestre
+site specific art
+arte específico del sitio
+environmental art
+arte ambiental
+social practice art
+arte de práctica social
+relational art
+arte relacional
+institutional critique
+crítica institucional
+political art
+arte político
+activist art
+arte activista
+feminist art
+arte feminista
+queer art
+arte queer
+postcolonial art
+arte postcolonial
+outsider art
+arte outsider
+art brut
+arte bruto
+naive art
+arte naif
+folk art
+arte folclórico
+tribal art
+arte tribal
+ethnic art
+arte étnico
+primitive art
+arte primitivo
+indigenous art
+arte indígena

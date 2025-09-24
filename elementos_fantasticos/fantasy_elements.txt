@@ -1,0 +1,786 @@
+magical crystal
+enchanted gemstone
+mystic orb
+power stone
+soul gem
+spirit crystal
+ethereal shard
+astral fragment
+dimensional key
+portal stone
+teleportation crystal
+time shard
+space gem
+void stone
+chaos crystal
+order gem
+creation stone
+destruction shard
+life crystal
+death gem
+light stone
+shadow shard
+fire crystal
+ice gem
+lightning stone
+earth shard
+wind crystal
+water gem
+nature stone
+metal shard
+wood crystal
+poison gem
+healing stone
+mana crystal
+energy gem
+power core
+magical battery
+spell focus
+arcane catalyst
+ritual component
+alchemical reagent
+potion ingredient
+elixir base
+transmutation circle
+summoning pentagram
+binding rune
+protection ward
+spell scroll
+magic tome
+grimoire
+spellbook
+enchanted weapon
+cursed artifact
+blessed relic
+holy symbol
+divine favor
+celestial blessing
+angelic feather
+demon horn
+devil's contract
+faerie dust
+pixie powder
+unicorn hair
+dragon scale
+phoenix feather
+basilisk fang
+kraken tentacle
+troll blood
+giant's bone
+ogre tooth
+goblin ear
+orc tusk
+elf ear
+dwarf beard
+halfling foot
+gnome hat
+wizard staff
+sorcerer wand
+warlock rod
+witch broom
+druid grove
+ranger bow
+paladin sword
+cleric mace
+monk fist
+barbarian axe
+fighter shield
+rogue dagger
+bard lute
+necromancer skull
+summoner circle
+enchanter stone
+illusionist mirror
+diviner crystal ball
+oracle bones
+prophet scroll
+sage book
+scholar quill
+alchemist vial
+artificer tool
+inventor device
+tinkerer gadget
+engineer blueprint
+architect plan
+blacksmith forge
+weaponsmith anvil
+armorsmith hammer
+jeweler gem
+gemcutter tool
+goldsmith crucible
+silversmith tongs
+coppersmith bellows
+ironmonger stock
+merchant scale
+trader wagon
+explorer compass
+adventurer backpack
+treasure hunter map
+dungeon crawler torch
+monster slayer blade
+dragon hunter lance
+demon slayer cross
+undead hunter holy water
+vampire hunter stake
+werewolf hunter silver bullet
+ghost hunter salt
+spirit hunter incense
+phantom hunter light
+wraith hunter flame
+specter hunter candle
+banshee hunter bell
+lich hunter phylactery
+zombie hunter headshot
+skeleton hunter mace
+mummy hunter fire
+ghoul hunter blessing
+wight hunter sunlight
+revenant hunter peace
+shadow hunter radiance
+nightmare hunter dream catcher
+succubus hunter iron will
+incubus hunter pure heart
+demon hunter exorcism
+devil hunter holy ground
+fiend hunter divine weapon
+imp hunter tiny cage
+gargoyle hunter stone breaker
+golem hunter command word
+construct hunter shutdown code
+automaton hunter override
+clockwork hunter spring unwind
+mechanical hunter rust
+steam-powered hunter water
+gear-driven hunter jam
+crystal-powered hunter resonance
+magic-powered hunter dispel
+arcane construct hunter antimagic
+divine automaton hunter blasphemy
+infernal machine hunter holy water
+celestial clockwork hunter corruption
+abyssal gear hunter purification
+void mechanism hunter existence
+chaos engine hunter order
+order machine hunter entropy
+creation automaton hunter destruction
+destruction golem hunter creation
+life construct hunter death
+death machine hunter life
+light golem hunter darkness
+shadow automaton hunter illumination
+fire construct hunter ice
+ice machine hunter fire
+lightning golem hunter earth
+earth automaton hunter air
+air construct hunter water
+water machine hunter fire
+nature golem hunter civilization
+metal automaton hunter rust
+wood construct hunter fire
+stone machine hunter erosion
+crystal golem hunter vibration
+diamond automaton hunter pressure
+ruby construct hunter cold
+sapphire machine hunter heat
+emerald golem hunter discord
+topaz automaton hunter shadow
+amethyst construct hunter light
+quartz machine hunter resonance
+obsidian golem hunter reflection
+volcanic glass automaton hunter cooling
+ice crystal construct hunter heat
+snow machine hunter warmth
+frost golem hunter fire
+glacier automaton hunter time
+arctic construct hunter warmth
+tundra machine hunter green
+desert golem hunter water
+oasis automaton hunter drought
+mirage construct hunter reality
+sandstorm machine hunter calm
+hurricane golem hunter stillness
+tornado automaton hunter ground
+typhoon construct hunter land
+tsunami machine hunter mountain
+earthquake golem hunter stability
+volcano automaton hunter ice
+avalanche construct hunter heat
+blizzard machine hunter warmth
+thunderstorm golem hunter silence
+lightning construct hunter rubber
+thunder machine hunter quietude
+storm golem hunter calm
+tempest automaton hunter peace
+whirlwind construct hunter center
+gale machine hunter stillness
+breeze golem hunter vacuum
+wind automaton hunter barrier
+air current construct hunter blockage
+jet stream machine hunter diversion
+trade wind golem hunter stagnation
+monsoon automaton hunter drought
+chinook construct hunter cold
+sirocco machine hunter cool
+mistral golem hunter calm
+zephyr automaton hunter storm
+draft construct hunter seal
+gust machine hunter anchor
+squall golem hunter clearing
+downdraft automaton hunter updraft
+updraft construct hunter downdraft
+crosswind machine hunter headwind
+headwind golem hunter tailwind
+tailwind automaton hunter resistance
+thermal construct hunter cold
+convection machine hunter conduction
+circulation golem hunter stagnation
+ventilation automaton hunter suffocation
+breathing construct hunter choking
+respiration machine hunter asphyxiation
+oxygen golem hunter suffocation
+carbon dioxide automaton hunter oxygen
+nitrogen construct hunter reaction
+hydrogen machine hunter stability
+helium golem hunter weight
+neon automaton hunter darkness
+argon construct hunter reactivity
+krypton machine hunter escape
+xenon golem hunter commonness
+radon automaton hunter safety
+francium construct hunter stability
+cesium machine hunter hardness
+rubidium golem hunter brittleness
+potassium automaton hunter dryness
+sodium construct hunter water
+lithium machine hunter heaviness
+beryllium golem hunter fragility
+magnesium automaton hunter wetness
+calcium construct hunter softness
+strontium machine hunter lightness
+barium golem hunter transparency
+radium automaton hunter safety
+actinium construct hunter stability
+thorium machine hunter depletion
+protactinium golem hunter abundance
+uranium automaton hunter peace
+neptunium construct hunter discovery
+plutonium machine hunter creation
+americium golem hunter foreignness
+curium automaton hunter straightness
+berkelium construct hunter elsewhere
+californium machine hunter east coast
+einsteinium golem hunter stupidity
+fermium automaton hunter bosons
+mendelevium construct hunter disorder
+nobelium machine hunter ignobility
+lawrencium golem hunter illegality
+rutherfordium automaton hunter disrespect
+dubnium construct hunter certainty
+seaborgium machine hunter landlubber
+bohrium golem helper happiness
+hassium automaton lover peace
+meitnerium construct friend cooperation
+darmstadtium machine ally collaboration
+roentgenium golem partner partnership
+copernicium automaton companion friendship
+nihonium construct buddy solidarity
+flerovium machine pal unity
+moscovium golem chum harmony
+livermorium automaton mate accord
+tennessine construct fellow agreement
+oganesson machine comrade consensus
+element construct unknown discovery
+compound machine mixture separation
+molecule golem atom division
+atom automaton electron capture
+electron construct proton repulsion
+proton machine neutron instability
+neutron golem nucleus explosion
+nucleus automaton shell collapse
+shell construct orbital chaos
+orbital machine energy loss
+energy golem matter dissolution
+matter automaton space vacuum
+space construct time stop
+time machine dimension collapse
+dimension golem reality break
+reality automaton existence void
+existence construct being nothing
+being machine life death
+life golem birth end
+birth automaton growth decay
+growth construct development regression
+development machine progress retreat
+progress golem advancement decline
+advancement automaton improvement deterioration
+improvement construct enhancement degradation
+enhancement machine boost reduction
+boost golem increase decrease
+increase automaton multiplication division
+multiplication construct addition subtraction
+addition machine sum difference
+sum golem total partial
+total automaton complete incomplete
+complete construct whole broken
+whole machine entire fractured
+entire golem full empty
+full automaton maximum minimum
+maximum construct peak valley
+peak machine summit depth
+summit golem height low
+height automaton elevation depression
+elevation construct altitude descent
+altitude machine level drop
+level golem plane incline
+plane automaton surface void
+surface construct exterior interior
+exterior machine outside inside
+outside golem external internal
+external automaton outer inner
+outer construct peripheral central
+peripheral machine edge center
+edge golem border core
+border automaton boundary heart
+boundary construct limit freedom
+limit machine restriction liberty
+restriction golem constraint release
+constraint automaton confinement escape
+confinement construct imprisonment freedom
+imprisonment machine captivity liberation
+captivity golem bondage emancipation
+bondage automaton slavery freedom
+slavery construct servitude independence
+servitude machine subjugation autonomy
+subjugation golem oppression liberty
+oppression automaton suppression expression
+suppression construct repression release
+repression machine inhibition exhibition
+inhibition golem restraint display
+restraint automaton control chaos
+control construct command anarchy
+command machine order disorder
+order golem organization confusion
+organization automaton arrangement disarray
+arrangement construct structure collapse
+structure machine framework breakdown
+framework golem foundation destruction
+foundation automaton base removal
+base construct ground elevation
+ground machine earth sky
+earth golem soil air
+soil automaton dirt cleanliness
+dirt construct filth purity
+filth machine grime cleanliness
+grime golem muck clarity
+muck automaton slime solid
+slime construct ooze dryness
+ooze machine liquid gas
+liquid golem fluid solid
+fluid automaton flowing static
+flowing construct moving still
+moving machine active passive
+active golem energetic lethargic
+energetic automaton dynamic static
+dynamic construct changing constant
+changing machine variable fixed
+variable golem flexible rigid
+flexible automaton adaptable inflexible
+adaptable construct adjustable unyielding
+adjustable machine modifiable permanent
+modifiable golem alterable unchangeable
+alterable automaton mutable immutable
+mutable construct changeable stable
+changeable machine unstable steady
+unstable golem shaky firm
+shaky automaton wobbly solid
+wobbly construct unsteady stable
+unsteady machine precarious secure
+precarious golem dangerous safe
+dangerous automaton hazardous protected
+hazardous construct risky safe
+risky machine perilous secure
+perilous golem treacherous trustworthy
+treacherous automaton unreliable dependable
+unreliable construct undependable reliable
+undependable machine untrustworthy honest
+untrustworthy golem dishonest truthful
+dishonest automaton deceitful sincere
+deceitful construct fraudulent genuine
+fraudulent machine fake authentic
+fake golem false true
+false automaton incorrect correct
+incorrect construct wrong right
+wrong machine bad good
+bad golem evil virtue
+evil automaton wicked righteous
+wicked construct sinful pure
+sinful machine corrupt innocent
+corrupt golem tainted clean
+tainted automaton polluted pristine
+polluted construct contaminated pure
+contaminated machine infected healthy
+infected golem diseased well
+diseased automaton sick healthy
+sick construct ill well
+ill machine unwell fine
+unwell golem poor excellent
+poor automaton inadequate sufficient
+inadequate construct insufficient enough
+insufficient machine lacking abundant
+lacking golem missing present
+missing automaton absent here
+absent construct gone arrived
+gone machine departed returned
+departed golem left came
+left automaton went stayed
+went construct traveled remained
+traveled machine journeyed settled
+journeyed golem wandered established
+wandered automaton roamed fixed
+roamed construct explored confined
+explored machine discovered hidden
+discovered golem found lost
+found automaton located misplaced
+located construct positioned displaced
+positioned machine placed removed
+placed golem set taken
+set automaton established destroyed
+established construct founded ruined
+founded machine created destroyed
+created golem made unmade
+made automaton built demolished
+built construct constructed deconstructed
+constructed machine assembled disassembled
+assembled golem put together
+together automaton joined separated
+joined construct connected disconnected
+connected machine linked unlinked
+linked golem attached detached
+attached automaton fixed loose
+fixed construct repaired broken
+repaired machine mended damaged
+mended golem healed wounded
+healed automaton cured sick
+cured construct treated untreated
+treated machine helped hindered
+helped golem assisted opposed
+assisted automaton supported abandoned
+supported construct backed betrayed
+backed machine endorsed rejected
+endorsed golem approved disapproved
+approved automaton accepted refused
+accepted construct welcomed rejected
+welcomed machine embraced shunned
+embraced golem hugged pushed away
+hugged automaton held released
+held construct gripped let go
+gripped machine clutched loosened
+clutched golem grasped freed
+grasped automaton understood confused
+understood construct comprehended misunderstood
+comprehended machine realized missed
+realized golem appreciated undervalued
+appreciated automaton valued worthless
+valued construct precious worthless
+precious machine valuable cheap
+valuable golem expensive inexpensive
+expensive automaton costly affordable
+costly construct dear cheap
+dear machine beloved hated
+beloved golem loved despised
+loved automaton adored rejected
+adored construct cherished abandoned
+cherished machine treasured discarded
+treasured golem prized worthless
+prized automaton awarded taken
+awarded construct given received
+given machine offered refused
+offered golem presented hidden
+presented automaton shown concealed
+shown construct displayed hidden
+displayed machine exhibited concealed
+exhibited golem demonstrated hidden
+demonstrated automaton proved disproved
+proved construct confirmed denied
+confirmed machine verified falsified
+verified golem validated invalidated
+validated automaton authenticated fake
+authenticated construct genuine false
+genuine machine real imaginary
+real golem actual fictional
+actual automaton factual mythical
+factual construct true false
+true machine honest dishonest
+honest golem truthful lying
+truthful automaton sincere insincere
+sincere construct genuine fake
+genuine machine authentic artificial
+authentic golem original copy
+original automaton unique common
+unique construct rare abundant
+rare machine uncommon usual
+uncommon golem unusual normal
+unusual automaton strange familiar
+strange construct weird normal
+weird machine odd even
+odd golem peculiar ordinary
+peculiar automaton bizarre normal
+bizarre construct freaky normal
+freaky machine creepy comforting
+creepy golem scary reassuring
+scary automaton frightening calming
+frightening construct terrifying soothing
+terrifying machine horrifying comforting
+horrifying golem dreadful wonderful
+dreadful automaton awful wonderful
+awful construct terrible great
+terrible machine horrible fantastic
+horrible golem ghastly beautiful
+ghastly automaton gruesome lovely
+gruesome construct grisly pleasant
+grisly machine macabre cheerful
+macabre golem morbid lively
+morbid automaton gloomy bright
+gloomy construct dark light
+dark machine dim bright
+dim golem faint clear
+faint automaton weak strong
+weak construct feeble powerful
+feeble machine frail robust
+frail golem delicate sturdy
+delicate automaton fragile durable
+fragile construct breakable unbreakable
+breakable machine destructible indestructible
+destructible golem vulnerable invulnerable
+vulnerable automaton exposed protected
+exposed construct open closed
+open machine accessible restricted
+accessible golem available unavailable
+available automaton obtainable unobtainable
+obtainable construct achievable impossible
+achievable machine possible impossible
+possible golem feasible unfeasible
+feasible automaton practical impractical
+practical construct useful useless
+useful machine helpful harmful
+helpful golem beneficial detrimental
+beneficial automaton advantageous disadvantageous
+advantageous construct profitable unprofitable
+profitable machine lucrative costly
+lucrative golem rewarding unrewarding
+rewarding automaton satisfying disappointing
+satisfying construct fulfilling empty
+fulfilling machine complete incomplete
+complete golem whole partial
+whole automaton entire fractional
+entire construct total minimal
+total machine full empty
+full golem maximum minimum
+maximum automaton peak bottom
+peak construct summit valley
+summit machine top bottom
+top golem highest lowest
+highest automaton uppermost lowermost
+uppermost construct superior inferior
+superior machine better worse
+better golem improved degraded
+improved automaton enhanced diminished
+enhanced construct boosted reduced
+boosted machine amplified decreased
+amplified golem magnified minimized
+magnified automaton enlarged reduced
+enlarged construct expanded contracted
+expanded machine increased decreased
+increased golem multiplied divided
+multiplied automaton added subtracted
+added construct plus minus
+plus machine positive negative
+positive golem optimistic pessimistic
+optimistic automaton hopeful hopeless
+hopeful construct confident doubtful
+confident machine certain uncertain
+certain golem sure unsure
+sure automaton definite indefinite
+definite construct clear unclear
+clear machine obvious obscure
+obvious golem evident hidden
+evident automaton apparent concealed
+apparent construct visible invisible
+visible machine seen unseen
+seen golem observed unobserved
+observed automaton watched unwatched
+watched construct monitored unmonitored
+monitored machine tracked untracked
+tracked golem followed abandoned
+followed automaton pursued escaped
+pursued construct chased caught
+chased machine hunted protected
+hunted golem sought found
+sought automaton searched discovered
+searched construct looked missed
+looked machine gazed ignored
+gazed golem stared glanced
+stared automaton peered looked away
+peered construct squinted opened wide
+squinted machine narrowed widened
+narrowed golem constricted expanded
+constricted automaton tightened loosened
+tightened construct compressed expanded
+compressed machine squeezed released
+squeezed golem pressed unpressed
+pressed automaton pushed pulled
+pushed construct shoved attracted
+shoved machine forced invited
+forced golem compelled allowed
+compelled automaton obligated freed
+obligated construct required optional
+required machine necessary unnecessary
+necessary golem essential nonessential
+essential automaton vital unimportant
+vital construct critical insignificant
+critical machine crucial trivial
+crucial golem important unimportant
+important automaton significant insignificant
+significant construct meaningful meaningless
+meaningful machine purposeful purposeless
+purposeful golem intentional accidental
+intentional automaton deliberate unintentional
+deliberate construct planned spontaneous
+planned machine organized chaotic
+organized golem structured unstructured
+structured automaton systematic random
+systematic construct methodical haphazard
+methodical machine orderly disorderly
+orderly golem neat messy
+neat automaton tidy untidy
+tidy construct clean dirty
+clean machine pure impure
+pure golem innocent guilty
+innocent automaton blameless culpable
+blameless construct faultless faulty
+faultless machine perfect imperfect
+perfect golem flawless flawed
+flawless automaton ideal realistic
+ideal construct perfect imperfect
+perfect machine complete incomplete
+complete golem finished unfinished
+finished automaton done undone
+done construct accomplished failed
+accomplished machine achieved missed
+achieved golem succeeded failed
+succeeded automaton won lost
+won construct conquered surrendered
+conquered machine dominated liberated
+dominated golem controlled freed
+controlled automaton directed misdirected
+directed construct guided misguided
+guided machine led misled
+led golem conducted followed
+conducted automaton managed mismanaged
+managed construct organized disorganized
+organized golem arranged disarranged
+arranged automaton coordinated uncoordinated
+coordinated construct synchronized unsynchronized
+synchronized machine harmonized conflicted
+harmonized golem balanced unbalanced
+balanced automaton stable unstable
+stable construct steady unsteady
+steady machine firm shaky
+firm golem solid liquid
+solid automaton hard soft
+hard construct tough tender
+tough machine strong weak
+strong golem powerful powerless
+powerful automaton mighty feeble
+mighty construct formidable harmless
+formidable machine intimidating encouraging
+intimidating golem scary comforting
+scary automaton frightening reassuring
+frightening construct terrifying calming
+terrifying machine horrifying soothing
+horrifying golem appalling appealing
+appalling automaton shocking pleasant
+shocking construct surprising expected
+surprising machine unexpected anticipated
+unexpected golem unanticipated predicted
+unanticipated automaton unforeseen foreseen
+unforeseen construct unpredictable predictable
+unpredictable machine random ordered
+random golem chaotic organized
+chaotic automaton disordered ordered
+disordered construct confused clear
+confused machine unclear obvious
+unclear golem ambiguous definite
+ambiguous automaton vague specific
+vague construct indefinite precise
+indefinite machine uncertain sure
+uncertain golem doubtful confident
+doubtful automaton skeptical believing
+skeptical construct suspicious trusting
+suspicious machine distrustful trusting
+distrustful golem unreliable dependable
+unreliable automaton undependable reliable
+undependable construct untrustworthy honest
+untrustworthy machine dishonest truthful
+dishonest golem deceitful sincere
+deceitful automaton lying honest
+lying construct false true
+false machine fake genuine
+fake golem artificial natural
+artificial automaton synthetic organic
+synthetic construct manufactured grown
+manufactured machine produced created
+produced golem generated destroyed
+generated automaton created annihilated
+created construct made unmade
+made machine built demolished
+ancient rune tablet
+arcane capacitor
+astral beacon
+aurora crystal
+blood rune
+celestial compass
+chimeric essence
+chronomancer hourglass
+clairvoyant mirror
+crystallized mana
+cursed grimoire shard
+dragon heartstone
+elemental prism
+ember shard
+enchanted gauntlet
+etheric lantern
+everfrost shard
+fae binding circle
+ghostlight lantern
+golem core
+gravity rune
+healing spring vial
+hero's sigil
+illusion veil
+inferno orb
+lunar relic
+magus sigil
+mythic codex
+nebula vial
+nightshade charm
+phoenix ash
+prismatic shard
+quantum rune
+runic keystone
+sacred chalice
+shadow veil
+soulbound ring
+spellbinding locket
+spirit lantern
+starlight vial
+stormcaller totem
+sunstone relic
+temporal anchor
+tidal pearl
+twilight crystal
+void lantern
+warding charm
+wyrm scale mail
+zephyr talisman
+astral anchor

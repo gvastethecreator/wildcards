@@ -1,0 +1,139 @@
+cybersecurity threats
+ransomware attacks
+phishing campaigns
+social engineering
+identity theft
+data breaches
+password cracking
+brute force attacks
+dictionary attacks
+rainbow table attacks
+keylogger malware
+trojan horses
+rootkits
+botnets
+DDoS attacks
+man-in-the-middle
+SQL injection
+cross-site scripting
+buffer overflow
+privilege escalation
+zero-day exploits
+advanced persistent threats
+nation-state actors
+cyber warfare
+information warfare
+propaganda campaigns
+disinformation spread
+deepfake technology
+synthetic media
+manipulated videos
+audio synthesis
+voice cloning
+facial reenactment
+neural talking heads
+generative adversarial networks
+style transfer
+domain adaptation
+few-shot learning
+meta-learning
+continual learning
+catastrophic forgetting
+neural architecture search
+automated machine learning
+hyperparameter optimization
+model compression
+knowledge distillation
+pruning algorithms
+quantization techniques
+federated learning
+differential privacy
+homomorphic encryption
+secure multiparty computation
+zero-knowledge proofs
+blockchain consensus
+proof of work
+proof of stake
+proof of space
+proof of history
+practical byzantine fault
+tendermint consensus
+ouroboros protocol
+avalanche consensus
+algorand consensus
+tezos liquid proof
+cardano ouroboros
+polkadot nominated proof
+cosmos inter-blockchain
+ethereum 2.0
+layer 2 scaling
+optimistic rollups
+zero-knowledge rollups
+state channels
+plasma chains
+sidechains
+cross-chain bridges
+atomic swaps
+decentralized exchanges
+automated market makers
+liquidity pools
+yield farming
+staking rewards
+governance tokens
+decentralized autonomous organizations
+smart contracts
+solidity programming
+vyper language
+rust programming
+move language
+cairo language
+noir language
+circom circuits
+zokrates toolkit
+snarkjs library
+bulletproofs
+STARKs
+SNARKs
+plonk protocol
+marlin protocol
+sonic protocol
+groth16 proving
+fiat-shamir heuristic
+random oracle model
+commitment schemes
+merkle trees
+patricia tries
+bloom filters
+cryptographic accumulators
+verifiable delay functions
+threshold cryptography
+multi-signature schemes
+ring signatures
+blind signatures
+group signatures
+attribute-based encryption
+functional encryption
+proxy re-encryption
+searchable encryption
+fully homomorphic encryption
+somewhat homomorphic encryption
+leveled homomorphic encryption
+bootstrapping procedures
+noise management
+lattice-based cryptography
+learning with errors
+ring learning with errors
+module learning with errors
+shortest vector problem
+closest vector problem
+unique shortest vector
+approximate shortest vector
+NTRU cryptosystem
+kyber key encapsulation
+dilithium signatures
+falcon signatures
+sphincs+ signatures
+post-quantum cryptography
+quantum-resistant algorithms
+quantum key distribution
+quantum random number generation

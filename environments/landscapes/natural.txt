@@ -1,0 +1,64 @@
+Mountain peak
+Rolling hills
+Dense forest
+Tropical rainforest
+Desert dunes
+Sandy beach
+Rocky coastline
+Coral reef
+Volcanic crater
+Lush valley
+Meadow
+Prairie
+Tundra
+Glacier
+Iceberg
+Waterfall
+River
+Lake
+Pond
+Stream
+Canyon
+Cliff
+Cave
+Cavern
+Underground tunnel
+Archipelago
+Island
+Peninsula
+Fjord
+Plateau
+Savanna
+Steppe
+Wetlands
+Marsh
+Swamp
+Mangrove
+Bamboo forest
+Pine forest
+Oak forest
+Birch forest
+Redwood forest
+Jungle clearing
+Oasis
+Salt flats
+Badlands
+Mesas
+Buttes
+Geysers
+Hot springs
+Lava field
+Crater lake
+Alpine lake
+Mountain stream
+Frozen lake
+Ice cave
+Snow-covered peaks
+Wildflower field
+Lavender field
+Sunflower field
+Wheat field
+Vineyard
+Orchard
+Garden
+Zen garden

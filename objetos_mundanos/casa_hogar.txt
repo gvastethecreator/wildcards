@@ -1,0 +1,724 @@
+lámpara de mesa
+lámpara de pie
+lámpara de techo
+araña de cristal
+candelabro
+vela aromática
+vela de cera
+portavelas
+candelero
+farol
+linterna
+bombilla
+foco led
+tubo fluorescente
+halógeno
+reflector
+aplique de pared
+luz nocturna
+lámpara de lava
+lámpara de sal
+guirnalda de luces
+luces de navidad
+interruptor
+dimmer
+regulador de luz
+enchufe
+alargador
+cable eléctrico
+regleta
+fusible
+cortacircuitos
+cuadro eléctrico
+contador de luz
+medidor eléctrico
+multímetro
+destornillador
+martillo
+llave inglesa
+alicates
+tenazas
+sierra
+serrucho
+taladro
+broca
+tornillo
+clavo
+tuerca
+arandela
+pegamento
+silicona
+masilla
+pintura
+brocha
+rodillo
+bandeja de pintura
+escalera
+andamio
+cinta métrica
+nivel
+regla
+escuadra
+compás
+lápiz
+bolígrafo
+marcador
+rotulador
+pluma
+tinta
+papel
+cuaderno
+libreta
+agenda
+calendario
+reloj de pared
+reloj despertador
+cronómetro
+temporizador
+teléfono fijo
+teléfono móvil
+smartphone
+tablet
+ordenador
+portátil
+monitor
+pantalla
+teclado
+ratón
+altavoces
+auriculares
+micrófono
+cámara
+webcam
+impresora
+escáner
+router
+modem
+cable usb
+cargador
+batería
+pila
+fuente de alimentación
+ventilador
+aire acondicionado
+calefactor
+radiador
+estufa
+chimenea
+termómetro
+termostato
+humidificador
+deshumidificador
+purificador de aire
+aspiradora
+escoba
+fregona
+cubo
+bayeta
+trapo
+esponja
+cepillo
+estropajo
+detergente
+jabón
+lejía
+desinfectante
+limpiador
+producto de limpieza
+guantes de goma
+delantal
+uniforme de limpieza
+carrito de limpieza
+plumero
+cristalero
+limpiacristales
+pulverizador
+atomizador
+spray
+botella de plástico
+botella de cristal
+jarra
+vaso
+copa
+taza
+platillo
+plato
+cuenco
+bol
+bandeja
+fuente
+ensaladera
+escurridor
+colador
+embudo
+exprimidor
+batidora
+licuadora
+robot de cocina
+microondas
+horno
+cocina
+placa de inducción
+vitrocerámica
+gas
+campana extractora
+frigorífico
+congelador
+lavavajillas
+lavadora
+secadora
+plancha
+tabla de planchar
+cesta de la ropa
+percha
+armario
+ropero
+cómoda
+cajonera
+estantería
+librería
+mesa
+silla
+sillón
+sofá
+butaca
+mecedora
+taburete
+banco
+cama
+colchón
+almohada
+cojín
+manta
+edredón
+sábana
+funda
+cortina
+persiana
+estor
+toldo
+alfombra
+moqueta
+parquet
+baldosa
+azulejo
+suelo laminado
+papel pintado
+pintura mural
+cuadro
+póster
+fotografía
+espejo
+marco
+jarrón
+florero
+maceta
+planta
+flor artificial
+figura decorativa
+adorno
+pisapapeles
+cenicero
+paragüero
+perchero
+recibidor
+zapatero
+felpudo
+timbre
+mirilla
+cerradura
+llave
+candado
+pestillo
+cadena de seguridad
+alarma
+detector de humo
+extintor
+botiquín
+termómetro médico
+tensiómetro
+báscula
+peso
+medicina
+pastilla
+jarabe
+vendaje
+tirita
+alcohol
+agua oxigenada
+algodón
+gasas
+esparadrapo
+tijeras
+pinzas
+cuchillo
+tenedor
+cuchara
+cucharilla
+cuchillo de mesa
+cuchillo de cocina
+tabla de cortar
+abrelatas
+sacacorchos
+pelador
+rallador
+mortero
+rodillo de cocina
+molde
+bandeja de horno
+papel de aluminio
+papel film
+bolsa de basura
+cubo de basura
+papelera
+reciclaje
+contenedor
+cesto
+canasta
+caja
+cartón
+sobre
+paquete
+regalo
+lazo
+cinta
+papel de regalo
+tarjeta
+postal
+carta
+sello
+buzón
+cartera
+bolso
+mochila
+maleta
+equipaje
+paraguas
+sombrilla
+gafas
+gafas de sol
+lentes
+montura
+cristal
+lupa
+microscopio
+telescopio
+prismáticos
+binoculares
+brújula
+mapa
+atlas
+guía
+manual
+diccionario
+enciclopedia
+libro
+revista
+periódico
+catálogo
+folleto
+prospecto
+cartel
+anuncio
+publicidad
+volante
+octavilla
+etiqueta
+pegatina
+adhesivo
+chincheta
+clip
+grapa
+grapadora
+perforadora
+sacapuntas
+goma de borrar
+corrector
+pegamento en barra
+cinta adhesiva
+celo
+precinto
+sello
+tampón
+almohadilla
+tinta china
+carboncillo
+pastel
+lápiz de color
+acuarela
+óleo
+acrílico
+pincel
+paleta
+lienzo
+bastidor
+caballete
+papel de dibujo
+bloc
+sketchbook
+carpeta
+archivador
+clasificador
+separador
+índice
+ficha
+tarjetero
+agenda telefónica
+listín
+directorio
+guía telefónica
+calculadora
+ábaco
+regla de cálculo
+transportador
+compás de dibujo
+escuadra de dibujo
+cartabón
+plantilla
+estarcido
+molde de letras
+rotulador técnico
+tiralíneas
+estilógrafo
+plumilla
+portaplumas
+tintero
+secante
+papel carbón
+multicopista
+fotocopiadora
+plastificadora
+destructora de papel
+mesa de oficina
+silla de oficina
+archivador metálico
+caja fuerte
+cerradura de combinación
+bandeja de entrada
+bandeja de salida
+dispensador de cinta
+soporte para folios
+atril
+pizarra
+tiza
+borrador
+rotulador de pizarra
+panel de corcho
+tablón de anuncios
+chinchetas de colores
+marcador fluorescente
+subrayador
+código de barras
+lectora de código
+datáfono
+caja registradora
+ticket
+factura
+albarán
+presupuesto
+contrato
+formulario
+impreso
+solicitud
+instancia
+certificado
+diploma
+título
+carnet
+documento de identidad
+pasaporte
+visado
+permiso
+licencia
+autorización
+acreditación
+credencial
+tarjeta de visita
+tarjeta de presentación
+membrete
+sello de empresa
+logo
+marca
+emblema
+escudo
+bandera
+estandarte
+gallardete
+mástil
+asta
+poste
+señal
+cartel indicativo
+placa
+rótulo
+letrero
+luminoso
+neón
+pantalla publicitaria
+valla publicitaria
+marquesina
+toldo publicitario
+stand
+expositor
+mostrador
+vitrina
+escaparate
+maniquí
+percha de tienda
+etiqueta de precio
+código de barras
+scanner
+lector óptico
+terminal de pago
+pos
+tarjeta de crédito
+tarjeta de débito
+monedero
+billetera
+cartera de dinero
+bolsa de dinero
+hucha
+alcancía
+caja de ahorros
+cuenta bancaria
+libreta de ahorros
+talonario
+cheque
+pagaré
+letra de cambio
+recibo
+justificante
+comprobante
+vale
+cupón
+descuento
+oferta
+promoción
+rebaja
+liquidación
+saldo
+inventario
+stock
+almacén
+depósito
+bodega
+estantería industrial
+palet
+carretilla
+transpaleta
+montacargas
+ascensor
+elevador
+escalera mecánica
+rampa
+barandilla
+pasamanos
+escalón
+peldaño
+escalera de mano
+escalera plegable
+andamio tubular
+plataforma elevadora
+grúa
+polipasto
+torno
+cabrestante
+polea
+cuerda
+cable de acero
+cadena
+eslabón
+grillete
+mosquetón
+gancho
+anzuelo
+sedal
+caña de pescar
+carrete
+red
+nasa
+arpón
+remo
+pala
+timón
+ancla
+boya
+chaleco salvavidas
+flotador
+tabla de surf
+vela
+mástil de barco
+casco
+quilla
+proa
+popa
+babor
+estribor
+cubierta
+bodega de barco
+camarote
+litera
+hamaca
+saco de dormir
+tienda de campaña
+camping
+mochila de montaña
+cantimplora
+termo
+linterna frontal
+brújula de orientación
+mapa topográfico
+gps
+walkie talkie
+radio
+transistor
+antena
+receptor
+emisor
+transmisor
+amplificador
+ecualizador
+mesa de mezclas
+micrófono inalámbrico
+cascos profesionales
+monitor de estudio
+altavoz profesional
+subwoofer
+tweeter
+crossover
+cable jack
+cable xlr
+interfaz de audio
+tarjeta de sonido
+software de audio
+daw
+sampler
+sintetizador
+teclado musical
+piano
+guitarra
+bajo
+batería
+percusión
+maracas
+pandero
+tambor
+bombo
+caja
+platos
+baquetas
+púa
+cejilla
+afinador
+metrónomo
+partitura
+pentagrama
+nota musical
+clave de sol
+clave de fa
+compás musical
+tempo
+ritmo
+melodía
+armonía
+acorde
+escala
+tono
+semitono
+octava
+frecuencia
+amplitud
+volumen
+ganancia
+reverb
+delay
+echo
+chorus
+distorsión
+overdrive
+fuzz
+wah
+phaser
+flanger
+filtro
+compresor
+limitador
+gate
+expander
+noise gate
+efecto
+pedal
+pedalboard
+rack
+flight case
+funda
+estuche
+atril de música
+silla de músico
+banqueta de piano
+taburete regulable
+pie de micrófono
+pie de plato
+soporte de guitarra
+colgador
+correa
+cable de instrumento
+jack
+adaptador
+splitter
+direct box
+reamping box
+looper
+sampler hardware
+drum machine
+caja de ritmos
+secuenciador
+groove box
+workstation
+piano digital
+órgano
+hammond
+theremin
+didgeridoo
+flauta
+piccolo
+clarinete
+oboe
+fagot
+saxofón
+trompeta
+trombón
+tuba
+trompa
+corno
+violin
+viola
+violonchelo
+contrabajo
+arco
+cuerdas
+pica
+barbada
+mentón
+hombrera
+sordina
+afinador de cuerda
+resina
+paño de limpieza
+aceite para instrumentos
+lubricante
+cera
+polish
+limpiador
+conservante
+antiestático
+deshumidificador
+humidificador
+estuche rígido
+funda blanda
+trolley musical
+rack portátil
+mesa plegable
+silla plegable
+atril plegable
+soporte plegable

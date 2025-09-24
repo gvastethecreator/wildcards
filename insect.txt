@@ -1,0 +1,111 @@
+Ant
+Bee
+Hornet
+Wasp
+Beetle
+Grasshopper
+Butterfly
+Fly
+Dragonfly
+Cicada
+Spider
+Mosquito
+Bug
+Termite
+Flea
+Tick
+Cockroach
+Moth
+Cricket
+Crustacean
+Millipede
+Woodlouse
+Worm
+Bee Wolf
+Ladybug
+Earwig
+Praying Mantis
+Water Strider
+Bumblebee
+Honeybee
+Carpenter Bee
+Leafcutter Bee
+Mason Bee
+Sweat Bee
+Yellowjacket
+Fire Ant
+Carpenter Ant
+Army Ant
+Leafcutter Ant
+Harvester Ant
+Stag Beetle
+Rhinoceros Beetle
+Weevil
+Scarab Beetle
+June Bug
+Ground Beetle
+Tiger Beetle
+Rove Beetle
+Longhorn Beetle
+Click Beetle
+Diving Beetle
+Whirligig Beetle
+Firefly
+Housefly
+Fruit Fly
+Horsefly
+Deer Fly
+Crane Fly
+Robber Fly
+Hover Fly
+Tsetse Fly
+Blow Fly
+Flesh Fly
+Gnat
+Midge
+Black Fly
+Sand Fly
+Damselfly
+Mayfly
+Caddisfly
+Lacewing
+Antlion
+Dobsonfly
+Fishfly
+Alderfly
+Scorpionfly
+Snakefly
+Barklouse
+Booklouse
+Psocid
+Webspinner
+Zorapteran
+Gladiator Bug
+Heel Walker
+Rock Crawler
+Ice Crawler
+Grylloblattid
+Mantophasmatid
+Stick Insect
+Walking Stick
+Leaf Insect
+Katydid
+Locust
+Aphid
+Scale Insect
+Mealybug
+Whitefly
+Thrips
+Silverfish
+Firebrat
+Springtail
+Bed Bug
+Louse
+Stick Mantis
+Leaf Mantis
+Flower Mantis
+Orchid Mantis
+Devil's Flower Mantis
+Ghost Mantis
+Violin Mantis
+Dead Leaf Mantis

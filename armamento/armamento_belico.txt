@@ -1,0 +1,440 @@
+AK-47
+M16 assault rifle
+MP5 submachine gun
+Barrett M82 sniper rifle
+RPG-7 rocket launcher
+M4 carbine
+Uzi submachine gun
+Desert Eagle pistol
+Glock 19 pistol
+AR-15 rifle
+FN SCAR rifle
+HK416 assault rifle
+M249 SAW machine gun
+M240 machine gun
+.50 cal heavy machine gun
+Remington 870 shotgun
+Mossberg 500 shotgun
+Benelli M4 shotgun
+CheyTac M200 sniper rifle
+PSG1 sniper rifle
+AWP sniper rifle
+SVD Dragunov sniper rifle
+M24 sniper rifle
+Winchester Model 70 rifle
+Mauser rifle
+Lee-Enfield rifle
+Thompson submachine gun
+Sten gun
+PPSh-41 submachine gun
+Kalashnikov rifle
+FN P90 submachine gun
+Steyr AUG rifle
+FAMAS rifle
+G36 assault rifle
+TAR-21 rifle
+IWI Tavor rifle
+SIG SG 550 rifle
+M1 Garand rifle
+M14 rifle
+FN FAL rifle
+G3 battle rifle
+AK-74 rifle
+Makarov pistol
+Beretta M9 pistol
+Colt 1911 pistol
+Sig Sauer P226 pistol
+H&K USP pistol
+Walther P99 pistol
+CZ-75 pistol
+Luger P08 pistol
+Webley revolver
+Colt Python revolver
+Smith & Wesson revolver
+Magnum revolver
+.44 Magnum
+.357 Magnum
+9mm Parabellum
+.45 ACP
+5.56 NATO
+7.62x39
+.308 Winchester
+.338 Lapua
+.50 BMG
+12 gauge
+20 gauge
+.410 bore
+combat rifle
+assault weapon
+battle rifle
+marksman rifle
+anti-materiel rifle
+carbine weapon
+bullpup rifle
+bolt-action rifle
+semi-automatic rifle
+fully automatic rifle
+burst fire weapon
+selective fire weapon
+tactical rifle
+military carbine
+police carbine
+civilian rifle
+hunting rifle
+sporting rifle
+precision rifle
+long-range rifle
+close-quarters weapon
+room clearing weapon
+urban combat weapon
+field rifle
+patrol rifle
+designated marksman rifle
+squad automatic weapon
+light machine gun
+general purpose machine gun
+heavy machine gun
+crew-served weapon
+mounted weapon
+vehicle weapon
+aircraft gun
+naval gun
+artillery piece
+mortar
+howitzer
+cannon
+tank gun
+anti-tank gun
+anti-aircraft gun
+flak gun
+autocannon
+chain gun
+minigun
+gatling gun
+rotary cannon
+recoilless rifle
+grenade launcher
+rocket launcher
+missile launcher
+bazooka
+panzerfaust
+javelin missile
+stinger missile
+hellfire missile
+TOW missile
+ATGM
+SAM
+surface-to-air missile
+air-to-air missile
+cruise missile
+ballistic missile
+ICBM
+nuclear warhead
+conventional warhead
+explosive warhead
+armor-piercing round
+hollow point bullet
+tracer round
+incendiary round
+frangible round
+subsonic ammunition
+supersonic ammunition
+high-velocity round
+low-velocity round
+match-grade ammunition
+military surplus ammo
+combat load
+tactical gear
+military equipment
+special forces weapon
+commando weapon
+ranger weapon
+navy seal weapon
+delta force weapon
+special operations weapon
+black ops weapon
+covert weapon
+classified weapon
+experimental weapon
+prototype weapon
+futuristic weapon
+sci-fi weapon
+alien weapon
+energy weapon
+plasma weapon
+laser weapon
+particle beam
+rail gun
+coil gun
+electromagnetic weapon
+directed energy weapon
+non-lethal weapon
+less-lethal weapon
+stun gun
+taser
+pepper spray
+tear gas
+riot control weapon
+crowd control weapon
+water cannon
+rubber bullet gun
+bean bag gun
+flashbang grenade
+smoke grenade
+tear gas grenade
+stun grenade
+fragmentation grenade
+incendiary grenade
+thermite grenade
+white phosphorus grenade
+napalm weapon
+flamethrower
+flame unit
+incendiary device
+explosive device
+improvised explosive device
+IED
+roadside bomb
+car bomb
+suicide vest
+time bomb
+remote detonated bomb
+pressure plate bomb
+tripwire bomb
+booby trap
+land mine
+anti-personnel mine
+anti-tank mine
+claymore mine
+bouncing betty
+explosive charge
+demolition charge
+breaching charge
+shaped charge
+C4 explosive
+TNT
+dynamite
+plastic explosive
+semtex
+composition B
+RDX
+PETN
+nitroglycerin
+black powder
+gunpowder
+cordite
+smokeless powder
+propellant charge
+rocket fuel
+solid fuel
+liquid fuel
+oxidizer
+fuel mixture
+binary explosive
+chemical weapon
+biological weapon
+radiological weapon
+dirty bomb
+WMD
+weapon of mass destruction
+unconventional weapon
+asymmetric weapon
+guerrilla weapon
+insurgent weapon
+terrorist weapon
+homemade weapon
+improvised weapon
+zip gun
+pipe bomb
+molotov cocktail
+nail bomb
+shrapnel device
+pressure cooker bomb
+fertilizer bomb
+truck bomb
+VBIED
+vehicle-borne improvised explosive device
+suicide attack weapon
+kamikaze weapon
+one-way attack munition
+loitering munition
+drone weapon
+unmanned weapon
+autonomous weapon
+robotic weapon
+AI weapon
+smart weapon
+guided weapon
+precision-guided munition
+smart bomb
+laser-guided bomb
+GPS-guided weapon
+satellite-guided weapon
+fire-and-forget weapon
+heat-seeking missile
+infrared-guided missile
+radar-guided missile
+wire-guided missile
+optical-guided weapon
+TV-guided weapon
+man-portable weapon
+shoulder-fired weapon
+handheld weapon
+personal weapon
+individual weapon
+crew weapon
+team weapon
+squad weapon
+platoon weapon
+company weapon
+battalion weapon
+division weapon
+corps weapon
+army weapon
+strategic weapon
+tactical weapon
+operational weapon
+defensive weapon
+offensive weapon
+area denial weapon
+anti-access weapon
+force multiplier
+combined arms weapon
+joint weapon
+interservice weapon
+multinational weapon
+coalition weapon
+allied weapon
+enemy weapon
+hostile weapon
+friendly weapon
+neutral weapon
+peacekeeping weapon
+humanitarian weapon
+disaster relief weapon
+search and rescue equipment
+survival weapon
+emergency weapon
+backup weapon
+secondary weapon
+sidearm
+primary weapon
+main weapon
+heavy weapon
+light weapon
+medium weapon
+portable weapon
+stationary weapon
+fixed weapon
+mobile weapon
+wheeled weapon
+tracked weapon
+armored weapon
+unarmored weapon
+protected weapon
+exposed weapon
+concealed weapon
+visible weapon
+camouflaged weapon
+stealth weapon
+signature-reduced weapon
+low-observable weapon
+counter-stealth weapon
+detection-resistant weapon
+jamming-resistant weapon
+EMP-hardened weapon
+nuclear-hardened weapon
+chemical-resistant weapon
+biological-resistant weapon
+radiation-resistant weapon
+weather-resistant weapon
+all-weather weapon
+day/night weapon
+thermal weapon
+night vision weapon
+low-light weapon
+illumination weapon
+targeting laser
+range finder
+ballistic computer
+fire control system
+weapon sight
+optical sight
+iron sight
+reflex sight
+holographic sight
+red dot sight
+magnified optic
+scope
+sniper scope
+variable scope
+fixed scope
+night vision scope
+thermal scope
+smart scope
+electronic scope
+digital scope
+computerized scope
+AI-assisted sight
+automatic targeting
+target acquisition
+target tracking
+target designation
+target illumination
+suppressor
+silencer
+muzzle brake
+compensator
+flash hider
+sound suppressor
+noise reduction
+stealth firing
+covert operation weapon
+silent weapon
+quiet weapon
+subsonic weapon
+integral suppressor
+detachable suppressor
+quick-detach suppressor
+modular weapon
+adaptable weapon
+configurable weapon
+customizable weapon
+upgradeable weapon
+scalable weapon
+multi-role weapon
+dual-purpose weapon
+multi-mission weapon
+versatile weapon
+flexible weapon
+adaptive weapon
+smart weapon system
+intelligent weapon
+learning weapon
+evolving weapon
+self-improving weapon
+self-repairing weapon
+self-maintaining weapon
+autonomous operation
+unmanned operation
+remote operation
+teleoperated weapon
+virtual weapon
+simulated weapon
+training weapon
+practice weapon
+exercise weapon
+demonstration weapon
+ceremonial weapon
+parade weapon
+honor guard weapon
+museum piece
+historical weapon
+vintage weapon
+antique weapon
+classic weapon
+legendary weapon
+mythical weapon
+fictional weapon
+imaginary weapon
+fantasy weapon

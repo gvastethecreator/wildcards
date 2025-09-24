@@ -1,0 +1,1234 @@
+head
+skull
+brain
+forehead
+temples
+eyebrows
+eyelids
+eyelashes
+eyes
+pupils
+iris
+cornea
+sclera
+tear ducts
+nose
+nostrils
+nasal bridge
+septum
+cheeks
+cheekbones
+jawline
+jaw
+chin
+mouth
+lips
+upper lip
+lower lip
+teeth
+tongue
+gums
+ears
+earlobes
+ear canal
+neck
+throat
+adam's apple
+shoulders
+collarbone
+clavicle
+shoulder blades
+scapula
+arms
+upper arms
+biceps
+triceps
+elbows
+forearms
+wrists
+hands
+palms
+knuckles
+fingers
+thumbs
+fingernails
+chest
+pectorals
+breasts
+nipples
+ribcage
+ribs
+torso
+abdomen
+stomach
+navel
+belly button
+waist
+hips
+pelvis
+back
+spine
+vertebrae
+lower back
+lumbar region
+buttocks
+glutes
+thighs
+quadriceps
+hamstrings
+knees
+kneecaps
+patella
+calves
+shins
+ankles
+feet
+heels
+arches
+toes
+toenails
+soles
+instep
+muscles
+tendons
+ligaments
+joints
+bones
+cartilage
+skin
+pores
+hair follicles
+veins
+arteries
+blood vessels
+nerve endings
+pressure points
+acupuncture points
+chakra points
+energy centers
+meridians
+aura zones
+vital points
+weak spots
+sensitive areas
+erogenous zones
+ticklish spots
+blind spots
+reach zones
+flexible joints
+stiff joints
+mobile parts
+fixed parts
+symmetrical features
+asymmetrical features
+proportional ratios
+golden ratio points
+anatomical landmarks
+reference points
+measurement points
+artistic proportions
+idealized proportions
+realistic proportions
+exaggerated proportions
+stylized features
+cartoon proportions
+anime proportions
+manga proportions
+chibi proportions
+realistic anatomy
+stylized anatomy
+simplified anatomy
+detailed anatomy
+complex anatomy
+muscular definition
+muscle groups
+muscle fibers
+fat distribution
+bone structure
+skeletal frame
+body frame
+build type
+body type
+physique
+constitution
+metabolism
+genetic traits
+inherited features
+family resemblance
+ethnic features
+racial characteristics
+age markers
+youth indicators
+maturity signs
+aging signs
+growth patterns
+development stages
+puberty changes
+adult features
+elderly characteristics
+gender differences
+sexual dimorphism
+masculine features
+feminine features
+androgynous features
+neutral features
+distinctive marks
+identifying features
+unique characteristics
+personal traits
+individual differences
+body language
+posture indicators
+gesture markers
+expression zones
+communication areas
+interactive surfaces
+contact points
+grip points
+support points
+balance points
+center of gravity
+weight distribution
+mass distribution
+volume distribution
+surface area
+cross-sectional area
+circumference
+diameter
+length
+width
+height
+depth
+thickness
+density
+hardness
+softness
+flexibility
+rigidity
+elasticity
+plasticity
+resilience
+durability
+strength
+weakness
+endurance
+stamina
+power
+force
+speed
+agility
+coordination
+balance
+stability
+equilibrium
+grace
+elegance
+beauty
+aesthetics
+symmetry
+harmony
+proportion
+scale
+size
+magnitude
+dimension
+measurement
+specification
+parameter
+variable
+factor
+element
+component
+part
+piece
+section
+segment
+region
+zone
+area
+territory
+domain
+sphere
+field
+space
+volume
+capacity
+container
+vessel
+structure
+framework
+architecture
+design
+pattern
+template
+model
+form
+shape
+figure
+outline
+silhouette
+contour
+profile
+cross-section
+elevation
+plan
+view
+perspective
+angle
+orientation
+direction
+position
+location
+placement
+arrangement
+configuration
+setup
+layout
+composition
+organization
+structure
+hierarchy
+order
+sequence
+progression
+development
+evolution
+transformation
+metamorphosis
+change
+variation
+modification
+alteration
+adjustment
+adaptation
+customization
+personalization
+individualization
+specialization
+optimization
+enhancement
+improvement
+refinement
+perfection
+idealization
+stylization
+abstraction
+simplification
+generalization
+categorization
+classification
+typification
+standardization
+normalization
+regularization
+systematization
+organization
+coordination
+synchronization
+harmonization
+integration
+unification
+consolidation
+combination
+fusion
+merger
+blend
+mixture
+composite
+hybrid
+synthesis
+compilation
+collection
+assembly
+gathering
+accumulation
+aggregation
+summation
+total
+whole
+complete
+full
+entire
+comprehensive
+extensive
+thorough
+detailed
+specific
+precise
+exact
+accurate
+correct
+proper
+appropriate
+suitable
+fitting
+matching
+corresponding
+equivalent
+similar
+alike
+comparable
+parallel
+analogous
+related
+connected
+linked
+associated
+affiliated
+attached
+bound
+tied
+joined
+united
+combined
+merged
+integrated
+incorporated
+included
+embedded
+inserted
+placed
+positioned
+located
+situated
+stationed
+posted
+mounted
+installed
+fixed
+secured
+fastened
+attached
+connected
+linked
+bonded
+glued
+welded
+soldered
+fused
+melted
+molded
+shaped
+formed
+created
+made
+built
+constructed
+assembled
+manufactured
+produced
+generated
+developed
+grown
+cultivated
+nurtured
+raised
+trained
+educated
+taught
+instructed
+guided
+directed
+led
+managed
+controlled
+operated
+handled
+manipulated
+adjusted
+modified
+altered
+changed
+transformed
+converted
+turned
+rotated
+twisted
+bent
+curved
+angled
+tilted
+inclined
+slanted
+leaned
+shifted
+moved
+displaced
+relocated
+repositioned
+rearranged
+reorganized
+restructured
+reformed
+reshaped
+remodeled
+redesigned
+renovated
+restored
+repaired
+fixed
+corrected
+adjusted
+tuned
+calibrated
+aligned
+balanced
+stabilized
+secured
+protected
+safeguarded
+defended
+shielded
+covered
+concealed
+hidden
+masked
+disguised
+camouflaged
+blended
+merged
+integrated
+incorporated
+absorbed
+assimilated
+digested
+processed
+refined
+purified
+filtered
+cleaned
+washed
+polished
+buffed
+shined
+brightened
+illuminated
+highlighted
+emphasized
+accentuated
+enhanced
+amplified
+magnified
+enlarged
+expanded
+extended
+stretched
+lengthened
+widened
+broadened
+deepened
+heightened
+raised
+lifted
+elevated
+promoted
+advanced
+improved
+bettered
+upgraded
+updated
+modernized
+renovated
+refreshed
+renewed
+revitalized
+rejuvenated
+regenerated
+restored
+healed
+cured
+treated
+medicated
+supplemented
+nourished
+fed
+fueled
+energized
+powered
+charged
+activated
+stimulated
+excited
+aroused
+awakened
+alerted
+warned
+notified
+informed
+educated
+enlightened
+inspired
+motivated
+encouraged
+supported
+helped
+assisted
+aided
+served
+benefited
+favored
+blessed
+graced
+honored
+respected
+admired
+appreciated
+valued
+treasured
+cherished
+loved
+adored
+worshipped
+revered
+venerated
+celebrated
+commemorated
+remembered
+recalled
+recollected
+reminisced
+reflected
+contemplated
+meditated
+pondered
+considered
+thought about
+analyzed
+examined
+studied
+investigated
+researched
+explored
+discovered
+found
+located
+identified
+recognized
+detected
+sensed
+felt
+experienced
+perceived
+noticed
+observed
+watched
+seen
+viewed
+looked at
+gazed upon
+stared at
+glanced at
+peeked at
+glimpsed
+spotted
+caught sight of
+witnessed
+testified
+reported
+documented
+recorded
+noted
+marked
+indicated
+pointed out
+highlighted
+emphasized
+stressed
+underlined
+accentuated
+featured
+showcased
+displayed
+presented
+exhibited
+demonstrated
+illustrated
+depicted
+portrayed
+represented
+symbolized
+signified
+meant
+indicated
+suggested
+implied
+hinted at
+alluded to
+referred to
+mentioned
+cited
+quoted
+paraphrased
+summarized
+explained
+described
+defined
+characterized
+classified
+categorized
+grouped
+sorted
+arranged
+organized
+structured
+systematized
+ordered
+sequenced
+ranked
+graded
+rated
+evaluated
+assessed
+judged
+critiqued
+reviewed
+analyzed
+examined
+inspected
+checked
+tested
+tried
+attempted
+experimented
+practiced
+rehearsed
+trained
+exercised
+worked out
+developed
+built
+strengthened
+toned
+conditioned
+prepared
+readied
+equipped
+armed
+supplied
+provided
+furnished
+outfitted
+dressed
+clothed
+covered
+wrapped
+protected
+shielded
+guarded
+defended
+secured
+safeguarded
+preserved
+maintained
+sustained
+supported
+upheld
+reinforced
+strengthened
+fortified
+consolidated
+stabilized
+balanced
+centered
+focused
+concentrated
+dedicated
+devoted
+committed
+pledged
+promised
+vowed
+sworn
+bound
+obligated
+required
+needed
+demanded
+requested
+asked for
+sought
+desired
+wanted
+wished for
+hoped for
+dreamed of
+fantasized about
+imagined
+envisioned
+pictured
+visualized
+conceptualized
+theorized
+hypothesized
+speculated
+guessed
+estimated
+calculated
+computed
+figured out
+solved
+resolved
+settled
+concluded
+finished
+completed
+accomplished
+achieved
+attained
+reached
+arrived at
+came to
+got to
+obtained
+acquired
+gained
+earned
+won
+captured
+seized
+grabbed
+grasped
+held
+kept
+retained
+maintained
+preserved
+protected
+saved
+stored
+collected
+gathered
+accumulated
+amassed
+built up
+developed
+grown
+expanded
+increased
+multiplied
+doubled
+tripled
+quadrupled
+quintupled
+magnified
+amplified
+enhanced
+improved
+bettered
+perfected
+optimized
+maximized
+minimized
+reduced
+decreased
+diminished
+lessened
+lowered
+dropped
+fell
+declined
+deteriorated
+degraded
+worsened
+spoiled
+damaged
+harmed
+hurt
+injured
+wounded
+broken
+cracked
+fractured
+split
+torn
+ripped
+cut
+sliced
+chopped
+diced
+minced
+ground
+crushed
+smashed
+shattered
+pulverized
+powdered
+dissolved
+melted
+liquefied
+vaporized
+evaporated
+sublimated
+crystallized
+solidified
+hardened
+stiffened
+tightened
+compressed
+squeezed
+pressed
+pushed
+pulled
+dragged
+lifted
+raised
+lowered
+dropped
+threw
+tossed
+hurled
+flung
+launched
+fired
+shot
+projected
+propelled
+driven
+moved
+transported
+carried
+brought
+taken
+delivered
+transferred
+transmitted
+sent
+dispatched
+shipped
+mailed
+posted
+published
+broadcast
+transmitted
+communicated
+conveyed
+expressed
+articulated
+stated
+declared
+announced
+proclaimed
+revealed
+disclosed
+exposed
+uncovered
+unveiled
+unmasked
+shown
+displayed
+presented
+demonstrated
+proved
+confirmed
+verified
+validated
+authenticated
+certified
+guaranteed
+assured
+promised
+pledged
+committed
+dedicated
+devoted
+given
+offered
+provided
+supplied
+delivered
+contributed
+donated
+shared
+distributed
+spread
+scattered
+dispersed
+disseminated
+propagated
+proliferated
+multiplied
+reproduced
+copied
+duplicated
+replicated
+cloned
+mirrored
+reflected
+echoed
+repeated
+reiterated
+restated
+rephrased
+paraphrased
+summarized
+condensed
+compressed
+simplified
+reduced
+streamlined
+optimized
+improved
+enhanced
+upgraded
+updated
+modernized
+advanced
+progressed
+developed
+evolved
+transformed
+changed
+altered
+modified
+adjusted
+adapted
+customized
+personalized
+individualized
+specialized
+focused
+targeted
+aimed
+directed
+oriented
+aligned
+positioned
+placed
+located
+situated
+stationed
+established
+founded
+created
+formed
+shaped
+molded
+crafted
+designed
+planned
+organized
+structured
+arranged
+configured
+set up
+built
+constructed
+assembled
+manufactured
+produced
+made
+generated
+created
+developed
+grown
+cultivated
+raised
+bred
+trained
+educated
+taught
+instructed
+coached
+mentored
+guided
+led
+directed
+managed
+supervised
+overseen
+monitored
+watched
+observed
+studied
+examined
+analyzed
+evaluated
+assessed
+judged
+rated
+graded
+scored
+measured
+quantified
+calculated
+computed
+estimated
+approximated
+guessed
+predicted
+forecasted
+projected
+anticipated
+expected
+assumed
+supposed
+believed
+thought
+considered
+regarded
+viewed
+seen as
+perceived as
+understood as
+interpreted as
+taken as
+accepted as
+recognized as
+acknowledged as
+admitted as
+confessed as
+revealed as
+disclosed as
+exposed as
+shown as
+demonstrated as
+proved as
+confirmed as
+verified as
+validated as
+authenticated as
+certified as
+guaranteed as
+assured as
+promised as
+pledged as
+committed as
+dedicated as
+devoted as
+given as
+offered as
+provided as
+supplied as
+delivered as
+contributed as
+donated as
+shared as
+distributed as
+spread as
+scattered as
+dispersed as
+disseminated as
+propagated as
+proliferated as
+multiplied as
+reproduced as
+copied as
+duplicated as
+replicated as
+cloned as
+mirrored as
+reflected as
+echoed as
+repeated as
+reiterated as
+restated as
+rephrased as
+paraphrased as
+summarized as
+condensed as
+compressed as
+simplified as
+reduced as
+streamlined as
+optimized as
+improved as
+enhanced as
+upgraded as
+updated as
+modernized as
+advanced as
+progressed as
+developed as
+evolved as
+transformed as
+changed as
+altered as
+modified as
+adjusted as
+adapted as
+customized as
+personalized as
+individualized as
+specialized as
+focused as
+targeted as
+aimed as
+directed as
+oriented as
+aligned as
+positioned as
+placed as
+located as
+situated as
+stationed as
+established as
+founded as
+created as
+formed as
+shaped as
+molded as
+crafted as
+designed as
+planned as
+organized as
+structured as
+arranged as
+configured as
+set up as
+built as
+constructed as
+assembled as
+manufactured as
+produced as
+made as
+generated as
+achilles tendon
+adrenal glands
+alveoli
+aorta
+appendix
+areolas
+atrium
+auricle
+brachialis
+bronchi
+bronchioles
+calcaneus
+carotid artery
+carpal bones
+cerebellum
+cerebral cortex
+cervical vertebrae
+clavicular notch
+coccyx
+corpus callosum
+cranial nerves
+deltoids
+diaphragm
+duodenum
+eardrum
+epiglottis
+esophagus
+ethmoid bone
+femoral artery
+femur
+fibula
+frontal lobe
+gallbladder
+gluteus maximus
+hip flexors
+hypothalamus
+iliac crest
+ilium
+incisors
+ischium
+jejunum
+kidneys
+larynx
+ligamentum nuchae
+lumbar vertebrae
+mandible
+maxilla
+medulla oblongata
+meniscus
+metacarpals

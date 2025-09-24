@@ -1,0 +1,3090 @@
+enchanted forest
+mystical woodland
+magical grove
+fairy ring
+elven sanctuary
+dwarven halls
+dragon's lair
+wizard's tower
+ancient temple
+ruined castle
+floating islands
+crystal caves
+shadow realm
+nightmare dimension
+dream world
+astral plane
+ethereal void
+cosmic nexus
+time vortex
+dimensional rift
+portal gateway
+interdimensional hub
+parallel universe
+alternate reality
+mirror world
+reverse dimension
+inverted realm
+upside down
+twisted landscape
+fractured reality
+broken timeline
+shattered dimension
+chaos realm
+order domain
+balance nexus
+harmony sphere
+discord zone
+conflict arena
+battle dimension
+war plane
+peace valley
+tranquil meadow
+serene lake
+calm ocean
+turbulent sea
+stormy waters
+raging rapids
+peaceful stream
+babbling brook
+whispering wind
+howling gale
+gentle breeze
+fierce storm
+lightning realm
+thunder domain
+rain forest
+snow kingdom
+ice world
+fire realm
+earth domain
+air sphere
+water plane
+light dimension
+dark realm
+shadow world
+twilight zone
+dawn horizon
+dusk valley
+midnight forest
+noon desert
+sunrise mountain
+sunset beach
+aurora field
+star constellation
+moon palace
+sun temple
+planet surface
+asteroid belt
+comet trail
+meteor shower
+galaxy spiral
+nebula cloud
+black hole
+white dwarf
+red giant
+blue star
+yellow sun
+orange dwarf
+brown dwarf
+neutron star
+pulsar beacon
+quasar light
+supernova explosion
+stellar nursery
+cosmic web
+dark matter
+dark energy
+antimatter realm
+quantum field
+subatomic world
+molecular structure
+atomic nucleus
+electron cloud
+photon stream
+graviton field
+higgs boson
+god particle
+fundamental force
+strong nuclear
+weak nuclear
+electromagnetic
+gravitational
+unified field
+theory realm
+relativity space
+quantum mechanics
+string theory
+membrane universe
+holographic principle
+observer effect
+uncertainty principle
+wave function
+probability cloud
+superposition state
+entanglement bond
+decoherence event
+measurement collapse
+many worlds
+multiverse theory
+parallel realities
+infinite dimensions
+eternal inflation
+big bang
+big crunch
+big rip
+heat death
+vacuum decay
+false vacuum
+true vacuum
+metastable state
+phase transition
+symmetry breaking
+spontaneous creation
+quantum tunneling
+virtual particles
+zero point energy
+casimir effect
+hawking radiation
+event horizon
+singularity point
+wormhole tunnel
+einstein bridge
+traversable passage
+exotic matter
+negative energy
+faster than light
+tachyon field
+alcubierre drive
+space time warp
+causal loop
+grandfather paradox
+bootstrap paradox
+predestination loop
+temporal anomaly
+chronology protection
+novikov principle
+consistent histories
+many timelines
+alternate histories
+counterfactual worlds
+what if scenarios
+possibility space
+probability matrix
+decision tree
+branching paths
+convergent evolution
+divergent timelines
+parallel development
+synchronized events
+entangled histories
+correlated outcomes
+causally connected
+acausally related
+quantum correlation
+non local effects
+instantaneous action
+spooky distance
+bell inequalities
+aspect experiments
+delayed choice
+quantum eraser
+which path
+interference pattern
+double slit
+wave particle
+complementarity
+measurement problem
+cat paradox
+friend paradox
+consciousness role
+observer participation
+anthropic principle
+fine tuning
+goldilocks zone
+habitable planet
+life supporting
+carbon based
+silicon alternative
+exotic chemistry
+methane seas
+ammonia oceans
+sulfuric acid
+liquid methane
+frozen nitrogen
+crystalline silicon
+metallic hydrogen
+diamond rain
+helium snow
+neon ice
+argon frost
+xenon crystals
+plasma storms
+magnetic tornadoes
+gravity wells
+tidal forces
+radiation belts
+solar winds
+cosmic rays
+galactic center
+supermassive holes
+active nucleus
+radio jets
+gamma bursts
+x ray sources
+infrared excess
+optical transients
+variable stars
+eclipsing binaries
+contact binaries
+cataclysmic variables
+novae explosions
+type ia supernovae
+core collapse
+neutron formation
+millisecond pulsars
+magnetars
+soft repeaters
+fast radio bursts
+gravitational waves
+ligo detection
+virgo interferometer
+laser measurement
+space distortion
+time dilation
+length contraction
+relativistic effects
+lorentz transformation
+minkowski space
+spacetime geometry
+riemann curvature
+einstein equations
+stress energy
+cosmological constant
+dark energy density
+accelerating expansion
+cosmic microwave
+primordial nucleosynthesis
+recombination era
+last scattering
+surface visibility
+photon decoupling
+matter domination
+radiation era
+inflation epoch
+planck time
+grand unification
+electroweak breaking
+quark confinement
+hadron formation
+baryon asymmetry
+leptogenesis
+dark matter creation
+sterile neutrinos
+axion fields
+wimps detection
+direct search
+indirect signals
+collider production
+particle accelerator
+large hadron
+circular tunnel
+superconducting magnets
+cryogenic cooling
+vacuum chambers
+beam focusing
+collision points
+detector arrays
+tracking chambers
+calorimeters
+muon systems
+trigger electronics
+data acquisition
+grid computing
+worldwide collaboration
+big data
+machine learning
+neural networks
+deep learning
+artificial intelligence
+quantum computing
+topological qubits
+error correction
+fault tolerance
+quantum supremacy
+classical simulation
+exponential speedup
+shor algorithm
+grover search
+quantum annealing
+adiabatic evolution
+variational methods
+hybrid algorithms
+near term
+quantum advantage
+noisy devices
+error mitigation
+zero noise
+extrapolation
+clifford circuits
+random benchmarking
+process tomography
+state verification
+fidelity estimation
+entanglement witness
+bell test
+device independent
+self testing
+quantum cryptography
+quantum key
+distribution
+protocol security
+information theoretic
+computational security
+post quantum
+lattice based
+code based
+multivariate
+hash functions
+isogeny walks
+rainbow signature
+dilithium
+falcon
+sphincs
+frodo
+kyber
+saber
+ntru
+bike
+hqc
+classic mceliece
+three bears
+round5
+nist competition
+standardization process
+migration planning
+hybrid systems
+crypto agility
+quantum safe
+future proof
+long term
+security assessment
+risk evaluation
+threat modeling
+attack scenarios
+cryptanalysis
+classical methods
+quantum algorithms
+implementation attacks
+side channels
+fault injection
+power analysis
+timing attacks
+electromagnetic
+acoustic leakage
+differential analysis
+correlation attacks
+template matching
+machine learning
+profiling attacks
+horizontal attacks
+vertical attacks
+higher order
+masking countermeasures
+hiding techniques
+protocol level
+system level
+application layer
+hardware security
+software protection
+firmware updates
+secure boot
+trusted platform
+hardware modules
+random generators
+entropy sources
+physical unclonable
+biometric systems
+fingerprint recognition
+facial recognition
+iris scanning
+voice recognition
+behavioral biometrics
+keystroke dynamics
+mouse movements
+gait analysis
+signature verification
+palm vein
+retinal scanning
+dna identification
+multimodal systems
+fusion techniques
+score level
+feature level
+decision level
+rank level
+quality assessment
+presentation attacks
+spoofing detection
+liveness detection
+anti spoofing
+template protection
+cancelable biometrics
+fuzzy extractors
+secure sketches
+privacy preserving
+homomorphic encryption
+secure computation
+zero knowledge
+commitment schemes
+oblivious transfer
+private information
+retrieval
+secure channels
+authenticated encryption
+aead modes
+gcm
+ccm
+ocb
+chacha poly
+aegis
+morus
+ascon
+gift cofb
+elephant
+photon beetle
+romulus
+sparkle
+xoodyak
+grain aead
+trivium
+mickey
+rabbit
+salsa family
+chacha variants
+blake family
+sha variants
+keccak sponge
+cube attacks
+differential
+linear cryptanalysis
+algebraic attacks
+slide attacks
+related key
+boomerang
+rectangle
+impossible differential
+integral attacks
+meet middle
+time memory
+rainbow tables
+dictionary attacks
+brute force
+exhaustive search
+parallel computation
+distributed computing
+cloud computing
+grid computing
+volunteer computing
+boinc projects
+folding home
+seti home
+prime search
+mersenne primes
+perfect numbers
+fibonacci sequences
+pascal triangle
+golden ratio
+phi constant
+euler number
+pi calculation
+transcendental numbers
+algebraic numbers
+rational numbers
+irrational numbers
+real numbers
+complex numbers
+quaternions
+octonions
+hypercomplex
+clifford algebras
+geometric algebra
+vector calculus
+tensor analysis
+differential geometry
+topology
+manifolds
+fiber bundles
+group theory
+lie groups
+representation theory
+category theory
+topos theory
+type theory
+lambda calculus
+combinatory logic
+proof theory
+model theory
+set theory
+forcing method
+large cardinals
+infinity axioms
+continuum hypothesis
+choice axiom
+zorn lemma
+well ordering
+ordinal numbers
+cardinal arithmetic
+transfinite induction
+recursive functions
+computability theory
+complexity theory
+p versus np
+polynomial time
+exponential time
+space complexity
+time hierarchy
+space hierarchy
+oracle machines
+relativization
+interactive proofs
+probabilistic checking
+zero knowledge
+computational assumptions
+one way functions
+trapdoor permutations
+discrete logarithm
+factoring assumption
+lattice problems
+learning with
+errors
+ring learning
+module learning
+short integer
+solution
+closest vector
+shortest vector
+gap problems
+approximation factors
+quantum reductions
+worst case
+average case
+cryptographic multilinear
+maps
+indistinguishability
+obfuscation
+functional encryption
+attribute based
+identity based
+broadcast encryption
+proxy re encryption
+searchable encryption
+order preserving
+format preserving
+deterministic
+message locked
+convergent encryption
+deduplication
+cloud storage
+distributed systems
+consensus protocols
+byzantine fault
+tolerance
+practical byzantine
+pbft algorithm
+tendermint
+algorand
+ouroboros
+snow family
+avalanche
+nakamoto consensus
+proof of work
+proof of stake
+delegated proof
+proof of space
+proof of time
+proof of history
+proof of burn
+proof of capacity
+proof of elapsed
+verifiable delay
+functions
+timelock puzzles
+sequential computation
+parallel resistance
+blockchain technology
+distributed ledgers
+merkle trees
+hash chains
+digital signatures
+public key
+cryptography
+elliptic curves
+pairing based
+lattice based
+code based
+multivariate
+hash based
+quantum resistant
+post quantum
+standardization
+nist process
+migration timeline
+crypto agility
+hybrid deployment
+risk assessment
+threat landscape
+quantum timeline
+fault tolerant
+logical qubits
+error thresholds
+surface codes
+color codes
+toric codes
+stabilizer codes
+css codes
+quantum ldpc
+topological codes
+anyonic braiding
+majorana fermions
+ising models
+kitaev chains
+honeycomb lattices
+fracton codes
+subsystem codes
+gauge fixing
+syndrome extraction
+error correction
+decoding algorithms
+minimum weight
+maximum likelihood
+belief propagation
+neural decoders
+lookup tables
+union find
+peeling decoder
+ordered statistics
+soft decision
+hard decision
+erasure channels
+depolarizing noise
+amplitude damping
+phase damping
+bit flip
+phase flip
+correlated errors
+coherent errors
+systematic errors
+calibration errors
+control errors
+measurement errors
+leakage errors
+crosstalk
+zz coupling
+xy coupling
+stark shifts
+ac stark
+dispersive shifts
+purcell effect
+spontaneous emission
+dephasing
+decoherence
+environmental noise
+thermal fluctuations
+magnetic noise
+electric noise
+charge noise
+flux noise
+critical current
+josephson junctions
+superconducting
+transmon
+fluxonium
+capacitive shunting
+inductive shunting
+sweet spots
+protected qubits
+cat qubits
+gkp states
+binomial codes
+four legged cat
+coherent states
+displaced squeezed
+fock states
+photon number
+continuous variables
+quadrature encoding
+homodyne detection
+heterodyne detection
+squeezing
+entanglement
+epr states
+spin states
+bell states
+ghz states
+w states
+graph states
+cluster states
+measurement based
+one way quantum
+computation
+mbqc protocols
+flow conditions
+gflow
+causal flow
+deterministic
+correction
+adaptive
+measurement
+feedforward
+classical processing
+real time
+control
+feedback loops
+error syndrome
+stabilizer measurement
+parity checks
+ancilla qubits
+flag qubits
+verification
+post selection
+heralding
+success probability
+overhead scaling
+threshold theorem
+concatenated codes
+quantum turbo
+polar codes
+convolutional
+classical coding
+channel capacity
+shannon limit
+hamming bound
+singleton bound
+plotkin bound
+mceliece bound
+sphere packing
+random coding
+linear codes
+cyclic codes
+bch codes
+reed solomon
+reed muller
+polar codes
+ldpc codes
+turbo codes
+fountain codes
+raptor codes
+luby transform
+belief propagation
+sum product
+min sum
+density evolution
+degree distribution
+check node
+variable node
+tanner graphs
+bipartite graphs
+expander graphs
+cayley graphs
+ramanujan graphs
+spectral gap
+expansion property
+mixing time
+random walks
+markov chains
+stationary distribution
+detailed balance
+reversibility
+ergodicity
+aperiodicity
+irreducibility
+coupling
+path coupling
+conductance
+cheeger inequality
+isoperimetric
+poincare inequality
+log sobolev
+hypercontractivity
+concentration
+inequalities
+azuma hoeffding
+mcdiarmid
+talagrand
+entropy method
+tensorization
+modified log
+bounded differences
+martingale methods
+doob martingale
+azuma inequality
+optional stopping
+uniform integrability
+convergence theorems
+strong law
+central limit
+functional central
+empirical processes
+vapnik chervonenkis
+rademacher complexity
+covering numbers
+packing numbers
+metric entropy
+uniform convergence
+probably approximately
+correct
+pac learning
+statistical learning
+empirical risk
+minimization
+structural risk
+generalization bounds
+bias variance
+underfitting
+overfitting
+regularization
+cross validation
+bootstrap
+bagging
+boosting
+random forests
+support vector
+machines
+kernel methods
+reproducing hilbert
+feature spaces
+gaussian processes
+bayesian optimization
+neural networks
+deep learning
+gradient descent
+backpropagation
+automatic differentiation
+computational graphs
+tensorflow
+pytorch
+jax
+flax
+haiku
+optax
+chex
+rlax
+distrax
+neural tangent
+kernel
+lottery ticket
+double descent
+scaling laws
+transformer
+attention mechanism
+self attention
+multi head
+positional encoding
+layer normalization
+residual connections
+skip connections
+highway networks
+densenet
+resnet
+inception
+efficientnet
+mobilenet
+squeezenet
+shufflenet
+ghostnet
+regnet
+nfnet
+vision transformer
+swin transformer
+pyramid vision
+segformer
+detr
+yolo
+rcnn
+fast rcnn
+faster rcnn
+mask rcnn
+feature pyramid
+fpn
+retina net
+focal loss
+anchor boxes
+non maximum
+suppression
+intersection over
+union
+mean average
+precision
+object detection
+semantic segmentation
+instance segmentation
+panoptic segmentation
+depth estimation
+optical flow
+pose estimation
+face recognition
+person re identification
+action recognition
+video understanding
+temporal modeling
+3d convolutions
+temporal shift
+slow fast
+x3d
+mvit
+video swin
+omnivore
+masked autoencoders
+self supervised
+contrastive learning
+simclr
+moco
+swav
+dino
+mae
+beit
+simiam
+byol
+barlow twins
+vicreg
+whitening
+colorization
+inpainting
+super resolution
+denoising
+deblurring
+style transfer
+domain adaptation
+few shot
+zero shot
+meta learning
+maml
+prototypical networks
+matching networks
+relation networks
+learning to learn
+gradient based
+metric learning
+episodic training
+support query
+n way k shot
+cross domain
+unsupervised domain
+adversarial domain
+dann
+coral
+mmd
+wasserstein
+optimal transport
+earth mover
+sinkhorn
+gromov wasserstein
+unbalanced optimal
+partial optimal
+fused optimal
+co optimal
+multi marginal
+barycenter
+entropic regularization
+generative models
+variational autoencoders
+normalizing flows
+generative adversarial
+networks
+diffusion models
+score based
+denoising diffusion
+probabilistic
+implicit
+neural ode
+continuous normalizing
+autoregressive
+pixelcnn
+wavenet
+transformer xl
+gpt family
+bert family
+roberta
+deberta
+electra
+albert
+distilbert
+mobilebert
+squeezebert
+big bird
+longformer
+performer
+linformer
+synthesizer
+reformer
+routing transformer
+switch transformer
+glam
+palm
+chinchilla
+gopher
+lamda
+megatron
+turing nlg
+gpt neox
+opt
+bloom
+flan
+t5
+ul2
+palm 2
+bard
+chatgpt
+claude
+anthropic
+constitutional ai
+harmless helpful
+honest
+rlhf
+ppo
+reward modeling
+instruction tuning
+in context
+chain of thought
+few shot
+zero shot
+emergent abilities
+scaling laws
+grokking
+double descent
+lottery tickets
+pruning
+quantization
+distillation
+neural architecture
+search
+differentiable
+progressive
+efficient
+once for all
+supernet
+weight sharing
+early exit
+dynamic inference
+adaptive computation
+mixture of experts
+sparse models
+switch layers
+hash layers
+expert choice
+routing
+load balancing
+auxiliary losses
+capacity factor
+expert dropout
+federated learning
+differential privacy
+secure aggregation
+homomorphic encryption
+multi party
+computation
+private set
+intersection
+oblivious ram
+garbled circuits
+secret sharing
+threshold schemes
+verifiable secret
+zero knowledge
+proofs
+zk snarks
+zk starks
+bulletproofs
+polynomial
+commitments
+trusted setup
+universal setup
+transparent
+recursive
+composition
+proof carrying
+data
+incrementally
+verifiable
+computation
+delegation
+outsourcing
+cloud computing
+edge computing
+fog computing
+mobile edge
+network function
+virtualization
+software defined
+networks
+intent based
+networking
+network slicing
+quality of service
+traffic engineering
+load balancing
+congestion control
+flow control
+routing protocols
+distance vector
+link state
+path vector
+hybrid protocols
+mobile ad hoc
+vehicular networks
+wireless sensor
+internet of things
+cyber physical
+systems
+industrial iot
+smart cities
+smart homes
+smart grid
+smart transportation
+autonomous vehicles
+connected cars
+vehicle to
+everything
+cellular v2x
+dedicated short
+range
+communications
+802.11p
+wifi direct
+bluetooth low
+energy
+zigbee
+z wave
+lora
+sigfox
+nb iot
+cat m1
+5g nr
+massive mimo
+beamforming
+millimeter wave
+small cells
+heterogeneous
+networks
+network densification
+ultra reliable
+low latency
+enhanced mobile
+broadband
+massive machine
+type
+communications
+network slicing
+software defined
+radio
+cognitive radio
+dynamic spectrum
+access
+spectrum sharing
+interference
+management
+power control
+resource allocation
+channel assignment
+scheduling
+multiple access
+fdma
+tdma
+cdma
+ofdma
+noma
+sparse code
+multiple access
+pattern division
+interleave division
+rate splitting
+multiple antenna
+technologies
+space time
+coding
+spatial multiplexing
+diversity techniques
+alamouti code
+space frequency
+maximum ratio
+combining
+equal gain
+selection combining
+switched diversity
+antenna arrays
+phased arrays
+smart antennas
+adaptive arrays
+digital beamforming
+analog beamforming
+hybrid beamforming
+precoding
+postcoding
+interference
+alignment
+interference
+cancellation
+successive
+interference
+cancellation
+minimum mean
+square error
+zero forcing
+regularized zero
+forcing
+maximum likelihood
+sphere decoding
+lattice reduction
+linear receivers
+decision feedback
+equalization
+turbo equalization
+iterative receivers
+belief propagation
+factor graphs
+sum product
+algorithm
+variational
+inference
+expectation
+maximization
+gibbs sampling
+metropolis hastings
+hamiltonian monte
+carlo
+variational bayes
+mean field
+structured
+variational
+normalizing flows
+invertible neural
+networks
+coupling layers
+autoregressive
+flows
+continuous
+normalizing flows
+neural ordinary
+differential
+equations
+augmented neural
+odes
+latent odes
+stochastic
+differential
+equations
+score based
+generative models
+denoising score
+matching
+sliced score
+matching
+noise conditional
+score networks
+probability flow
+odes
+reverse time
+sdes
+langevin dynamics
+underdamped
+langevin
+stochastic gradient
+langevin dynamics
+preconditioned
+langevin
+metropolis adjusted
+langevin algorithm
+hamiltonian monte
+carlo
+nuts
+automatic
+differentiation
+variational
+inference
+black box
+variational
+inference
+automatic
+differentiation
+variational
+inference
+normalizing flows
+variational
+inference
+amortized
+variational
+inference
+importance weighted
+autoencoders
+tighter variational
+bounds
+wake sleep
+algorithm
+helmholtz machines
+sigmoid belief
+networks
+deep belief
+networks
+restricted
+boltzmann machines
+deep boltzmann
+machines
+energy based
+models
+contrastive
+divergence
+persistent
+contrastive
+divergence
+parallel tempering
+simulated annealing
+replica exchange
+monte carlo
+tempered transitions
+annealed importance
+sampling
+bridge sampling
+thermodynamic
+integration
+nested sampling
+sequential monte
+carlo
+particle filters
+importance sampling
+resampling
+systematic
+resampling
+stratified
+resampling
+residual resampling
+multinomial
+resampling
+effective sample
+size
+particle
+degeneracy
+sample
+impoverishment
+rao blackwellization
+auxiliary particle
+filter
+unscented particle
+filter
+ensemble kalman
+filter
+extended kalman
+filter
+unscented kalman
+filter
+particle smoother
+forward backward
+algorithm
+viterbi algorithm
+baum welch
+algorithm
+expectation
+maximization
+generalized
+expectation
+maximization
+variational
+expectation
+maximization
+monte carlo
+expectation
+maximization
+stochastic
+expectation
+maximization
+online expectation
+maximization
+incremental
+expectation
+maximization
+distributed
+expectation
+maximization
+parallel
+expectation
+maximization
+map estimation
+maximum a
+posteriori
+penalized
+likelihood
+regularized
+regression
+ridge regression
+lasso regression
+elastic net
+group lasso
+fused lasso
+adaptive lasso
+relaxed lasso
+bayesian lasso
+spike slab
+horseshoe prior
+finnish horseshoe
+regularized
+horseshoe
+dirichlet laplace
+normal gamma
+double exponential
+student t
+generalized normal
+beta prime
+generalized beta
+kumaraswamy
+beta binomial
+dirichlet
+multinomial
+categorical
+bernoulli
+binomial
+negative binomial
+poisson
+gamma
+exponential
+weibull
+pareto
+log normal
+inverse gaussian
+generalized inverse
+gaussian
+variance gamma
+normal inverse
+gaussian
+generalized
+hyperbolic
+skew normal
+skew t
+alpha stable
+tempered stable
+geometric stable
+mittag leffler
+stretched
+exponential
+q exponential
+tsallis
+non extensive
+maximum entropy
+minimum
+discrimination
+information
+divergence
+kullback leibler
+jensen shannon
+renyi divergence
+alpha divergence
+beta divergence
+bregman divergence
+wasserstein
+distance
+earth mover
+distance
+optimal transport
+sinkhorn algorithm
+entropic
+regularization
+unbalanced
+optimal transport
+partial optimal
+transport
+gromov wasserstein
+distance
+fused gromov
+wasserstein
+co optimal
+transport
+multi marginal
+optimal transport
+wasserstein
+barycenter
+sliced wasserstein
+max sliced
+wasserstein
+distributional
+sliced wasserstein
+projected
+wasserstein
+tree wasserstein
+network wasserstein
+graph wasserstein
+discrete optimal
+transport
+assignment
+problem
+hungarian
+algorithm
+auction algorithm
+shortest path
+algorithm
+dijkstra
+algorithm
+bellman ford
+algorithm
+floyd warshall
+algorithm
+johnson algorithm
+a star algorithm
+bidirectional
+search
+iterative
+deepening
+depth first
+search
+breadth first
+search
+best first search
+greedy search
+hill climbing
+simulated
+annealing
+genetic
+algorithms
+evolutionary
+computation
+differential
+evolution
+particle swarm
+optimization
+ant colony
+optimization
+artificial bee
+colony
+harmony search
+firefly algorithm
+cuckoo search
+bat algorithm
+grey wolf
+optimizer
+whale
+optimization
+algorithm
+moth flame
+optimization
+grasshopper
+optimization
+salp swarm
+algorithm
+harris hawks
+optimization
+marine predators
+algorithm
+aquila optimizer
+arithmetic
+optimization
+algorithm
+african vultures
+optimization
+algorithm
+reptile search
+algorithm
+runge kutta
+optimizer
+equilibrium
+optimizer
+henry gas
+solubility
+optimization
+coronavirus herd
+immunity optimizer
+slime mould
+algorithm
+forensic based
+investigation
+optimizer
+transient search
+optimization
+gradient based
+optimizer
+momentum
+nesterov
+momentum
+adagrad
+adadelta
+rmsprop
+adam
+adamax
+nadam
+amsgrad
+adabound
+amsbound
+padam
+yogi
+fromage
+lamb
+lars
+lans
+sm3
+shampoo
+k fac
+natural gradient
+quasi newton
+bfgs
+l bfgs
+limited memory
+bfgs
+sr1
+dfp
+broyden
+conjugate gradient
+nonlinear
+conjugate gradient
+fletcher reeves
+polak ribiere
+hestenes stiefel
+dai yuan
+hager zhang
+liu storey
+perry shanno
+gibson bruck
+trust region
+methods
+dogleg method
+cauchy point
+two dimensional
+subspace
+minimization
+steihaug toint
+projected gradient
+accelerated
+projected gradient
+proximal gradient
+fast iterative
+shrinkage
+thresholding
+algorithm
+fista
+accelerated
+proximal gradient
+composite objective
+optimization
+alternating
+direction method
+multipliers
+admm
+consensus admm
+distributed admm
+asynchronous admm
+linearized admm
+generalized admm
+symmetric admm
+relaxed admm
+adaptive admm
+restart admm
+anderson
+acceleration
+heavy ball method
+nesterov
+acceleration
+conjugate gradient
+accelerated
+coordinate descent
+stochastic
+coordinate descent
+randomized
+coordinate descent
+block coordinate
+descent
+cyclic coordinate
+descent
+greedy coordinate
+descent
+importance
+sampling
+coordinate descent
+accelerated
+stochastic
+coordinate descent
+asynchronous
+coordinate descent
+distributed
+coordinate descent
+federated
+coordinate descent
+variance reduced
+stochastic
+gradient descent
+stochastic
+variance reduced
+gradient
+saga
+svrg
+finito
+miso
+stochastic dual
+coordinate ascent
+prox svrg
+catalyst
+acceleration
+katyusha
+acceleration
+point saga
+loopless saga
+loopless svrg
+importance
+sampling saga
+importance
+sampling svrg
+non uniform
+sampling
+weighted sampling
+biased sampling
+stratified
+sampling
+cluster sampling
+systematic
+sampling
+multistage
+sampling
+adaptive sampling
+sequential
+sampling
+active learning
+uncertainty
+sampling
+query by
+committee
+expected model
+change
+variance
+reduction
+gradient length
+information
+density
+core sets
+batch mode
+active learning
+pool based
+active learning
+stream based
+active learning
+membership query
+synthesis
+semi supervised
+learning
+self training
+co training
+multi view
+learning
+graph based
+semi supervised
+learning
+label
+propagation
+label spreading
+manifold
+regularization
+transductive
+support vector
+machines
+transductive
+learning
+inductive
+learning
+multi task
+learning
+shared
+representation
+task relatedness
+hierarchical
+multi task
+learning
+clustered multi
+task learning
+alternating
+structure
+optimization
+dirty model
+multi task
+learning
+robust multi
+task learning
+online multi
+task learning
+lifelong
+learning
+continual
+learning
+catastrophic
+forgetting
+elastic weight
+consolidation
+synaptic
+intelligence
+memory aware
+synapses
+packnet
+progressive
+neural networks
+expert gate
+learned
+approximate
+muddling
+episodic memory
+gradient episodic
+memory
+averaged
+gradient episodic
+memory
+meta experience
+replay
+gradient based
+meta learning
+model agnostic
+meta learning
+maml
+first order maml
+reptile meta
+learning
+prototypical
+networks
+matching
+networks
+relation
+networks
+learning to
+optimize
+learned
+optimizers
+meta gradient
+descent
+gradient descent
+by gradient
+descent
+coordinatewise
+adaptive learning
+rates
+meta learning
+with memory
+augmented neural
+networks
+neural turing
+machines
+differentiable
+neural computers
+memory networks
+end to end
+memory networks
+key value
+memory networks
+recurrent entity
+networks
+dynamic memory
+networks
+sparse access
+memory
+compressive
+transformer
+transformer xl
+xl net
+reformer
+linformer
+performer
+synthesizer
+big bird
+longformer
+extended
+transformer
+construction
+hierarchical
+transformer
+adaptive
+computation time
+universal
+transformer
+evolved
+transformer
+searching for
+transformer
+architecture
+neural
+architecture
+search
+differentiable
+architecture
+search
+darts
+pc darts
+fair darts
+smooth darts
+progressive
+differentiable
+architecture
+search
+single path
+one shot
+architecture
+search
+efficient
+architecture
+search
+once for all
+proxyless nas
+mnasnet
+efficientnet
+regnet
+neural
+architecture
+transfer
+progressive
+neural
+architecture
+search
+efficient neural
+architecture
+search
+enas
+pnas
+nasnet
+amoebanet
+mnasnet
+fbnet
+chamnet
+mixed precision
+training
+automatic mixed
+precision
+loss scaling
+gradient scaling
+fp16 training
+bf16 training
+int8 quantization
+int4 quantization
+binary neural
+networks
+ternary neural
+networks
+xnor networks
+dorefanet
+lq nets
+structured
+pruning
+unstructured
+pruning
+magnitude
+pruning
+gradient based
+pruning
+second order
+pruning
+lottery ticket
+hypothesis
+structured
+lottery tickets
+early bird tickets
+dynamic sparse
+training
+rigged lottery
+tickets
+pruning at
+initialization
+snip
+grasp
+synflow
+force
+iterative
+magnitude
+pruning
+gradual pruning
+structured
+sparsity
+block sparse
+kernels
+n:m sparsity
+fine grained
+sparsity
+coarse grained
+sparsity
+hardware aware
+pruning
+energy efficient
+neural networks
+edgenet
+mobilenet
+shufflenet
+squeezenet
+ghostnet
+efficientnet
+knowledge
+distillation
+feature
+distillation
+attention
+distillation
+relation
+distillation
+similarity
+preserving
+distillation
+factor transfer
+activation
+boundaries
+overhaul
+distillation
+progressive
+knowledge
+distillation
+born again
+networks
+deep mutual
+learning
+online
+distillation
+self distillation
+teacher free
+distillation
+data free
+distillation
+zero shot
+distillation
+few shot
+distillation
+federated
+distillation
+distributed
+training
+data parallelism
+model parallelism
+pipeline
+parallelism
+tensor
+parallelism
+hybrid
+parallelism
+communication
+efficient training
+gradient
+compression
+error feedback
+signsgd
+qsgd
+atomo
+dgc
+powersgd
+accordion
+grace
+local sgd
+federated
+averaging
+federated
+learning
+personalized
+federated
+learning
+robust
+federated
+learning
+secure
+aggregation
+differential
+privacy
+federated
+learning
+byzantine robust
+federated
+learning
+asynchronous
+federated
+learning
+hierarchical
+federated
+learning
+cross silo
+federated
+learning
+cross device
+federated
+learning
+vertical
+federated
+learning
+horizontal
+federated
+learning
+transfer
+federated
+learning
+continual
+federated
+learning
+meta federated
+learning
+multi task
+federated
+learning
+reinforcement
+learning
+markov decision
+processes
+value functions
+q learning
+sarsa
+temporal
+difference
+learning
+policy gradient
+methods
+actor critic
+methods
+advantage actor
+critic
+asynchronous
+advantage actor
+critic
+proximal policy
+optimization
+trust region
+policy
+optimization
+deep
+deterministic
+policy gradient
+twin delayed
+deep
+deterministic
+policy gradient
+soft actor critic
+distributional
+reinforcement
+learning
+quantile
+regression
+networks
+implicit quantile
+networks
+fully
+parameterized
+quantile function
+categorical
+distributional
+reinforcement
+learning
+rainbow dqn
+ape x dqn
+distributed
+distributional
+deep
+deterministic
+policy gradient
+maximum entropy
+reinforcement
+learning
+curiosity driven
+exploration
+intrinsic
+motivation
+exploration by
+random network
+distillation
+go explore
+never give up
+agent57
+muzero
+alphazero
+alphago
+alphastar
+openai five
+dota 2
+starcraft 2
+hide and seek
+emergent tool
+use
+cooperative ai
+human ai
+cooperation
+multiagent
+reinforcement
+learning
+independent
+learning
+centralized
+training
+decentralized
+execution
+parameter
+sharing
+experience
+sharing
+communication
+learning
+emergent
+communication
+compositional
+language
+emergence
+social dilemmas
+prisoner dilemma
+public goods
+game
+tragedy of
+commons
+coordination
+games
+battle of sexes
+chicken game
+stag hunt
+minority game
+el farol bar
+problem
+resource
+allocation
+mechanism
+design
+auction theory
+voting theory
+fair division
+cake cutting
+proportional
+fairness
+envy freeness
+strategyproof
+mechanisms
+truthful
+mechanisms
+incentive
+compatibility
+individual
+rationality
+budget balance
+revenue
+maximization
+social welfare
+maximization
+pareto
+efficiency
+algorithmic
+game theory
+price of anarchy
+price of stability
+selfish routing
+braess paradox
+wardrop
+equilibrium
+user equilibrium
+system optimum
+marginal cost
+pricing
+congestion
+pricing
+network games
+graphical games
+polymatrix
+games
+potential games
+congestion
+games
+atomic
+congestion
+games
+nonatomic
+congestion
+games
+weighted
+congestion
+games
+resource
+selection games
+facility location
+games
+cost sharing
+games
+coalition
+formation
+coalitional
+games
+cooperative
+games
+shapley value
+core
+nucleolus
+stable sets
+bargaining
+theory
+nash
+bargaining
+solution
+kalai
+smorodinsky
+solution
+egalitarian
+solution
+utilitarian
+solution
+leximin
+solution
+rawlsian
+solution
+social choice
+theory
+arrow
+impossibility
+theorem
+gibbard
+satterthwaite
+theorem
+condorcet
+paradox
+voting rules
+plurality
+majority
+runoff
+instant runoff
+borda count
+approval
+voting
+range voting
+condorcet
+methods
+copeland
+method
+kemeny young
+method
+ranked pairs
+method
+beatpath
+method
+schulze
+method
+minimax
+method
+nanson
+method
+baldwin
+method
+black method
+dodgson
+method
+young method
+tournament
+solutions
+top cycle
+uncovered set
+bipartisan set
+essential set
+fishburn set
+good set
+McKelvey set
+smith set
+schwartz set
+tournament
+matrix
+strength of
+preference
+margin of
+victory
+winning votes
+margins
+condorcet
+efficiency
+condorcet
+criterion
+consistency
+criterion
+participation
+criterion
+monotonicity
+criterion
+independence
+of irrelevant
+alternatives
+clone
+independence
+reversal
+symmetry
+anonymity
+neutrality
+universality
+non dictatorship
+strategy
+proofness
+group strategy
+proofness
+false name
+proofness
+collusion
+proofness
+bribery
+resistance
+control
+resistance
+electoral
+control
+constructive
+control
+destructive
+control
+computational
+complexity
+voting
+manipulation
+complexity
+winner
+determination
+strategic
+voting
+computational
+social choice
+online social
+choice
+liquid
+democracy
+delegative
+democracy
+digital
+democracy
+e democracy
+electronic
+voting
+internet voting
+blockchain
+voting
+cryptographic
+voting
+end to end
+verifiable
+voting
+receipt free
+voting
+coercion
+resistant
+voting
+privacy
+preserving
+voting
+universal
+verifiability
+individual
+verifiability
+ballot secrecy
+everlasting
+privacy
+perfect ballot
+secrecy
+vote buying
+vote selling
+coercion
+intimidation
+vote privacy
+vote secrecy
+anonymity
+unlinkability
+untraceability
+deniability
+forward secrecy
+backward secrecy
+future secrecy
+break glass
+mechanisms
+robust
+mixnets
+anonymous
+channels
+dining
+cryptographers
+problem
+anonymous
+broadcast
+anonymous
+multicast
+anonymous
+unicast
+traffic analysis
+resistance
+timing analysis
+resistance
+size analysis
+resistance
+frequency
+analysis
+resistance
+intersection
+attacks
+disclosure
+attacks
+predecessor
+attacks
+successor
+attacks
+correlation
+attacks
+confirmation
+attacks
+statistical
+disclosure
+control
+differential
+privacy
+k anonymity
+l diversity
+t closeness
+m invariance
+personalized
+anonymity
+local
+differential
+privacy
+central
+differential
+privacy
+distributed
+differential
+privacy
+federated
+differential
+privacy
+concentrated
+differential
+privacy
+zero
+concentrated
+differential
+privacy
+renyi
+differential
+privacy
+gaussian
+differential
+privacy
+smooth
+sensitivity
+local
+sensitivity
+global
+sensitivity
+propose test
+release
+exponential
+mechanism
+laplace
+mechanism
+gaussian
+mechanism
+sparse vector
+technique
+above
+threshold
+algorithm
+private
+multiplicative
+weights
+differentially
+private sgd
+differentially
+private federated
+learning
+private
+aggregation
+teacher
+ensembles
+pate
+private
+aggregation
+student
+knowledge
+distillation
+with privacy
+membership
+inference
+attacks
+model
+inversion
+attacks
+property
+inference
+attacks
+reconstruction
+attacks
+attribute
+inference
+attacks
+training data
+extraction
+attacks
+black box
+attacks
+white box
+attacks
+gray box
+attacks
+adaptive
+attacks
+evasion
+attacks
+poisoning
+attacks
+backdoor
+attacks
+trojan attacks
+neural trojans
+data poisoning
+label flipping
+feature
+manipulation
+gradient
+attacks
+byzantine
+attacks
+sybil attacks
+eclipse attacks
+routing attacks
+consensus
+attacks
+51 percent
+attacks
+double
+spending
+attacks
+selfish mining
+block
+withholding
+attacks
+nothing at
+stake attacks
+long range
+attacks
+grinding
+attacks
+weak
+subjectivity
+checkpointing
+finality
+gadgets
+accountable
+safety
+plausible
+liveness
+dynamic
+availability
+synchronous
+networks
+asynchronous
+networks
+partially
+synchronous
+networks
+network
+partitions
+message delays
+message loss
+crash failures
+byzantine
+failures
+fail stop
+failures
+fail slow
+failures
+omission
+failures
+crash recovery
+stable storage
+volatile storage
+persistent
+storage
+durability
+atomicity
+consistency
+isolation
+acid
+properties
+base
+properties
+cap theorem
+consistency
+availability
+partition
+tolerance
+eventual
+consistency
+strong
+consistency
+linearizability
+sequential
+consistency
+causal
+consistency
+session
+consistency
+monotonic
+read
+consistency
+monotonic
+write
+consistency
+read your
+writes
+consistency
+writes follow
+reads
+consistency
+pram
+consistency
+fifo
+consistency
+weak
+consistency
+release
+consistency
+entry
+consistency
+scope
+consistency
+location
+consistency
+delta
+consistency
+epsilon
+consistency
+probabilistic
+consistency
+bayesian
+consistency
+vector clocks
+logical clocks
+lamport
+timestamps
+happened
+before
+relation
+causal order
+concurrent
+events
+distributed
+snapshots
+global
+snapshots
+consistent
+cuts
+rollback
+recovery
+coordinated
+checkpointing
+uncoordinated
+checkpointing
+message
+logging
+sender based
+logging
+receiver based
+logging
+causal logging
+optimistic
+logging
+pessimistic
+logging
+failure
+detectors
+perfect
+failure
+detector
+strong
+failure
+detector
+weak failure
+detector
+eventually
+perfect
+failure
+detector
+eventually
+strong
+failure
+detector
+eventually
+weak failure
+detector
+heartbeat
+failure
+detection
+timeout based
+failure
+detection
+phi accrual
+failure
+detection
+adaptive
+failure
+detection
+group
+membership
+view
+synchronous
+group
+communication
+virtual
+synchrony
+state machine
+replication
+primary backup
+replication
+chain
+replication
+quorum based
+replication
+majority
+quorum
+weighted
+voting
+gifford
+voting
+tree quorum
+grid quorum
+crumbling
+walls
+quorum
+systems
+coterie
+available
+copies
+voting
+available
+copies
+primary copy
+thomas write
+rule
+multiversion
+concurrency
+control
+timestamp
+ordering
+optimistic
+concurrency
+control
+pessimistic
+concurrency
+control
+two phase
+locking
+strict two
+phase locking
+strong strict
+two phase
+locking
+growing
+phase
+shrinking
+phase
+deadlock
+detection
+deadlock
+prevention
+deadlock
+avoidance
+wait die
+wound wait
+timeout based
+deadlock
+resolution
+distributed
+deadlock
+detection
+edge chasing
+algorithms
+probe based
+algorithms
+diffusion
+computation
+path pushing
+algorithms
+wait for
+graphs
+resource
+allocation
+graphs
+banker
+algorithm
+resource
+ordering
+hierarchical
+locking
+hand over
+hand locking
+lock coupling
+lock
+escalation
+lock
+conversion
+shared locks
+exclusive
+locks
+intention
+locks
+update locks
+increment
+locks
+predicate
+locks
+index locks
+key range
+locks
+gap locks
+next key
+locks
+phantom
+problem
+dirty reads
+nonrepeatable
+reads
+read
+uncommitted
+read
+committed
+repeatable
+read
+serializable
+snapshot
+isolation
+read
+consistency
+write
+consistency
+monotonic
+read
+consistency
+monotonic
+write
+consistency
+session
+consistency
+causal
+consistency
+eventual
+consistency
+strong
+eventual
+consistency
+conflict free
+replicated
+data types
+crdts
+state based
+crdts
+operation
+based crdts
+commutative
+replicated
+data types
+g counter
+pn counter
+g set
+two phase
+set
+or set
+lww
+element set
+pn set
+or cart
+lww
+register
+mv register
+enable wins
+flag
+disable wins
+flag
+two phase
+boolean
+lww map
+or map
+rga
+sequence
+crdt
+treedoc
+woot
+logoot
+lseq
+continuous
+sequence
+crdt
+block wise
+sequence
+crdt
+composition
+crdts
+multi value
+register
+delta crdts
+delta state
+crdts
+join
+semilattice
+bounded
+semilattice
+inflation
+operation
+delta
+computation
+delta
+propagation
+delta
+compression
+delta group
+replication
+causal
+broadcast
+reliable
+broadcast
+uniform
+reliable
+broadcast
+fifo
+broadcast
+causal order
+broadcast
+total order
+broadcast
+atomic
+broadcast
+consensus
+algorithms
+byzantine
+consensus
+crash
+consensus
+randomized
+consensus
+deterministic
+consensus
+synchronous
+consensus
+asynchronous
+consensus
+partial
+synchrony
+consensus
+authenticated
+byzantine
+consensus
+unauthenticated
+byzantine
+consensus
+byzantine
+agreement
+byzantine
+generals
+problem
+interactive
+consistency
+source
+congruent
+byzantine
+generals
+exponential
+information
+gathering
+phase king
+algorithm
+queen
+elizabeth
+algorithm
+dolev strong
+algorithm
+srikanth
+toueg
+algorithm
+bar noy
+dolev
+keidar
+lynch
+algorithm

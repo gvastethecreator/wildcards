@@ -1,0 +1,86 @@
+8-bit graphics
+16-bit sprites
+32-bit rendering
+Pixel art
+Retro gaming
+Arcade style
+NES aesthetics
+SNES graphics
+Genesis style
+Game Boy monochrome
+Game Boy Color
+Atari 2600 style
+Commodore 64
+Apple II graphics
+ZX Spectrum
+Amstrad CPC
+MSX computer
+PC Engine style
+TurboGrafx-16
+Neo Geo graphics
+CPS1 arcade
+CPS2 arcade
+SNK style
+Capcom graphics
+Konami style
+Namco aesthetics
+Sega arcade
+Taito graphics
+Data East style
+Irem graphics
+Technōs Japan
+Alpha Denshi
+Cave graphics
+Raizing style
+Team Shanghai Alice
+Doujin games
+Indie pixel art
+Modern retro
+Retro-futurism
+Synthwave gaming
+Outrun aesthetics
+Vaporwave games
+Lo-fi gaming
+Chill gaming
+Ambient gaming
+Relaxing games
+Zen gaming
+Meditation games
+Art games
+Experimental games
+Abstract games
+Minimalist gaming
+Maximalist gaming
+Cluttered UI
+Clean interface
+Retro UI
+Modern UI
+Futuristic UI
+Sci-fi interface
+Fantasy UI
+Medieval interface
+Steampunk UI
+Cyberpunk interface
+Post-apocalyptic UI
+Horror interface
+Cute UI
+Kawaii interface
+Dark theme
+Light theme
+Neon theme
+Pastel theme
+Monochrome theme
+High contrast
+Low contrast
+Colorful palette
+Muted colors
+Vibrant colors
+Saturated colors
+Desaturated colors
+Warm colors
+Cool colors
+Complementary colors
+Analogous colors
+Triadic colors
+Split complementary
+Tetradic colors

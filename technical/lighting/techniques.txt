@@ -1,0 +1,82 @@
+Rim lighting
+Key lighting
+Fill lighting
+Background lighting
+Hair lighting
+Eye lighting
+Catch light
+Kicker light
+Separation light
+Bounce lighting
+Reflected lighting
+Diffused lighting
+Hard lighting
+Soft lighting
+Side lighting
+Front lighting
+Back lighting
+Top lighting
+Bottom lighting
+Cross lighting
+Split lighting
+Loop lighting
+Rembrandt lighting
+Butterfly lighting
+Paramount lighting
+Clamshell lighting
+Beauty lighting
+Portrait lighting
+Fashion lighting
+Glamour lighting
+Editorial lighting
+Commercial lighting
+Product lighting
+Still life lighting
+Food lighting
+Jewelry lighting
+Car lighting
+Architecture lighting
+Interior lighting
+Exterior lighting
+Real estate lighting
+Event lighting
+Wedding lighting
+Concert lighting
+Theatre lighting
+Film noir lighting
+Cinematic lighting
+Documentary lighting
+News lighting
+Sports lighting
+Wildlife lighting
+Macro lighting
+Landscape lighting
+Astrophotography lighting
+Time-lapse lighting
+Stop motion lighting
+Animation lighting
+3D rendering lighting
+Game lighting
+VR lighting
+AR lighting
+Holographic lighting
+Projection lighting
+Volumetric lighting
+Atmospheric lighting
+Fog lighting
+Smoke lighting
+Haze lighting
+Particle lighting
+Lens flare
+Light rays
+God rays
+Crepuscular rays
+Light shafts
+Light beams
+Light streaks
+Light trails
+Motion blur lighting
+Long exposure lighting
+Multiple exposure lighting
+HDR lighting
+Tone mapping lighting

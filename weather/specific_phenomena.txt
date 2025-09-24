@@ -1,0 +1,219 @@
+virga rain evaporating midair desert
+mammatus cloud pouch formation ominous
+ball lightning spherical phenomenon rare
+st elmo fire electrical discharge mast
+polar vortex arctic air mass
+heat dome high pressure stagnant
+derecho straight line wind damage
+haboob dust storm wall approaching
+microburst downdraft wind shear
+macroburst widespread downdraft damage
+supercell thunderstorm rotating updraft
+mesocyclone rotating thunderstorm core
+wall cloud lowered rotating base
+funnel cloud rotating air column
+waterspout tornado over water
+landspout weak tornado no supercell
+gustnado weak tornado gust front
+dust devil thermal whirlwind
+fire whirl fire tornado vortex
+steam devil hot spring vortex
+snow devil cold whirlwind
+ice crystal prisms atmospheric optics
+sun dog parhelia ice crystal
+sun pillar vertical light column
+light pillar artificial light column
+moon dog paraselene lunar halo
+halo ice crystal ring
+circumzenithal arc smile sky
+circumhorizontal arc fire rainbow
+parhelic circle horizontal light
+subsun reflection ice crystal
+green flash sunset phenomenon
+blue flash rare optical
+crepuscular rays god rays
+anticrepuscular rays antisolar point
+earth shadow belt venus
+alpine glow mountain illumination
+purple light twilight phenomenon
+zodiacal light dust scattering
+gegenschein counterglow opposition
+airglow atmospheric emission
+aurora borealis northern lights
+aurora australis southern lights
+steve strong thermal emission
+sprite red lightning mesosphere
+elves electromagnetic pulse rings
+blue jets upward lightning
+gigantic jets stratosphere lightning
+terrestrial gamma ray flash
+earthquake lights tectonic stress
+noctilucent clouds mesospheric ice
+polar stratospheric clouds nacreous
+asperitas clouds wave like
+kelvin helmholtz clouds breaking waves
+lenticular clouds mountain waves
+rotor clouds turbulence downstream
+banner clouds mountain peak
+cap clouds mountain capping
+orographic clouds mountain lifting
+lee waves mountain downstream
+foehn wind warm dry
+chinook wind warm winter
+santa ana wind hot dry
+sirocco wind sahara mediterranean
+mistral wind cold northerly
+bora wind cold northeasterly
+tramontane wind cold northwesterly
+levante wind easterly mediterranean
+poniente wind westerly mediterranean
+meltemi wind seasonal aegean
+etesian wind seasonal eastern
+khamsin wind hot sandy
+shamal wind hot dusty
+harmattan wind dry dusty
+alize wind northeast trade
+monsoon wind seasonal reversal
+trade wind belt tropical
+westerlies wind belt temperate
+polar easterlies wind belt
+doldrums wind belt equatorial
+horse latitudes wind belt
+roaring forties wind belt
+furious fifties wind belt
+screaming sixties wind belt
+jet stream high altitude
+polar jet stream cold
+subtropical jet stream warm
+low level jet stream
+barrier jet mountain blocking
+gap wind mountain gap
+hydraulic jump lee wave
+mountain wave atmospheric gravity
+gravity wave atmospheric oscillation
+inertia gravity wave atmospheric
+kelvin wave equatorial atmospheric
+rossby wave planetary scale
+atmospheric river moisture transport
+pineapple express atmospheric river
+cutoff low isolated system
+rex block high low
+omega block atmospheric pattern
+trough negative vorticity
+ridge positive vorticity
+long wave trough atmospheric
+short wave trough embedded
+vorticity maximum cyclonic rotation
+negative vorticity anticyclonic rotation
+positive vorticity cyclonic rotation
+differential vorticity advection atmospheric
+temperature advection atmospheric transport
+warm air advection atmospheric
+cold air advection atmospheric
+moisture advection water vapor
+dry air advection low humidity
+thickness atmospheric layer
+1000 500 mb thickness
+geopotential height atmospheric pressure
+surface pressure sea level
+station pressure actual location
+altimeter setting aviation standard
+density altitude performance calculation
+pressure altitude standard atmosphere
+indicated altitude altimeter reading
+true altitude above sea
+absolute altitude above ground
+radar altitude radio determination
+barometric tendency pressure change
+pressure gradient force atmospheric
+coriolis force earth rotation
+geostrophic wind balance forces
+thermal wind vertical shear
+ageostrophic wind imbalance
+gradient wind curved flow
+cyclostrophic wind centrifugal balance
+antitriptic wind friction balance
+ekman spiral friction layer
+boundary layer atmospheric surface
+free atmosphere above boundary
+mixing layer turbulent convection
+inversion layer temperature increase
+subsidence inversion sinking air
+radiation inversion surface cooling
+frontal inversion air mass
+trade wind inversion marine
+marine layer cool moist
+stratocumulus deck low cloud
+fog droplet visibility reduction
+radiation fog calm clear
+advection fog warm moist
+upslope fog orographic lifting
+evaporation fog steam fog
+precipitation fog drizzle visibility
+ice fog frozen droplets
+freezing fog supercooled droplets
+rime ice wind deposit
+hoar frost clear night
+soft rime white deposit
+hard rime wind ice
+glaze ice freezing rain
+sleet ice pellets
+graupel soft hail
+hail ice stones
+megacryometeor large ice
+ice storm freezing rain
+snow pellets graupel
+snow grains fine ice
+snow flakes ice crystal
+needle ice soil freezing
+frazil ice supercooled water
+anchor ice bottom ice
+pancake ice circular floating
+nilas ice thin elastic
+young ice thicker nilas
+first year ice seasonal
+old ice multiyear
+fast ice attached shore
+pack ice floating moving
+ice floe floating piece
+bergy bit glacier fragment
+growler small iceberg
+iceberg glacier calving
+tabular iceberg flat topped
+pinnacled iceberg weathered
+glacier ice river
+ice sheet continental glacier
+ice shelf floating glacier
+ice cap mountain glacier
+cirque glacier mountain bowl
+valley glacier u shaped
+piedmont glacier spreading
+tidewater glacier ocean reaching
+surge glacier rapid advance
+hanging glacier steep valley
+rock glacier permafrost ice
+permafrost permanently frozen
+active layer seasonal thaw
+talik unfrozen ground
+thermokarst thaw settlement
+pingos ice hill
+patterned ground freeze thaw
+stone circles freeze thaw
+solifluction soil creep
+nivation snow patch erosion
+gelisol permafrost soil
+cryosol frozen ground
+podzol acidic soil
+chernozem black earth
+vertisol swelling clay
+aridisol desert soil
+mollisol prairie soil
+alfisol clay enriched
+ultisol weathered acidic
+spodosol sandy acidic
+entisol recent formation
+inceptisol weakly developed
+histosol organic matter
+andisol volcanic ash
+oxisol highly weathered
+gelisol permafrost affected

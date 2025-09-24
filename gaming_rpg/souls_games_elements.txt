@@ -1,0 +1,1271 @@
+ashen one
+chosen undead
+tarnished
+good hunter
+bearer of the curse
+lord of cinder
+elden lord
+great one
+paleblood hunter
+kindled one
+hollow warrior
+undead knight
+cursed wanderer
+lost soul
+fallen knight
+dark spirit
+phantom
+invader
+summoned spirit
+cooperator
+white phantom
+gold phantom
+red phantom
+purple phantom
+blue phantom
+orange guidance
+bloodstain
+message
+prism stone
+homeward bone
+estus flask
+blood vial
+crimson flask
+cerulean flask
+siegbräu
+divine blessing
+humanity
+human effigy
+ember
+insight
+echoes
+souls
+runes
+great rune
+shard of manus
+titanite shard
+large titanite shard
+titanite chunk
+titanite slab
+twinkling titanite
+dragon scale
+bloodstone shard
+twin bloodstone shard
+bloodstone chunk
+blood rock
+cold dew
+frenzied cold dew
+kin coldblood
+great one's wisdom
+madman's knowledge
+one third of umbilical cord
+old hunter bone
+bolt paper
+pine resin
+charcoal pine resin
+gold pine resin
+rotten pine resin
+human pine resin
+carthus rouge
+pale pine resin
+lightning pine resin
+darkmoon blade
+crystal magic weapon
+great magic weapon
+magic weapon
+sunlight blade
+blessed weapon
+lightning blade
+dark blade
+frost blade
+toxic mist
+poison mist
+acid surge
+chameleon
+hidden body
+spook
+fall control
+repair
+twisted wall of light
+great heal
+heal
+med heal
+soothing sunlight
+bountiful sunlight
+replenishment
+blessed recovery
+magic barrier
+great magic barrier
+sacred oath
+deep protection
+tears of denial
+caressing tears
+perseverance
+iron flesh
+stone flesh
+power within
+red tearstone ring
+blue tearstone ring
+cloranthy ring
+havel's ring
+ring of favor
+life ring
+chloranthy ring
+ring of steel protection
+speckled stoneplate ring
+flame stoneplate ring
+thunder stoneplate ring
+magic stoneplate ring
+dark stoneplate ring
+bloodbite ring
+poisonbite ring
+cursebite ring
+fleshbite ring
+silvercat ring
+slumbering dragoncrest ring
+lingering dragoncrest ring
+sage ring
+bellowing dragoncrest ring
+young dragon ring
+dusk crown ring
+darkmoon ring
+sun princess ring
+estus ring
+ashen estus ring
+lloyd's sword ring
+lloyd's shield ring
+knight's ring
+hunter's ring
+scholar ring
+priestess ring
+red tearstone ring
+blue tearstone ring
+morion blade
+sanctus
+grass crest shield
+spider shield
+black knight shield
+silver knight shield
+lothric knight shield
+cathedral knight shield
+pontiff knight shield
+dragonslayer greatshield
+havel's greatshield
+ancient dragon greatshild
+yhorm's greatshield
+curse ward greatshield
+moaning shield
+follower torch
+torch
+scholar's candlestick
+izalith staff
+court sorcerer staff
+heretic's staff
+witchtree branch
+sunset staff
+preacher's right arm
+crystal sage's rapier
+moonlight greatsword
+holy moonlight sword
+ludwig's holy blade
+saw cleaver
+saw spear
+hunter axe
+threaded cane
+kirkhammer
+blade of mercy
+burial blade
+chikage
+bloodletter
+beast cutter
+amygdalan arm
+boom hammer
+kos parasite
+logarius wheel
+reiterpallasch
+rifle spear
+tonitrus
+whirligig saw
+church pick
+simon's bowblade
+piercing rifle
+evelyn
+hunter pistol
+hunter blunderbuss
+ludwig's rifle
+church cannon
+gatling gun
+cannon
+flame sprayer
+rosmarinus
+blacksky eye
+augur of ebrietas
+executioner's gloves
+old hunter bone
+tiny tonitrus
+call beyond
+accursed brew
+madaras whistle
+messenger's gift
+roar
+empty phantasm shell
+bone marrow ash
+lead elixir
+beast blood pellet
+fire paper
+bolt paper
+numbing mist
+shining coins
+molotov cocktail
+pebble
+throwing knife
+poison knife
+kukri
+rope firebomb
+rope molotov cocktail
+blue elixir
+sedative
+antidote
+blood cocktail
+pungent blood cocktail
+bold hunter's mark
+hunter's mark
+silencing blank
+beckoning bell
+small resonant bell
+sinister resonant bell
+old hunter bell
+caryll rune
+heir rune
+moon rune
+eye rune
+guidance rune
+arcane lake rune
+great lake rune
+deep sea rune
+clockwise metamorphosis
+anti-clockwise metamorphosis
+communion rune
+oedon writhe
+formless oedon
+radiance rune
+fading lake rune
+clear deep sea
+milkweed rune
+beast rune
+clawmark rune
+blood rapture
+oedon writhe
+corruption rune
+radiance rune
+hunter rune
+impurity rune
+confederate rune
+covenant rune
+executioner rune
+vileblood rune
+league staff
+church bow
+short bow
+composite bow
+pharis's black bow
+dragonrider bow
+hunter's bow
+repeating crossbow
+avelyn
+light crossbow
+heavy crossbow
+arbalest
+sniper crossbow
+millwood greatbow
+dragonslayer greatbow
+onislayer greatbow
+greatbow
+white birch bow
+silver eagle kite shield
+eagle kite shield
+round shield
+buckler
+target shield
+small leather shield
+leather shield
+plank shield
+large leather shield
+crimson parma
+eastern iron shield
+llewellyn shield
+foot soldier sword
+broken straight sword
+longsword
+broadsword
+shortsword
+falchion
+scimitar
+cutlass
+shotel
+bandit's knife
+dagger
+parrying dagger
+corvian greatknife
+great knife
+handmaid's dagger
+scholar's candlestick
+aquamarine dagger
+murky hand scythe
+great scythe
+pontiff knight great scythe
+friede's great scythe
+lifehunt scythe
+burial blade
+threaded cane
+beast cutter
+church pick
+rifle spear
+reiterpallasch
+simon's bowblade
+chikage
+bloodletter
+rakuyo
+saif
+beasthunter saif
+whirligig saw
+amygdalan arm
+boom hammer
+kos parasite
+logarius wheel
+tonitrus
+piercing rifle
+beast claws
+fist of gratia
+stake driver
+kirkhammer
+ludwig's holy blade
+holy moonlight sword
+moonlight greatsword
+saw cleaver
+saw spear
+hunter axe
+burial blade
+blade of mercy
+great lord greatsword
+firelink greatsword
+dragonslayer greataxe
+yhorm's great machete
+lorian's greatsword
+lothric's holy sword
+twin princes' greatsword
+wolf knight's greatsword
+farron greatsword
+abyss watchers greatsword
+black knight sword
+black knight greatsword
+black knight greataxe
+black knight halberd
+black knight glaive
+silver knight sword
+silver knight spear
+silver knight straight sword
+lothric knight sword
+lothric knight greatsword
+lothric knight long spear
+cathedral knight sword
+cathedral knight greatsword
+cathedral knight mace
+pontiff knight curved sword
+pontiff knight great scythe
+irithyll straight sword
+irithyll rapier
+vordt's great hammer
+great mace of the deep
+deep battle axe
+deep dagger
+deep infusion
+raw infusion
+heavy infusion
+sharp infusion
+refined infusion
+crystal infusion
+simple infusion
+chaos infusion
+dark infusion
+lightning infusion
+blessed infusion
+hollow infusion
+poison infusion
+blood infusion
+frost infusion
+astora greatsword
+astora straight sword
+anri's straight sword
+lucerne
+partisan
+winged spear
+four-pronged plow
+gargoyle flame spear
+dragonslayer spear
+ornstein's spear
+solaire's spear
+sunlight spear
+lightning spear
+great lightning spear
+emit force
+force
+wrath of the gods
+lightning storm
+sunlight blade
+darkmoon blade
+crystal soul spear
+soul spear
+great soul arrow
+soul arrow
+heavy soul arrow
+great farron dart
+farron dart
+farron flashsword
+soul greatsword
+old moonlight
+white dragon breath
+crystal breath
+soul stream
+soul geyser
+homing soul mass
+homing crystal soul mass
+crystal hail
+soul shower
+dark orb
+great deep soul
+deep soul
+affinity
+dark bead
+pursuers
+climax
+resonant soul
+dark fog
+scraps of life
+undead rapport
+toxic mist
+poison mist
+dung pie
+lloyd's talisman
+undead hunter charm
+throwing knife
+firebomb
+black firebomb
+charcoal pine bundle
+gold pine bundle
+human pine resin bundle
+carthus rouge bundle
+pale pine resin bundle
+lightning pine resin bundle
+rotten pine resin bundle
+blessed weapon bundle
+magic weapon bundle
+great magic weapon bundle
+crystal magic weapon bundle
+darkmoon blade bundle
+sunlight blade bundle
+lightning blade bundle
+dark blade bundle
+frost blade bundle
+resplendent life
+bountiful light
+projected heal
+heal aid
+great heal excerpt
+soothing sunlight excerpt
+replenishment excerpt
+blessed recovery excerpt
+caressing tears excerpt
+tears of denial excerpt
+sacred oath excerpt
+deep protection excerpt
+magic barrier excerpt
+great magic barrier excerpt
+twisted wall of light excerpt
+chameleon excerpt
+spook excerpt
+fall control excerpt
+repair excerpt
+hidden body excerpt
+aural decoy excerpt
+yearn excerpt
+alluring skull excerpt
+silver pendant excerpt
+vow of silence excerpt
+karmic justice excerpt
+tranquil walk of peace excerpt
+seek guidance excerpt
+homeward excerpt
+cast light excerpt
+light excerpt
+darksign
+cracked red eye orb
+red eye orb
+white sign soapstone
+red sign soapstone
+small white sign soapstone
+dried finger
+way of white circlet
+untrue white ring
+untrue dark ring
+obscuring ring
+aldrich's sapphire
+aldrich's ruby
+saint's ring
+deep ring
+darkmoon ring
+cat ring
+covetous gold serpent ring
+covetous silver serpent ring
+symbol of avarice
+crystal sage's rapier
+mendicant's staff
+shield of want
+mimic head
+rusted coin
+rusted gold coin
+soul of a crystal sage
+soul of a stray demon
+soul of a demon
+soul of the rotted greatwood
+soul of the deacons of the deep
+soul of high lord wolnir
+soul of pontiff sulyvahn
+soul of aldrich
+soul of yhorm the giant
+soul of the dancer
+soul of dragonslayer armour
+soul of the twin princes
+soul of the nameless king
+soul of the soul of cinder
+lord soul
+dark soul
+soul of seath
+soul of the four kings
+soul of the bed of chaos
+soul of nito
+soul of gwyn
+soul of manus
+soul of artorias
+soul of ornstein
+soul of smough
+soul of sif
+soul of the moonlight butterfly
+soul of the iron golem
+soul of the gargoyles
+soul of quelaag
+soul of the capra demon
+soul of the taurus demon
+soul of the asylum demon
+soul of the centipede demon
+soul of the demon firesage
+soul of priscilla
+blood echo
+blood gem
+blood stone
+cold blood
+great one coldblood
+kin coldblood
+thick coldblood
+frenzied coldblood
+sage's hair
+sage's wrist
+living string
+ritual blood
+tomb mold
+bastard of loran
+red jelly
+pearl slug
+yellow backbone
+sage's hair
+ritual material
+workshop tool
+hand lantern
+shining coins
+bold hunter's mark
+hunter's mark
+madman's knowledge
+great one's wisdom
+one third of umbilical cord
+old hunter bone
+caryll rune
+hunter's craft
+blood ministration
+yharnam stone
+pthumeruvian chalice
+central pthumeru chalice
+lower pthumeru chalice
+ailing loran chalice
+defiled chalice
+great pthumeru ihyll chalice
+hintertomb chalice
+short ritual root chalice
+sinister pthumeru ihyll root chalice
+cursed and defiled root chalice
+fetid rotted cursed chalice
+fetid offering
+rotted offering
+cursed offering
+foetid offering
+sinister bell
+beckoning bell resonance
+small resonant bell resonance
+sinister resonant bell resonance
+silencing blank usage
+bold hunter's mark usage
+hunter's mark usage
+insight consumption
+blood vial consumption
+quicksilver bullet consumption
+bone marrow ash usage
+beast blood pellet consumption
+fire paper usage
+bolt paper usage
+empty phantasm shell usage
+lead elixir consumption
+sedative usage
+antidote usage
+blood cocktail usage
+pungent blood cocktail usage
+molotov cocktail usage
+throwing knife usage
+poison knife usage
+numbing mist usage
+shining coins usage
+pebble usage
+blue elixir consumption
+oil urn usage
+rope molotov cocktail usage
+rope firebomb usage
+communion
+radiance
+guidance
+lake
+deep sea
+clockwise metamorphosis
+anti-clockwise metamorphosis
+oedon writhe
+formless oedon
+blood rapture
+clawmark
+beast
+heir
+moon
+eye
+arcane lake
+great lake
+clear deep sea
+fading lake
+milkweed
+corruption
+impurity
+hunter
+confederate
+executioner
+vileblood
+league
+choir
+healing church
+workshop
+old hunters
+vilebloods
+executioners
+league of confederates
+hunter of hunters
+powder kegs
+tomb prospectors
+school of mensis
+choir of the healing church
+old workshop
+abandoned old workshop
+hunter's dream
+hunter's nightmare
+fishing hamlet
+research hall
+astral clocktower
+living failures
+lady maria
+orphan of kos
+laurence the first vicar
+ludwig the accursed
+ludwig the holy blade
+gehrman the first hunter
+moon presence
+wet nurse
+mergo's wet nurse
+micolash host of the nightmare
+one reborn
+the one reborn
+martyr logarius
+darkbeast paarl
+blood-starved beast
+vicar amelia
+shadow of yharnam
+rom the vacuous spider
+amygdala
+ebrietas daughter of the cosmos
+celestial emissary
+father gascoigne
+cleric beast
+witch of hemwick
+gascoigne's music box
+tiny music box
+red jeweled brooch
+arianna's shoes
+adella's shoes
+suspicious beggar
+chapel dweller
+old woman
+young yharnam girl
+eileen the crow
+alfred hunter of vilebloods
+henryk old hunter
+djura retired hunter
+valtr master of the league
+yamamura
+brador church assassin
+simon the harrowed
+gratia old hunter
+olek old hunter
+tomb prospector olek
+defector antal
+tomb prospector antal
+gremia old hunter
+damian old hunter
+madman wallar
+beast-possessed soul
+labyrinth warrior
+labyrinth sage
+labyrinth madman
+pthumerian descendant
+pthumerian elder
+watchdog of the old lords
+keeper of the old lords
+undead giant
+merciless watchers
+bloodletting beast
+abhorrent beast
+headless bloodletting beast
+loran darkbeast
+loran silverbeast
+beast claw hunter
+cannon hunter
+rifle spear hunter
+threaded cane hunter
+saw spear hunter
+church pick hunter
+piercing rifle hunter
+gatling gun hunter
+boom hammer hunter
+whirligig saw hunter
+beast cutter hunter
+amygdalan arm hunter
+logarius wheel hunter
+reiterpallasch hunter
+simon's bowblade hunter
+chikage hunter
+bloodletter hunter
+rakuyo hunter
+saif hunter
+beasthunter saif hunter
+kirkhammer hunter
+ludwig's holy blade hunter
+holy moonlight sword hunter
+burial blade hunter
+blade of mercy hunter
+tonitrus hunter
+kos parasite hunter
+fist of gratia hunter
+stake driver hunter
+beast claws hunter
+executioner's gloves hunter
+blacksky eye hunter
+augur of ebrietas hunter
+old hunter bone hunter
+tiny tonitrus hunter
+call beyond hunter
+accursed brew hunter
+madaras whistle hunter
+messenger's gift hunter
+roar hunter
+yharnam hunter
+central yharnam
+cathedral ward
+old yharnam
+hemwick charnel lane
+forbidden woods
+byrgenwerth
+yahar'gul unseen village
+hypogean gaol
+nightmare frontier
+nightmare of mensis
+cainhurst castle
+upper cathedral ward
+iosefka's clinic
+odeon chapel
+grand cathedral
+healing church workshop
+abandoned old workshop
+lecture building
+nightmare lecture building
+research hall
+astral clocktower
+fishing hamlet
+hunter's nightmare
+old hunters dlc
+the old hunters
+gehrman's workshop
+doll's house
+insight shop
+bath messengers
+stump messengers
+plain doll
+messengers
+little ones
+great ones
+kin
+beasts
+church servants
+church giants
+church doctors
+hunters
+old hunters
+healing church hunters
+powder keg hunters
+choir hunters
+executioner hunters
+vileblood hunters
+confederate hunters
+tomb prospector hunters
+school of mensis hunters
+workshop hunters
+abandoned workshop hunters
+gascoigne family
+oedon chapel dweller
+suspicious beggar family
+arianna woman of pleasure
+adella nun
+narrow minded man
+old woman yharnam
+young yharnam girl
+gilbert coughing man
+iosefka impostor
+real iosefka
+fake iosefka
+crow of cainhurst
+eileen crow hunter
+alfred vileblood hunter
+henryk old hunter partner
+djura powder keg hunter
+valtr league master
+yamamura harrowed hunter
+brador church assassin hunter
+simon harrowed hunter
+gratia old hunter beast
+olek tomb prospector
+antal defector prospector
+gremia old hunter
+damian old hunter
+wallar madman hunter
+beast possessed soul hunter
+labyrinth warrior hunter
+labyrinth sage hunter
+labyrinth madman hunter
+pthumerian descendant boss
+pthumerian elder boss
+watchdog old lords boss
+keeper old lords boss
+undead giant boss
+merciless watchers boss
+bloodletting beast boss
+abhorrent beast boss
+headless bloodletting beast boss
+loran darkbeast boss
+loran silverbeast boss
+yharnam pthumerian queen
+queen yharnam
+pthumerian queen
+ihyll pthumerian queen
+great pthumeru ihyll queen
+blood queen
+blood minister
+first minister
+healing church minister
+choir minister
+executioner minister
+vileblood minister
+league minister
+confederate minister
+tomb prospector minister
+school mensis minister
+workshop minister
+old workshop minister
+abandoned workshop minister
+gascoigne minister
+eileen minister
+alfred minister
+henryk minister
+djura minister
+valtr minister
+yamamura minister
+brador minister
+simon minister
+gratia minister
+olek minister
+antal minister
+gremia minister
+damian minister
+wallar minister
+beast minister
+kin minister
+great one minister
+insight minister
+blood minister
+echo minister
+vial minister
+bullet minister
+paper minister
+pellet minister
+elixir minister
+sedative minister
+antidote minister
+cocktail minister
+molotov minister
+knife minister
+poison minister
+mist minister
+coin minister
+pebble minister
+blue minister
+urn minister
+rope minister
+firebomb minister
+communion minister
+radiance minister
+guidance minister
+lake minister
+deep minister
+clockwise minister
+anti-clockwise minister
+oedon minister
+formless minister
+rapture minister
+clawmark minister
+beast minister
+heir minister
+moon minister
+eye minister
+arcane minister
+great minister
+clear minister
+fading minister
+milkweed minister
+corruption minister
+impurity minister
+hunter minister
+confederate minister
+executioner minister
+vileblood minister
+league minister
+choir minister
+church minister
+workshop minister
+old minister
+abandoned minister
+dream minister
+nightmare minister
+hamlet minister
+hall minister
+clocktower minister
+failures minister
+maria minister
+orphan minister
+laurence minister
+ludwig minister
+gehrman minister
+presence minister
+nurse minister
+mergo minister
+micolash minister
+reborn minister
+logarius minister
+paarl minister
+starved minister
+amelia minister
+shadow minister
+rom minister
+amygdala minister
+ebrietas minister
+emissary minister
+gascoigne minister
+cleric minister
+witch minister
+music minister
+box minister
+jeweled minister
+brooch minister
+shoes minister
+beggar minister
+dweller minister
+woman minister
+girl minister
+crow minister
+alfred minister
+henryk minister
+djura minister
+valtr minister
+yamamura minister
+brador minister
+simon minister
+gratia minister
+olek minister
+antal minister
+gremia minister
+damian minister
+wallar minister
+soul minister
+warrior minister
+sage minister
+madman minister
+descendant minister
+elder minister
+watchdog minister
+keeper minister
+giant minister
+watchers minister
+bloodletting minister
+abhorrent minister
+headless minister
+darkbeast minister
+silverbeast minister
+claw minister
+cannon minister
+rifle minister
+threaded minister
+saw minister
+church minister
+piercing minister
+gatling minister
+boom minister
+whirligig minister
+beast minister
+amygdalan minister
+logarius minister
+reiterpallasch minister
+simon minister
+chikage minister
+bloodletter minister
+rakuyo minister
+saif minister
+beasthunter minister
+kirkhammer minister
+ludwig minister
+holy minister
+burial minister
+blade minister
+tonitrus minister
+kos minister
+fist minister
+stake minister
+beast minister
+executioner minister
+blacksky minister
+augur minister
+old minister
+tiny minister
+call minister
+accursed minister
+madaras minister
+messenger minister
+roar minister
+yharnam minister
+central minister
+cathedral minister
+old minister
+hemwick minister
+forbidden minister
+byrgenwerth minister
+yahar'gul minister
+hypogean minister
+nightmare minister
+frontier minister
+mensis minister
+cainhurst minister
+upper minister
+iosefka minister
+odeon minister
+grand minister
+healing minister
+workshop minister
+abandoned minister
+lecture minister
+nightmare minister
+research minister
+astral minister
+fishing minister
+hunter minister
+old minister
+gehrman minister
+doll minister
+insight minister
+bath minister
+stump minister
+plain minister
+messenger minister
+little minister
+great minister
+kin minister
+beast minister
+church minister
+giant minister
+doctor minister
+hunter minister
+old minister
+healing minister
+powder minister
+choir minister
+executioner minister
+vileblood minister
+confederate minister
+tomb minister
+school minister
+workshop minister
+abandoned minister
+gascoigne minister
+oedon minister
+suspicious minister
+arianna minister
+adella minister
+narrow minister
+old minister
+young minister
+gilbert minister
+iosefka minister
+real minister
+fake minister
+crow minister
+eileen minister
+alfred minister
+henryk minister
+djura minister
+valtr minister
+yamamura minister
+brador minister
+simon minister
+gratia minister
+olek minister
+antal minister
+gremia minister
+damian minister
+wallar minister
+beast minister
+labyrinth minister
+warrior minister
+sage minister
+madman minister
+pthumerian minister
+descendant minister
+elder minister
+watchdog minister
+keeper minister
+undead minister
+merciless minister
+bloodletting minister
+abhorrent minister
+headless minister
+loran minister
+darkbeast minister
+silverbeast minister
+beast minister
+cannon minister
+rifle minister
+threaded minister
+saw minister
+church minister
+piercing minister
+gatling minister
+boom minister
+whirligig minister
+beast minister
+amygdalan minister
+logarius minister
+reiterpallasch minister
+simon minister
+chikage minister
+bloodletter minister
+rakuyo minister
+saif minister
+beasthunter minister
+kirkhammer minister
+ludwig minister
+holy minister
+burial minister
+blade minister
+tonitrus minister
+kos minister
+fist minister
+stake minister
+beast minister
+executioner minister
+blacksky minister
+augur minister
+old minister
+tiny minister
+call minister
+accursed minister
+madaras minister
+messenger minister
+roar minister
+yharnam minister
+central minister
+cathedral minister
+old minister
+hemwick minister
+forbidden minister
+byrgenwerth minister
+yahar'gul minister
+hypogean minister
+nightmare minister
+frontier minister
+mensis minister
+cainhurst minister
+upper minister
+iosefka minister
+odeon minister
+grand minister
+healing minister
+workshop minister
+abandoned minister
+lecture minister
+nightmare minister
+research minister
+astral minister
+fishing minister
+hunter minister
+old minister
+gehrman minister
+doll minister
+insight minister
+bath minister
+stump minister
+plain minister
+messenger minister
+little minister
+great minister
+kin minister
+beast minister
+church minister
+giant minister
+doctor minister
+hunter minister
+old minister
+healing minister
+powder minister
+choir minister
+executioner minister
+vileblood minister
+confederate minister
+tomb minister
+school minister
+workshop minister
+abandoned minister

@@ -1,0 +1,543 @@
+category f5 tornado with 300+ mph winds
+ef5 enhanced fujita scale maximum rating
+multi vortex tornado multiple circulation
+rope tornado final dissipating stage
+wedge tornado wider than it is tall
+stovepipe tornado cylindrical appearance
+elephant trunk tornado curved funnel
+landspout weak tornado without supercell
+gustnado brief rotation along outflow
+waterspout tornado over water surface
+hurricane category 5 sustained winds 157+ mph
+typhoon northwest pacific hurricane
+cyclone generic term rotating storm
+medicane mediterranean hurricane
+polar low arctic hurricane
+bombogenesis rapid pressure drop
+explosive cyclogenesis bomb development
+nor'easter coastal winter storm
+alberta clipper fast moving snow
+colorado low developing storm
+texas low gulf moisture
+panhandle hooker moisture transport
+pineapple express atmospheric river
+santa ana winds hot dry california
+chinook foehn wind mountain warming
+mistral cold northwesterly mediterranean
+sirocco hot wind from sahara
+harmattan dry dusty west africa
+monsoon seasonal wind reversal
+trade winds tropical easterlies
+westerlies mid latitude winds
+polar easterlies high latitude
+horse latitudes subtropical high
+doldrums equatorial low pressure
+roaring forties southern ocean winds
+furious fifties subantarctic winds
+screaming sixties antarctic winds
+jet stream high altitude river
+polar jet northern hemisphere
+subtropical jet lower latitude
+low level jet nocturnal acceleration
+barrier jet blocked by mountains
+gap wind accelerated through pass
+mountain wave lee side turbulence
+katabatic gravity driven downslope
+anabatic thermally driven upslope
+sea breeze thermal circulation
+land breeze nighttime reversal
+valley breeze daytime upslope
+mountain breeze nighttime downslope
+glacier wind cold air drainage
+fall wind mountain lee warming
+bora cold northeasterly adriatic
+levante warm moist spanish
+etesian mediterranean summer winds
+meltemi aegean sea winds
+shamal hot dry persian gulf
+alize trade wind antilles
+papagayo gap wind costa rica
+tehuantepecer gap wind mexico
+coromuel thermal wind baja
+diablo hot dry san francisco
+fremantle doctor afternoon sea breeze
+southerly buster cold front australia
+nor'wester hot dry new zealand
+berg wind hot dry south africa
+koembang hot dry java
+ghibli hot dry libya
+khamsin hot sandy egypt
+simoom hot dry middle east
+haboob dust storm sudan
+black blizzard dust bowl storm
+ground blizzard surface snow
+lake effect heavy snow bands
+snow squall intense brief snow
+graupel soft hail pellets
+sleet frozen raindrops
+freezing rain supercooled droplets
+glaze ice smooth coating
+rime ice white rough deposit
+hoarfrost surface crystallization
+soft rime feathery white crystals
+hard rime dense white coating
+pogonip ice crystal fog
+diamond dust ice crystal precipitation
+ice pellets frozen raindrops
+snow grains fine white particles
+snow pellets opaque white spheres
+hail ice stones thunderstorm
+megacryometeor large ice fall
+ice storm freezing rain event
+silver thaw ice coating vegetation
+ice jam river blockage
+aufeis river ice buildup
+anchor ice underwater formation
+frazil ice fine crystals
+pancake ice circular formations
+nilas thin elastic sheet
+young ice 10-30cm thickness
+first year ice survives melt
+multi year ice survives seasons
+pressure ridge ice collision
+lead open water crack
+polynya persistent open water
+ice shelf floating glacier extension
+iceberg calved glacier chunk
+bergy bit medium ice piece
+growler small ice chunk
+ice floe floating ice sheet
+pack ice floating sea ice
+fast ice attached to shore
+landfast ice grounded ice
+drift ice moving with current
+ice breaker ship design
+ice road temporary winter route
+ice hotel temporary structure
+ice fishing winter recreation
+ice climbing frozen waterfall
+ice skating frozen surface
+ice hockey winter sport
+ice sculpture artistic creation
+ice wine frozen grape harvest
+ice cream frozen dessert
+dry ice solid carbon dioxide
+ice age glacial period
+little ice age cooling period
+medieval warm period
+roman warm period
+holocene climatic optimum
+younger dryas cold reversal
+last glacial maximum
+ice core paleoclimate record
+glacial interglacial cycles
+milankovitch theory orbital forcing
+snowball earth hypothesis
+greenhouse earth warm periods
+mass extinction climate change
+permian triassic boundary
+cretaceous paleogene boundary
+paleocene eocene thermal maximum
+late ordovician mass extinction
+devonian mass extinction
+triassic jurassic boundary
+end permian extinction
+great oxygenation event
+huronian glaciation
+cryogenian period snowball
+marinoan glaciation global
+sturtian glaciation severe
+gaskiers glaciation brief
+kaigas glaciation controversial
+makganyene glaciation south africa
+pongola glaciation archean
+mesoarchean glaciation early
+paleoarchean climate warm
+eoarchean hadean boundary
+hadean eon formation
+archean atmosphere methane
+proterozoic oxygenation
+phanerozoic complex life
+cenozoic age mammals
+mesozoic age reptiles
+paleozoic ancient life
+precambrian deep time
+cambrian explosion life
+ordovician marine life
+silurian first plants
+devonian age fishes
+carboniferous coal formation
+permian supercontinent pangaea
+triassic early dinosaurs
+jurassic giant dinosaurs
+cretaceous flowering plants
+paleogene mammal radiation
+neogene grass expansion
+quaternary ice ages
+pleistocene glacial cycles
+holocene current interglacial
+anthropocene human epoch
+climate change global warming
+greenhouse effect heat trapping
+carbon dioxide emissions
+methane potent greenhouse gas
+nitrous oxide agriculture source
+fluorinated gases industrial
+water vapor feedback warming
+albedo reflection cooling
+aerosols cooling particles
+black carbon warming particles
+land use change albedo
+deforestation carbon release
+urbanization heat islands
+agriculture greenhouse gases
+transportation emissions
+industry fossil fuels
+electricity generation coal
+buildings energy use
+waste management methane
+international shipping
+aviation high altitude
+cement production process
+steel production coal
+aluminum production electricity
+paper production forests
+textile production water
+food production agriculture
+livestock methane emissions
+rice cultivation methane
+fertilizer nitrous oxide
+deforestation carbon dioxide
+wetland drainage methane
+biomass burning particles
+fossil fuel extraction
+oil production drilling
+natural gas fracking
+coal mining methane
+nuclear power low carbon
+renewable energy clean
+solar photovoltaic electricity
+wind turbine generation
+hydroelectric dam power
+geothermal earth heat
+biomass organic matter
+tidal ocean energy
+wave ocean motion
+ocean thermal temperature
+fuel cell hydrogen
+battery storage electricity
+grid scale storage
+pumped hydro storage
+compressed air storage
+thermal energy storage
+carbon capture storage
+direct air capture
+enhanced weathering
+biochar soil carbon
+reforestation tree planting
+afforestation new forests
+regenerative agriculture
+sustainable aviation fuels
+electric vehicles transport
+hydrogen fuel transport
+public transit efficiency
+building efficiency retrofits
+industrial efficiency
+waste reduction circular
+recycling material recovery
+composting organic waste
+landfill methane capture
+water conservation efficiency
+ecosystem restoration
+biodiversity conservation
+habitat protection corridors
+species translocation
+assisted migration
+seed banking preservation
+cryopreservation genetic
+rewilding ecosystem restoration
+invasive species control
+pollution reduction clean
+air quality improvement
+water quality protection
+soil health restoration
+ocean acidification mitigation
+plastic pollution reduction
+chemical pollution control
+noise pollution reduction
+light pollution reduction
+electromagnetic pollution
+thermal pollution cooling
+radioactive waste disposal
+hazardous waste treatment
+electronic waste recycling
+textile waste reduction
+food waste prevention
+packaging waste reduction
+construction waste recycling
+medical waste treatment
+agricultural waste utilization
+forestry waste biomass
+mining waste remediation
+oil spill cleanup
+groundwater contamination
+surface water pollution
+atmospheric pollution
+soil contamination remediation
+marine pollution prevention
+space debris mitigation
+environmental justice equity
+climate adaptation planning
+resilience building capacity
+vulnerability assessment
+disaster risk reduction
+early warning systems
+emergency preparedness
+evacuation planning
+shelter design standards
+infrastructure hardening
+coastal protection measures
+flood management systems
+drought preparedness
+wildfire prevention
+heat wave response
+cold weather preparation
+storm surge barriers
+seawall construction
+beach nourishment
+mangrove restoration
+coral reef protection
+wetland conservation
+watershed management
+aquifer protection
+desalination technology
+water recycling treatment
+rainwater harvesting
+greywater systems
+blackwater treatment
+stormwater management
+green infrastructure
+urban planning sustainability
+smart city technology
+precision agriculture
+vertical farming
+indoor cultivation
+hydroponics soilless
+aquaponics fish plants
+permaculture design
+organic farming
+integrated pest management
+crop rotation diversity
+cover crop soil health
+no till agriculture
+agroforestry trees crops
+silvopasture trees livestock
+marine permaculture
+ocean farming
+kelp cultivation
+seaweed aquaculture
+fish farming sustainable
+shellfish cultivation
+integrated multitrophic
+recirculating aquaculture
+land based aquaculture
+offshore aquaculture
+sustainable fisheries
+marine protected areas
+fishing quota management
+gear modification bycatch
+ecosystem based management
+precautionary fisheries
+community based management
+traditional ecological knowledge
+indigenous rights recognition
+environmental protection
+conservation finance
+payment ecosystem services
+carbon credit markets
+biodiversity credits
+water credit trading
+pollution credit systems
+green bonds investment
+impact investing
+blended finance
+microfinance environmental
+insurance climate risk
+parametric insurance
+catastrophe bonds
+weather derivatives
+resilience bonds
+social impact bonds
+development finance
+multilateral development banks
+green development goals
+sustainable development
+planetary boundaries
+doughnut economics
+circular economy
+natural capital accounting
+ecosystem services valuation
+environmental economics
+behavioral economics
+nudge theory
+social psychology
+environmental psychology
+risk perception
+cognitive biases
+mental models
+systems thinking
+complexity science
+network theory
+game theory
+decision theory
+behavioral change
+social norms
+peer influence
+social learning
+diffusion innovation
+technology adoption
+digital transformation
+artificial intelligence
+machine learning
+big data analytics
+internet things
+blockchain technology
+quantum computing
+biotechnology applications
+nanotechnology materials
+robotics automation
+autonomous systems
+virtual reality
+augmented reality
+digital twins
+smart sensors
+satellite monitoring
+remote sensing
+geographic information systems
+modeling simulation
+prediction forecasting
+scenario analysis
+decision support systems
+early warning networks
+real time monitoring
+adaptive management
+learning by doing
+experimentation
+pilot projects
+scaling up
+technology transfer
+capacity building
+education training
+public awareness
+stakeholder engagement
+participatory governance
+deliberative democracy
+citizen assemblies
+public participation
+co design
+co production
+collaborative governance
+polycentric governance
+adaptive governance
+transformative governance
+anticipatory governance
+reflexive governance
+experimental governance
+innovation governance
+risk governance
+global governance
+international cooperation
+multilateral agreements
+bilateral cooperation
+regional initiatives
+city networks
+business coalitions
+civil society organizations
+multi stakeholder partnerships
+public private partnerships
+science policy interface
+evidence based policy
+policy coherence
+policy integration
+mainstreaming
+cross sector coordination
+whole government approach
+local implementation
+community engagement
+grassroots movements
+social movements
+activism advocacy
+protest demonstration
+civil disobedience
+direct action
+campaigns organizing
+lobbying influence
+media advocacy
+digital advocacy
+storytelling narrative
+framing communication
+messaging strategy
+audience segmentation
+behavior change communication
+social marketing
+community mobilization
+collective action
+social capital
+trust cooperation
+reciprocity norms
+shared values
+common identity
+social cohesion
+solidarity mutual aid
+resilience communities
+adaptive capacity
+transformative capacity
+agency empowerment
+leadership development
+skills training
+knowledge sharing
+peer learning
+mentoring coaching
+network building
+partnership development
+alliance formation
+coalition building
+movement building
+institutional change
+system transformation
+paradigm shift
+worldview change
+cultural evolution
+value change
+norm change
+belief system
+mindset shift
+consciousness raising
+awareness building
+education reform
+curriculum development
+pedagogy innovation
+learning approaches
+competency frameworks
+assessment methods
+credentialing systems
+professional development
+continuing education
+lifelong learning
+informal learning
+experiential learning
+place based learning
+problem based learning
+project based learning
+inquiry based learning
+collaborative learning
+cooperative learning
+peer learning
+social learning
+organizational learning
+adaptive learning
+transformative learning
+double loop learning
+triple loop learning
+systems learning
+complexity awareness

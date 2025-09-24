@@ -1,0 +1,74 @@
+fantasy
+science fiction
+mystery
+thriller
+romance
+horror
+historical
+adventure
+drama
+comedy
+slice of life
+cyberpunk
+steampunk
+dystopian
+post-apocalyptic
+noir
+epic
+dark fantasy
+urban fantasy
+space opera
+mythic
+fairy tale
+satire
+magical realism
+alternate history
+arcanepunk
+biopunk
+bildungsroman
+cozy mystery
+crime procedural
+dark academia
+dieselpunk
+ecofiction
+espionage thriller
+family saga
+gaslamp fantasy
+gothic romance
+grimdark fantasy
+hard science fiction
+heroic fantasy
+historical fantasy
+horror comedy
+kaiju fiction
+legal drama
+litRPG
+low fantasy
+military science fiction
+mythpunk
+new weird
+paranormal romance
+planetary romance
+political thriller
+portal fantasy
+psychological thriller
+pulp adventure
+romantic comedy
+science fantasy
+seafaring adventure
+solarpunk
+space western
+superhero
+supernatural mystery
+sword and sorcery
+techno-thriller
+time travel
+urban legend anthology
+weird west
+western
+wuxia
+zombie apocalypse
+courtroom drama
+epistolary fiction
+gothic horror
+heist thriller

@@ -1,0 +1,73 @@
+rule of thirds
+golden ratio
+golden spiral
+leading lines
+diagonal lines
+horizontal lines
+vertical lines
+curved lines
+S-curves
+converging lines
+parallel lines
+geometric patterns
+symmetry
+asymmetry
+balance
+visual weight
+negative space
+positive space
+framing
+natural framing
+edge framing
+center composition
+off-center composition
+foreground interest
+middle ground
+background
+layered composition
+depth of field
+shallow focus
+deep focus
+selective focus
+bokeh
+depth
+perspective
+linear perspective
+atmospheric perspective
+forced perspective
+bird's eye view
+worm's eye view
+eye level view
+high angle
+low angle
+dutch angle
+tilted horizon
+straight horizon
+dynamic composition
+static composition
+tension
+movement
+rhythm
+pattern
+repetition
+contrast
+color contrast
+tonal contrast
+texture contrast
+size contrast
+scale
+proportion
+emphasis
+focal point
+subject isolation
+environmental context
+storytelling composition
+documentary style
+artistic composition
+minimalist composition
+maximalist composition
+abstract composition
+geometric composition
+organic composition
+urban composition
+natural composition

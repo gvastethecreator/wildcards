@@ -1,0 +1,382 @@
+wet dog smell intensity
+new car leather scent
+old book mustiness
+fresh bread bakery
+coffee shop grinder
+gasoline station fumes
+chlorine pool chemical
+ocean salt breeze
+pine forest after rain
+campfire smoke clinging
+barbecue charcoal smoke
+cigarette stale lingering
+perfume counter headache
+cleaning product aisle
+hardware store sawdust
+auto shop motor oil
+hospital disinfectant
+dentist office fluoride
+gym locker room funk
+pizza delivery arrival
+popcorn movie theater
+cotton candy carnival
+hot dog street vendor
+chinese restaurant takeout
+indian spice market
+mexican restaurant cilantro
+italian restaurant garlic
+bakery yeast rising
+brewery hops fermenting
+wine cellar aging
+cheese shop selection
+fish market ice
+butcher shop fresh
+flower shop pollen
+garden center mulch
+pet store kibble
+veterinarian antiseptic
+baby powder nursery
+laundry detergent fresh
+fabric softener artificial
+dryer sheet static
+iron steam burst
+vacuum cleaner dust
+air freshener fake
+candle wax melting
+incense smoke spiral
+essential oil diffuser
+potpourri dusty bowl
+mothballs closet preservation
+cedar chest storage
+basement musty dampness
+attic hot dust
+garage motor oil
+shed lawnmower gas
+greenhouse humidity
+compost pile decomposition
+garbage day morning
+recycling bin fermentation
+diaper pail necessity
+litter box maintenance
+hamster cage bedding
+fish tank filter
+bird cage newspaper
+reptile tank heat
+terrarium moss
+aquarium algae
+pond water stagnant
+swimming pool chlorine
+hot tub chemicals
+jacuzzi jet bubbles
+sauna eucalyptus
+steam room moisture
+locker room towels
+shower stall mildew
+bathroom bleach
+toilet bowl cleaner
+kitchen grease trap
+refrigerator science experiment
+freezer frost bite
+microwave food explosion
+oven self clean
+dishwasher steam
+garbage disposal grind
+sink drain hair clog
+washing machine mildew
+dryer lint fire hazard
+iron burn fabric
+vacuum bag full
+mop bucket dirty water
+broom closet mustiness
+cleaning cabinet chemicals
+under sink plumbing
+behind refrigerator dust
+under stove grease
+inside oven splatter
+microwave turntable grime
+coffee maker mineral buildup
+toaster crumb tray
+blender gasket mold
+food processor blade oil
+stand mixer flour dust
+hand mixer beater gunk
+electric kettle scale
+rice cooker starch
+slow cooker ceramic stain
+pressure cooker seal ring
+air fryer basket grease
+convection oven fan dust
+dehydrator fruit leather
+bread maker yeast chamber
+espresso machine milk frother
+french press coffee grounds
+pour over filter paper
+cold brew concentrate
+tea kettle whistle
+teapot ceramic stain
+coffee cup ring mark
+mug handle chip
+wine glass lipstick
+beer mug foam residue
+cocktail shaker ice melt
+martini glass olive brine
+shot glass lime salt
+water bottle algae growth
+sports bottle protein powder
+thermos vacuum seal
+travel mug leak test
+disposable cup guilt
+paper plate grease stain
+plastic fork snap
+styrofoam squeak
+aluminum foil crinkle
+plastic wrap cling
+parchment paper brown
+wax paper grease proof
+freezer bag zipper
+storage container seal
+mason jar pickle juice
+tupperware stain set
+glass jar lid stuck
+can opener blade dull
+bottle opener leverage
+corkscrew wine cork
+church key beer can
+can tab finger slice
+bottle cap edge sharp
+twist off convenience
+pop top soda
+screw cap wine
+cork wine tradition
+synthetic cork compromise
+rubber stopper laboratory
+glass stopper chemistry
+plastic cap everything
+metal lid preserve
+vacuum seal freshness
+nitrogen flush chips
+oxygen absorber jerky
+desiccant packet shoes
+silica gel warning
+do not eat obvious
+keep dry impossible
+store cool room temperature
+refrigerate after opening
+freeze before date
+use within days
+best by suggestion
+expiration date law
+sell by store
+born on freshness
+lot number tracking
+serial number warranty
+model number service
+part number replacement
+sku inventory
+upc scanner
+isbn library
+issn periodical
+doi academic
+url web address
+qr code smartphone
+nfc tap payment
+rfid security
+magnetic stripe
+chip pin
+contactless wave
+apple pay double tap
+google pay unlock
+samsung pay anywhere
+paypal scan
+venmo social
+cashapp instant
+bitcoin volatile
+ethereum gas
+dogecoin meme
+nft screenshot
+crypto wallet
+blockchain immutable
+smart contract
+defi protocol
+yield farming
+liquidity mining
+staking rewards
+validator node
+consensus mechanism
+proof of work
+proof of stake
+delegated proof
+byzantine fault
+hash function
+merkle tree
+digital signature
+public key
+private key
+cryptographic hash
+salt random
+pepper security
+rainbow table
+brute force
+dictionary attack
+social engineering
+phishing email
+spear phishing
+whaling executive
+vishing voice
+smishing text
+pharming dns
+typosquatting domain
+clickjacking ui
+cross site scripting
+sql injection
+buffer overflow
+zero day exploit
+advanced persistent threat
+nation state actor
+ransomware encrypt
+malware detection
+virus signature
+trojan horse
+rootkit stealth
+spyware keylogger
+adware popup
+scareware fake
+rogueware payment
+potentially unwanted
+false positive
+quarantine isolation
+sandbox analysis
+behavioral detection
+heuristic scanning
+machine learning
+artificial intelligence
+neural network
+deep learning
+natural language
+computer vision
+speech recognition
+image classification
+object detection
+facial recognition
+gait analysis
+emotion detection
+sentiment analysis
+predictive analytics
+recommendation engine
+collaborative filtering
+content based
+hybrid approach
+cold start problem
+matrix factorization
+singular value decomposition
+principal component
+independent component
+factor analysis
+cluster analysis
+classification tree
+random forest
+support vector
+naive bayes
+logistic regression
+linear regression
+polynomial regression
+ridge regression
+lasso regularization
+elastic net
+gradient descent
+stochastic gradient
+mini batch
+backpropagation
+forward pass
+activation function
+loss function
+cost function
+objective function
+optimization algorithm
+learning rate
+batch size
+epoch training
+validation set
+test set
+cross validation
+hyperparameter tuning
+grid search
+random search
+bayesian optimization
+genetic algorithm
+particle swarm
+simulated annealing
+hill climbing
+local search
+global optimization
+multi objective
+pareto optimal
+nash equilibrium
+game theory
+mechanism design
+auction theory
+voting theory
+social choice
+welfare economics
+behavioral economics
+nudge theory
+prospect theory
+anchoring bias
+availability heuristic
+confirmation bias
+hindsight bias
+overconfidence effect
+dunning kruger
+impostor syndrome
+survivorship bias
+selection bias
+publication bias
+reporting bias
+measurement error
+confounding variable
+correlation causation
+spurious correlation
+regression discontinuity
+difference in differences
+instrumental variable
+randomized control
+natural experiment
+quasi experimental
+observational study
+case control
+cohort study
+cross sectional
+longitudinal study
+meta analysis
+systematic review
+literature review
+peer review
+double blind
+single blind
+placebo effect
+nocebo effect
+hawthorne effect
+pygmalion effect
+halo effect
+horn effect
+fundamental attribution
+actor observer
+self serving bias
+group attribution
+ultimate attribution
+system justification
+social identity
+in group bias
+out group homogeneity
+stereotyping
+prejudice
+discrimination
+microaggression
+implicit bias
+explicit bias
+unconscious bias
+cognitive dissonance
+motivated reasoning
+wishful thinking
+magical thinking
+superstitious behavior

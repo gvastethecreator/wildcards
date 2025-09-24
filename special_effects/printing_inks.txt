@@ -1,0 +1,83 @@
+offset printing
+letterpress
+screen printing
+digital printing
+inkjet printing
+laser printing
+lithography
+etching
+engraving
+woodcut
+linocut
+monotype
+monoprint
+relief printing
+intaglio printing
+planographic printing
+stencil printing
+risograph printing
+xerography
+photocopying
+blueprint
+cyanotype
+daguerreotype
+tintype
+albumen print
+gelatin silver print
+chromogenic print
+dye sublimation
+thermal printing
+dot matrix printing
+impact printing
+non-impact printing
+3D printing
+large format printing
+wide format printing
+fine art printing
+archival printing
+pigment ink
+dye ink
+solvent ink
+UV ink
+latex ink
+eco-solvent ink
+aqueous ink
+oil-based ink
+water-based ink
+metallic ink
+fluorescent ink
+phosphorescent ink
+thermochromic ink
+photochromic ink
+magnetic ink
+conductive ink
+invisible ink
+security ink
+anti-counterfeit ink
+spot color
+process color
+CMYK printing
+Pantone colors
+RGB colors
+LAB colors
+grayscale printing
+black and white printing
+sepia printing
+duotone printing
+tritone printing
+quadtone printing
+color separation
+halftone printing
+screen angles
+dot gain
+color management
+ICC profiles
+color calibration
+print resolution
+DPI settings
+line screen
+registration marks
+crop marks
+bleed marks
+trim marks
+fold marks

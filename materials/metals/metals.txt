@@ -1,0 +1,33 @@
+Gold
+Silver
+Copper
+Bronze
+Brass
+Platinum
+Titanium
+Aluminum
+Steel
+Iron
+Nickel
+Chromium
+Tungsten
+Cobalt
+Zinc
+Magnesium
+Mercury
+Pewter
+Electrum
+Osmium
+Iridium
+Rhodium
+Palladium
+Rose gold
+White gold
+Yellow gold
+Gunmetal
+Blackened steel
+Damascus steel
+Wrought iron
+Cast iron
+Stainless steel
+Galvanized steel

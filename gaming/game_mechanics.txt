@@ -1,0 +1,133 @@
+platformer mario with precise jumping and power up collection
+metroidvania samus with exploration and ability gated progression
+souls like with stamina combat and environmental storytelling
+roguelike with procedural generation and permanent death
+battle royale with shrinking arena and last player standing
+moba with lane pushing and team based strategic combat
+mmo with persistent world and thousands of simultaneous players
+survival with resource gathering and base building mechanics
+tower defense with wave based enemy and strategic placement
+city builder with urban planning and economic management
+grand strategy with empire management and diplomatic complexity
+turn based strategy with grid movement and tactical positioning
+real time strategy with base building and resource collection
+fighting game with frame data and combo execution
+rhythm game with musical timing and dance pad controllers
+puzzle game with logical problem solving and spatial reasoning
+point and click adventure with inventory puzzles and story
+visual novel with branching narrative and multiple endings
+dating sim with relationship building and character routes
+life simulation with virtual pet care and daily activities
+racing game with vehicle physics and track memorization
+sports game with team management and athletic simulation
+flight simulator with realistic aircraft and weather systems
+train simulator with locomotive operation and route planning
+farming simulator with agricultural equipment and crop cycles
+truck simulator with long distance hauling and traffic laws
+construction simulator with heavy machinery and project completion
+cooking game with recipe following and time management
+fishing game with patience skill and equipment upgrades
+hunting game with animal tracking and weapon accuracy
+photography game with composition and wildlife behavior
+music game with instrument playing and song creation
+dancing game with choreography and rhythm coordination
+karaoke game with vocal performance and song selection
+trivia game with knowledge testing and category selection
+word game with vocabulary and spelling challenges
+math game with calculation and problem solving skills
+typing game with keyboard accuracy and speed improvement
+memory game with pattern recognition and recall ability
+reaction game with quick reflexes and hand eye coordination
+stealth game with avoiding detection and silent movement
+horror game with fear inducement and psychological tension
+comedy game with humor and entertainment value
+educational game with learning objectives and skill development
+serious game with real world application and training purpose
+art game with creative expression and aesthetic appreciation
+experimental game with unconventional mechanics and boundary pushing
+indie game with independent development and creative freedom
+aaa game with large budget and production values
+retro game with nostalgic graphics and classic gameplay
+modern game with cutting edge technology and innovation
+mobile game with touch controls and casual accessibility
+console game with controller input and living room experience
+pc game with keyboard mouse and mod support
+vr game with immersive headset and motion tracking
+ar game with augmented reality and real world overlay
+browser game with web based and instant accessibility
+flash game with adobe flash and simple mechanics
+html5 game with modern web standards and cross platform
+java game with programming language and cross platform
+text based game with written description and imagination
+ascii game with character graphics and terminal interface
+pixel art game with low resolution and nostalgic aesthetics
+3d game with polygonal models and depth perception
+2d game with flat graphics and side scrolling movement
+isometric game with angled perspective and pseudo 3d
+first person game with character viewpoint and immersion
+third person game with external camera and character visibility
+top down game with overhead view and strategic perspective
+side scrolling game with horizontal movement and progression
+vertical scrolling game with upward movement and climbing
+fixed screen game with single area and contained action
+open world game with exploration and non linear progression
+linear game with predetermined path and story sequence
+sandbox game with creative freedom and player agency
+narrative driven game with story focus and character development
+gameplay focused game with mechanics emphasis and challenge
+multiplayer game with social interaction and competition
+single player game with solo experience and personal challenge
+cooperative game with team collaboration and shared objectives
+competitive game with player versus player and ranking systems
+casual game with easy accessibility and short sessions
+hardcore game with difficulty and time investment
+simulation game with realistic systems and accurate modeling
+arcade game with simple controls and immediate gratification
+strategy game with planning and long term decision making
+action game with fast paced and reflexive gameplay
+adventure game with exploration and discovery elements
+rpg game with character progression and statistical growth
+fps game with first person and shooting mechanics
+tps game with third person and shooting gameplay
+racing game with vehicle control and speed competition
+sports game with athletic simulation and team management
+puzzle game with problem solving and logical thinking
+rhythm game with musical timing and audio visual coordination
+fighting game with martial combat and input precision
+platformer game with jumping and obstacle navigation
+shooter game with projectile weapons and target elimination
+beat em up game with melee combat and enemy hordes
+hack and slash game with weapon combat and action focus
+turn based combat with sequential actions and strategic planning
+real time combat with simultaneous actions and quick decisions
+tactical combat with positioning and environmental usage
+button mashing combat with rapid input and simple execution
+combo system combat with chaining moves and timing precision
+magic system with spell casting and mana management
+skill tree progression with branching advancement paths
+leveling system with experience points and statistical growth
+crafting system with item creation and resource combination
+trading system with economic exchange and value fluctuation
+reputation system with faction standing and social consequences
+morality system with ethical choices and karma tracking
+romance system with relationship building and character interaction
+housing system with property ownership and customization
+pet system with companion creatures and care mechanics
+mount system with rideable animals and transportation
+vehicle system with mechanical transportation and upgrades
+weather system with environmental conditions and seasonal changes
+day night cycle with time progression and schedule effects
+calendar system with date tracking and event scheduling
+save system with progress preservation and checkpoint creation
+difficulty system with challenge scaling and accessibility options
+accessibility system with disability accommodation and inclusive design
+localization system with language translation and cultural adaptation
+mod support system with community content and user generated modifications
+dlc system with downloadable content and post launch expansion
+season pass system with bundled content and advance purchase
+microtransaction system with small purchases and monetization
+loot box system with randomized rewards and gambling mechanics
+gacha system with collection and probability based acquisition
+energy system with time gating and resource limitation
+premium currency system with real money and virtual exchange
+subscription system with recurring payment and ongoing access

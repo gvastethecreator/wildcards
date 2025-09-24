@@ -1,0 +1,129 @@
+photorealistic
+hyperrealistic
+cinematic
+dramatic lighting
+soft lighting
+natural lighting
+studio lighting
+volumetric lighting
+rim lighting
+chiaroscuro
+film noir
+vintage
+retro
+art deco
+art nouveau
+baroque
+renaissance
+impressionist
+expressionist
+surreal
+abstract
+minimalist
+maximalist
+gothic
+steampunk
+cyberpunk
+dieselpunk
+solarpunk
+vaporwave
+synthwave
+outrun
+aesthetic
+glitch art
+pixel art
+low poly
+high poly
+cel shaded
+toon shaded
+watercolor
+oil painting
+acrylic painting
+digital painting
+pencil sketch
+charcoal drawing
+ink drawing
+pastel
+gouache
+tempera
+fresco
+graffiti
+street art
+pop art
+comic book style
+manga style
+anime style
+cartoon style
+realistic style
+stylized
+caricature
+portrait style
+landscape style
+still life style
+architectural style
+fashion photography
+portrait photography
+landscape photography
+macro photography
+street photography
+documentary style
+editorial style
+commercial style
+fine art style
+conceptual art
+installation art
+performance art
+sculpture style
+3D rendering
+CGI style
+VFX style
+matte painting
+concept art
+storyboard style
+illustration style
+vector art
+geometric art
+organic shapes
+flowing lines
+sharp edges
+soft curves
+texture heavy
+smooth surfaces
+rough textures
+glossy finish
+matte finish
+metallic sheen
+iridescent
+holographic
+neon glow
+bioluminescent
+phosphorescent
+translucent
+transparent
+opaque
+solid colors
+gradient colors
+monochromatic
+duotone
+tritone
+full spectrum
+high contrast
+low contrast
+high saturation
+desaturated
+sepia tone
+black and white
+colorized
+cross-processed
+double exposure
+multiple exposure
+long exposure
+motion blur
+depth of field
+shallow focus
+deep focus
+tilt-shift
+fisheye
+wide angle
+telephoto
+macro lens

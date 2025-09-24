@@ -1,0 +1,100 @@
+natural lighting
+studio lighting
+dramatic lighting
+soft lighting
+hard lighting
+directional lighting
+diffused lighting
+ambient lighting
+mood lighting
+accent lighting
+key lighting
+fill lighting
+rim lighting
+backlighting
+side lighting
+front lighting
+top lighting
+bottom lighting
+three-point lighting
+four-point lighting
+high key lighting
+low key lighting
+chiaroscuro
+Rembrandt lighting
+butterfly lighting
+split lighting
+loop lighting
+short lighting
+broad lighting
+paramount lighting
+clamshell lighting
+beauty lighting
+fashion lighting
+portrait lighting
+product lighting
+architectural lighting
+landscape lighting
+street lighting
+neon lighting
+LED lighting
+fluorescent lighting
+tungsten lighting
+halogen lighting
+candlelight
+firelight
+moonlight
+sunlight
+golden hour lighting
+blue hour lighting
+overcast lighting
+window light
+north light
+south light
+east light
+west light
+bounce lighting
+reflected lighting
+colored lighting
+gel lighting
+practical lighting
+motivated lighting
+unmotivated lighting
+high contrast lighting
+low contrast lighting
+even lighting
+uneven lighting
+volumetric lighting
+god rays
+light rays
+light shafts
+light beams
+light streaks
+lens flare
+sun flare
+star filter
+diffusion filter
+soft filter
+warming filter
+cooling filter
+polarizing filter
+neutral density filter
+softbox lighting
+beauty dish lighting
+ring light portrait
+lantern soft light
+tube LED practicals
+gobo patterned light
+cookie shadow lighting
+bounce card fill
+negative fill lighting
+book light setup
+china ball overhead
+sun-seeker hard beam
+skylight ambient
+moonbox ambient
+practical lamp glow
+zipper light edge
+top soft grid
+eggcrate control
+flagged spill control

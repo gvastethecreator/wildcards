@@ -1,0 +1,350 @@
+super mario bros
+the legend of zelda
+metroid
+donkey kong
+pac man
+tetris
+space invaders
+asteroids
+centipede
+frogger
+galaga
+defender
+missile command
+dig dug
+q bert
+joust
+robotron 2084
+tempest
+zaxxon
+pole position
+pitfall
+adventure
+yars revenge
+combat
+outlaw
+surround
+video olympics
+haunted house
+slot racers
+street racer
+final fantasy
+dragon quest
+chrono trigger
+secret of mana
+phantasy star
+sonic the hedgehog
+streets of rage
+golden axe
+altered beast
+shinobi
+contra
+gradius
+r type
+thunder force
+castlevania
+mega man
+ninja gaiden
+bionic commando
+metal slug
+king of fighters
+street fighter
+mortal kombat
+tekken
+virtua fighter
+soul calibur
+dead or alive
+guilty gear
+blazblue
+darkstalkers
+vampire savior
+samurai shodown
+fatal fury
+art of fighting
+world heroes
+primal rage
+killer instinct
+clay fighter
+eternal champions
+battle arena toshinden
+tobal
+ehrgeiz
+bloody roar
+power stone
+rival schools
+project justice
+capcom vs snk
+marvel vs capcom
+x men vs street fighter
+marvel super heroes
+x men children of the atom
+spider man
+batman
+teenage mutant ninja turtles
+the simpsons
+x men
+captain america
+the punisher
+alien vs predator
+dungeons dragons
+cadillacs and dinosaurs
+knights of the round
+king of dragons
+warriors of fate
+armored warriors
+battle circuit
+red earth
+warzard
+vampire hunter
+vampire savior 2
+pocket fighter
+super puzzle fighter
+super gem fighter
+cyberbots
+tech romancer
+rival schools 2
+capcom fighting evolution
+tatsunoko vs capcom
+ultimate marvel vs capcom 3
+street fighter x tekken
+tekken x street fighter
+dragon ball fighterz
+granblue fantasy versus
+melty blood
+under night in birth
+arcana heart
+nitroplus blasterz
+aquapazza
+chaos code
+dengeki bunko fighting climax
+persona 4 arena
+blazblue cross tag battle
+dragon ball z budokai
+dragon ball z budokai tenkaichi
+naruto ultimate ninja storm
+one piece burning blood
+jump force
+my hero academia ones justice
+demon slayer hinokami chronicles
+jojo bizarre adventure all star battle
+jojo bizarre adventure eyes of heaven
+fist of the north star
+saint seiya soldiers soul
+sailor moon eternal
+pretty cure all stars
+love live school idol festival
+idolmaster
+project diva
+taiko no tatsujin
+beatmania
+dance dance revolution
+guitar hero
+rock band
+just dance
+stepmania
+osu
+cytus
+deemo
+voez
+lanota
+arcaea
+phigros
+malody
+etterna
+quaver
+clone hero
+frets on fire
+phase shift
+rocksmith
+amplitude
+frequency
+rez
+lumines
+tetris effect
+puyo puyo tetris
+panel de pon
+columns
+dr mario
+puzzle bobble
+magical drop
+money puzzle exchanger
+super puzzle fighter ii turbo
+puzzle quest
+might and magic clash of heroes
+pokemon puzzle league
+kirby avalanche
+yoshi cookie
+wario woods
+professor layton
+phoenix wright ace attorney
+hotel dusseldorf
+nine hours nine persons nine doors
+virtue last reward
+zero time dilemma
+danganronpa
+steins gate
+clannad
+fate stay night
+tsukihime
+when they cry
+umineko when they cry
+chaos head
+chaos child
+robotics notes
+little busters
+air
+kanon
+planetarian
+angel beats
+charlotte
+summer pockets
+island
+grisaia
+muv luv
+utawarerumono
+tales of symphonia
+tales of vesperia
+tales of berseria
+tales of arise
+nier automata
+nier replicant
+drakengard
+final fantasy vii
+final fantasy x
+final fantasy xiv
+kingdom hearts
+persona 5
+persona 4
+persona 3
+shin megami tensei
+devil may cry
+bayonetta
+metal gear solid
+silent hill
+resident evil
+dead space
+bioshock
+half life
+portal
+team fortress
+counter strike
+left 4 dead
+dota
+league of legends
+heroes of newerth
+smite
+overwatch
+valorant
+apex legends
+fortnite
+pubg
+call of duty
+battlefield
+medal of honor
+wolfenstein
+doom
+quake
+unreal tournament
+halo
+gears of war
+crysis
+far cry
+assassins creed
+grand theft auto
+red dead redemption
+max payne
+alan wake
+control
+quantum break
+remedy entertainment
+rockstar games
+blizzard entertainment
+valve corporation
+bethesda game studios
+id software
+epic games
+ubisoft montreal
+cd projekt red
+naughty dog
+santa monica studio
+guerrilla games
+insomniac games
+sucker punch productions
+bend studio
+japan studio
+team ico
+fromsoftware
+capcom
+konami
+square enix
+bandai namco
+sega
+nintendo
+microsoft game studios
+sony interactive entertainment
+activision
+electronic arts
+take two interactive
+warner bros games
+2k games
+deep silver
+focus home interactive
+devolver digital
+annapurna interactive
+raw fury
+team17
+indie
+double fine
+supergiant games
+hades
+bastion
+transistor
+pyre
+hollow knight
+celeste
+ori and the blind forest
+ori and the will of the wisps
+cuphead
+shovel knight
+a hat in time
+pizza tower
+freedom planet
+sonic mania
+katana zero
+hotline miami
+hyper light drifter
+fez
+braid
+limbo
+inside
+journey
+abzu
+flower
+gris
+spiritfarer
+unpacking
+coffee talk
+va 11 hall a
+papers please
+return of the obra dinn
+disco elysium
+divinity original sin
+pillars of eternity
+tyranny
+pathfinder kingmaker
+baldurs gate
+icewind dale
+neverwinter nights
+dragon age
+mass effect
+the witcher
+cyberpunk 2077
+deus ex
+system shock
+prey
+dishonored
+thief
+hitman
+splinter cell
+rainbow six
+ghost recon
