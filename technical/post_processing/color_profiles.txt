@@ -14,3 +14,89 @@ S-Log3 cinematic
 V-Log Panasonic
 C-Log Canon
 RAW high dynamic range
+Adobe RGB 1998
+ProPhoto RGB
+Display P3
+Rec.2020 wide gamut
+DCI-P3 cinema
+ACEScg pipeline
+Alexa LogC
+LogC4 workflow
+Arri Rec709
+RED LogFilm
+RED IPP2
+Blackmagic Film
+Panasonic V-Log L
+Canon C-Log2
+Canon C-Log3
+Nikon N-Log
+Fujifilm F-Log
+DJI D-Log
+GoPro Protune flat
+Apple Log profile
+ARRI Look Library
+Alexa 709 Wide
+Hasselblad Natural Color Solution
+Phase One IQ Style
+Capture One Film Standard
+Lightroom Adobe Color
+Lightroom Adobe Portrait
+Lightroom Adobe Landscape
+CinemaMatch neutral
+Kodak Vision3 500T
+Kodak Vision3 250D
+Kodak Portra 400
+Kodak Portra 160
+Kodak Gold 200
+Fuji Pro 400H
+Fuji Provia 100F
+Fuji Astia 100F
+Fuji Eterna Cine
+Agfa Vista 200
+Ilford Delta 3200
+Polaroid Originals
+Instant film peel-apart
+Cross processed slide
+LomoChrome Purple
+Teal and orange blockbuster
+Bleach bypass grade
+Monochrome orange filter
+Split tone cobalt amber
+ACES cinematic workflow
+Rec.2020 wide gamut
+DCI-P3 theater projection
+ARRI LogC neutral
+RED IPP2 soft rolloff
+Alexa Classic LUT
+Alexa 65 LUT
+Blackmagic Film Gen5
+Fuji Eterna soft film
+Fuji Classic Chrome
+Fuji Provia standard
+Fuji Astia soft
+Fuji Velvia vivid
+Kodak Vision3 2383
+Kodak Vision3 2395
+Agfa Vista warm tones
+Ilford Delta smooth mono
+Ilford FP4 fine grain
+Polaroid color fade
+Instant film emulation
+Muted pastel grade
+Bleach bypass contrast
+Cross process teal magenta
+Technicolor three-strip
+Sepia archival wash
+Platinum print monochrome
+Cyanotype blueprint
+Duotone magenta cyan
+Split tone warm cool
+Night vision green cast
+Underwater aqua shift
+Sunset golden grade
+Winter cool grade
+Neon city saturation
+Cinematic day for night
+High key pastel palette
+Low key moody palette
+Analog VHS color bleed

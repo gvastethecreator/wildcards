@@ -17,3 +17,98 @@ Aquamarine
 Citrine
 Diamond
 Fancy Color Diamond
+Andalusite
+Apatite
+Axinite
+Azurite
+Benitoite
+Beryl
+Bloodstone
+Carnelian
+Chalcedony
+Chrome Diopside
+Chrysoberyl
+Chrysoprase
+Danburite
+Demantoid Garnet
+Diopside
+Dumortierite
+Fluorite
+Garnet
+Grossular Garnet
+Hematite
+Howlite
+Iolite
+Jade
+Jadeite
+Nephrite
+Jasper
+Kyanite
+Labradorite
+Larimar
+Lepidolite
+Malachite
+Moonstone
+Morganite
+Obsidian
+Onyx
+Opal
+Fire Opal
+Peridot
+Rhodochrosite
+Rhodolite
+Spinel
+Star Garnet
+Sunstone
+Tanzanite
+Tiger's Eye
+Topaz
+Blue Topaz
+Imperial Topaz
+Tourmaline
+Watermelon Tourmaline
+Paraiba Tourmaline
+Tsavorite
+Turquoise
+Blue Zircon
+White Zircon
+Zoisite
+Sugilite
+Charoite
+Seraphinite
+Pietersite
+Larvikite
+Shungite
+Sodalite
+Amazonite
+Heliodor
+Prasiolite
+Petalite
+Phenakite
+Orthoclase
+Sunset Sapphire
+Padparadscha Sapphire
+Alexandrite Cat's Eye
+Cat's Eye Chrysoberyl
+Star Diopside
+Star Moonstone
+Rainbow Moonstone
+Black Opal
+Ethiopian Opal
+Boulder Opal
+Mexican Opal
+Lapis Lazuli
+Mother of Pearl
+Abalone Shell
+Jet
+Amber Calcite
+Green Aventurine
+Blue Aventurine
+Rutilated Quartz
+Smoky Quartz
+Rose Quartz
+Lemon Quartz
+Herkimer Diamond
+Moldavite
+Tektite
+Meteorite Iron

@@ -1,0 +1,49 @@
+RAW file processing
+DNG digital negative format
+JPEG compression artifacts
+HEIF high efficiency format
+TIFF uncompressed quality
+color space sRGB standard
+color space Adobe RGB
+color space ProPhoto RGB
+color space DCI-P3
+color gamut wide spectrum
+bit depth 8 bit standard
+bit depth 16 bit professional
+bit depth 14 bit camera native
+dynamic range 14 stops
+highlight recovery -100
+shadow lifting +100
+white balance temperature adjustment
+white balance tint correction
+exposure adjustment post processing
+contrast curve manipulation
+highlight rolloff smooth
+shadow detail enhancement
+black point adjustment
+white point clipping prevention
+tone curve custom S-curve
+luminosity masking selective
+color grading cinematic look
+split toning highlights shadows
+HSL hue saturation luminance
+color wheel primary corrections
+secondary color isolation
+skin tone protection
+sky replacement automated
+object removal content aware
+noise reduction luminance
+noise reduction color
+sharpening output medium
+sharpening masking 50
+lens correction vignetting
+lens correction distortion
+chromatic aberration removal
+perspective correction keystone
+graduated filter digital
+radial filter spotlight effect
+brush adjustment localized
+luminosity blend mode
+color blend mode overlay
+multiply blend mode darken
+screen blend mode lighten

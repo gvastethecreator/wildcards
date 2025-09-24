@@ -18,3 +18,162 @@ mirror
 lamp
 chandelier
 ceiling fan
+sectional sofa
+loveseat
+chaise lounge
+sofa bed
+futon frame
+daybed
+murphy bed
+trundle bed
+bunk bed
+loft bed
+canopy bed
+four-poster bed
+platform bed
+storage bed
+adjustable bed
+sleigh bed
+captains bed
+window seat
+banquette seating
+dining bench
+breakfast nook set
+kitchen island
+butcher block island
+bar cart
+bar cabinet
+wine bar
+buffet sideboard
+dining hutch
+china cabinet
+curio cabinet
+display cabinet
+glass-front cabinet
+media console
+entertainment center
+tv stand
+record cabinet
+console table
+sofa table
+side table
+end table
+nesting tables
+c-style table
+pedestal table
+drop-leaf table
+gateleg table
+expanding table
+workbench
+craft table
+standing desk
+sit-stand desk
+writing desk
+computer desk
+gaming desk
+executive desk
+roll-top desk
+secretary desk
+drafting table
+vanity table
+makeup vanity
+dressing table
+coiffeuse
+wardrobe armoire
+hall tree
+coat rack
+umbrella stand
+shoe rack
+entryway bench
+storage bench
+hope chest
+blanket chest
+cedar chest
+storage trunk
+ottoman bench
+storage ottoman
+pouf ottoman
+bean bag chair
+floor cushion
+papasan chair
+egg chair
+hanging pod chair
+hammock chair
+rocking chair
+glider rocker
+wingback chair
+club chair
+accent chair
+slipper chair
+barrel chair
+swivel lounge chair
+reclining sectional
+power recliner
+massage chair
+gaming chair
+office chair
+task chair
+ergonomic chair
+executive chair
+kneeling chair
+balance ball chair
+drafting stool
+saddle stool
+bar stool
+counter stool
+folding chair
+stacking chair
+director chair
+butterfly chair
+camp chair
+patio lounger
+sun lounger
+outdoor sectional
+garden bench
+park bench
+picnic table
+fire pit table
+planter bench
+porch swing
+swing bed
+gazebo seating
+outdoor daybed
+patio dining set
+lawn chair
+adirondack chair
+zero gravity chair
+laundry sorter
+utility shelf
+ladder shelf
+bookcase wall unit
+corner bookshelf
+floating shelves
+modular shelving
+file cabinet
+lateral file cabinet
+storage cabinet
+pantry cabinet
+linen cabinet
+metal locker
+supply cart
+rolling cart
+utility cart
+serving trolley
+baker's rack
+microwave cart
+plant stand
+coat stand
+valet stand
+room divider screen
+shoji screen
+privacy screen
+tatami platform
+kotatsu table
+tea table
+carved chest
+trunk coffee table
+nesting ottoman set
+tv lift cabinet
+record player stand
+media tower
+speaker stands

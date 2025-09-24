@@ -18,3 +18,170 @@ pointed chin
 dimpled chin
 high forehead
 broad shoulders
+freckled cheeks
+sun-kissed skin
+porcelain skin
+ebony skin
+olive complexion
+rosy cheeks
+flushed cheeks
+glowing skin
+luminescent skin
+scarred eyebrow
+arched eyebrows
+bold eyebrows
+feathered brows
+monolid eyes
+double eyelids
+hooded eyes
+lash extensions
+long lashes
+thick lashes
+hollow cheeks
+soft jawline
+sharp cheekbones
+sculpted cheekbones
+dimples
+shallow dimples
+deep dimples
+candlelit freckles
+constellation freckles
+beauty mark
+signature mole
+cleft chin
+split lip scar
+stitched scar
+broken nose
+crooked smile
+lopsided grin
+smirk lines
+laugh lines
+crow's feet
+furrowed brow
+high arched brow
+pierced brow
+pierced nose bridge
+septum ring
+nostril stud
+labret piercing
+lip ring
+snakebite piercings
+cheek piercings
+gauged ears
+multiple ear cuffs
+industrial piercing
+helix piercings
+tattooed neck
+hand-poked tattoos
+runic tattoos
+bioluminescent tattoos
+glowing circuitry tattoos
+henna patterns
+scarification art
+ritual markings
+cybernetic eye
+glowing eye implant
+monocle implant
+prosthetic limb
+mechanical arm
+sleek prosthetic leg
+clockwork heart plate
+translucent skin panels
+veiled face
+masked visage
+feathered headdress
+ornate tiara
+braided crown
+elaborate updo
+shaved sides
+undercut fade
+asymmetrical bob
+silver streak hair
+pastel ombre hair
+fiery red mane
+locs cascade
+micro braids
+intricate cornrows
+shaved patterns
+beaded hair
+ribbon woven hair
+topknot
+samurai knot
+messy bun
+half-up style
+five o'clock shadow
+salt-and-pepper beard
+full beard
+coiled beard
+braided beard
+stubbled jaw
+clean-shaven look
+lip scar
+chin scar
+ear notch
+calloused hands
+delicate hands
+pianist fingers
+artisan hands
+engineer gloves
+ink-stained fingers
+grease-stained hands
+manicured nails
+black lacquer nails
+chromed nails
+claw extensions
+vampiric fangs
+sharpened canines
+silver tooth
+gold tooth
+biotech implants
+glowing spinal nodes
+shoulder pauldrons
+winged pauldrons
+ceremonial collar
+broad stance
+lean physique
+athletic build
+toned arms
+calloused hands
+graceful posture
+stoic expression
+warm gaze
+steel gaze
+playful smirk
+soft dimples
+sharp profile
+angular features
+soft rounded features
+high arched brows
+thick lashes
+wispy lashes
+sun kissed skin
+porcelain skin
+freckled complexion
+scar along cheek
+beauty mark accent
+birthmark distinguishing
+tattooed sleeves
+pierced brow
+septum piercing
+stretched earlobes
+silver streaked hair
+salt and pepper hair
+braided crown
+undercut hairstyle
+asymmetrical haircut
+curly halo hair
+coily textured hair
+sleek straight hair
+shaved head
+topknot bun
+messy ponytail
+loose waves
+dreadlock ropes
+intricate cornrows
+war paint markings
+ritual scarification
+cybernetic implants
+augmented iris rings
+holographic makeup accents

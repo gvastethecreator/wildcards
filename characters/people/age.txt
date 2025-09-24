@@ -18,3 +18,33 @@ fortysomething
 fiftysomething
 sixtysomething
 ageless
+newborn
+baby
+kindergartener
+grade schooler
+tween
+high schooler
+college-aged
+gap year wanderer
+young professional
+early career adult
+midlife adult
+late bloomer
+empty nester
+retiree
+grandparent
+great-grandparent
+nonagenarian
+supercentenarian
+ancient elder
+immortal being
+eternal youth
+timeless wanderer
+reborn soul
+child prodigy
+wonder child
+seasoned veteran
+elder statesperson
+silver fox
+golden ager
+late-life adventurer

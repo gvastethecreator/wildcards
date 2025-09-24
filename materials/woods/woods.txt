@@ -30,3 +30,39 @@ Purpleheart
 Zebrano
 Wenge
 Ipe
+Alder
+Aspen
+Balsa
+Basswood
+Bubinga
+Butternut
+Canarywood
+Carob wood
+Chestnut
+Cocobolo
+Goncalo alves
+Iroko
+Jatoba
+Katalox
+Koa
+Lacewood
+Makore
+Merbau
+Ovangkol
+Padauk burl
+Pau ferro
+Sapele
+Sipo
+Snakewood
+Sandalwood
+Sweetgum
+Tamarind wood
+Thermo ash
+Tigerwood
+Tulipwood
+Walnut burl
+Wenge dark
+White oak
+Yellowheart
+Zebrawood
+Ziricote

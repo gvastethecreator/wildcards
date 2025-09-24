@@ -1,0 +1,47 @@
+aperture priority mode
+shutter priority mode
+manual exposure mode
+program auto mode
+aperture wide open f/1.4
+aperture stopped down f/22
+fast shutter 1/4000s
+slow shutter 30 seconds
+bulb exposure mode
+ISO base 100
+ISO pushed 12800
+ISO pulled -2 stops
+exposure compensation +3
+exposure compensation -3
+spot metering mode
+center weighted metering
+matrix evaluative metering
+highlight weighted metering
+shadow weighted metering
+exposure bracketing 5 frames
+HDR tone mapping enabled
+white balance daylight 5600K
+white balance tungsten 3200K
+white balance fluorescent 4000K
+white balance custom kelvin
+white balance color temperature
+focus peaking enabled
+focus magnification 10x
+single point autofocus
+zone autofocus 9 points
+3D tracking autofocus
+eye detection autofocus
+animal eye detection
+back button focus
+continuous autofocus AI servo
+single shot autofocus one shot
+manual focus override
+hyperfocal distance setting
+infinity focus lock
+macro focus limiting
+vibration reduction enabled
+image stabilization 5 stops
+electronic first curtain
+mechanical shutter release
+silent shutter mode
+high speed continuous 20fps
+low speed continuous 5fps

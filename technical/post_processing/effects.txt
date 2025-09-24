@@ -18,3 +18,130 @@ flare
 glow
 rim lighting
 ambient occlusion
+specular bloom
+volumetric god rays
+halation glow
+film emulation layers
+color bleed
+selective saturation
+split toning
+duotone rendering
+tritone overlays
+monochrome conversion
+infrared simulation
+thermal vision effect
+vintage fade
+retro CRT scanlines
+pixel sorting
+glitch displacement
+datamosh artifacting
+chromatic bloom
+anisotropic blur
+directional blur
+radial blur
+tilt shift miniature
+focus stacking blend
+edge enhancement
+contour outlining
+ink sketch filter
+watercolor wash
+oil paint effect
+impasto texture
+emboss relief
+displacement mapping
+parallax depth map
+light leaks
+film burn overlays
+dust and scratches
+frame vignette
+letterbox cropping
+anamorphic squeeze
+cinematic bars
+dynamic dodging
+selective burning
+split toning
+cross processing
+bleach bypass
+duotone grading
+color dodge
+luminosity masking
+frequency separation
+high pass sharpening
+clarity boost
+texture enhancement
+dehaze filter
+soft focus glow
+glamour glow
+orton effect
+dragan effect
+matte finish
+film fade
+grain overlay
+halation bloom
+light leaks
+lens warp
+tilt-shift miniature
+miniature effect
+anamorphic stretch
+vhs noise
+glitch effect
+pixel sorting
+datamosh distortion
+scanline overlay
+prism refraction
+double exposure
+motion trails
+time slice
+long exposure blend
+focus stacking
+panorama stitch
+dodge and burn
+shadow lift
+highlight recovery
+color isolation
+selective color
+color splash
+monochrome conversion
+sepia tone
+cyanotype wash
+infrared simulation
+thermal vision
+night vision tint
+x-ray effect
+posterization
+solarization
+toon shading
+oil paint filter
+watercolor wash
+ink outline
+engraving effect
+halftone dots
+pixel art filter
+8-bit effect
+mosaic blur
+frosted glass
+glass distortion
+bokeh overlay
+particle overlay
+rain overlay
+snow overlay
+fog overlay
+sunrays
+godray simulation
+shadow mapping
+light wrap
+volumetric fog
+subsurface scatter sim
+specular bloom
+ghosting
+double vision
+mirror kaleidoscope
+fractal echo
+spiral blur
+radial zoom
+spin blur
+twirl distortion
+wave distortion
+ripple effect
+liquify warp
+displacement map

@@ -18,3 +18,149 @@ soldering iron
 wire cutters
 needle-nose pliers
 utility knife
+crescent wrench
+socket wrench
+torque wrench
+allen wrench set
+hex key set
+nut driver
+impact driver
+impact wrench
+cordless drill
+hammer drill
+rotary hammer
+angle grinder
+bench grinder
+circular saw
+table saw
+miter saw
+jigsaw
+reciprocating saw
+band saw
+scroll saw
+tile saw
+planer
+power planer
+hand plane
+block plane
+spokeshave
+rasp
+surform
+coping saw
+backsaw
+dovetail saw
+tenon saw
+bowsaw
+hacksaw
+pipe cutter
+tube cutter
+bolt cutters
+tin snips
+aviation snips
+metal shears
+pruning shears
+loppers
+hedge trimmer
+pruning saw
+garden spade
+shovel
+post hole digger
+soil auger
+wheelbarrow
+garden rake
+leaf rake
+hoe
+cultivator
+hand trowel
+weeding fork
+garden fork
+pitchfork
+machete
+hatchet
+splitting maul
+log splitter
+wood chisel set
+mortise chisel
+gouge chisel
+lathe chisels
+wood lathe
+metal lathe
+drill press
+pillar drill
+belt sander
+disc sander
+orbital sander
+detail sander
+shop vac
+air compressor
+nail gun
+brad nailer
+staple gun
+heat gun
+glue gun
+soldering station
+desoldering pump
+wire stripper
+crimping tool
+cable tester
+continuity tester
+voltage tester
+stud finder
+laser level
+plumb bob
+chalk line
+folding ruler
+carpenter square
+speed square
+combination square
+digital caliper
+feeler gauge
+micrometer
+dial indicator
+angle finder
+bevel gauge
+torpedo level
+pipe wrench
+strap wrench
+chain wrench
+oil filter wrench
+locking pliers
+needle scaler
+pneumatic ratchet
+torx driver set
+precision screwdriver
+jeweler screwdriver
+magnetic parts tray
+bench vise
+clamp set
+c-clamp
+bar clamp
+pipe clamp
+corner clamp
+spring clamp
+sawhorse
+workbench vise
+bench dog set
+dust collector
+safety goggles
+ear protection
+respirator mask
+work gloves
+knee pads
+tool belt
+tool backpack
+tool chest
+socket organizer
+screw organizer
+parts bin
+magnetic wristband
+inspection mirror
+borescope
+flashlight
+headlamp
+work light
+portable generator
+multitool
+leatherman
+swiss army knife
+utility scissors

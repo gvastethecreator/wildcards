@@ -23,3 +23,115 @@ angel
 titan
 giant
 elemental
+dryad
+satyr
+faun
+nymph
+sylph
+kelpie
+selkie
+banshee
+valkyrie
+gargoyle
+golem
+homunculus
+kobold
+hobgoblin
+redcap
+brownie
+boggart
+pooka
+djinn
+ifrit
+marid
+genie
+rakshasa
+asura
+naga
+lamia
+kitsune
+tanuki
+oni
+yokai
+kappa
+tengu
+succubus
+incubus
+wraith
+specter
+phantom
+revenant
+ghost
+shade
+poltergeist
+ghoul
+wendigo
+yeti
+sasquatch
+ogre
+bugbear
+gnoll
+lizardfolk
+troglodyte
+bullywug
+sahuagin
+merfolk
+merman
+sea hag
+night hag
+drider
+spider queen
+chimera
+manticore
+basilisk
+cockatrice
+hydra
+wyvern
+wyrm
+drake
+dragon turtle
+leviathan
+kraken
+behemoth
+cerberus
+sphinx
+hippogriff
+pegasus
+nightmare steed
+hellhound
+shadow hound
+thunderbird
+roc
+quetzalcoatl
+fire salamander
+frost elemental
+storm elemental
+shadow elemental
+light elemental
+aether elemental
+lava elemental
+spirit guardian
+guardian spirit
+ancestral guardian
+bone golem
+iron golem
+clockwork knight
+living armor
+living statue
+animated tapestry
+warforged
+construct sentinel
+astral avatar
+dream warden
+void revenant
+starborn titan
+sea colossus
+sky whale
+moon dragon
+sun phoenix
+crystal wyrm
+mist apparition
+ember drake
+void walker
+ether sprite
+whispering shade

@@ -18,3 +18,95 @@ terrace
 courtyard
 parking lot
 construction site
+art deco skyscraper
+glass skybridge
+sky garden terrace
+rooftop lounge
+rooftop pool deck
+helipad landing
+high-rise observation deck
+neon alleyway
+lantern-lit alley
+street food corridor
+night market bazaar
+food truck park
+market hall interior
+historic arcade
+shopping galleria
+luxury flagship store
+pop-up concept shop
+co-working loft
+tech campus quad
+research tower lobby
+medical district corridor
+university campus quad
+student housing block
+library atrium
+museum courtyard
+science center plaza
+planetarium dome entry
+art district warehouse
+graffiti tunnel
+street art gallery
+converted loft studio
+industrial warehouse floor
+abandoned factory wing
+riverfront promenade
+waterfront boardwalk
+canal district
+ferry terminal
+container port yard
+shipping yard cranes
+train depot
+rail yard maze
+metro station platform
+subway tunnel
+public transit hub
+bus terminal concourse
+pedestrian overpass
+sky tram station
+monorail platform
+bullet train station
+airport terminal atrium
+runway tarmac edge
+control tower deck
+storm drain tunnels
+underground mall
+utility corridor
+data center aisle
+server farm hall
+smart city control room
+drone launch pad
+digital billboard canyon
+cyberpunk bazaar
+neon bazaar
+speakeasy bar
+hidden jazz club
+boutique hotel lobby
+historic hotel ballroom
+skyline lookout
+city overlook deck
+urban canyon street
+city hall steps
+courthouse plaza
+police precinct entrance
+firehouse bay
+hospital emergency bay
+stadium concourse
+sports arena tunnel
+skate park plaza
+urban farm rooftop
+community garden
+vertical garden tower
+eco district plaza
+solar canopy parking
+wind turbine plaza
+hillside favela
+floating market
+old town square
+cobblestone lane
+lantern festival street
+heritage quarter
+cultural plaza
+temple street market
+festival parade route

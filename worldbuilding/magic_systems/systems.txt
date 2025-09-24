@@ -18,3 +18,59 @@ technomancy
 chaos magic
 wild magic
 ritual magic
+sigil magic
+glyphcraft
+totem magic
+spirit binding
+soul forging
+dreamwalking
+memory weaving
+emotion shaping
+time magic
+chronomancy
+gravity bending
+weather calling
+stormcalling
+geomancy
+seismic magic
+metalshaping
+crystal attunement
+aether magic
+void magic
+astral projection
+starlight magic
+mooncraft
+sunfire magic
+shadow magic
+lightweaving
+sound magic
+songcraft
+dance magic
+thread magic
+ink magic
+tattoo sigils
+contract binding
+oath magic
+name magic
+true naming
+totemic shamanism
+biomancy
+technomancy fusion
+artifice magic
+gadgeteering
+magitech synthesis
+quantum sorcery
+probability magic
+chaos calculus
+pattern magic
+fractal magic
+symbolic logic magic
+language magic
+storytelling magic
+myth weaving
+ancestral magic
+spirit channeling
+dream alchemy
+mirror magic
+reflection magic
+illusion tapestry

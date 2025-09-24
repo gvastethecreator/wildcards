@@ -11,3 +11,19 @@ f/11 deep focus
 f/16 extensive focus
 f/22 starburst highlights
 f/32 pinhole sharpness
+f/0.95 ultra noct portrait
+f/1.0 dream lens glow
+f/1.1 vintage softness
+f/1.3 cinematic focus falloff
+f/1.7 street glow isolation
+f/2.2 balanced bokeh control
+f/2.5 cozy interior portrait
+f/3.2 detail-friendly blur
+f/6.3 travel sharpness
+f/7.1 scenic crispness
+f/9.0 deep street focus
+f/10 daylight clarity
+f/13 sunstar ready
+f/18 diffraction balance
+f/45 large format focus
+f/64 Group f/64 detail

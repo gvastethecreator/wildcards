@@ -18,3 +18,89 @@ otherworldly
 luxurious
 minimalist
 maximalist
+art deco
+art nouveau
+bohemian
+cottagecore
+fairycore
+witchcore
+dark academia
+light academia
+chaotic academia
+steampunk
+dieselpunk
+solarpunk
+lunarpunk
+cyberpunk
+cyber noir
+vaporwave
+synthwave
+retrowave
+mid-century modern
+brutalist
+industrial chic
+loft living
+urban chic
+streetwear edge
+athleisure cool
+glam rock
+grunge
+punk
+post-punk
+gothic romance
+neo-gothic
+victorian opulence
+regency elegance
+baroque drama
+rococo flourish
+neoclassical calm
+minimal luxe
+scandinavian minimal
+japanese zen
+wabi-sabi ease
+forest bathing
+earthy organic
+desert modern
+coastal breeze
+nautical charm
+tropical lush
+jungalow wild
+botanical haven
+biophilic bliss
+mountain lodge
+alpine chalet
+nordic hygge
+arctic chill
+futuristic sheen
+sci-fi retro
+interstellar glow
+cosmic shimmer
+astral haze
+galactic pulse
+celestial drift
+stardusted glam
+moonlit hush
+sun-kissed glow
+sun-bleached calm
+dusk-lit warmth
+twilight hush
+dawn glow
+midnight neon
+noir mood
+film noir
+speakeasy glam
+retro diner
+neon arcade
+rain-soaked alley
+lantern-lit lane
+paper lantern glow
+harbor lights
+city pop
+metropolis rush
+corporate slick
+glass tower sheen
+future noir
+orchid lounge
+velvet lounge
+martini hour
+candlelit charm

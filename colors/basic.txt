@@ -28,3 +28,110 @@ pearl
 charcoal
 crimson
 azure
+indigo
+violet
+lavender
+mauve
+plum
+burgundy
+scarlet
+vermillion
+carmine
+coral
+salmon
+peach
+apricot
+amber
+saffron
+mustard
+chartreuse
+forest green
+emerald
+sage
+mint
+seafoam
+aqua
+sky blue
+cerulean
+periwinkle
+cobalt
+steel blue
+slate blue
+midnight blue
+royal blue
+baby blue
+powder blue
+ice blue
+electric blue
+electric purple
+hot pink
+fuchsia
+rose
+blush
+wine
+ochre
+umber
+sepia
+taupe
+khaki
+sand
+tan
+sienna
+burnt sienna
+rust
+terracotta
+brick red
+mahogany
+graphite
+gunmetal
+anthracite
+ash gray
+dove gray
+smoke
+pewter
+storm cloud
+pearl white
+frost white
+snow white
+jet black
+ink black
+obsidian black
+slate gray
+stone gray
+fog gray
+arctic blue
+glacier blue
+teal blue
+petrol blue
+spruce green
+pine green
+wasabi green
+olive drab
+army green
+desert tan
+camel brown
+mocha brown
+coffee brown
+chocolate brown
+butterscotch
+caramel
+honey
+lemon yellow
+butter yellow
+goldenrod
+sunflower yellow
+neon green
+neon pink
+neon blue
+neon purple
+neon orange
+sunset orange
+ember orange
+fire red
+cranberry
+pomegranate
+mulberry
+eggplant
+raisin
+stormy violet
+dusky rose

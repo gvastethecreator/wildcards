@@ -18,3 +18,62 @@ anthology
 collection
 trilogy
 saga
+microfiction
+drabble
+twitterature
+epistolary novel
+verse novel
+lyric essay
+personal essay
+memoir
+biography
+autobiography
+oral history
+case study
+white paper
+documentary film
+mockumentary
+animated short
+stop motion short
+anthology series
+limited series
+serialized podcast
+audio documentary
+immersive audio drama
+interactive podcast
+choose your own adventure
+branching narrative game
+tabletop campaign guide
+roleplaying module
+live play stream
+visual poem
+motion comic
+augmented reality story
+virtual reality experience
+transmedia narrative
+alternate reality game
+webtoon
+story app
+kinetic novel
+light novel
+storyboard animatic
+concept art bible
+pitch deck
+story treatment
+beat sheet
+radio serial
+serial magazine
+chapbook
+zine
+illustrated zine
+field report
+travelogue
+myth cycle
+legends compendium
+folktale collection
+fairy tale retelling
+urban legend series
+graphic memoir
+digital scrapbook
+photo essay
+story map
