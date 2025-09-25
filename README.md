@@ -188,7 +188,68 @@ fashion/
     └── styles.txt
 ```
 
-### 🎮 **Gaming** - Estéticas de Videojuegos
+### 🧥 **Clothing Accessories** - Vestimenta Detallada
+```
+clothing_accessories/
+├── iconic_wardrobes/       # Looks icónicos de cine, música e historia
+│   ├── cinema_legends.txt
+│   ├── music_stagewear.txt
+│   └── historical_icons.txt
+├── cosplay_loadouts/       # Atuendos completos para cosplay por medios
+│   ├── anime_manga_heroes.txt
+│   ├── gaming_champions.txt
+│   └── western_comic_legends.txt
+├── brand_signature_sets/   # Firmas de marcas y colaboraciones destacadas
+│   ├── luxury_statements.txt
+│   ├── streetwear_collaborations.txt
+│   └── athletic_legacies.txt
+├── wardrobe_blueprints/    # Plantillas de vestuario para arquetipos
+│   ├── heroic_personas.txt
+│   ├── villainous_personas.txt
+│   └── modern_style_profiles.txt
+└── accessory_loadouts/     # Combinaciones clave de accesorios
+    ├── statement_accessories.txt
+    ├── functional_gear_sets.txt
+    └── luxury_jewelry_stacks.txt
+```
+
+### � **Buildings** - Edificios y Construcciones
+```
+buildings/
+├── commercial_retail/          # Comercios y tiendas
+│   ├── everyday_businesses.txt # Negocios cotidianos del barrio
+│   ├── chain_franchises.txt    # Cadenas y franquicias reconocidas
+│   └── restaurants_eateries.txt # Restaurantes y locales de comida
+├── public_services/            # Servicios públicos y gobierno
+│   └── government_civic.txt    # Edificios gubernamentales y cívicos
+├── residential_housing/        # Viviendas y residencias
+│   └── housing_types.txt       # Tipos de casas y apartamentos
+├── industrial_infrastructure/  # Industria y transporte
+│   └── manufacturing_transport.txt # Plantas y centros de transporte
+├── cultural_entertainment/     # Cultura y entretenimiento
+│   └── venues_attractions.txt  # Teatros, museos y atracciones
+└── educational_research/       # Educación e investigación
+    ├── schools_academies.txt   # Escuelas y academias
+    └── research_facilities.txt # Centros de investigación
+```
+
+### 🏘️ **Neighborhoods** - Barrios y Zonas
+```
+neighborhoods/
+├── urban_districts.txt            # Distritos urbanos especializados
+├── residential_communities.txt    # Comunidades residenciales
+└── commercial_industrial_zones.txt # Zonas comerciales e industriales
+```
+
+### 🎪 **Specialized Venues** - Espacios Especializados
+```
+specialized_venues/
+├── event_community_spaces.txt    # Espacios para eventos y comunidad
+├── religious_worship_spaces.txt  # Espacios religiosos y de culto
+└── creative_maker_spaces.txt     # Estudios creativos y talleres
+```
+
+### �🎮 **Gaming** - Estéticas de Videojuegos
 ```
 gaming/
 ├── art_styles.txt     # Estilos gráficos de videojuegos
@@ -439,6 +500,78 @@ __aesthetics/warm_natural__ scene with __objects/nature/flowers__, __technical/l
 ### Combinaciones Complejas
 ```
 A __characters/professions/fantasy__ in __characters/clothing/medieval__ standing in a __environments/landscapes/natural__, __technical/lighting/types__, shot with __technical/camera_settings/settings__, __styles/photography/techniques__ style
+```
+
+## 🆕 Nuevas Categorías de Worldbuilding y Game Design
+
+Se han añadido extensas categorías para creación de mundos, diseño de juegos y desarrollo de personajes:
+
+### 🌍 **Worldbuilding Avanzado**
+```
+worldbuilding/
+├── civilizations/
+│   ├── ancient_empires.txt     # Imperios antiguos y civilizaciones perdidas
+│   ├── steampunk_societies.txt # Sociedades de era del vapor
+│   └── cyberpunk_futures.txt   # Futuros cyberpunk y tecnológicos
+├── geography_features/
+│   ├── impossible_landscapes.txt # Paisajes que desafían la física
+│   └── sacred_places.txt       # Lugares de poder espiritual
+└── trade_systems/
+    ├── magical_commodities.txt # Mercancías mágicas y sobrenaturales
+    └── commerce_routes.txt     # Rutas y métodos comerciales
+```
+
+### 🎮 **Game Design**
+```
+game_design/
+├── core_mechanics/
+│   ├── gameplay_systems.txt    # Mecánicas centrales de juego
+│   └── progression_systems.txt # Sistemas de progresión y avance
+├── mission_types/
+│   └── quest_objectives.txt    # Tipos de misiones y objetivos
+├── interface_elements/
+│   ├── ui_aesthetics.txt       # Estéticas de interfaz de usuario
+│   └── interaction_methods.txt # Métodos de interacción
+└── monetization/
+    └── revenue_models.txt      # Modelos de monetización
+```
+
+### 🎨 **Game Art**
+```
+game_art/
+├── visual_styles/
+│   └── rendering_techniques.txt # Técnicas de renderizado visual
+├── color_schemes/
+│   └── thematic_palettes.txt   # Paletas de colores temáticas
+├── animation_styles/
+│   └── movement_techniques.txt # Técnicas de animación y movimiento
+├── level_design/
+│   └── layout_concepts.txt     # Conceptos de diseño de niveles
+└── visual_effects/
+    ├── spell_abilities.txt     # Efectos de habilidades mágicas
+    └── post_processing.txt     # Efectos de post-procesamiento
+```
+
+### 👤 **Character Creation Avanzada**
+```
+characters/
+├── backgrounds/
+│   ├── tragic_origins.txt      # Orígenes trágicos y dramáticos
+│   └── heroic_achievements.txt # Logros heroicos pasados
+├── motivations/
+│   ├── primary_drives.txt      # Motivaciones principales
+│   └── character_flaws.txt     # Defectos y debilidades
+├── relationships/
+│   └── complex_connections.txt # Relaciones complejas entre personajes
+└── progression_arcs/
+    └── transformation_journeys.txt # Arcos de transformación
+```
+
+### ⚙️ **Game Mechanics**
+```
+game_mechanics/
+├── save_progression.txt        # Sistemas de guardado y progreso
+└── multiplayer_modes.txt      # Modos de juego multijugador
 ```
 
 ## 📝 Mantenimiento

@@ -66,3 +66,104 @@ Archaeological site
 Monument
 Statue
 Fountain
+Skybridge walkway
+Rooftop garden terrace
+Rooftop infinity pool
+Urban farm rooftop
+Community rooftop greenhouse
+Solar canopy plaza
+Pedestrianized boulevard
+Shared street woonerf
+Bus rapid transit hub
+Light rail platform
+Commuter rail concourse
+Subterranean shopping arcade
+Underground food hall
+Shipping container market
+Pop-up art gallery
+Street art alley
+Graffiti tunnel
+Makerspace warehouse
+Innovation hub campus
+Tech startup incubator
+Co-working loft
+Creative studio lofts
+Smart city operations center
+Interactive media facade
+Digital billboard canyon
+LED-lit pedestrian tunnel
+Night market streetscape
+Food truck court
+Floating waterfront promenade
+Riverwalk amphitheater
+Waterfront skate park
+Community urban forest
+Pocket park sanctuary
+Vertical garden atrium
+Sky lobby lounge
+Observation deck
+Skybridge cafe
+Helipad rooftop
+Urban climbing gym
+Indoor bouldering gym
+Esports arena
+Virtual reality arcade
+Underground jazz club
+Hidden speakeasy
+Rooftop cinema
+Open-air concert plaza
+Festival street closure
+Farmer's market pavilion
+Bike sharing dock
+Scooter charging station
+Autonomous shuttle depot
+Micromobility hub
+Water taxi pier
+Harbor ferry terminal
+Stormwater park
+Resilient flood barrier promenade
+Green roof network
+Noise barrier parkway
+Urban wetlands reserve
+Community maker lab
+Digital fabrication lab
+Innovation theater
+Media arts center
+Interactive science plaza
+Public co-working atrium
+Civic tech lab
+Underground music venue
+Skybridge observatory
+Dynamic light installation
+Projection mapped plaza
+Immersive art tunnel
+Pop-up performance stage
+Rooftop sculpture garden
+Floating art pavilion
+Street food corridor
+Urban beach boardwalk
+Riverfront skate ribbon
+Electric vehicle charging hub
+Smart parking structure
+Autonomous vehicle loop
+Drone landing pad
+Logistics microhub
+Parcel locker wall
+Bike repair kiosk
+Urban biodiversity garden
+Pocket forest installation
+Community compost station
+Reclaimed rail park
+Highline walkway
+Transit-oriented plaza
+Mobility innovation center
+Vertical transit hub
+Sky gondola station
+Elevated tram platform
+Climate-resilient plaza
+Cooling mist canopy
+Solar-powered pavilion
+Kinetic pavilion square
+Interactive water feature
+Digital wayfinding hub
+Neighborhood innovation lounge

@@ -1,0 +1,20 @@
+Permadeath consequences
+Save scumming prevention
+Checkpoint system design
+Autosave functionality
+Manual save options
+Quicksave convenience
+Cloud backup systems
+Cross-device synchronization
+Legacy save compatibility
+Speedrun timing verification
+Achievement progress tracking
+Statistics data collection
+Leaderboard ranking systems
+Replay system recording
+Ghost data comparison
+Time trial modes
+Score attack challenges
+Endless survival modes
+New game plus benefits
+Difficulty scaling options

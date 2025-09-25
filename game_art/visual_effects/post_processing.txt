@@ -1,0 +1,20 @@
+Screen shake intensity
+Chromatic aberration shifts
+Bloom lighting overflow
+Motion blur trailing
+Depth of field focusing
+Color grading adjustments
+Vignette edge darkening
+Film grain texture overlay
+Lens flare bright spots
+Distortion warping effects
+Pixelation retro filtering
+Scanline CRT simulation
+Glitch digital artifacts
+Noise static interference
+Sepia tone aging
+Black and white conversion
+Negative image inversion
+Posterization color bands
+Edge detection outlines
+Emboss relief textures

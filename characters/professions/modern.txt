@@ -6,81 +6,474 @@ Veterinarian
 Pharmacist
 Therapist
 Psychologist
+Psychiatrist
+Counselor
+Social Worker
+Humanitarian Aid Worker
+NGO Coordinator
 Lawyer
 Judge
-Police officer
+Mediator
+Legal Consultant
+Patent Attorney
+Policy Analyst
+Political Strategist
+Campaign Manager
+Diplomat
+Lobbyist
+Civil Servant
+Police Officer
 Detective
+Investigator
+Forensic Scientist
+Crime Scene Analyst
 Firefighter
 Paramedic
+Emergency Medical Technician
+Emergency Preparedness Coordinator
+Disaster Response Specialist
+Security Guard
+Security Operations Analyst
+Bodyguard
+Military Officer
+Soldier
+Cyber Warfare Specialist
+Intelligence Analyst
+Peacekeeper
 Teacher
 Professor
 Principal
-Librarian
-Engineer
-Architect
-Scientist
+Instructional Designer
+Educational Technologist
+Tutor
 Researcher
+Scientist
+Data Scientist
+Statistician
+Economist
+Machine Learning Engineer
+AI Ethicist
+Prompt Engineer
+AI Trainer
+Robotics Engineer
+Robotics Technician
+Automation Technician
+Mechatronics Engineer
+Biomedical Engineer
+Bioinformatician
+Biotech Researcher
+Genetic Counselor
+Clinical Data Manager
+Telemedicine Specialist
+Healthcare Administrator
+Public Health Analyst
+Lab Technician
+Chemist
+Physicist
+Astronomer
+Space Systems Engineer
+Mission Controller
+Space Suit Technician
+Satellite Operator
+Astronaut
+Pilot
+Flight Attendant
+Air Traffic Controller
+Aviation Safety Inspector
+Drone Pilot
+UAV Technician
+Remote Sensing Analyst
+Cartographer
+GIS Specialist
+Geospatial Analyst
+Geologist
+Hydrologist
+Environmental Scientist
+Climate Scientist
+Renewable Energy Engineer
+Solar Technician
+Wind Turbine Technician
+Sustainability Officer
+Environmental Consultant
+Urban Planner
+Transportation Planner
+Smart City Designer
+Civil Engineer
+Structural Engineer
+Mechanical Engineer
+Electrical Engineer
+Chemical Engineer
+Software Engineer
 Programmer
 Developer
-Designer
-Artist
+DevOps Engineer
+Cloud Architect
+Cybersecurity Analyst
+Penetration Tester
+Ethical Hacker
+Network Administrator
+Systems Analyst
+Data Analyst
+Business Analyst
+Data Steward
+Data Governance Lead
+IT Support Specialist
+Help Desk Technician
+Technical Writer
+Documentation Specialist
+Quality Assurance Engineer
+Test Automation Engineer
+Product Manager
+Product Owner
+Product Designer
+Product Operations Manager
+Project Manager
+Program Manager
+Scrum Master
+Operations Manager
+Supply Chain Manager
+Logistics Coordinator
+Procurement Specialist
+Business Development Manager
+Entrepreneur
+Startup Founder
+CEO
+COO
+CTO
+CFO
+Consultant
+Management Consultant
+Strategy Consultant
+Financial Advisor
+Financial Planner
+Accountant
+Forensic Accountant
+Auditor
+Banker
+Investment Banker
+Financier
+Risk Analyst
+Compliance Officer
+Real Estate Agent
+Property Manager
+Facility Manager
+Construction Worker
+Builder
+Contractor
+Surveyor
+Architect
+Architectural Visualization Artist
+Interior Designer
+Industrial Designer
+Mechanical Designer
+Landscape Architect
+Urban Farmer
+Agronomist
+Farmer
+Rancher
+Fisherman
+Forester
+Wildlife Biologist
+Wildlife Rehabilitator
+Park Ranger
+Botanist
+Horticulturist
+Marine Biologist
+Oceanographer
+Conservation Scientist
+Geotechnical Engineer
+Seismologist
+Volcanologist
+Glaciologist
+Chef
+Sous Chef
+Pastry Chef
+Baker
+Culinary Innovator
+Food Scientist
+Sommelier
+Mixologist
+Bartender
+Barista
+Caterer
+Event Planner
+Conference Organizer
+Wedding Planner
+Hospitality Manager
+Hotel Manager
+Concierge
+Tour Guide
+Travel Agent
+Flight Concierge
+Customer Success Manager
+Customer Support Specialist
+Call Center Agent
+Sales Representative
+Account Executive
+Account Manager
+Marketing Manager
+Digital Marketer
+Growth Hacker
+Brand Strategist
+Public Relations Specialist
+Communications Director
+Spokesperson
+Content Creator
+Social Media Manager
+Community Manager
+Influencer Marketing Specialist
+Blogger
+Vlogger
+Podcaster
+Streamer
+Esports Athlete
+Esports Coach
+Game Designer
+Game Developer
+Game Producer
+Narrative Designer
+Level Designer
+Systems Designer
+UX Designer
+UI Designer
+UX Researcher
+Experience Designer
+Service Designer
+Graphic Designer
+Illustrator
+Concept Artist
+Animator
+Motion Graphics Artist
+Virtual Production Designer
+Set Designer
+Stage Manager
+Lighting Designer
+Sound Designer
+Foley Artist
+Music Producer
 Musician
-Writer
-Journalist
-Reporter
-Photographer
-Filmmaker
+DJ
+Composer
+Voice Actor
 Actor
 Actress
 Director
 Producer
-Chef
-Baker
-Waiter
-Waitress
-Bartender
-Barista
-Mechanic
-Electrician
-Plumber
-Carpenter
-Construction worker
-Farmer
-Veterinarian
-Pilot
-Flight attendant
-Captain
-Sailor
-Soldier
-Military officer
-Astronaut
-Explorer
-Archaeologist
+Filmmaker
+Cinematographer
+Videographer
+Video Editor
+Photographer
+Photojournalist
+Documentary Filmmaker
+Journalist
+Reporter
+Writer
+Author
+Screenwriter
+Playwright
+Copywriter
+Editor
+Poet
+Archivist
+Museum Curator
+Art Conservator
+Cultural Heritage Manager
 Historian
+Anthropologist
+Archaeologist
+Sociologist
+Linguist
 Translator
 Interpreter
-Social worker
-Counselor
+Localization Specialist
+Life Coach
+Fitness Instructor
+Personal Trainer
+Yoga Instructor
+Pilates Instructor
+Dance Instructor
+Martial Arts Instructor
+Sports Therapist
+Physiotherapist
+Athletic Trainer
 Coach
-Trainer
-Athlete
+Sports Analyst
 Referee
-Accountant
-Banker
-Financial advisor
-Real estate agent
-Sales representative
-Manager
-CEO
-Entrepreneur
-Consultant
-Secretary
-Receptionist
-Cleaner
-Security guard
-Mailman
-Delivery driver
-Taxi driver
-Bus driver
-Train conductor
-Truck driver
+Umpire
+Lifeguard
+Swim Coach
+Makeup Artist
+Hair Stylist
+Fashion Designer
+Fashion Stylist
+Wardrobe Consultant
+Costume Designer
+Model
+Personal Shopper
+Jewelry Designer
+Tattoo Artist
+Piercing Specialist
+Beautician
+Nail Technician
+Massage Therapist
+Spa Manager
+Wellness Coach
+Mindfulness Instructor
+Spiritual Counselor
+Sound Engineer
+Audio Technician
+Broadcast Engineer
+Radio Host
+Television Producer
+News Anchor
+Meteorologist
+Weather Presenter
+Traffic Reporter
+E-commerce Manager
+Merchandiser
+Retail Buyer
+Store Manager
+Visual Merchandiser
+Human Resources Manager
+Recruiter
+Talent Acquisition Specialist
+HR Generalist
+Payroll Specialist
+Benefits Coordinator
+Diversity and Inclusion Officer
+Safety Inspector
+Quality Control Specialist
+Manufacturing Engineer
+Process Engineer
+Industrial Hygienist
+Operations Research Analyst
+3D Printing Technician
+Fabrication Specialist
+Maker Lab Coordinator
+Robotics Operator
+Automation Engineer
+Biostatistician
+Clinical Trial Manager
+Regulatory Affairs Specialist
+Pharmaceutical Sales Representative
+Medical Science Liaison
+Telecom Engineer
+Network Architect
+Cybercrime Investigator
+Digital Forensics Analyst
+XR Designer
+Metaverse Architect
+Augmented Reality Specialist
+Virtual Reality Developer
+Mixed Reality Producer
+Smart Home Installer
+Home Automation Specialist
+Drone Cinematographer
+Charity Fundraiser
+Development Officer
+Grant Writer
+Laboratory Manager
+Research Coordinator
+Data Privacy Officer
+Compliance Manager
+Customer Experience Designer
+Service Desk Manager
+Facilities Coordinator
+Community Engagement Manager
+Innovation Strategist
+Change Management Specialist
+Business Continuity Manager
+Energy Analyst
+Power Grid Operator
+Water Resource Manager
+Waste Management Specialist
+Circular Economy Consultant
+Supply Planner
+Demand Planner
+Inventory Analyst
+Materials Scientist
+Nanotechnologist
+Quantum Computing Researcher
+Blockchain Developer
+Web3 Architect
+Cryptocurrency Analyst
+Token Economist
+Ethnographer
+Urban Sociologist
+Media Strategist
+Entertainment Lawyer
+Talent Manager
+Casting Director
+Choreographer
+Stunt Coordinator
+Fight Choreographer
+Voice Coach
+Dialect Coach
+Lighting Technician
+Rigging Specialist
+Stagehand
+Pyrotechnics Technician
+Safety Officer
+Occupational Therapist
+Speech Therapist
+Audiologist
+Optometrist
+Orthodontist
+Prosthetist
+Orthotist
+Radiologist
+Sonographer
+Respiratory Therapist
+Occupational Health Nurse
+Geriatric Care Manager
+Child Life Specialist
+School Counselor
+Career Counselor
+Guidance Counselor
+Youth Mentor
+After-school Program Coordinator
+Community Health Worker
+Epidemiologist
+Infection Control Specialist
+Genomics Researcher
+Systems Biologist
+Agricultural Engineer
+Precision Agriculture Specialist
+Food Systems Planner
+Supply Chain Data Analyst
+Port Manager
+Maritime Pilot
+Harbor Master
+Ship Captain
+Navigator
+Logistics Analyst
+Warehouse Manager
+Inventory Manager
+Fulfillment Supervisor
+Customs Broker
+Import Export Specialist
+Trade Compliance Specialist
+Cultural Liaison
+International Relations Specialist
+Foreign Correspondent
+Science Communicator
+Outreach Coordinator
+Environmental Educator
+Sustainability Consultant
+Climate Policy Advisor
+Urban Resilience Planner
+Disaster Risk Analyst
+Emergency Dispatcher
+Public Information Officer
+Crisis Communications Manager
+Community Resilience Coordinator
+Neighborhood Planner
+Placemaker
+Experience Curator
+Festival Director
+Lighting Programmer
+Audio Visual Specialist
+Projection Specialist
+Event Technologist
+Interactive Media Designer

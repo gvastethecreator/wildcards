@@ -1,0 +1,20 @@
+Smooth keyframe interpolation
+Snappy frame-by-frame animation
+Fluid motion capture translation
+Bouncy cartoon exaggeration
+Realistic physics simulation
+Skeletal rigging deformation
+Morphing shape transitions
+Particle system dynamics
+Procedural behavior generation
+AI-driven movement patterns
+Inverse kinematics solving
+Forward dynamics calculation
+Cloth simulation systems
+Fluid dynamics rendering
+Hair strand animation
+Facial expression morphing
+Lip sync automation
+Gesture recognition mapping
+Crowd behavior simulation
+Weather pattern animation

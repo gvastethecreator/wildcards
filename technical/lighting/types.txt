@@ -98,3 +98,94 @@ zipper light edge
 top soft grid
 eggcrate control
 flagged spill control
+bi-color led wash
+rgb pixel tube lighting
+addressable led strip lighting
+programmable light choreography
+interactive projection lighting
+projection-mapped lighting
+laser scan lighting
+holographic lighting
+fiber optic lighting
+phosphorescent lighting
+bioluminescent lighting
+electroluminescent lighting
+blacklight fluorescence
+ultraviolet spotlighting
+infrared illumination
+thermal imaging lighting
+hdr image-based lighting
+virtual production volume lighting
+led wall bounce
+giant soft source lighting
+balloon light rig
+truss-mounted lighting grid
+sky panel array
+bi-color fresnel wash
+color chasing lighting
+music reactive lighting
+procedural lighting simulation
+weather-reactive lighting
+dynamic day-night lighting
+emergency strobe lighting
+police light reenactment
+ambulance light wash
+firetruck lighting glow
+street signage glow
+billboard spill lighting
+urban neon spill
+subsurface scattering light
+translucent material lighting
+silhouette edge lighting
+practical screen glow
+device screen key light
+interactive floor lighting
+motion triggered lighting
+sound activated lighting
+kinetic lighting sculpture
+mirror bounce lighting
+light painting exposure
+long exposure light trails
+matchstick practical
+phone flashlight key
+tablet glow fill
+hologram key light
+portal light effect
+quantum dot lighting
+micro-led spot
+organic led panel glow
+bi-color bounce umbrella
+color temperature shift lighting
+stroboscopic lighting sequence
+dynamic lighting gobo
+water ripple lighting
+caustic lighting effect
+laser haze beams
+dramatized lightning effect
+firelight simulation
+moonlight simulation
+sunrise simulation
+candle flicker simulation
+biometric responsive lighting
+sensor triggered lighting
+time-lapse lighting cue
+pulse width modulation lighting
+gradient wash lighting
+pixel-mapped lighting
+rgbw lighting wash
+color gel stacking
+polarized lighting setup
+ray traced lighting pass
+volumetric fog sweep
+haze-filled backlight
+beam light array
+side strike lighting
+split spectrum lighting
+optical fiber sparkle
+edge-lit diffusion panel
+ambient occlusion lighting
+procedural neon wash
+anamorphic flare lighting
+color bloom lighting
+crossfade lighting cue
+dynamic accent lighting

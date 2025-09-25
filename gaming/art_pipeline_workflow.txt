@@ -1,0 +1,91 @@
+Texture atlas optimization for memory efficiency
+UV mapping unwrapping for complex organic forms
+Normal map baking from high resolution sculpts
+Ambient occlusion generation for enhanced depth perception
+Subsurface scattering material creation for realistic skin
+Metallic roughness workflow implementation
+Specular reflection calibration for various surface types
+Transparency alpha channel optimization
+Particle system design for environmental atmosphere
+Shader graph node construction for custom materials
+LOD model reduction maintaining visual quality
+Rigging skeleton hierarchy for character animation
+Weight painting distribution for smooth deformation
+Blend shape creation for facial expression
+Animation curve timing for natural movement
+Bone constraint setup for mechanical objects
+IK solver configuration for limb positioning
+Animation layer blending for complex behaviors
+Mocap data cleanup and retargeting
+Keyframe interpolation smoothing techniques
+Timeline sequencing for cutscene production
+Camera animation for dynamic cinematography
+Lighting rig setup for consistent illumination
+Shadow casting optimization for performance
+Reflection probe placement for environmental lighting
+Light probe volume distribution for global illumination
+Lightmap UV channel preparation
+Light baking resolution optimization
+Real time lighting performance balancing
+Post processing effect chain configuration
+Color grading LUT creation for mood establishment
+Bloom effect intensity calibration
+Depth of field focal range adjustment
+Motion blur vector calculation
+Screen space reflection quality settings
+Temporal anti aliasing implementation
+Chromatic aberration artistic application
+Film grain texture generation
+Vignette effect subtle integration
+Lens distortion correction or stylization
+HDR tone mapping operator selection
+Gamma correction workflow establishment
+Linear color space workflow adoption
+sRGB conversion accuracy maintenance
+Alpha blending order optimization
+Z buffer depth testing configuration
+Stencil buffer masking techniques
+Render queue priority management
+Batching optimization for draw call reduction
+Instancing implementation for repeated objects
+Occlusion culling system setup
+Frustum culling boundary calculation
+Level of detail transition smoothing
+Texture streaming system configuration
+Asset bundle organization for efficient loading
+Memory pool allocation for object management
+Garbage collection optimization strategies
+CPU to GPU data transfer minimization
+Vertex buffer optimization techniques
+Index buffer compression methods
+Texture compression format selection
+Audio compression quality balancing
+Animation compression curve reduction
+Mesh compression vertex optimization
+Material variant reduction strategies
+Shader compilation caching systems
+Asset dependency tracking implementation
+Build pipeline automation setup
+Version control integration for assets
+Collaborative workflow tool configuration
+Quality assurance testing protocol establishment
+Performance profiling benchmark creation
+Platform specific optimization adjustments
+Mobile rendering pipeline adaptation
+Console hardware utilization maximization
+PC graphics settings scaling implementation
+VR rendering stereo optimization
+AR occlusion detection system setup
+Cross platform compatibility verification
+Third party plugin integration testing
+Custom tool development for artist workflow
+Editor extension creation for productivity
+Automated testing framework implementation
+Continuous integration pipeline setup
+Asset validation automation tools
+Performance regression detection systems
+Memory leak identification procedures
+Crash report analysis automation
+User telemetry collection system design
+Analytics dashboard creation for insights
+A/B testing framework for feature evaluation

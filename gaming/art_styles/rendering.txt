@@ -82,3 +82,190 @@ Particle simulation
 Weather effects
 Environmental effects
 Atmospheric effects
+Subsurface scattering
+Caustic lighting
+Volumetric fog
+Depth of field
+Motion blur
+Screen space reflections
+Temporal anti-aliasing
+Anisotropic filtering
+Trilinear filtering
+Bilinear filtering
+Nearest neighbor
+Dithering patterns
+Color banding reduction
+HDR tone mapping
+Gamma correction
+Color grading
+Film grain
+Chromatic aberration
+Vignetting effects
+Lens distortion
+Anamorphic bokeh
+Parallax occlusion mapping
+Screen space ambient occlusion
+Contact shadows
+Shadow cascades
+Variable rate shading
+Mesh shaders
+Compute shaders
+Geometry shaders
+Tessellation shaders
+Fragment shaders
+Vertex shaders
+Uber shaders
+Multi-pass rendering
+Deferred rendering
+Forward plus rendering
+Clustered forward rendering
+Tile based rendering
+Visibility buffer rendering
+GPU driven rendering
+Culling techniques
+Level of detail
+Billboarding
+Impostor rendering
+Volumetric rendering
+Marching cubes
+Ray marching
+Signed distance fields
+Procedural animation
+Inverse kinematics
+Forward kinematics
+Blend shapes
+Morph targets
+Skeletal animation
+Bone rigging
+Weight painting
+Skinning algorithms
+Dual quaternion skinning
+Linear blend skinning
+Crowd simulation
+Flocking behaviors
+Procedural placement
+Scatter systems
+Instancing techniques
+GPU particles
+CPU particles
+Sprite based particles
+Mesh based particles
+Ribbon particles
+Trail renderers
+Decal systems
+Foliage rendering
+Terrain rendering
+Heightmap terrain
+Voxel terrain
+Destructible environments
+Interactive water
+Ocean simulation
+Foam rendering
+Underwater caustics
+Snow accumulation
+Ice formation
+Fire simulation
+Smoke rendering
+Explosion effects
+Magical auras
+Energy shields
+Force fields
+Holographic displays
+Neon signs
+LED patterns
+Circuit traces
+Data streams
+Information overlays
+UI animations
+Menu transitions
+Loading screens
+Progress bars
+Health bars
+Damage numbers
+Floating text
+Particle text
+Glitch effects
+Static noise
+Digital artifacts
+Compression artifacts
+Pixel sorting
+Datamoshing
+RGB splitting
+Channel shifting
+Color inversion
+Posterization
+Edge detection
+Emboss effects
+Oil painting filter
+Watercolor effect
+Pencil sketch
+Charcoal drawing
+Cross hatching
+Stippling patterns
+Halftone dots
+Screen printing
+Risograph aesthetics
+Xerox copying
+VHS artifacts
+CRT scanlines
+LCD pixel grid
+OLED burn-in
+Phosphor persistence
+Analog TV static
+Digital snow
+Compression blocks
+Streaming artifacts
+Network lag visualization
+Frame dropping
+Stuttering simulation
+Screen tearing
+V-sync issues
+Input lag indicators
+Performance metrics
+Debug wireframes
+Collision volumes
+Bounding boxes
+Navigation meshes
+Pathfinding visualization
+AI behavior trees
+State machine overlays
+Memory usage graphs
+CPU utilization
+GPU temperature
+Frame time graphs
+Render target previews
+Shadow map cascades
+Light probe volumes
+Reflection probe cubes
+Irradiance volumes
+Distance field visualization
+Occlusion culling
+Frustum culling
+Portal rendering
+Streaming LOD
+Texture streaming
+Geometry streaming
+Audio streaming
+Animation compression
+Mesh compression
+Texture compression
+Normal map optimization
+Mipmapping strategies
+Atlas packing
+UV unwrapping
+Texture bleeding
+Seam hiding
+Alpha testing
+Alpha blending
+Premultiplied alpha
+Additive blending
+Subtractive blending
+Multiplicative blending
+Screen blending
+Overlay blending
+Soft light blending
+Hard light blending
+Color dodge
+Color burn
+Difference blending
+Exclusion blending

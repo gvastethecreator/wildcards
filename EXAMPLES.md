@@ -27,6 +27,33 @@ __characters/animals/wild_mammals__-inspired character in __styles/digital_art/s
 A __characters/professions/fantasy__ __characters/animals/wild_mammals__-rider wearing __characters/clothing/medieval__, __actions/poses/general__ on a cliff overlooking __environments/landscapes/natural__, __technical/lighting/types__, __technical/composition/rules__, rendered in __styles/digital_art/styles__, __modifiers/positive__
 ```
 
+## 🆕 Nuevos Prompts de Worldbuilding y Game Design
+
+### Creación de Civilizaciones
+```
+A sprawling __worldbuilding/civilizations/ancient_empires__ featuring __worldbuilding/geography_features/sacred_places__, where __worldbuilding/trade_systems/magical_commodities__ flow through __worldbuilding/trade_systems/commerce_routes__, __game_art/color_schemes/thematic_palettes__, __game_art/visual_styles/rendering_techniques__
+```
+
+### Concept Art de Videojuego
+```
+__game_art/level_design/layout_concepts__ environment with __game_art/visual_effects/spell_abilities__ effects, __game_art/color_schemes/thematic_palettes__ color scheme, __game_art/animation_styles/movement_techniques__ elements, __game_art/visual_effects/post_processing__ filter applied
+```
+
+### Personaje de RPG Completo
+```
+A __characters/backgrounds/tragic_origins__ character motivated by __characters/motivations/primary_drives__, struggling with __characters/motivations/character_flaws__, on a __characters/progression_arcs/transformation_journeys__, with __characters/relationships/complex_connections__ as their main relationship conflict
+```
+
+### Interfaz de Juego
+```
+__game_design/interface_elements/ui_aesthetics__ interface design with __game_design/interface_elements/interaction_methods__ controls, featuring __game_design/core_mechanics/gameplay_systems__ mechanics, __game_art/color_schemes/thematic_palettes__ color palette
+```
+
+### Escenario de Misión
+```
+A __game_design/mission_types/quest_objectives__ set in a __worldbuilding/civilizations/steampunk_societies__ location, featuring __worldbuilding/geography_features/impossible_landscapes__, with __game_mechanics/multiplayer_modes__ gameplay, __game_art/visual_effects/spell_abilities__ visual effects
+```
+
 ## 🔄 Variaciones Dinámicas
 
 ### Método 1: Wildcards Anidadas
