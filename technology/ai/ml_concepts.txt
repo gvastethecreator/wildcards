@@ -1,0 +1,52 @@
+Machine learning
+Deep learning
+Artificial intelligence
+Computer vision
+Natural language processing
+Speech recognition
+Text-to-speech
+Image recognition
+Object detection
+Facial recognition
+Sentiment analysis
+Recommendation systems
+Predictive analytics
+Time series analysis
+Anomaly detection
+Classification
+Regression
+Clustering
+Dimensionality reduction
+Feature engineering
+Data preprocessing
+Model training
+Model evaluation
+Hyperparameter tuning
+Cross-validation
+Overfitting
+Underfitting
+Bias-variance tradeoff
+Gradient descent
+Backpropagation
+Activation functions
+Loss functions
+Optimization algorithms
+Transfer learning
+Fine-tuning
+Data augmentation
+Ensemble methods
+Random forests
+Support vector machines
+Decision trees
+K-means clustering
+Principal component analysis
+Linear regression
+Logistic regression
+Neural architecture search
+AutoML
+Federated learning
+Edge AI
+Explainable AI
+Responsible AI
+AI ethics
+AI safety

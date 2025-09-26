@@ -1,0 +1,20 @@
+Tank armored fighting vehicle
+Fighter aircraft air superiority
+Bomber strategic aircraft
+Helicopter rotary wing
+Drone unmanned aerial vehicle
+Submarine underwater vessel
+Destroyer naval escort
+Cruiser heavy warship
+Battleship capital ship
+Aircraft carrier floating airfield
+Armored personnel carrier
+Infantry fighting vehicle
+Self-propelled artillery
+Multiple rocket launcher
+Anti-aircraft missile system
+Patrol boat coastal defense
+Landing craft amphibious
+Transport aircraft cargo
+Reconnaissance vehicle scouting
+Command vehicle coordination

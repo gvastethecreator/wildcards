@@ -18,3 +18,258 @@ experimental
 soundtrack
 orchestral
 cinematic
+house
+techno
+trance
+drum and bass
+dubstep
+trap
+lo-fi
+vaporwave
+synthwave
+retrowave
+chillwave
+darkwave
+new wave
+post-rock
+post-punk
+shoegaze
+dream pop
+trip hop
+downtempo
+chillout
+lounge
+bossa nova
+latin jazz
+smooth jazz
+free jazz
+fusion jazz
+bebop
+swing
+big band
+bluegrass
+gospel
+soul
+funk
+disco
+r&b
+neo soul
+acid jazz
+nu jazz
+world music
+afrobeat
+reggaeton
+salsa
+cumbia
+bossa nova
+fado
+flamenco
+tango
+mariachi
+klezmer
+celtic
+irish folk
+scottish folk
+nordic folk
+americana
+alt-country
+outlaw country
+honky-tonk
+western swing
+cajun
+zydeco
+tex-mex
+conjunto
+norteño
+banda
+ranchera
+corridos
+heavy metal
+death metal
+black metal
+thrash metal
+power metal
+progressive metal
+doom metal
+sludge metal
+stoner metal
+nu metal
+metalcore
+deathcore
+grindcore
+hardcore punk
+post-hardcore
+emo
+screamo
+math rock
+noise rock
+garage rock
+psychedelic rock
+progressive rock
+art rock
+glam rock
+hard rock
+southern rock
+classic rock
+blues rock
+folk rock
+country rock
+surf rock
+rockabilly
+punk rock
+pop punk
+ska punk
+oi!
+crust punk
+d-beat
+powerviolence
+fastcore
+grunge
+alternative rock
+indie rock
+indie pop
+chamber pop
+baroque pop
+art pop
+electropop
+synthpop
+new romantic
+post-disco
+italo disco
+euro disco
+hi-nrg
+freestyle
+miami bass
+electro
+breakbeat
+jungle
+liquid drum and bass
+neurofunk
+hardstep
+ragga jungle
+intelligent drum and bass
+atmospheric drum and bass
+minimal techno
+detroit techno
+chicago house
+deep house
+tech house
+progressive house
+tribal house
+acid house
+garage house
+uk garage
+2-step garage
+speed garage
+bassline house
+funky house
+filter house
+french house
+electro house
+big room house
+future house
+tropical house
+future bass
+melodic dubstep
+riddim
+brostep
+uk dubstep
+grime
+drill
+phonk
+memphis rap
+boom bap
+east coast hip hop
+west coast hip hop
+southern hip hop
+midwest hip hop
+conscious rap
+gangsta rap
+old school hip hop
+new school hip hop
+golden age hip hop
+underground hip hop
+experimental hip hop
+industrial hip hop
+jazz rap
+alternative hip hop
+cloud rap
+emo rap
+mumble rap
+drill rap
+uk drill
+chicago drill
+brooklyn drill
+jersey club
+baltimore club
+bounce
+new orleans bounce
+crunk
+snap music
+hyphy
+chopped and screwed
+g-funk
+p-funk
+go-go
+rare groove
+northern soul
+modern soul
+southern soul
+chicago soul
+philadelphia soul
+memphis soul
+muscle shoals sound
+motown
+stax records sound
+hi records sound
+chess records sound
+atlantic records sound
+blue note sound
+verve sound
+prestige sound
+riverside sound
+impulse! sound
+ecm sound
+act music sound
+winter & winter sound
+thrill jockey sound
+warp records sound
+ninja tune sound
+hospital records sound
+metalheadz sound
+good looking records sound
+ltj bukem sound
+goldie sound
+roni size sound
+photek sound
+squarepusher sound
+aphex twin sound
+boards of canada sound
+autechre sound
+plaid sound
+µ-ziq sound
+orbital sound
+underworld sound
+fatboy slim sound
+the chemical brothers sound
+the prodigy sound
+massive attack sound
+portishead sound
+tricky sound
+björk sound
+radiohead sound
+sigur rós sound
+godspeed you! black emperor sound
+mogwai sound
+explosions in the sky sound
+this will destroy you sound
+red sparowes sound
+neurosis sound
+isis sound
+cult of luna sound
+the ocean sound
+rosetta sound
+pelican sound
+russian circles sound
+mono sound
+boris sound

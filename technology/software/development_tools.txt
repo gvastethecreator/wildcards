@@ -1,0 +1,54 @@
+Adobe Photoshop
+Adobe Illustrator
+Adobe Premiere Pro
+Adobe After Effects
+Adobe Lightroom
+Adobe InDesign
+Adobe XD
+Figma
+Sketch
+Blender
+Maya
+3ds Max
+Cinema 4D
+ZBrush
+Substance Painter
+Unity
+Unreal Engine
+Godot
+GameMaker Studio
+Construct 3
+Visual Studio Code
+Visual Studio
+IntelliJ IDEA
+Eclipse
+Sublime Text
+Atom
+Notepad++
+Vim
+Emacs
+PyCharm
+WebStorm
+Android Studio
+Xcode
+Flutter
+React Native
+Xamarin
+Node.js
+Python
+JavaScript
+TypeScript
+Java
+C++
+C#
+Go
+Rust
+Swift
+Kotlin
+PHP
+Ruby
+SQL
+Git
+GitHub
+GitLab
+Bitbucket

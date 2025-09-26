@@ -1,0 +1,95 @@
+Software Developer
+Web Developer
+Mobile App Developer
+Game Developer
+Full Stack Developer
+Frontend Developer
+Backend Developer
+DevOps Engineer
+Cloud Engineer
+Data Engineer
+Machine Learning Engineer
+AI Engineer
+Blockchain Developer
+Cybersecurity Engineer
+Network Engineer
+Systems Engineer
+Database Developer
+API Developer
+Integration Developer
+Microservices Developer
+Serverless Developer
+Edge Computing Developer
+IoT Developer
+AR/VR Developer
+Computer Vision Engineer
+Natural Language Processing Engineer
+Robotics Software Engineer
+Embedded Systems Developer
+Firmware Developer
+Hardware Engineer
+FPGA Engineer
+ASIC Designer
+Circuit Designer
+PCB Designer
+RF Engineer
+Signal Processing Engineer
+Control Systems Engineer
+Automation Engineer
+Instrumentation Engineer
+Telecommunications Engineer
+Wireless Engineer
+5G Engineer
+Network Protocol Engineer
+Security Protocol Engineer
+Cryptography Engineer
+Quantum Computing Researcher
+High Performance Computing Specialist
+Distributed Systems Engineer
+Real-time Systems Developer
+Operating Systems Developer
+Compiler Engineer
+Database Engine Developer
+Search Engine Developer
+Recommendation Engine Developer
+Graphics Engine Developer
+Physics Engine Developer
+Audio Engine Developer
+Game Engine Developer
+Browser Engine Developer
+Virtual Machine Developer
+Container Developer
+Orchestration Engineer
+Infrastructure as Code Engineer
+Site Reliability Engineer
+Platform Engineer
+Release Engineer
+Build Engineer
+Deployment Engineer
+Monitoring Engineer
+Observability Engineer
+Performance Engineer
+Capacity Planning Engineer
+Scalability Engineer
+Availability Engineer
+Disaster Recovery Engineer
+Backup Engineer
+Security Operations Engineer
+Incident Response Engineer
+Forensics Engineer
+Malware Analyst
+Reverse Engineer
+Exploit Developer
+Penetration Tester
+Red Team Engineer
+Blue Team Engineer
+Purple Team Engineer
+Threat Intelligence Analyst
+Vulnerability Researcher
+Security Researcher
+Privacy Engineer
+Compliance Engineer
+Risk Assessment Engineer
+Business Continuity Engineer
+Crisis Management Engineer
+Emergency Response Engineer

@@ -31,3 +31,238 @@ Wrought iron
 Cast iron
 Stainless steel
 Galvanized steel
+Ruthenium
+Rhenium
+Tantalum
+Niobium
+Molybdenum
+Vanadium
+Zirconium
+Hafnium
+Scandium
+Yttrium
+Carbon steel
+Alloy steel
+Tool steel
+Spring steel
+High carbon steel
+Low carbon steel
+Medium carbon steel
+Corten steel
+Weathering steel
+Hot rolled steel
+Cold rolled steel
+Sheet steel
+Plate steel
+Structural steel
+Rebar steel
+Wire steel
+Mesh steel
+Perforated steel
+Expanded steel
+Checker plate steel
+Diamond plate steel
+Mirror polished steel
+Brushed steel
+Satin steel
+Matte steel
+Oxidized steel
+Patina steel
+Aged steel
+Vintage steel
+Antique steel
+Rusty steel
+Weathered steel
+Industrial steel
+Raw steel
+Unfinished steel
+Polished brass
+Brushed brass
+Antique brass
+Aged brass
+Patina brass
+Oxidized brass
+Verdigris brass
+Green brass
+Yellow brass
+Red brass
+Naval brass
+Cartridge brass
+Free-cutting brass
+Leaded brass
+Silicon brass
+Aluminum brass
+Manganese brass
+Nickel brass
+Tin brass
+Phosphor bronze
+Silicon bronze
+Aluminum bronze
+Manganese bronze
+Beryllium bronze
+Lead bronze
+Tin bronze
+Gunmetal bronze
+Bell bronze
+Statuary bronze
+Art bronze
+Architectural bronze
+Marine bronze
+Bearing bronze
+Gear bronze
+Bushing bronze
+Valve bronze
+Pump bronze
+Propeller bronze
+Ship bronze
+Anchor bronze
+Chain bronze
+Hardware bronze
+Decorative bronze
+Sculptural bronze
+Cast bronze
+Forged bronze
+Rolled bronze
+Drawn bronze
+Extruded bronze
+Machined bronze
+Polished bronze
+Brushed bronze
+Patina bronze
+Oxidized bronze
+Aged bronze
+Antique bronze
+Vintage bronze
+Raw bronze
+Unfinished bronze
+Pure copper
+Electrolytic copper
+Oxygen-free copper
+Deoxidized copper
+Phosphorus copper
+Silver-bearing copper
+Cadmium copper
+Chromium copper
+Zirconium copper
+Beryllium copper
+Aluminum copper
+Silicon copper
+Sulfur copper
+Tellurium copper
+Nickel silver
+German silver
+Alpaca silver
+Britannia silver
+Sterling silver
+Fine silver
+Coin silver
+Silver solder
+Silver alloy
+Argentium silver
+Tarnish resistant silver
+Anti-tarnish silver
+Oxidized silver
+Patina silver
+Aged silver
+Antique silver
+Vintage silver
+Polished silver
+Brushed silver
+Matte silver
+Satin silver
+Mirror silver
+Bright silver
+Dull silver
+Dark silver
+Light silver
+Pure gold
+Fine gold
+Bullion gold
+Coin gold
+Jewelry gold
+Dental gold
+Electronic gold
+Industrial gold
+Decorative gold
+Leaf gold
+Foil gold
+Powder gold
+Dust gold
+Flake gold
+Nugget gold
+Wire gold
+Sheet gold
+Tube gold
+Rod gold
+Bar gold
+Ingot gold
+Biscuit gold
+Grain gold
+Shot gold
+Sponge gold
+Foam gold
+Mesh gold
+Screen gold
+Filter gold
+Plated gold
+Filled gold
+Rolled gold
+Bonded gold
+Clad gold
+Layered gold
+Flash gold
+Wash gold
+Electroplated gold
+Electroformed gold
+Chemical gold
+Immersion gold
+Autocatalytic gold
+Electroless gold
+Brush plated gold
+Pen plated gold
+Selective gold
+Partial gold
+Full gold
+Heavy gold
+Light gold
+Thin gold
+Thick gold
+Matte gold
+Bright gold
+Polished gold
+Brushed gold
+Satin gold
+Textured gold
+Hammered gold
+Reticulated gold
+Granulated gold
+Filigree gold
+Engraved gold
+Etched gold
+Chased gold
+Repousse gold
+Embossed gold
+Stamped gold
+Pressed gold
+Forged gold
+Cast gold
+Molded gold
+Extruded gold
+Drawn gold
+Rolled gold plate
+Spun gold
+Woven gold
+Knitted gold
+Braided gold
+Twisted gold
+Coiled gold
+Spiral gold
+Chain gold
+Link gold
+Mesh gold wire
+Screen gold wire
+Cable gold wire
+Rope gold wire
+Strand gold wire
+Thread gold wire
+Filament gold wire

@@ -1,0 +1,944 @@
+Soccer
+Football
+American football
+Australian rules football
+Gaelic football
+Basketball
+Baseball
+Softball
+Cricket
+Hockey
+Ice hockey
+Field hockey
+Street hockey
+Roller hockey
+Tennis
+Table tennis
+Ping pong
+Badminton
+Volleyball
+Beach volleyball
+Handball
+Team handball
+Rugby
+Rugby union
+Rugby league
+Golf
+Mini golf
+Disc golf
+Boxing
+Kickboxing
+Muay Thai
+MMA
+Mixed martial arts
+Wrestling
+Freestyle wrestling
+Greco-Roman wrestling
+Judo
+Karate
+Taekwondo
+Kung fu
+Aikido
+Brazilian jiu-jitsu
+Fencing
+Archery
+Shooting sports
+Clay pigeon shooting
+Skeet shooting
+Trap shooting
+Biathlon
+Modern pentathlon
+Triathlon
+Ironman
+Duathlon
+Track and field
+Athletics
+Running
+Sprinting
+Middle distance running
+Long distance running
+Marathon
+Half marathon
+10K run
+5K run
+Hurdles
+Steeplechase
+Relay races
+High jump
+Long jump
+Triple jump
+Pole vault
+Shot put
+Discus throw
+Hammer throw
+Javelin throw
+Decathlon
+Heptathlon
+Race walking
+Cross country running
+Trail running
+Ultramarathon
+Mountain running
+Obstacle course racing
+Spartan race
+Tough mudder
+Adventure racing
+Orienteering
+Rogaining
+Geocaching
+Parkour
+Free running
+Climbing
+Rock climbing
+Indoor climbing
+Outdoor climbing
+Bouldering
+Sport climbing
+Traditional climbing
+Aid climbing
+Big wall climbing
+Alpine climbing
+Ice climbing
+Mixed climbing
+Mountaineering
+Hiking
+Backpacking
+Trekking
+Walking
+Nordic walking
+Snowshoeing
+Cross-country skiing
+Alpine skiing
+Downhill skiing
+Slalom skiing
+Giant slalom
+Super-G
+Ski jumping
+Nordic combined
+Freestyle skiing
+Mogul skiing
+Aerial skiing
+Ski cross
+Snowboarding
+Alpine snowboarding
+Freestyle snowboarding
+Snowboard cross
+Half-pipe snowboarding
+Slopestyle snowboarding
+Big air snowboarding
+Parallel giant slalom
+Parallel slalom
+Ice skating
+Figure skating
+Speed skating
+Short track speed skating
+Synchronized skating
+Ice dancing
+Pairs skating
+Singles skating
+Curling
+Bobsled
+Bobsleigh
+Luge
+Skeleton
+Biathlon
+Nordic combined
+Ski jumping
+Cross-country skiing
+Alpine skiing
+Freestyle skiing
+Snowboarding
+Ice hockey
+Figure skating
+Speed skating
+Curling
+Bobsled
+Luge
+Skeleton
+Swimming
+Competitive swimming
+Open water swimming
+Pool swimming
+Sprint swimming
+Distance swimming
+Freestyle swimming
+Backstroke
+Breaststroke
+Butterfly stroke
+Individual medley
+Relay swimming
+Synchronized swimming
+Water polo
+Diving
+Platform diving
+Springboard diving
+Synchronized diving
+High diving
+Cliff diving
+Surfing
+Longboard surfing
+Shortboard surfing
+Big wave surfing
+Tow-in surfing
+Stand-up paddle surfing
+Windsurfing
+Kitesurfing
+Wakeboarding
+Water skiing
+Barefoot water skiing
+Show water skiing
+Slalom water skiing
+Trick water skiing
+Jump water skiing
+Jet skiing
+Personal watercraft racing
+Sailing
+Yacht racing
+Dinghy sailing
+Keelboat sailing
+Catamaran sailing
+Multihull sailing
+Match racing
+Fleet racing
+Team racing
+Ocean racing
+Offshore sailing
+Coastal sailing
+Inland sailing
+Lake sailing
+River sailing
+Canal sailing
+Regatta sailing
+Olympic sailing
+Paralympic sailing
+Youth sailing
+Women's sailing
+Masters sailing
+Vintage sailing
+Classic sailing
+Traditional sailing
+Tall ship sailing
+Square rig sailing
+Gaff rig sailing
+Bermuda rig sailing
+Fore-and-aft rig sailing
+Sloop sailing
+Cutter sailing
+Ketch sailing
+Yawl sailing
+Schooner sailing
+Brigantine sailing
+Brig sailing
+Barque sailing
+Ship sailing
+Boat sailing
+Yacht sailing
+Dinghy sailing
+Skiff sailing
+Catboat sailing
+Sharpie sailing
+Dory sailing
+Whaler sailing
+Launch sailing
+Runabout sailing
+Cruiser sailing
+Racer sailing
+Day sailer sailing
+Weekender sailing
+Pocket cruiser sailing
+Trailer sailer sailing
+Trailerable sailing
+Transportable sailing
+Car-top sailing
+Beach sailing
+Shore sailing
+Harbor sailing
+Bay sailing
+Sound sailing
+Gulf sailing
+Sea sailing
+Ocean sailing
+Blue water sailing
+Deep water sailing
+Shallow water sailing
+Shoal draft sailing
+Deep draft sailing
+Light air sailing
+Heavy air sailing
+Fresh breeze sailing
+Strong wind sailing
+Gale force sailing
+Storm sailing
+Heavy weather sailing
+Fair weather sailing
+Calm water sailing
+Rough water sailing
+Choppy water sailing
+Smooth water sailing
+Protected water sailing
+Exposed water sailing
+Sheltered water sailing
+Open water sailing
+Confined water sailing
+Restricted water sailing
+Unrestricted water sailing
+Navigable water sailing
+Non-navigable water sailing
+Tidal water sailing
+Non-tidal water sailing
+Salt water sailing
+Fresh water sailing
+Brackish water sailing
+Warm water sailing
+Cold water sailing
+Tropical sailing
+Arctic sailing
+Antarctic sailing
+Equatorial sailing
+Polar sailing
+Northern sailing
+Southern sailing
+Eastern sailing
+Western sailing
+Coastal sailing
+Inland sailing
+Offshore sailing
+Onshore sailing
+Nearshore sailing
+Far shore sailing
+Windward sailing
+Leeward sailing
+Upwind sailing
+Downwind sailing
+Crosswind sailing
+Headwind sailing
+Tailwind sailing
+Side wind sailing
+Variable wind sailing
+Steady wind sailing
+Shifting wind sailing
+Backing wind sailing
+Veering wind sailing
+Increasing wind sailing
+Decreasing wind sailing
+Dying wind sailing
+Rising wind sailing
+Falling wind sailing
+Constant wind sailing
+Changing wind sailing
+Unpredictable wind sailing
+Reliable wind sailing
+Seasonal wind sailing
+Trade wind sailing
+Monsoon sailing
+Prevailing wind sailing
+Local wind sailing
+Thermal wind sailing
+Katabatic wind sailing
+Anabatic wind sailing
+Land breeze sailing
+Sea breeze sailing
+Valley wind sailing
+Mountain wind sailing
+Canyon wind sailing
+Gorge wind sailing
+Funnel wind sailing
+Venturi wind sailing
+Gradient wind sailing
+Pressure gradient sailing
+High pressure sailing
+Low pressure sailing
+Weather front sailing
+Cold front sailing
+Warm front sailing
+Occluded front sailing
+Stationary front sailing
+Squall line sailing
+Thunderstorm sailing
+Rain sailing
+Snow sailing
+Hail sailing
+Sleet sailing
+Fog sailing
+Mist sailing
+Haze sailing
+Clear sailing
+Overcast sailing
+Partly cloudy sailing
+Mostly sunny sailing
+Sunny sailing
+Bright sailing
+Dim sailing
+Dark sailing
+Twilight sailing
+Dawn sailing
+Dusk sailing
+Sunrise sailing
+Sunset sailing
+Midday sailing
+Midnight sailing
+Morning sailing
+Afternoon sailing
+Evening sailing
+Night sailing
+All-day sailing
+Multi-day sailing
+Weekend sailing
+Week-long sailing
+Month-long sailing
+Season-long sailing
+Year-round sailing
+Occasional sailing
+Regular sailing
+Frequent sailing
+Daily sailing
+Weekly sailing
+Monthly sailing
+Seasonal sailing
+Annual sailing
+Recreational sailing
+Competitive sailing
+Racing sailing
+Cruising sailing
+Day sailing
+Overnight sailing
+Extended cruising
+Live-aboard sailing
+Charter sailing
+Bareboat sailing
+Skippered sailing
+Crewed sailing
+Solo sailing
+Single-handed sailing
+Double-handed sailing
+Short-handed sailing
+Full crew sailing
+Family sailing
+Group sailing
+Club sailing
+School sailing
+Corporate sailing
+Team building sailing
+Adventure sailing
+Educational sailing
+Training sailing
+Instruction sailing
+Learning sailing
+Teaching sailing
+Coaching sailing
+Mentoring sailing
+Guiding sailing
+Leading sailing
+Following sailing
+Accompanying sailing
+Escorting sailing
+Supervising sailing
+Monitoring sailing
+Observing sailing
+Watching sailing
+Supporting sailing
+Assisting sailing
+Helping sailing
+Serving sailing
+Volunteering sailing
+Participating sailing
+Joining sailing
+Entering sailing
+Competing sailing
+Contesting sailing
+Challenging sailing
+Attempting sailing
+Trying sailing
+Testing sailing
+Experimenting sailing
+Exploring sailing
+Discovering sailing
+Finding sailing
+Locating sailing
+Identifying sailing
+Recognizing sailing
+Knowing sailing
+Understanding sailing
+Comprehending sailing
+Grasping sailing
+Realizing sailing
+Appreciating sailing
+Valuing sailing
+Treasuring sailing
+Cherishing sailing
+Loving sailing
+Enjoying sailing
+Liking sailing
+Preferring sailing
+Choosing sailing
+Selecting sailing
+Picking sailing
+Opting sailing
+Deciding sailing
+Determining sailing
+Resolving sailing
+Concluding sailing
+Finishing sailing
+Completing sailing
+Accomplishing sailing
+Achieving sailing
+Succeeding sailing
+Winning sailing
+Triumphing sailing
+Conquering sailing
+Mastering sailing
+Excelling sailing
+Performing sailing
+Executing sailing
+Delivering sailing
+Producing sailing
+Creating sailing
+Making sailing
+Building sailing
+Constructing sailing
+Developing sailing
+Improving sailing
+Enhancing sailing
+Advancing sailing
+Progressing sailing
+Growing sailing
+Expanding sailing
+Extending sailing
+Increasing sailing
+Multiplying sailing
+Amplifying sailing
+Magnifying sailing
+Enlarging sailing
+Broadening sailing
+Widening sailing
+Deepening sailing
+Heightening sailing
+Elevating sailing
+Raising sailing
+Lifting sailing
+Boosting sailing
+Promoting sailing
+Upgrading sailing
+Modernizing sailing
+Updating sailing
+Refreshing sailing
+Renewing sailing
+Reviving sailing
+Restoring sailing
+Rehabilitating sailing
+Recovering sailing
+Healing sailing
+Repairing sailing
+Fixing sailing
+Correcting sailing
+Adjusting sailing
+Modifying sailing
+Changing sailing
+Altering sailing
+Transforming sailing
+Converting sailing
+Adapting sailing
+Customizing sailing
+Personalizing sailing
+Individualizing sailing
+Specializing sailing
+Focusing sailing
+Concentrating sailing
+Centering sailing
+Targeting sailing
+Aiming sailing
+Directing sailing
+Pointing sailing
+Orienting sailing
+Positioning sailing
+Placing sailing
+Setting sailing
+Establishing sailing
+Installing sailing
+Mounting sailing
+Attaching sailing
+Connecting sailing
+Linking sailing
+Joining sailing
+Uniting sailing
+Combining sailing
+Merging sailing
+Integrating sailing
+Incorporating sailing
+Including sailing
+Adding sailing
+Inserting sailing
+Introducing sailing
+Bringing sailing
+Importing sailing
+Receiving sailing
+Accepting sailing
+Welcoming sailing
+Embracing sailing
+Adopting sailing
+Taking sailing
+Getting sailing
+Obtaining sailing
+Acquiring sailing
+Gaining sailing
+Earning sailing
+Winning sailing
+Achieving sailing
+Reaching sailing
+Attaining sailing
+Securing sailing
+Capturing sailing
+Seizing sailing
+Grasping sailing
+Holding sailing
+Keeping sailing
+Maintaining sailing
+Preserving sailing
+Protecting sailing
+Safeguarding sailing
+Defending sailing
+Guarding sailing
+Shielding sailing
+Covering sailing
+Sheltering sailing
+Housing sailing
+Storing sailing
+Keeping sailing
+Retaining sailing
+Saving sailing
+Reserving sailing
+Setting aside sailing
+Putting away sailing
+Laying aside sailing
+Stashing sailing
+Hiding sailing
+Concealing sailing
+Camouflaging sailing
+Disguising sailing
+Masking sailing
+Screening sailing
+Blocking sailing
+Obscuring sailing
+Clouding sailing
+Darkening sailing
+Shadowing sailing
+Dimming sailing
+Dulling sailing
+Muting sailing
+Silencing sailing
+Quieting sailing
+Calming sailing
+Soothing sailing
+Relaxing sailing
+Easing sailing
+Comforting sailing
+Consoling sailing
+Reassuring sailing
+Encouraging sailing
+Supporting sailing
+Backing sailing
+Endorsing sailing
+Approving sailing
+Sanctioning sailing
+Authorizing sailing
+Permitting sailing
+Allowing sailing
+Letting sailing
+Enabling sailing
+Empowering sailing
+Facilitating sailing
+Assisting sailing
+Helping sailing
+Aiding sailing
+Supporting sailing
+Backing sailing
+Sponsoring sailing
+Funding sailing
+Financing sailing
+Investing sailing
+Contributing sailing
+Donating sailing
+Giving sailing
+Providing sailing
+Supplying sailing
+Furnishing sailing
+Equipping sailing
+Outfitting sailing
+Gearing sailing
+Rigging sailing
+Setting up sailing
+Preparing sailing
+Readying sailing
+Priming sailing
+Prepping sailing
+Arranging sailing
+Organizing sailing
+Planning sailing
+Scheduling sailing
+Timing sailing
+Coordinating sailing
+Synchronizing sailing
+Harmonizing sailing
+Balancing sailing
+Equalizing sailing
+Leveling sailing
+Matching sailing
+Pairing sailing
+Coupling sailing
+Linking sailing
+Connecting sailing
+Associating sailing
+Relating sailing
+Corresponding sailing
+Comparing sailing
+Contrasting sailing
+Differentiating sailing
+Distinguishing sailing
+Separating sailing
+Dividing sailing
+Splitting sailing
+Breaking sailing
+Cracking sailing
+Fracturing sailing
+Shattering sailing
+Smashing sailing
+Crushing sailing
+Destroying sailing
+Demolishing sailing
+Wrecking sailing
+Ruining sailing
+Damaging sailing
+Harming sailing
+Hurting sailing
+Injuring sailing
+Wounding sailing
+Bruising sailing
+Scratching sailing
+Scraping sailing
+Cutting sailing
+Slicing sailing
+Chopping sailing
+Hacking sailing
+Slashing sailing
+Stabbing sailing
+Piercing sailing
+Puncturing sailing
+Perforating sailing
+Drilling sailing
+Boring sailing
+Digging sailing
+Excavating sailing
+Mining sailing
+Quarrying sailing
+Extracting sailing
+Removing sailing
+Taking out sailing
+Pulling out sailing
+Drawing out sailing
+Withdrawing sailing
+Retreating sailing
+Backing away sailing
+Moving away sailing
+Departing sailing
+Leaving sailing
+Exiting sailing
+Going sailing
+Traveling sailing
+Journeying sailing
+Voyaging sailing
+Touring sailing
+Visiting sailing
+Exploring sailing
+Discovering sailing
+Finding sailing
+Locating sailing
+Spotting sailing
+Noticing sailing
+Observing sailing
+Seeing sailing
+Viewing sailing
+Looking sailing
+Watching sailing
+Monitoring sailing
+Tracking sailing
+Following sailing
+Pursuing sailing
+Chasing sailing
+Hunting sailing
+Seeking sailing
+Searching sailing
+Looking for sailing
+Trying to find sailing
+Attempting to locate sailing
+Endeavoring to discover sailing
+Striving to uncover sailing
+Working to reveal sailing
+Laboring to expose sailing
+Toiling to bring to light sailing
+Struggling to make known sailing
+Fighting to make clear sailing
+Battling to make plain sailing
+Warring to make obvious sailing
+Contending to make evident sailing
+Competing to make apparent sailing
+Vying to make visible sailing
+Rivaling to make noticeable sailing
+Matching to make perceptible sailing
+Equaling to make discernible sailing
+Paralleling to make distinguishable sailing
+Mirroring to make recognizable sailing
+Reflecting to make identifiable sailing
+Echoing to make familiar sailing
+Resonating to make known sailing
+Vibrating to make understood sailing
+Oscillating to make comprehensible sailing
+Fluctuating to make graspable sailing
+Varying to make tangible sailing
+Changing to make concrete sailing
+Shifting to make real sailing
+Moving to make actual sailing
+Altering to make genuine sailing
+Modifying to make authentic sailing
+Adjusting to make true sailing
+Adapting to make honest sailing
+Customizing to make sincere sailing
+Personalizing to make frank sailing
+Individualizing to make direct sailing
+Specializing to make straightforward sailing
+Focusing to make clear-cut sailing
+Concentrating to make unambiguous sailing
+Centering to make unequivocal sailing
+Targeting to make definite sailing
+Aiming to make certain sailing
+Directing to make sure sailing
+Pointing to make positive sailing
+Orienting to make confident sailing
+Guiding to make assured sailing
+Leading to make guaranteed sailing
+Steering to make promised sailing
+Navigating to make committed sailing
+Piloting to make dedicated sailing
+Driving to make devoted sailing
+Operating to make loyal sailing
+Running to make faithful sailing
+Managing to make true sailing
+Controlling to make reliable sailing
+Governing to make dependable sailing
+Ruling to make trustworthy sailing
+Commanding to make credible sailing
+Directing to make believable sailing
+Ordering to make convincing sailing
+Instructing to make persuasive sailing
+Teaching to make compelling sailing
+Training to make powerful sailing
+Educating to make strong sailing
+Coaching to make mighty sailing
+Mentoring to make forceful sailing
+Guiding to make dynamic sailing
+Advising to make energetic sailing
+Counseling to make vigorous sailing
+Consulting to make active sailing
+Recommending to make lively sailing
+Suggesting to make spirited sailing
+Proposing to make enthusiastic sailing
+Offering to make passionate sailing
+Presenting to make intense sailing
+Providing to make fierce sailing
+Giving to make bold sailing
+Supplying to make brave sailing
+Delivering to make courageous sailing
+Handing over to make fearless sailing
+Turning over to make daring sailing
+Passing on to make adventurous sailing
+Transferring to make risk-taking sailing
+Conveying to make challenging sailing
+Transmitting to make difficult sailing
+Sending to make hard sailing
+Dispatching to make tough sailing
+Shipping to make demanding sailing
+Mailing to make rigorous sailing
+Posting to make strict sailing
+Forwarding to make severe sailing
+Relaying to make harsh sailing
+Communicating to make intense sailing
+Expressing to make extreme sailing
+Voicing to make maximum sailing
+Speaking to make ultimate sailing
+Saying to make supreme sailing
+Telling to make top sailing
+Declaring to make best sailing
+Announcing to make finest sailing
+Proclaiming to make greatest sailing
+Stating to make highest sailing
+Asserting to make most sailing
+Claiming to make maximum sailing
+Maintaining to make peak sailing
+Holding to make summit sailing
+Arguing to make pinnacle sailing
+Contending to make apex sailing
+Insisting to make zenith sailing
+Affirming to make climax sailing
+Confirming to make height sailing
+Verifying to make top sailing
+Validating to make crown sailing
+Substantiating to make cap sailing
+Proving to make tip sailing
+Demonstrating to make point sailing
+Showing to make end sailing
+Displaying to make finish sailing
+Exhibiting to make conclusion sailing
+Revealing to make completion sailing
+Exposing to make fulfillment sailing
+Uncovering to make achievement sailing
+Disclosing to make accomplishment sailing
+Unveiling to make success sailing
+Unmasking to make victory sailing
+Opening to make win sailing
+Unlocking to make triumph sailing
+Unfastening to make conquest sailing
+Untying to make championship sailing
+Loosening to make title sailing
+Freeing to make crown sailing
+Releasing to make prize sailing
+Liberating to make award sailing
+Emancipating to make trophy sailing
+Setting free to make medal sailing
+Letting go to make ribbon sailing
+Giving up to make certificate sailing
+Surrendering to make diploma sailing
+Yielding to make degree sailing
+Submitting to make qualification sailing
+Conceding to make certification sailing
+Admitting to make license sailing
+Acknowledging to make permit sailing
+Accepting to make authorization sailing
+Agreeing to make approval sailing
+Consenting to make permission sailing
+Approving to make consent sailing
+Endorsing to make agreement sailing
+Supporting to make acceptance sailing
+Backing to make endorsement sailing
+Sanctioning to make support sailing
+Authorizing to make backing sailing
+Permitting to make sponsorship sailing
+Allowing to make partnership sailing
+Enabling to make collaboration sailing
+Empowering to make alliance sailing
+Facilitating to make union sailing
+Assisting to make team sailing
+Helping to make group sailing
+Aiding to make squad sailing
+Supporting to make crew sailing
+Assisting to make band sailing
+Helping to make gang sailing
+Aiding to make pack sailing
+Supporting to make herd sailing
+Backing to make flock sailing
+Endorsing to make swarm sailing
+Approving to make colony sailing
+Sanctioning to make community sailing
+Authorizing to make society sailing
+Permitting to make culture sailing
+Allowing to make civilization sailing
+Letting to make nation sailing
+Enabling to make country sailing

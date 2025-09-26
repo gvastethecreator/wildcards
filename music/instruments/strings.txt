@@ -1,0 +1,41 @@
+Electric guitar
+Acoustic guitar
+Classical guitar
+Bass guitar
+Electric bass
+Upright bass
+Fretless bass
+12-string guitar
+7-string guitar
+8-string guitar
+Baritone guitar
+Travel guitar
+Parlor guitar
+Dreadnought guitar
+Jumbo guitar
+Archtop guitar
+Hollow body guitar
+Semi-hollow guitar
+Solid body guitar
+Resonator guitar
+Lap steel guitar
+Pedal steel guitar
+Mandolin
+Banjo
+Ukulele
+Bouzouki
+Sitar
+Oud
+Lute
+Harp
+Celtic harp
+Koto
+Shamisen
+Guqin
+Pipa
+Erhu
+Violin
+Viola
+Cello
+Double bass
+Fiddle

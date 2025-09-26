@@ -1,0 +1,44 @@
+Grand piano
+Upright piano
+Digital piano
+Stage piano
+Electric piano
+Keyboard synthesizer
+Analog synthesizer
+Digital synthesizer
+Modular synthesizer
+Workstation keyboard
+MIDI controller
+Hammond organ
+Church organ
+Pipe organ
+Electronic organ
+Accordion
+Concertina
+Harmonium
+Harpsichord
+Clavinet
+Rhodes electric piano
+Wurlitzer electric piano
+Mellotron
+Theremin
+Ondes Martenot
+Celesta
+Xylophone
+Marimba
+Vibraphone
+Glockenspiel
+Timpani
+Tubular bells
+Chimes
+Triangle
+Cymbals
+Gong
+Tam-tam
+Wood block
+Temple blocks
+Cowbell
+Agogo bells
+Crotales
+Anvil
+Thunder sheet

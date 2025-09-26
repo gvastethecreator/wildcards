@@ -1,0 +1,51 @@
+Italian risotto
+Italian pasta carbonara
+Italian pasta bolognese
+Italian pasta amatriciana
+Italian pasta puttanesca
+Italian pizza margherita
+Italian pizza napoletana
+Italian pizza quattro stagioni
+Italian pizza quattro formaggi
+Italian pizza marinara
+Italian osso buco
+Italian saltimbocca
+Italian veal parmigiana
+Italian chicken parmigiana
+Italian eggplant parmigiana
+Italian minestrone soup
+Italian italian wedding soup
+Italian stracciatella soup
+Italian caprese salad
+Italian caesar salad
+Italian antipasto platter
+Italian bruschetta
+Italian carpaccio
+Italian prosciutto di parma
+Italian mortadella
+Italian pancetta
+Italian guanciale
+Italian bresaola
+Italian coppa
+Italian salami
+Italian gorgonzola cheese
+Italian parmigiano reggiano
+Italian mozzarella di bufala
+Italian ricotta cheese
+Italian mascarpone cheese
+Italian tiramisu
+Italian cannoli
+Italian panna cotta
+Italian gelato
+Italian granita
+Italian affogato
+Italian espresso
+Italian cappuccino
+Italian macchiato
+Italian americano
+Italian aperol spritz
+Italian negroni
+Italian limoncello
+Italian chianti wine
+Italian barolo wine
+Italian prosecco

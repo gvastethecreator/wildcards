@@ -477,3 +477,1083 @@ Audio Visual Specialist
 Projection Specialist
 Event Technologist
 Interactive Media Designer
+Voice Actor
+Podcast Producer
+Radio Host
+Television Producer
+Documentary Filmmaker
+Video Editor
+Motion Graphics Designer
+3D Animator
+VFX Artist
+Colorist
+Sound Engineer
+Audio Mastering Engineer
+Music Producer
+Composer
+Lyricist
+Session Musician
+DJ
+Beatmaker
+Foley Artist
+Dialogue Editor
+Boom Operator
+Script Supervisor
+Casting Director
+Talent Agent
+Entertainment Lawyer
+Music Business Manager
+Concert Promoter
+Tour Manager
+Venue Manager
+Music Therapist
+Dance Therapist
+Art Therapist
+Drama Therapist
+Stand-up Comedian
+Improv Actor
+Street Performer
+Circus Performer
+Magician
+Ventriloquist
+Puppeteer
+Mime Artist
+Performance Artist
+Installation Artist
+Digital Artist
+Concept Artist
+Illustrator
+Graphic Designer
+Brand Designer
+Package Designer
+Web Designer
+UX Designer
+UI Designer
+Product Designer
+Service Designer
+Systems Designer
+Design Researcher
+Creative Director
+Art Director
+Photo Editor
+Retoucher
+Stock Photographer
+Wedding Photographer
+Fashion Photographer
+Portrait Photographer
+Commercial Photographer
+Architectural Photographer
+Food Photographer
+Travel Photographer
+Sports Photographer
+Wildlife Photographer
+Astrophotographer
+Drone Operator
+Camera Operator
+Cinematographer
+Gaffer
+Best Boy
+Key Grip
+Dolly Grip
+Focus Puller
+Script Writer
+Screenwriter
+Ghostwriter
+Technical Writer
+Content Writer
+Copywriter
+SEO Specialist
+Content Strategist
+Social Media Manager
+Community Manager
+Influencer Marketing Manager
+Brand Ambassador
+Public Relations Specialist
+Press Secretary
+Communications Director
+Marketing Coordinator
+Digital Marketing Specialist
+Email Marketing Specialist
+Affiliate Marketing Manager
+Growth Hacker
+Conversion Rate Optimizer
+Market Research Analyst
+Consumer Insights Analyst
+Trend Forecaster
+Brand Strategist
+Product Marketing Manager
+Event Marketing Coordinator
+Trade Show Coordinator
+Sponsorship Manager
+Media Buyer
+Media Planner
+Account Executive
+Account Manager
+Client Services Director
+Business Development Manager
+Sales Representative
+Inside Sales Rep
+Outside Sales Rep
+Territory Manager
+Key Account Manager
+Customer Success Manager
+Customer Experience Manager
+Customer Support Specialist
+Technical Support Specialist
+Help Desk Technician
+IT Support Specialist
+System Administrator
+Network Administrator
+Database Administrator
+Cloud Engineer
+DevOps Engineer
+Site Reliability Engineer
+Platform Engineer
+Infrastructure Engineer
+Security Engineer
+Penetration Tester
+Ethical Hacker
+Cybersecurity Analyst
+Information Security Officer
+Chief Information Security Officer
+Privacy Officer
+Compliance Officer
+Risk Management Specialist
+Business Continuity Planner
+Disaster Recovery Specialist
+Change Management Consultant
+Process Improvement Specialist
+Lean Six Sigma Consultant
+Business Analyst
+Systems Analyst
+Data Analyst
+Data Scientist
+Machine Learning Engineer
+AI Researcher
+Natural Language Processing Engineer
+Computer Vision Engineer
+Robotics Engineer
+Automation Engineer
+Quality Assurance Engineer
+Software Tester
+Test Automation Engineer
+Manual Tester
+Performance Tester
+Usability Tester
+Accessibility Tester
+Software Developer
+Full Stack Developer
+Frontend Developer
+Backend Developer
+Mobile App Developer
+iOS Developer
+Android Developer
+React Native Developer
+Flutter Developer
+Game Developer
+Unity Developer
+Unreal Engine Developer
+Indie Game Developer
+Game Designer
+Level Designer
+Game Artist
+Game Animator
+Game Writer
+Narrative Designer
+Localization Specialist
+Translation Manager
+Interpreter
+Court Interpreter
+Medical Interpreter
+Sign Language Interpreter
+Closed Captioner
+Subtitler
+Transcriptionist
+Medical Transcriptionist
+Legal Transcriptionist
+Court Reporter
+Paralegal
+Legal Assistant
+Contract Administrator
+Intellectual Property Lawyer
+Environmental Lawyer
+Employment Lawyer
+Family Lawyer
+Criminal Defense Attorney
+Prosecutor
+Public Defender
+Corporate Lawyer
+Tax Attorney
+Estate Planning Attorney
+Real Estate Attorney
+Immigration Lawyer
+Personal Injury Attorney
+Medical Malpractice Attorney
+Class Action Lawyer
+Arbitrator
+Mediator
+Legal Consultant
+Compliance Manager
+Regulatory Affairs Specialist
+Government Relations Specialist
+Policy Researcher
+Legislative Assistant
+Congressional Aide
+Campaign Strategist
+Political Consultant
+Election Administrator
+Voting Rights Advocate
+Civic Engagement Coordinator
+Nonprofit Program Manager
+Grant Writer
+Fundraising Manager
+Development Director
+Major Gifts Officer
+Planned Giving Officer
+Corporate Partnership Manager
+Volunteer Coordinator
+Community Outreach Specialist
+Social Impact Consultant
+Sustainability Coordinator
+Environmental Impact Assessor
+Carbon Credit Analyst
+Renewable Energy Consultant
+Solar Panel Installer
+Wind Turbine Technician
+Energy Efficiency Auditor
+Green Building Consultant
+LEED Consultant
+Environmental Remediation Specialist
+Waste Management Coordinator
+Recycling Program Manager
+Composting Specialist
+Water Conservation Specialist
+Air Quality Monitor
+Environmental Health Inspector
+Occupational Health Specialist
+Industrial Hygienist
+Safety Coordinator
+OSHA Compliance Officer
+Risk Assessment Specialist
+Emergency Management Director
+Crisis Communications Manager
+Disaster Response Coordinator
+Emergency Medical Services Director
+Paramedic Supervisor
+Flight Medic
+Critical Care Transport Specialist
+Trauma Nurse
+ICU Nurse
+Operating Room Nurse
+Emergency Room Nurse
+Pediatric Nurse
+Geriatric Nurse
+Oncology Nurse
+Cardiac Nurse
+Dialysis Technician
+Medical Laboratory Technician
+Phlebotomist
+Radiology Technician
+MRI Technician
+CT Scan Technician
+Ultrasound Technician
+Nuclear Medicine Technologist
+Radiation Therapist
+Physical Therapist
+Occupational Therapist
+Speech Language Pathologist
+Respiratory Therapist
+Recreational Therapist
+Massage Therapist
+Acupuncturist
+Chiropractor
+Naturopathic Doctor
+Functional Medicine Practitioner
+Integrative Medicine Physician
+Sports Medicine Physician
+Orthopedic Surgeon
+Neurosurgeon
+Cardiologist
+Dermatologist
+Pediatrician
+Geriatrician
+Psychiatrist
+Addiction Counselor
+Substance Abuse Counselor
+Marriage and Family Therapist
+Child Psychologist
+School Psychologist
+Industrial Psychologist
+Forensic Psychologist
+Neuropsychologist
+Behavioral Therapist
+Cognitive Behavioral Therapist
+EMDR Therapist
+Trauma Therapist
+Grief Counselor
+Career Counselor
+Life Coach
+Executive Coach
+Health Coach
+Wellness Coach
+Fitness Trainer
+Personal Trainer
+Strength and Conditioning Coach
+Yoga Instructor
+Pilates Instructor
+Meditation Teacher
+Mindfulness Coach
+Stress Management Consultant
+Sleep Specialist
+Nutritionist
+Registered Dietitian
+Sports Nutritionist
+Clinical Nutritionist
+Food Scientist
+Food Safety Inspector
+Restaurant Manager
+Head Chef
+Sous Chef
+Pastry Chef
+Sommelier
+Mixologist
+Bartender
+Barista
+Catering Manager
+Food Stylist
+Food Photographer
+Food Blogger
+Restaurant Critic
+Menu Consultant
+Kitchen Designer
+Culinary School Instructor
+Meal Prep Specialist
+Personal Chef
+Private Chef
+Hotel Manager
+Guest Services Manager
+Concierge
+Front Desk Agent
+Housekeeping Manager
+Event Planner
+Wedding Planner
+Meeting Planner
+Travel Agent
+Tour Guide
+Travel Blogger
+Hospitality Consultant
+Resort Manager
+Spa Manager
+Massage Therapist
+Esthetician
+Nail Technician
+Hair Stylist
+Barber
+Makeup Artist
+Cosmetics Sales Representative
+Beauty Consultant
+Fashion Stylist
+Personal Shopper
+Visual Merchandiser
+Retail Manager
+Store Manager
+Sales Associate
+Cashier
+Inventory Manager
+Loss Prevention Specialist
+Mystery Shopper
+Customer Experience Analyst
+Retail Buyer
+Fashion Buyer
+Merchandise Planner
+Supply Chain Manager
+Logistics Coordinator
+Warehouse Manager
+Shipping Coordinator
+Freight Broker
+Transportation Manager
+Truck Driver
+Delivery Driver
+Courier
+Postal Worker
+Package Handler
+Inventory Control Specialist
+Quality Control Inspector
+Manufacturing Engineer
+Production Manager
+Plant Manager
+Maintenance Technician
+Millwright
+Machinist
+Welder
+Fabricator
+Assembler
+Inspector
+Forklift Operator
+Heavy Equipment Operator
+Construction Manager
+Project Manager
+General Contractor
+Subcontractor
+Architect
+Structural Engineer
+Civil Engineer
+Mechanical Engineer
+Electrical Engineer
+Plumbing Engineer
+HVAC Technician
+Electrician
+Plumber
+Carpenter
+Roofer
+Painter
+Drywall Installer
+Flooring Installer
+Tile Setter
+Glazier
+Insulation Worker
+Concrete Finisher
+Mason
+Landscaper
+Tree Service Specialist
+Groundskeeper
+Janitor
+Custodian
+Building Maintenance Worker
+Property Manager
+Leasing Agent
+Real Estate Agent
+Real Estate Broker
+Appraiser
+Home Inspector
+Mortgage Broker
+Loan Officer
+Bank Teller
+Personal Banker
+Financial Advisor
+Investment Advisor
+Wealth Manager
+Portfolio Manager
+Financial Planner
+Retirement Planner
+Tax Preparer
+Bookkeeper
+Accountant
+CPA
+Auditor
+Payroll Specialist
+Accounts Payable Clerk
+Accounts Receivable Clerk
+Credit Analyst
+Collections Specialist
+Insurance Agent
+Insurance Broker
+Claims Adjuster
+Underwriter
+Actuary
+Risk Analyst
+Investment Banker
+Securities Trader
+Stock Broker
+Commodities Trader
+Foreign Exchange Trader
+Cryptocurrency Analyst
+Blockchain Developer
+FinTech Specialist
+Payment Processing Specialist
+Fraud Analyst
+Anti-Money Laundering Specialist
+Treasury Analyst
+Budget Analyst
+Cost Accountant
+Management Consultant
+Strategy Consultant
+Operations Consultant
+HR Consultant
+Organizational Development Specialist
+Training and Development Manager
+Learning and Development Specialist
+Corporate Trainer
+Executive Recruiter
+Talent Acquisition Specialist
+HR Generalist
+HR Business Partner
+Compensation Analyst
+Benefits Administrator
+Employee Relations Specialist
+Diversity and Inclusion Manager
+Workplace Culture Consultant
+Performance Management Specialist
+Succession Planning Specialist
+Workforce Planning Analyst
+Labor Relations Specialist
+Union Representative
+Arbitrator
+Employment Lawyer
+Immigration Specialist
+Visa Consultant
+International Business Consultant
+Export Manager
+Import Specialist
+Trade Compliance Specialist
+Customs Broker
+Freight Forwarder
+International Marketing Manager
+Cultural Liaison
+Language Teacher
+ESL Instructor
+Corporate Language Trainer
+Translation Project Manager
+Localization Manager
+Subtitling Specialist
+Voice-Over Artist
+Audiobook Narrator
+Podcast Host
+Radio DJ
+Television Host
+News Anchor
+Reporter
+Investigative Journalist
+Sports Commentator
+Weather Forecaster
+Traffic Reporter
+Social Media Influencer
+Content Creator
+YouTuber
+Twitch Streamer
+TikTok Creator
+Instagram Influencer
+Blog Writer
+Newsletter Writer
+Email Marketing Specialist
+Affiliate Marketer
+Performance Marketer
+Growth Hacker
+Conversion Optimizer
+A/B Testing Specialist
+User Experience Researcher
+User Interface Designer
+Product Owner
+Scrum Master
+Agile Coach
+Project Coordinator
+Program Manager
+Portfolio Manager
+Change Management Specialist
+Business Process Analyst
+Workflow Analyst
+Automation Specialist
+Digital Transformation Consultant
+Technology Consultant
+ERP Consultant
+CRM Consultant
+Salesforce Administrator
+HubSpot Specialist
+Marketing Automation Specialist
+Email Deliverability Specialist
+Lead Generation Specialist
+Sales Development Representative
+Business Development Representative
+Account Development Manager
+Customer Onboarding Specialist
+Customer Retention Specialist
+Churn Reduction Specialist
+Product Manager
+Technical Product Manager
+Growth Product Manager
+Data Product Manager
+AI Product Manager
+Platform Product Manager
+API Product Manager
+Mobile Product Manager
+Product Marketing Manager
+Go-to-Market Specialist
+Launch Manager
+Beta Program Manager
+User Feedback Analyst
+Voice of Customer Analyst
+Net Promoter Score Analyst
+Customer Journey Mapper
+Service Design Specialist
+Design Thinking Facilitator
+Innovation Consultant
+Ideation Facilitator
+Prototype Developer
+MVP Developer
+Startup Advisor
+Venture Capitalist
+Angel Investor
+Startup Founder
+Entrepreneur
+Business Incubator Manager
+Accelerator Program Manager
+Pitch Coach
+Demo Day Coordinator
+Investor Relations Manager
+Public Relations Manager
+Media Relations Specialist
+Crisis Communications Specialist
+Internal Communications Manager
+Employee Communications Specialist
+Executive Communications Manager
+Speechwriter
+Presentation Designer
+Slide Designer
+Infographic Designer
+Data Visualization Specialist
+Dashboard Designer
+Report Designer
+Business Intelligence Analyst
+Data Engineer
+Analytics Engineer
+Marketing Analytics Specialist
+Web Analytics Specialist
+Mobile Analytics Specialist
+Social Media Analytics Specialist
+SEO Analytics Specialist
+Performance Marketing Analyst
+Attribution Analyst
+Cohort Analyst
+Retention Analyst
+Lifetime Value Analyst
+Predictive Analytics Specialist
+Machine Learning Operations Engineer
+Data Science Manager
+Chief Data Officer
+Analytics Director
+Insights Manager
+Research Director
+Market Research Manager
+Consumer Research Specialist
+Brand Research Analyst
+Advertising Research Analyst
+Media Research Analyst
+Survey Designer
+Focus Group Moderator
+Interview Researcher
+Ethnographic Researcher
+Usability Researcher
+Design Researcher
+Prototype Tester
+A/B Test Designer
+Experimentation Manager
+Growth Experimenter
+Conversion Rate Optimization Specialist
+Landing Page Optimizer
+Email Optimization Specialist
+Mobile Optimization Specialist
+Voice Search Optimization Specialist
+Local SEO Specialist
+International SEO Specialist
+Technical SEO Specialist
+E-commerce SEO Specialist
+Content SEO Specialist
+Link Building Specialist
+Digital PR Specialist
+Influencer Outreach Specialist
+Blogger Outreach Specialist
+Partnership Manager
+Alliance Manager
+Channel Partner Manager
+Affiliate Program Manager
+Referral Program Manager
+Loyalty Program Manager
+Community Building Specialist
+Online Community Manager
+Developer Relations Manager
+API Evangelist
+Technical Evangelist
+Solution Architect
+Enterprise Architect
+Cloud Architect
+Security Architect
+Data Architect
+Integration Specialist
+Migration Specialist
+Implementation Consultant
+Customer Success Engineer
+Solutions Engineer
+Sales Engineer
+Technical Account Manager
+Professional Services Consultant
+Training Consultant
+Documentation Specialist
+Technical Communicator
+API Documentation Writer
+Developer Advocate
+Open Source Maintainer
+Code Reviewer
+Software Engineering Manager
+Engineering Director
+Chief Technology Officer
+VP of Engineering
+Head of Product
+Chief Product Officer
+Head of Design
+Design Director
+Creative Director
+Brand Director
+Marketing Director
+Sales Director
+Customer Success Director
+Operations Director
+Strategy Director
+Innovation Director
+Digital Director
+Technology Director
+Data Director
+Analytics Director
+Research Director
+People Director
+Human Resources Director
+Talent Director
+Learning Director
+Communications Director
+Public Relations Director
+Investor Relations Director
+Business Development Director
+Partnership Director
+Channel Director
+International Director
+Regional Director
+Country Manager
+General Manager
+Division Manager
+Business Unit Manager
+Profit and Loss Manager
+Revenue Manager
+Growth Manager
+Expansion Manager
+Market Development Manager
+Category Manager
+Product Line Manager
+Brand Manager
+Marketing Manager
+Campaign Manager
+Event Manager
+Trade Show Manager
+Sponsorship Manager
+Media Manager
+Advertising Manager
+Public Relations Manager
+Content Manager
+Social Media Director
+Influencer Marketing Director
+Performance Marketing Manager
+Digital Marketing Director
+E-commerce Manager
+Marketplace Manager
+Amazon Specialist
+Shopify Developer
+WooCommerce Developer
+Magento Developer
+BigCommerce Developer
+E-commerce Consultant
+Online Store Manager
+Digital Merchandiser
+Pricing Analyst
+Revenue Optimization Specialist
+Dynamic Pricing Specialist
+Promotion Manager
+Discount Strategy Manager
+Inventory Planner
+Demand Planner
+Supply Planner
+Procurement Specialist
+Vendor Manager
+Supplier Relations Manager
+Contract Negotiator
+Sourcing Specialist
+Category Buyer
+Strategic Buyer
+Procurement Analyst
+Cost Analyst
+Spend Analyst
+Savings Analyst
+Risk Manager
+Compliance Manager
+Audit Manager
+Internal Auditor
+External Auditor
+Financial Auditor
+IT Auditor
+Operational Auditor
+Quality Auditor
+Environmental Auditor
+Safety Auditor
+Security Auditor
+Fraud Investigator
+Background Check Specialist
+Due Diligence Specialist
+Mergers and Acquisitions Specialist
+Corporate Development Manager
+Strategic Planning Manager
+Business Planning Manager
+Financial Planning Manager
+Budget Manager
+Forecasting Analyst
+Variance Analyst
+Management Reporting Specialist
+Financial Reporting Manager
+SEC Reporting Manager
+Treasury Manager
+Cash Management Specialist
+Credit Manager
+Collections Manager
+Accounts Receivable Manager
+Accounts Payable Manager
+Payroll Manager
+Benefits Manager
+Compensation Manager
+Equity Administration Specialist
+Stock Plan Administrator
+Executive Compensation Specialist
+Board Relations Manager
+Corporate Secretary
+Legal Operations Manager
+Contract Manager
+Intellectual Property Manager
+Patent Attorney
+Trademark Attorney
+Copyright Specialist
+Licensing Manager
+Regulatory Affairs Manager
+Government Affairs Manager
+Public Policy Manager
+Lobbying Manager
+Trade Association Manager
+Industry Relations Manager
+Standards Development Specialist
+Certification Manager
+Accreditation Specialist
+Quality Manager
+Quality Assurance Manager
+Quality Control Manager
+Process Improvement Manager
+Continuous Improvement Specialist
+Operational Excellence Manager
+Performance Management Specialist
+Metrics Manager
+KPI Manager
+Dashboard Manager
+Scorecard Manager
+Benchmark Analyst
+Best Practices Manager
+Knowledge Management Specialist
+Documentation Manager
+Information Manager
+Records Manager
+Data Governance Manager
+Data Privacy Manager
+Information Security Manager
+Cybersecurity Manager
+IT Security Manager
+Network Security Manager
+Application Security Manager
+Cloud Security Manager
+Mobile Security Manager
+IoT Security Manager
+OT Security Manager
+Physical Security Manager
+Facility Security Manager
+Event Security Manager
+Executive Protection Specialist
+Corporate Security Manager
+Loss Prevention Manager
+Asset Protection Manager
+Fraud Prevention Manager
+Emergency Manager
+Business Continuity Manager
+Crisis Manager
+Incident Response Manager
+Disaster Recovery Manager
+Backup and Recovery Specialist
+High Availability Specialist
+Performance Manager
+Capacity Planning Manager
+Resource Manager
+Infrastructure Manager
+Platform Manager
+Service Manager
+Support Manager
+Operations Manager
+NOC Manager
+SOC Manager
+Service Desk Manager
+Field Service Manager
+Technical Service Manager
+Customer Service Manager
+Call Center Manager
+Contact Center Manager
+Customer Experience Manager
+Voice of Customer Manager
+Customer Insights Manager
+Customer Intelligence Manager
+Competitive Intelligence Manager
+Market Intelligence Manager
+Business Intelligence Manager
+Analytics Manager
+Reporting Manager
+Insights Analyst
+Trend Analyst
+Pattern Analyst
+Anomaly Detection Specialist
+Predictive Modeling Specialist
+Statistical Analyst
+Econometrician
+Quantitative Analyst
+Qualitative Researcher
+Mixed Methods Researcher
+Primary Research Specialist
+Secondary Research Specialist
+Desk Research Specialist
+Field Research Specialist
+Online Research Specialist
+Social Media Research Specialist
+Brand Monitoring Specialist
+Reputation Management Specialist
+Online Reputation Manager
+Crisis Management Specialist
+Issue Management Specialist
+Stakeholder Management Specialist
+Community Relations Manager
+Public Affairs Manager
+Corporate Communications Manager
+Internal Communications Specialist
+Executive Communications Specialist
+Change Communications Specialist
+Training Communications Specialist
+Safety Communications Specialist
+Environmental Communications Specialist
+Sustainability Communications Manager
+ESG Reporting Manager
+Corporate Social Responsibility Manager
+Impact Measurement Specialist
+Social Impact Analyst
+Environmental Impact Analyst
+Carbon Footprint Analyst
+Life Cycle Assessment Specialist
+Circular Economy Consultant
+Waste Reduction Specialist
+Energy Management Specialist
+Water Management Specialist
+Biodiversity Specialist
+Conservation Specialist
+Environmental Scientist
+Climate Change Analyst
+Weather Data Analyst
+Atmospheric Scientist
+Oceanographer
+Marine Biologist
+Freshwater Biologist
+Wildlife Biologist
+Conservation Biologist
+Ecosystem Analyst
+Habitat Restoration Specialist
+Species Recovery Specialist
+Park Ranger
+Forest Ranger
+Wildlife Officer
+Environmental Educator
+Nature Interpreter
+Outdoor Education Specialist
+Adventure Guide
+Wilderness Guide
+Mountain Guide
+Climbing Instructor
+Skiing Instructor
+Snowboarding Instructor
+Surfing Instructor
+Diving Instructor
+Swimming Instructor
+Lifeguard
+Water Safety Instructor
+First Aid Instructor
+CPR Instructor
+Safety Training Specialist
+Occupational Safety Specialist
+Construction Safety Manager
+Industrial Safety Manager
+Chemical Safety Specialist
+Radiation Safety Officer
+Laser Safety Officer
+Laboratory Safety Officer
+Biosafety Officer
+Food Safety Manager
+Public Health Inspector
+Health Educator
+Community Health Worker
+Epidemiologist
+Infectious Disease Specialist
+Pandemic Preparedness Specialist
+Vaccine Program Manager
+Contact Tracer
+Health Data Analyst
+Public Health Analyst
+Healthcare Quality Manager
+Patient Safety Manager
+Clinical Risk Manager
+Medical Device Specialist
+Biomedical Engineer
+Clinical Engineer
+Medical Equipment Technician
+Pharmacy Technician
+Pharmaceutical Sales Representative
+Medical Sales Representative
+Clinical Research Coordinator
+Clinical Trial Manager
+Regulatory Affairs Specialist
+Medical Affairs Manager
+Medical Science Liaison
+Medical Writer
+Medical Editor
+Medical Translator
+Healthcare Consultant
+Hospital Administrator
+Clinic Manager
+Practice Manager
+Medical Office Manager
+Health Information Manager
+Medical Records Manager
+Health Information Technician
+Medical Coder
+Medical Biller
+Insurance Verification Specialist
+Prior Authorization Specialist
+Case Manager
+Discharge Planner
+Social Worker
+Medical Social Worker
+Psychiatric Social Worker
+School Social Worker
+Child Welfare Worker
+Adult Protective Services Worker
+Probation Officer
+Parole Officer
+Correctional Officer
+Court Officer
+Bailiff
+Process Server
+Private Investigator
+Security Consultant
+Loss Prevention Consultant
+Fraud Examiner
+Forensic Accountant
+Computer Forensics Specialist
+Digital Forensics Analyst
+Cybercrime Investigator
+White Collar Crime Investigator
+Financial Crimes Investigator
+Anti-Terrorism Analyst
+Intelligence Officer
+Security Clearance Investigator
+Background Investigator
+Surveillance Specialist
+Undercover Agent
+Border Patrol Agent
+Customs Officer
+Immigration Officer
+Airport Security Officer
+Transportation Security Officer
+Nuclear Security Officer
+Critical Infrastructure Protection Specialist

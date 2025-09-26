@@ -1,0 +1,445 @@
+Sunny skies
+Partly cloudy
+Mostly cloudy
+Overcast
+Clear skies
+Bright sunshine
+Filtered sunlight
+Hazy conditions
+Light rain
+Moderate rain
+Heavy rain
+Drizzling
+Sprinkling
+Pouring
+Downpour
+Showers
+Scattered showers
+Isolated showers
+Thundershowers
+Rain squalls
+Light snow
+Moderate snow
+Heavy snow
+Flurries
+Snow showers
+Blizzard conditions
+Sleet falling
+Freezing rain
+Ice pellets
+Hail stones
+Gentle breeze
+Strong winds
+Gusty conditions
+Calm air
+Still atmosphere
+Breezy weather
+Windy day
+Gale force winds
+Hurricane conditions
+Tornado activity
+Cyclonic weather
+Anticyclonic conditions
+High pressure system
+Low pressure system
+Front moving through
+Cold front approaching
+Warm front passing
+Occluded front
+Squall line
+Convective activity
+Cumulus clouds
+Cumulonimbus towers
+Stratus layers
+Cirrus wisps
+Cirrostratus veil
+Cirrocumulus patches
+Altocumulus fields
+Altostratus cover
+Nimbostratus blanket
+Stratocumulus deck
+Fog bank rolling in
+Dense fog
+Patchy fog
+Morning mist
+Evening haze
+Ground fog
+Radiation fog
+Advection fog
+Steam fog
+Freezing fog
+Ice fog
+Frost forming
+Heavy frost
+Light frost
+Hoarfrost crystals
+Rime ice coating
+Glaze ice formation
+Black ice conditions
+Slippery surfaces
+Wet pavement
+Drying roads
+Muddy conditions
+Dust storms
+Sand storms
+Dust devils
+Whirlwinds
+Microbursts
+Wind shear
+Thermal updrafts
+Thermal downdrafts
+Temperature inversion
+Heat dome
+Cold snap
+Arctic blast
+Polar vortex
+Heat wave
+Oppressive heat
+Scorching temperatures
+Sweltering conditions
+Humid air
+Dry heat
+Arid conditions
+Desert climate
+Tropical humidity
+Muggy weather
+Sticky atmosphere
+Comfortable humidity
+Low humidity
+Bone dry air
+Crisp conditions
+Fresh air
+Clean atmosphere
+Polluted air
+Smoggy conditions
+Hazy visibility
+Reduced visibility
+Clear visibility
+Unlimited visibility
+Crystal clear air
+Sparkling atmosphere
+Pristine conditions
+Perfect weather
+Ideal conditions
+Pleasant temperature
+Mild weather
+Balmy conditions
+Temperate climate
+Moderate conditions
+Extreme weather
+Severe conditions
+Dangerous weather
+Life threatening conditions
+Emergency weather
+Warning conditions
+Watch conditions
+Advisory issued
+Clearing skies
+Improving conditions
+Deteriorating weather
+Weather turning
+Conditions changing
+Storm approaching
+Storm passing
+Post-storm clearing
+Pre-storm calm
+Storm aftermath
+Weather recovery
+Seasonal transition
+Spring-like weather
+Summer conditions
+Autumn atmosphere
+Winter weather
+Seasonal storms
+Equinox conditions
+Solstice weather
+Monsoon season
+Dry season
+Wet season
+Hurricane season
+Tornado season
+Fire weather
+Drought conditions
+Flood conditions
+Flash flood potential
+River flooding
+Coastal flooding
+Storm surge
+Tidal flooding
+Urban flooding
+Street flooding
+Basement flooding
+Waterlogged conditions
+Saturated ground
+Parched earth
+Cracked soil
+Dusty ground
+Muddy terrain
+Frozen ground
+Thawing conditions
+Spring thaw
+Ice break up
+Snow melt
+Runoff conditions
+Erosion potential
+Landslide risk
+Avalanche danger
+Rockfall hazard
+Wildfire risk
+Fire danger
+Red flag conditions
+Critical fire weather
+Extreme fire behavior
+Smoke conditions
+Air quality alert
+Ozone warning
+Pollution advisory
+Health advisory
+Heat advisory
+Cold weather advisory
+Wind advisory
+Flood warning
+Severe weather warning
+Tornado watch
+Hurricane watch
+Winter storm watch
+Ice storm warning
+Blizzard warning
+High wind warning
+Flash flood warning
+Flood watch
+Drought warning
+Freeze warning
+Frost advisory
+Heat warning
+Excessive heat warning
+Wind chill advisory
+Wind chill warning
+UV index high
+Solar radiation intense
+Sunburn potential
+Eye protection needed
+Skin protection advised
+Hydration important
+Cooling needed
+Warming required
+Layering recommended
+Weather appropriate dress
+Seasonal clothing
+Protective gear needed
+Umbrella recommended
+Raincoat required
+Sunglasses advised
+Sunscreen necessary
+Hat recommended
+Gloves needed
+Warm clothing
+Light clothing
+Breathable fabrics
+Waterproof gear
+Windproof clothing
+Insulated wear
+Reflective clothing
+High visibility gear
+Safety equipment
+Emergency supplies
+Weather radio
+Backup power
+Heating source
+Cooling system
+Ventilation needed
+Air conditioning
+Heating system
+Climate control
+Environmental monitoring
+Weather tracking
+Condition assessment
+Forecast verification
+Model guidance
+Satellite imagery
+Radar returns
+Surface observations
+Upper air data
+Marine reports
+Aviation weather
+Agricultural conditions
+Recreational weather
+Travel conditions
+Road conditions
+Flight conditions
+Boating weather
+Beach conditions
+Mountain weather
+Valley conditions
+Urban heat island
+Rural conditions
+Coastal weather
+Inland conditions
+Desert weather
+Forest conditions
+Prairie weather
+Tundra conditions
+Alpine weather
+Subtropical conditions
+Temperate weather
+Continental climate
+Maritime climate
+Mediterranean weather
+Tropical conditions
+Equatorial climate
+Polar weather
+Arctic conditions
+Subarctic climate
+Boreal conditions
+Taiga weather
+Savanna climate
+Grassland weather
+Steppe conditions
+Chaparral climate
+Wetland conditions
+Marsh weather
+Swamp conditions
+Bog climate
+Fen weather
+Estuary conditions
+Delta weather
+River valley climate
+Mountain valley conditions
+Plateau weather
+Mesa conditions
+Canyon climate
+Gorge weather
+Valley fog
+Mountain snow
+Coastal fog
+Inland clearing
+Offshore winds
+Onshore flow
+Land breeze
+Sea breeze
+Valley breeze
+Mountain breeze
+Katabatic winds
+Anabatic winds
+Foehn winds
+Chinook winds
+Santa Ana winds
+Mistral winds
+Sirocco conditions
+Harmattan winds
+Trade winds
+Westerlies
+Polar easterlies
+Jet stream
+Subtropical ridge
+Bermuda high
+Pacific high
+Aleutian low
+Icelandic low
+Siberian high
+Canadian high
+Tropical ridge
+Monsoon trough
+Intertropical convergence
+Polar front
+Arctic front
+Dry line
+Dew point
+Relative humidity
+Absolute humidity
+Vapor pressure
+Saturation point
+Condensation level
+Freezing level
+Snow level
+Rain-snow line
+Thermal belt
+Frost line
+Growing season
+Freeze-free period
+Last frost
+First frost
+Killing frost
+Hard freeze
+Soft freeze
+Growing degree days
+Heating degree days
+Cooling degree days
+Chill hours
+Heat units
+Solar hours
+Daylight hours
+Sunshine duration
+Cloud cover
+Sky condition
+Ceiling height
+Visibility range
+Atmospheric pressure
+Barometric reading
+Pressure tendency
+Rising pressure
+Falling pressure
+Steady pressure
+Pressure gradient
+Wind speed
+Wind direction
+Wind gusts
+Sustained winds
+Peak winds
+Calm conditions
+Variable winds
+Light winds
+Moderate winds
+Strong winds
+Damaging winds
+Destructive winds
+Wind damage
+Storm damage
+Weather damage
+Property damage
+Crop damage
+Power outages
+Transportation delays
+School closures
+Business closures
+Emergency declarations
+Disaster declarations
+Recovery operations
+Cleanup efforts
+Damage assessment
+Insurance claims
+Weather services
+Forecast accuracy
+Warning verification
+Public safety
+Emergency management
+Weather preparedness
+Climate adaptation
+Weather resilience
+Extreme weather planning
+Seasonal preparation
+Weather awareness
+Climate change impacts
+Weather pattern shifts
+Long-term trends
+Variability increases
+Frequency changes
+Intensity changes
+Duration changes
+Timing shifts
+Geographic shifts
+Ecosystem impacts
+Agricultural impacts
+Water resource impacts
+Energy sector impacts
+Transportation impacts
+Public health impacts
+Economic impacts
+Social impacts
+Infrastructure impacts
+Coastal impacts
+Mountain impacts
+Urban impacts
+Rural impacts
+Regional impacts
+Global impacts

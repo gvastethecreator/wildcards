@@ -1,0 +1,52 @@
+iPhone
+iPad
+MacBook Pro
+MacBook Air
+iMac
+Mac Studio
+Mac Pro
+Apple Watch
+AirPods Pro
+AirPods Max
+HomePod
+Apple TV
+Samsung Galaxy
+Samsung Note
+Google Pixel
+OnePlus
+Xiaomi
+Huawei
+Sony Xperia
+Nintendo Switch
+PlayStation 5
+Xbox Series X
+Steam Deck
+Oculus Quest
+HTC Vive
+Microsoft Surface
+Dell XPS
+HP Spectre
+Lenovo ThinkPad
+ASUS ROG
+MSI Gaming
+Razer Blade
+Alienware
+Canon EOS
+Nikon D850
+Sony Alpha
+DJI Mavic
+GoPro Hero
+Tesla Model S
+Ring Doorbell
+Nest Thermostat
+Alexa Echo
+Google Home
+Fitbit
+Garmin
+Roku
+Chromecast
+Fire TV Stick
+Apple CarPlay
+Android Auto
+AirTag
+Tile Tracker

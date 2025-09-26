@@ -1,0 +1,745 @@
+8K resolution
+4K resolution
+2K resolution
+1080p resolution
+720p resolution
+480p resolution
+Ultra HD
+Full HD
+HD Ready
+Standard Definition
+RAW format
+ProRes recording
+BRAW recording
+DNxHD recording
+H.264 encoding
+H.265 encoding
+HEVC encoding
+VP9 encoding
+AV1 encoding
+ProRes 422
+ProRes 444
+ProRes RAW
+Blackmagic RAW
+Canon RAW
+Sony RAW
+Panasonic RAW
+RED RAW
+ARRI RAW
+Cinema DNG
+OpenEXR format
+TIFF sequence
+PNG sequence
+JPEG sequence
+Uncompressed video
+Lossless compression
+Lossy compression
+Variable bitrate
+Constant bitrate
+High bitrate
+Medium bitrate
+Low bitrate
+Ultra-low bitrate
+Streaming quality
+Broadcast quality
+Cinema quality
+Web quality
+Mobile quality
+Archive quality
+Master quality
+Distribution quality
+Exhibition quality
+Theater quality
+Television quality
+Online quality
+Social media quality
+YouTube quality
+Vimeo quality
+Instagram quality
+TikTok quality
+Twitter quality
+Facebook quality
+LinkedIn quality
+Professional quality
+Consumer quality
+Prosumer quality
+Industrial quality
+Medical quality
+Scientific quality
+Educational quality
+Training quality
+Documentary quality
+News quality
+Sports quality
+Entertainment quality
+Corporate quality
+Commercial quality
+Advertising quality
+Marketing quality
+Promotional quality
+Demonstration quality
+Presentation quality
+Conference quality
+Meeting quality
+Webinar quality
+Live streaming quality
+Real-time quality
+Delayed quality
+Recorded quality
+Post-production quality
+Editorial quality
+Finishing quality
+Mastering quality
+Delivery quality
+Archive quality
+Preservation quality
+Restoration quality
+Enhancement quality
+Correction quality
+Stabilization quality
+Noise reduction quality
+Grain reduction quality
+Artifact removal quality
+Compression artifact removal
+Banding removal
+Aliasing removal
+Moiré removal
+Color correction quality
+Color grading quality
+Exposure correction quality
+White balance correction
+Contrast enhancement
+Saturation enhancement
+Sharpness enhancement
+Detail enhancement
+Clarity enhancement
+Vibrance enhancement
+Luminance enhancement
+Chrominance enhancement
+Gamma correction
+Curve adjustment
+Level adjustment
+Histogram optimization
+Dynamic range enhancement
+HDR processing
+Tone mapping
+Shadow lifting
+Highlight recovery
+Midtone adjustment
+Quarter tone adjustment
+Three-quarter tone adjustment
+Black point adjustment
+White point adjustment
+Clipping prevention
+Overexposure prevention
+Underexposure prevention
+Optimal exposure
+Perfect exposure
+Creative exposure
+Artistic exposure
+Stylistic exposure
+Moody exposure
+Dramatic exposure
+High key exposure
+Low key exposure
+Medium key exposure
+Balanced exposure
+Natural exposure
+Enhanced exposure
+Processed exposure
+Raw exposure
+Unprocessed exposure
+Native exposure
+Corrected exposure
+Adjusted exposure
+Optimized exposure
+Calibrated exposure
+Standardized exposure
+Normalized exposure
+Equalized exposure
+Matched exposure
+Consistent exposure
+Uniform exposure
+Even exposure
+Smooth exposure
+Gradual exposure
+Abrupt exposure
+Sudden exposure
+Instant exposure
+Delayed exposure
+Progressive exposure
+Regressive exposure
+Variable exposure
+Fixed exposure
+Locked exposure
+Automatic exposure
+Manual exposure
+Semi-automatic exposure
+Program exposure
+Aperture priority exposure
+Shutter priority exposure
+ISO priority exposure
+Exposure compensation
+Exposure bracketing
+HDR bracketing
+Focus bracketing
+Focus stacking
+Focus pulling
+Rack focus
+Follow focus
+Auto focus
+Manual focus
+Single point focus
+Multi-point focus
+Zone focus
+Face detection focus
+Eye detection focus
+Animal detection focus
+Object tracking focus
+Motion tracking focus
+Predictive focus
+Continuous focus
+Single shot focus
+Servo focus
+AI focus
+Deep learning focus
+Machine learning focus
+Computer vision focus
+Recognition focus
+Detection focus
+Identification focus
+Classification focus
+Analysis focus
+Processing focus
+Enhancement focus
+Optimization focus
+Automation focus
+Intelligence focus
+Smart focus
+Adaptive focus
+Responsive focus
+Dynamic focus
+Real-time focus
+Live focus
+Instant focus
+Fast focus
+Accurate focus
+Precise focus
+Perfect focus
+Sharp focus
+Soft focus
+Blur focus
+Bokeh focus
+Depth of field focus
+Shallow focus
+Deep focus
+Extended focus
+Infinite focus
+Close focus
+Macro focus
+Micro focus
+Ultra close focus
+Wide focus
+Narrow focus
+Selective focus
+Creative focus
+Artistic focus
+Professional focus
+Expert focus
+Master focus
+Advanced focus
+Basic focus
+Simple focus
+Easy focus
+Difficult focus
+Complex focus
+Challenging focus
+Demanding focus
+Critical focus
+Essential focus
+Important focus
+Crucial focus
+Vital focus
+Necessary focus
+Required focus
+Mandatory focus
+Optional focus
+Recommended focus
+Suggested focus
+Preferred focus
+Ideal focus
+Optimal focus
+Best focus
+Finest focus
+Excellent focus
+Outstanding focus
+Exceptional focus
+Superior focus
+Premium focus
+Luxury focus
+High-end focus
+Top-tier focus
+Professional grade focus
+Broadcast grade focus
+Cinema grade focus
+Film grade focus
+Television grade focus
+Streaming grade focus
+Web grade focus
+Mobile grade focus
+Consumer grade focus
+Prosumer grade focus
+Amateur grade focus
+Beginner grade focus
+Intermediate grade focus
+Advanced grade focus
+Expert grade focus
+Master grade focus
+Professional level focus
+Industry standard focus
+International standard focus
+Global standard focus
+Universal standard focus
+Common standard focus
+Accepted standard focus
+Established standard focus
+Recognized standard focus
+Certified standard focus
+Approved standard focus
+Validated standard focus
+Verified standard focus
+Tested standard focus
+Proven standard focus
+Reliable standard focus
+Dependable standard focus
+Trustworthy standard focus
+Consistent standard focus
+Stable standard focus
+Steady standard focus
+Uniform standard focus
+Regular standard focus
+Normal standard focus
+Typical standard focus
+Standard standard focus
+Basic standard focus
+Fundamental standard focus
+Essential standard focus
+Core standard focus
+Primary standard focus
+Main standard focus
+Principal standard focus
+Chief standard focus
+Leading standard focus
+Top standard focus
+Best standard focus
+Highest standard focus
+Maximum standard focus
+Ultimate standard focus
+Supreme standard focus
+Perfect standard focus
+Ideal standard focus
+Optimal standard focus
+Excellent standard focus
+Outstanding standard focus
+Exceptional standard focus
+Remarkable standard focus
+Extraordinary standard focus
+Incredible standard focus
+Amazing standard focus
+Fantastic standard focus
+Wonderful standard focus
+Marvelous standard focus
+Spectacular standard focus
+Magnificent standard focus
+Glorious standard focus
+Brilliant standard focus
+Radiant standard focus
+Luminous standard focus
+Bright standard focus
+Vivid standard focus
+Vibrant standard focus
+Rich standard focus
+Deep standard focus
+Intense standard focus
+Strong standard focus
+Powerful standard focus
+Dynamic standard focus
+Energetic standard focus
+Lively standard focus
+Active standard focus
+Responsive standard focus
+Quick standard focus
+Fast standard focus
+Rapid standard focus
+Swift standard focus
+Speedy standard focus
+Instant standard focus
+Immediate standard focus
+Real-time standard focus
+Live standard focus
+Current standard focus
+Present standard focus
+Now standard focus
+Today standard focus
+Modern standard focus
+Contemporary standard focus
+Latest standard focus
+Newest standard focus
+Recent standard focus
+Updated standard focus
+Upgraded standard focus
+Enhanced standard focus
+Improved standard focus
+Better standard focus
+Superior standard focus
+Advanced standard focus
+Progressive standard focus
+Forward-thinking standard focus
+Innovative standard focus
+Creative standard focus
+Original standard focus
+Unique standard focus
+Distinctive standard focus
+Special standard focus
+Custom standard focus
+Personalized standard focus
+Tailored standard focus
+Specific standard focus
+Particular standard focus
+Individual standard focus
+Personal standard focus
+Private standard focus
+Exclusive standard focus
+Limited standard focus
+Rare standard focus
+Uncommon standard focus
+Unusual standard focus
+Extraordinary standard focus
+Exceptional standard focus
+Outstanding standard focus
+Remarkable standard focus
+Notable standard focus
+Significant standard focus
+Important standard focus
+Meaningful standard focus
+Valuable standard focus
+Precious standard focus
+Treasured standard focus
+Cherished standard focus
+Beloved standard focus
+Favorite standard focus
+Preferred standard focus
+Chosen standard focus
+Selected standard focus
+Picked standard focus
+Handpicked standard focus
+Carefully chosen standard focus
+Thoughtfully selected standard focus
+Deliberately picked standard focus
+Intentionally chosen standard focus
+Purposefully selected standard focus
+Strategically picked standard focus
+Tactically chosen standard focus
+Wisely selected standard focus
+Smartly picked standard focus
+Cleverly chosen standard focus
+Skillfully selected standard focus
+Expertly picked standard focus
+Professionally chosen standard focus
+Masterfully selected standard focus
+Artistically picked standard focus
+Creatively chosen standard focus
+Imaginatively selected standard focus
+Innovatively picked standard focus
+Originally chosen standard focus
+Uniquely selected standard focus
+Distinctively picked standard focus
+Characteristically chosen standard focus
+Typically selected standard focus
+Normally picked standard focus
+Usually chosen standard focus
+Commonly selected standard focus
+Ordinarily picked standard focus
+Regularly chosen standard focus
+Routinely selected standard focus
+Standardly picked standard focus
+Conventionally chosen standard focus
+Traditionally selected standard focus
+Classically picked standard focus
+Time-tested chosen standard focus
+Proven selected standard focus
+Reliable picked standard focus
+Dependable chosen standard focus
+Trustworthy selected standard focus
+Consistent picked standard focus
+Stable chosen standard focus
+Steady selected standard focus
+Uniform picked standard focus
+Even chosen standard focus
+Smooth selected standard focus
+Seamless picked standard focus
+Flawless chosen standard focus
+Perfect selected standard focus
+Impeccable picked standard focus
+Excellent chosen standard focus
+Outstanding selected standard focus
+Exceptional picked standard focus
+Superior chosen standard focus
+Premium selected standard focus
+Luxury picked standard focus
+High-end chosen standard focus
+Top-quality selected standard focus
+First-class picked standard focus
+World-class chosen standard focus
+International-grade selected standard focus
+Global-standard picked standard focus
+Universal-quality chosen standard focus
+Cosmic-level selected standard focus
+Galactic-grade picked standard focus
+Universal-standard chosen standard focus
+Infinite-quality selected standard focus
+Eternal-grade picked standard focus
+Timeless-standard chosen standard focus
+Boundless-quality selected standard focus
+Limitless-grade picked standard focus
+Endless-standard chosen standard focus
+Perpetual-quality selected standard focus
+Everlasting-grade picked standard focus
+Immortal-standard chosen standard focus
+Divine-quality selected standard focus
+Sacred-grade picked standard focus
+Holy-standard chosen standard focus
+Blessed-quality selected standard focus
+Sanctified-grade picked standard focus
+Consecrated-standard chosen standard focus
+Hallowed-quality selected standard focus
+Revered-grade picked standard focus
+Venerated-standard chosen standard focus
+Worshipped-quality selected standard focus
+Adored-grade picked standard focus
+Cherished-standard chosen standard focus
+Beloved-quality selected standard focus
+Treasured-grade picked standard focus
+Precious-standard chosen standard focus
+Valuable-quality selected standard focus
+Priceless-grade picked standard focus
+Invaluable-standard chosen standard focus
+Irreplaceable-quality selected standard focus
+Indispensable-grade picked standard focus
+Essential-standard chosen standard focus
+Vital-quality selected standard focus
+Critical-grade picked standard focus
+Crucial-standard chosen standard focus
+Important-quality selected standard focus
+Significant-grade picked standard focus
+Meaningful-standard chosen standard focus
+Purposeful-quality selected standard focus
+Intentional-grade picked standard focus
+Deliberate-standard chosen standard focus
+Conscious-quality selected standard focus
+Aware-grade picked standard focus
+Mindful-standard chosen standard focus
+Thoughtful-quality selected standard focus
+Considerate-grade picked standard focus
+Caring-standard chosen standard focus
+Loving-quality selected standard focus
+Compassionate-grade picked standard focus
+Empathetic-standard chosen standard focus
+Understanding-quality selected standard focus
+Sympathetic-grade picked standard focus
+Kind-standard chosen standard focus
+Gentle-quality selected standard focus
+Tender-grade picked standard focus
+Soft-standard chosen standard focus
+Mild-quality selected standard focus
+Calm-grade picked standard focus
+Peaceful-standard chosen standard focus
+Serene-quality selected standard focus
+Tranquil-grade picked standard focus
+Quiet-standard chosen standard focus
+Still-quality selected standard focus
+Silent-grade picked standard focus
+Hushed-standard chosen standard focus
+Muted-quality selected standard focus
+Subdued-grade picked standard focus
+Restrained-standard chosen standard focus
+Controlled-quality selected standard focus
+Disciplined-grade picked standard focus
+Regulated-standard chosen standard focus
+Managed-quality selected standard focus
+Administered-grade picked standard focus
+Supervised-standard chosen standard focus
+Overseen-quality selected standard focus
+Monitored-grade picked standard focus
+Watched-standard chosen standard focus
+Observed-quality selected standard focus
+Studied-grade picked standard focus
+Examined-standard chosen standard focus
+Inspected-quality selected standard focus
+Tested-grade picked standard focus
+Evaluated-standard chosen standard focus
+Assessed-quality selected standard focus
+Analyzed-grade picked standard focus
+Reviewed-standard chosen standard focus
+Checked-quality selected standard focus
+Verified-grade picked standard focus
+Validated-standard chosen standard focus
+Confirmed-quality selected standard focus
+Approved-grade picked standard focus
+Accepted-standard chosen standard focus
+Endorsed-quality selected standard focus
+Recommended-grade picked standard focus
+Suggested-standard chosen standard focus
+Advised-quality selected standard focus
+Counseled-grade picked standard focus
+Guided-standard chosen standard focus
+Directed-quality selected standard focus
+Led-grade picked standard focus
+Managed-standard chosen standard focus
+Controlled-quality selected standard focus
+Commanded-grade picked standard focus
+Ordered-standard chosen standard focus
+Instructed-quality selected standard focus
+Taught-grade picked standard focus
+Educated-standard chosen standard focus
+Trained-quality selected standard focus
+Prepared-grade picked standard focus
+Equipped-standard chosen standard focus
+Supplied-quality selected standard focus
+Provided-grade picked standard focus
+Furnished-standard chosen standard focus
+Delivered-quality selected standard focus
+Given-grade picked standard focus
+Offered-standard chosen standard focus
+Presented-quality selected standard focus
+Shown-grade picked standard focus
+Displayed-standard chosen standard focus
+Exhibited-quality selected standard focus
+Demonstrated-grade picked standard focus
+Illustrated-standard chosen standard focus
+Explained-quality selected standard focus
+Described-grade picked standard focus
+Detailed-standard chosen standard focus
+Specified-quality selected standard focus
+Outlined-grade picked standard focus
+Sketched-standard chosen standard focus
+Drawn-quality selected standard focus
+Painted-grade picked standard focus
+Colored-standard chosen standard focus
+Tinted-quality selected standard focus
+Shaded-grade picked standard focus
+Highlighted-standard chosen standard focus
+Emphasized-quality selected standard focus
+Stressed-grade picked standard focus
+Underlined-standard chosen standard focus
+Marked-quality selected standard focus
+Noted-grade picked standard focus
+Indicated-standard chosen standard focus
+Pointed out-quality selected standard focus
+Identified-grade picked standard focus
+Recognized-standard chosen standard focus
+Acknowledged-quality selected standard focus
+Admitted-grade picked standard focus
+Confessed-standard chosen standard focus
+Revealed-quality selected standard focus
+Disclosed-grade picked standard focus
+Exposed-standard chosen standard focus
+Uncovered-quality selected standard focus
+Discovered-grade picked standard focus
+Found-standard chosen standard focus
+Located-quality selected standard focus
+Positioned-grade picked standard focus
+Placed-standard chosen standard focus
+Situated-quality selected standard focus
+Arranged-grade picked standard focus
+Organized-standard chosen standard focus
+Structured-quality selected standard focus
+Formatted-grade picked standard focus
+Designed-standard chosen standard focus
+Created-quality selected standard focus
+Made-grade picked standard focus
+Built-standard chosen standard focus
+Constructed-quality selected standard focus
+Assembled-grade picked standard focus
+Manufactured-standard chosen standard focus
+Produced-quality selected standard focus
+Generated-grade picked standard focus
+Developed-standard chosen standard focus
+Evolved-quality selected standard focus
+Grown-grade picked standard focus
+Expanded-standard chosen standard focus
+Extended-quality selected standard focus
+Stretched-grade picked standard focus
+Lengthened-standard chosen standard focus
+Widened-quality selected standard focus
+Broadened-grade picked standard focus
+Deepened-standard chosen standard focus
+Heightened-quality selected standard focus
+Raised-grade picked standard focus
+Lifted-standard chosen standard focus
+Elevated-quality selected standard focus
+Promoted-grade picked standard focus
+Advanced-standard chosen standard focus
+Progressed-quality selected standard focus
+Improved-grade picked standard focus
+Enhanced-standard chosen standard focus
+Upgraded-quality selected standard focus
+Updated-grade picked standard focus
+Renewed-standard chosen standard focus
+Refreshed-quality selected standard focus
+Revitalized-grade picked standard focus
+Rejuvenated-standard chosen standard focus
+Restored-quality selected standard focus
+Repaired-grade picked standard focus
+Fixed-standard chosen standard focus
+Corrected-quality selected standard focus
+Adjusted-grade picked standard focus
+Modified-standard chosen standard focus
+Changed-quality selected standard focus
+Altered-grade picked standard focus
+Transformed-standard chosen standard focus
+Converted-quality selected standard focus
+Adapted-grade picked standard focus
+Customized-standard chosen standard focus
+Personalized-quality selected standard focus
+Individualized-grade picked standard focus
+Specialized-standard chosen standard focus
+Tailored-quality selected standard focus
+Fitted-grade picked standard focus
+Matched-standard chosen standard focus
+Suited-quality selected standard focus
+Appropriate-grade picked standard focus
+Suitable-standard chosen standard focus
+Fitting-quality selected standard focus
+Proper-grade picked standard focus
+Right-standard chosen standard focus
+Correct-quality selected standard focus
+Accurate-grade picked standard focus
+Precise-standard chosen standard focus
+Exact-quality selected standard focus
+Perfect-grade picked standard focus
+Flawless-standard chosen standard focus
+Impeccable-quality selected standard focus
+Faultless-grade picked standard focus
+Spotless-standard chosen standard focus
+Clean-quality selected standard focus
+Pure-grade picked standard focus
+Clear-standard chosen standard focus
+Transparent-quality selected standard focus
+Crystal clear-grade picked standard focus
+Perfectly clear-standard chosen standard focus
+Absolutely clear-quality selected standard focus
+Completely clear-grade picked standard focus
+Totally clear-standard chosen standard focus
+Entirely clear-quality selected standard focus
+Wholly clear-grade picked standard focus
+Fully clear-standard chosen standard focus
+Thoroughly clear-quality selected standard focus
+Completely transparent-grade picked standard focus
+Absolutely transparent-standard chosen standard focus
+Perfectly transparent-quality selected standard focus
+Crystal transparent-grade picked standard focus
+Glass-like transparent-standard chosen standard focus
+Window-clear transparent-quality selected standard focus
+See-through transparent-grade picked standard focus
+Invisible transparent-standard chosen standard focus

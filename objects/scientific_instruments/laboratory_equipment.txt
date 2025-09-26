@@ -1,0 +1,20 @@
+Electron microscope with specimen chamber, high-voltage cable connections, phosphor viewing screen, tungsten filament glowing
+Mass spectrometer with sample injection port, ion separation chamber, detector array, vacuum pump systems, data analysis computer
+Particle accelerator synchrotron ring, superconducting magnets, radiofrequency cavities, beam injection system, control room monitors
+Nuclear magnetic resonance spectrometer with superconducting magnet, sample spinner, probe tuner, liquid nitrogen dewar
+X-ray crystallographer with rotating anode, detector screen, crystal mounting goniometer, diffraction pattern analysis software
+Scanning tunneling microscope with atomically sharp tip, piezoelectric scanners, vibration isolation chamber, atomic resolution images
+DNA sequencer with gel electrophoresis chamber, laser excitation system, fluorescent dye detection, automated sample loading
+Centrifuge ultracentrifuge with titanium rotor, refrigeration system, vacuum chamber, speed control interface, safety interlocks
+Spectrophotometer with monochromator, sample cuvettes, photomultiplier detector, wavelength selection dial, absorbance readings
+Gas chromatograph with injection port, separation column, flame ionization detector, carrier gas supply, temperature programming
+Liquid chromatography system with high-pressure pump, analytical column, UV detector, autosampler, gradient mixer
+Flow cytometer with laser excitation, sheath fluid, fluorescence detectors, cell sorting deflection plates, data acquisition
+Atomic absorption spectrometer with hollow cathode lamp, flame atomizer, monochromator, photomultiplier tube, background correction
+Fluorescence microscope with mercury arc lamp, excitation filter, dichroic mirror, emission filter, CCD camera
+Confocal microscope with laser scanning system, pinhole aperture, photomultiplier detector, objective lens turret, z-axis motor
+Atomic force microscope with cantilever probe, laser reflection system, piezo scanner, force feedback control, surface topography
+Ion chromatograph with suppressor column, conductivity detector, eluent generator, autosampler, peak integration software
+Fourier transform infrared spectrometer with interferometer, MCT detector, potassium bromide windows, sample compartment
+UV-visible spectrometer with tungsten halogen lamp, diffraction grating, photodiode array, sample compartment, baseline correction
+Mass cytometer with plasma torch, mass analyzer, ion detector, cell suspension nebulizer, elemental analysis

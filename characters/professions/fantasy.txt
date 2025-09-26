@@ -78,3 +78,548 @@ Adventurer
 Treasure hunter
 Grave robber
 Tomb raider
+Spellsword
+Battlemage
+War Wizard
+Combat Medic
+Field Surgeon
+Battle Cleric
+Templar Knight
+Death Knight
+Dark Knight
+Chaos Knight
+Dragon Knight
+Beast Master
+Monster Hunter
+Demon Slayer
+Vampire Hunter
+Witch Hunter
+Ghost Hunter
+Exorcist
+Soul Reaper
+Spirit Walker
+Shadow Dancer
+Light Bringer
+Flame Keeper
+Ice Wielder
+Storm Caller
+Earth Shaker
+Mind Reader
+Dream Walker
+Time Keeper
+Fate Weaver
+Luck Bringer
+Curse Breaker
+Spell Breaker
+Magic Suppressor
+Anti-mage
+Dispeller
+Counter-mage
+Null Caster
+Silence Bringer
+Mana Drain Specialist
+Arcane Investigator
+Magic Detective
+Spell Analyst
+Rune Reader
+Symbol Interpreter
+Prophecy Reader
+Fortune Teller
+Card Reader
+Crystal Ball Gazer
+Tea Leaf Reader
+Palm Reader
+Astrologer
+Star Reader
+Constellation Mapper
+Celestial Navigator
+Moon Priest
+Sun Worshipper
+Eclipse Watcher
+Comet Tracker
+Meteor Summoner
+Weather Witch
+Storm Shaman
+Rain Dancer
+Wind Whisperer
+Cloud Walker
+Lightning Rider
+Thunder Bearer
+Earthquake Caller
+Volcano Priest
+Glacier Guardian
+Ocean Keeper
+River Warden
+Forest Guardian
+Mountain Keeper
+Desert Wanderer
+Swamp Dweller
+Cave Explorer
+Dungeon Delver
+Labyrinth Runner
+Maze Walker
+Portal Keeper
+Gate Guardian
+Bridge Warden
+Tower Master
+Castle Keeper
+Fortress Commander
+Wall Guardian
+Moat Keeper
+Drawbridge Operator
+Siege Engineer
+Catapult Operator
+Ballista Master
+Trebuchet Specialist
+Battering Ram Leader
+Ladder Climber
+Wall Scaler
+Tunnel Digger
+Mine Layer
+Sapper
+Demolition Expert
+Explosives Master
+Fire Starter
+Arsonist
+Pyromaniac
+Flame Thrower
+Fire Breather
+Dragon Tamer
+Dragon Rider
+Wyvern Master
+Griffin Rider
+Pegasus Trainer
+Unicorn Whisperer
+Phoenix Handler
+Chimera Keeper
+Hydra Tamer
+Basilisk Charmer
+Medusa Keeper
+Minotaur Trainer
+Centaur Ambassador
+Satyr Guide
+Nymph Protector
+Fairy Guardian
+Pixie Keeper
+Sprite Watcher
+Gnome Friend
+Dwarf Ally
+Elf Companion
+Half-elf Mediator
+Halfling Guide
+Giant Negotiator
+Ogre Tamer
+Troll Keeper
+Goblin Wrangler
+Orc Mediator
+Kobold Handler
+Lizardman Translator
+Dragonborn Speaker
+Tiefling Advocate
+Aasimar Guardian
+Genasi Keeper
+Elemental Binder
+Djinn Summoner
+Efreet Negotiator
+Marid Caller
+Dao Contractor
+Air Elemental Master
+Fire Elemental Keeper
+Water Elemental Guide
+Earth Elemental Warden
+Ice Elemental Trainer
+Lightning Elemental Rider
+Shadow Elemental Binder
+Light Elemental Channeler
+Void Elemental Keeper
+Chaos Elemental Tamer
+Order Elemental Guardian
+Balance Keeper
+Harmony Seeker
+Discord Sower
+Peace Maker
+War Bringer
+Battle Strategist
+Tactical Genius
+Combat Instructor
+Weapons Master
+Martial Arts Teacher
+Swordmaster
+Blade Dancer
+Knife Thrower
+Axe Wielder
+Hammer Master
+Mace Bearer
+Flail Spinner
+Whip Cracker
+Staff Fighter
+Spear Thrower
+Pike Wielder
+Halberd Master
+Glaive Spinner
+Scythe Reaper
+Sickle Wielder
+Chain Weapon Master
+Net Fighter
+Trident Wielder
+Quarterstaff Expert
+Club Swinger
+Morning Star Wielder
+War Pick Master
+Battle Hammer Wielder
+Great Sword Master
+Two-handed Specialist
+Dual Wielder
+Shield Bearer
+Tower Shield Guardian
+Buckler Expert
+Parrying Dagger Master
+Main Gauche Specialist
+Rapier Duelist
+Foil Fencer
+Saber Master
+Cutlass Pirate
+Scimitar Dancer
+Katana Master
+Wakizashi Wielder
+Tanto Expert
+Naginata Fighter
+Bo Staff Master
+Jo Staff Expert
+Nunchaku Spinner
+Sai Wielder
+Tonfa Fighter
+Kama Spinner
+Shuriken Thrower
+Kunai Master
+Blow Dart Expert
+Poison Needle Thrower
+Hidden Blade Assassin
+Garrote Strangler
+Crossbow Sniper
+Longbow Master
+Shortbow Expert
+Composite Bow Specialist
+Recurve Bow User
+Warbow Puller
+Hunting Bow Expert
+Sling Shot Master
+Staff Sling User
+War Sling Spinner
+Boomerang Thrower
+Chakram Spinner
+Discus Thrower
+Javelin Hurler
+Atlatl User
+Bola Thrower
+Lasso Master
+Harpoon Thrower
+Grappling Hook Expert
+Climbing Gear Specialist
+Rope Expert
+Knot Master
+Trap Maker
+Snare Setter
+Pit Digger
+Caltrops Scatterer
+Smoke Bomb Thrower
+Flash Bang Creator
+Stun Grenade Maker
+Sleep Gas Brewer
+Poison Gas Creator
+Acid Thrower
+Oil Spreader
+Fire Bomb Maker
+Ice Bomb Creator
+Lightning Bottle Thrower
+Thunder Stone User
+Earthquake Bomb Maker
+Wind Bomb Creator
+Teleportation Bomb User
+Dimensional Rift Creator
+Portal Bomb Maker
+Time Bomb Specialist
+Delayed Explosion Expert
+Remote Detonator
+Timed Device Maker
+Clockwork Specialist
+Mechanical Engineer
+Steam Engineer
+Gear Master
+Cog Turner
+Spring Winder
+Pulley Operator
+Lever Puller
+Screw Turner
+Wheel Spinner
+Axle Greaser
+Belt Runner
+Chain Linker
+Rope Braider
+Wire Twister
+Cable Layer
+Pipe Fitter
+Tube Bender
+Valve Turner
+Pump Operator
+Compressor Runner
+Bellows Pumper
+Fan Spinner
+Windmill Operator
+Water Wheel Turner
+Mill Stone Grinder
+Grain Miller
+Flour Maker
+Bread Baker
+Cake Decorator
+Pastry Chef
+Confectioner
+Candy Maker
+Chocolate Crafter
+Sugar Artist
+Honey Harvester
+Maple Syrup Tapper
+Wine Maker
+Beer Brewer
+Mead Brewer
+Cider Maker
+Distiller
+Moonshine Maker
+Potion Brewer
+Elixir Creator
+Tonic Mixer
+Medicine Maker
+Remedy Crafter
+Antidote Brewer
+Healing Salve Maker
+Pain Reliever Creator
+Fever Reducer Brewer
+Sleep Inducer Maker
+Energy Booster Creator
+Strength Enhancer Brewer
+Speed Booster Maker
+Intelligence Enhancer Creator
+Wisdom Booster Brewer
+Charisma Enhancer Maker
+Constitution Booster Creator
+Dexterity Enhancer Brewer
+Luck Potion Maker
+Fortune Enhancer Creator
+Protection Potion Brewer
+Warding Elixir Maker
+Shielding Tonic Creator
+Invisibility Potion Brewer
+Levitation Elixir Maker
+Water Walking Potion Creator
+Fire Resistance Brewer
+Cold Immunity Maker
+Lightning Protection Creator
+Acid Resistance Brewer
+Poison Immunity Maker
+Disease Resistance Creator
+Curse Protection Brewer
+Charm Resistance Maker
+Fear Immunity Creator
+Paralysis Protection Brewer
+Petrification Immunity Maker
+Death Ward Creator
+Life Force Enhancer
+Soul Protector
+Spirit Guardian
+Essence Keeper
+Aura Reader
+Energy Healer
+Chi Master
+Ki Manipulator
+Chakra Aligner
+Meridian Mapper
+Pressure Point Expert
+Acupuncturist
+Massage Therapist
+Physical Therapist
+Bone Setter
+Joint Aligner
+Muscle Relaxer
+Tension Reliever
+Pain Specialist
+Injury Healer
+Wound Closer
+Scar Eraser
+Burn Healer
+Cut Mender
+Bruise Fader
+Swelling Reducer
+Inflammation Fighter
+Infection Clearer
+Fever Breaker
+Headache Reliever
+Stomach Soother
+Digestive Helper
+Breathing Improver
+Circulation Enhancer
+Heart Strengthener
+Blood Purifier
+Liver Cleanser
+Kidney Supporter
+Lung Clearer
+Brain Sharpener
+Memory Enhancer
+Focus Improver
+Concentration Booster
+Alertness Increaser
+Reaction Time Improver
+Reflex Enhancer
+Balance Improver
+Coordination Booster
+Agility Enhancer
+Flexibility Improver
+Endurance Booster
+Stamina Increaser
+Vitality Enhancer
+Longevity Extender
+Youth Preserver
+Age Reverser
+Time Stopper
+Immortality Seeker
+Death Defier
+Reincarnation Specialist
+Soul Recycler
+Spirit Rebirther
+Essence Transferer
+Consciousness Mover
+Mind Swapper
+Body Switcher
+Form Changer
+Shape Shifter
+Metamorph
+Transformer
+Mimic
+Doppelganger
+Changeling
+Skin Walker
+Were-creature
+Lycanthrope
+Vampire
+Nosferatu
+Blood Drinker
+Life Drainer
+Soul Sucker
+Energy Vampire
+Psychic Vampire
+Emotional Vampire
+Dream Vampire
+Memory Thief
+Experience Stealer
+Knowledge Thief
+Skill Stealer
+Ability Copier
+Power Mimic
+Talent Thief
+Gift Stealer
+Blessing Thief
+Curse Giver
+Hex Caster
+Jinx Bringer
+Bad Luck Spreader
+Misfortune Dealer
+Doom Bringer
+Fate Twister
+Destiny Changer
+Future Alterer
+Past Modifier
+Present Warper
+Time Traveler
+Temporal Navigator
+Chronos Rider
+Time Stream Swimmer
+Temporal Anchor
+Timeline Guardian
+Paradox Preventer
+Causality Protector
+Bootstrap Breaker
+Grandfather Killer
+Butterfly Effect Controller
+Ripple Effect Manager
+Domino Chain Stopper
+Chain Reaction Specialist
+Cascade Event Handler
+Avalanche Trigger
+Landslide Starter
+Earthquake Initiator
+Volcanic Eruption Causer
+Tsunami Creator
+Hurricane Summoner
+Tornado Spawner
+Blizzard Bringer
+Drought Creator
+Flood Causer
+Wildfire Starter
+Forest Fire Igniter
+Lightning Strike Caller
+Thunder Clap Summoner
+Hail Storm Creator
+Ice Storm Bringer
+Sand Storm Raiser
+Dust Devil Spinner
+Whirlpool Creator
+Maelstrom Summoner
+Tidal Wave Caller
+Rogue Wave Creator
+Tsunami Rider
+Storm Chaser
+Weather Tracker
+Climate Controller
+Atmosphere Manipulator
+Pressure Changer
+Temperature Adjuster
+Humidity Controller
+Wind Direction Shifter
+Air Current Redirector
+Jet Stream Manipulator
+Trade Wind Controller
+Monsoon Director
+Seasonal Shifter
+Equinox Keeper
+Solstice Guardian
+Eclipse Coordinator
+Lunar Cycle Controller
+Solar Flare Director
+Cosmic Ray Manipulator
+Magnetic Field Adjuster
+Gravity Well Creator
+Black Hole Summoner
+Wormhole Opener
+Portal Creator
+Dimensional Gateway Keeper
+Reality Rift Opener
+Universe Bridge Builder
+Multiverse Navigator
+Parallel World Traveler
+Alternate Reality Explorer
+Mirror Universe Visitor
+Shadow Realm Walker
+Light Dimension Keeper
+Dark Dimension Guardian
+Void Space Explorer
+Null Zone Navigator
+Empty Space Filler
+Vacuum Creator
+Nothingness Bringer
+Everything Maker
+Something Creator
+Anything Possible Specialist
+Nothing Impossible Denier
+All Things Possible Believer
+Every Dream Achiever
+Any Goal Reacher
+Ultimate Power Seeker
+Infinite Knowledge Pursuer
+Eternal Wisdom Finder
+Absolute Truth Seeker
+Perfect Understanding Achiever
+Complete Mastery Attainer
+Total Control Gainer
+Full Authority Wielder
+Supreme Command Holder
+Ultimate Leadership Exerciser
+Perfect Guidance Provider

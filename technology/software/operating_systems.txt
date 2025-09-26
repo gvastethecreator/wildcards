@@ -1,0 +1,52 @@
+Windows 11
+Windows 10
+macOS Ventura
+macOS Monterey
+Ubuntu Linux
+Debian Linux
+Fedora Linux
+CentOS
+Red Hat Enterprise
+SUSE Linux
+Arch Linux
+Manjaro Linux
+Pop OS
+Elementary OS
+Zorin OS
+Linux Mint
+Kali Linux
+Parrot Security
+Tails OS
+Android
+iOS
+iPadOS
+Chrome OS
+FreeBSD
+OpenBSD
+Solaris
+AIX
+Unix
+MS-DOS
+Windows Server
+VMware vSphere
+Hyper-V
+Docker
+Kubernetes
+Proxmox
+XenServer
+VirtualBox
+QEMU
+Citrix
+Remote Desktop
+TeamViewer
+AnyDesk
+VNC
+SSH
+Telnet
+FTP
+SFTP
+HTTP
+HTTPS
+TCP/IP
+DNS
+DHCP

@@ -1,0 +1,61 @@
+Python
+JavaScript
+TypeScript
+Java
+C++
+C#
+Go
+Rust
+Swift
+Kotlin
+PHP
+Ruby
+Scala
+R
+MATLAB
+SQL
+HTML
+CSS
+Sass
+Less
+React
+Vue.js
+Angular
+Svelte
+Next.js
+Nuxt.js
+Express.js
+Django
+Flask
+FastAPI
+Spring Boot
+Laravel
+Ruby on Rails
+ASP.NET
+Blazor
+Flutter
+React Native
+Xamarin
+Unity C#
+Unreal C++
+Godot GDScript
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+OpenCV
+Selenium
+Jest
+Cypress
+Playwright
+Docker
+Kubernetes
+Terraform
+Ansible
+Jenkins
+GitHub Actions
+GitLab CI
+AWS
+Azure
+Google Cloud

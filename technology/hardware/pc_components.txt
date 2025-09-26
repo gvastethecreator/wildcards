@@ -1,0 +1,51 @@
+Motherboard
+CPU processor
+GPU graphics card
+RAM memory
+SSD storage
+HDD hard drive
+Power supply
+CPU cooler
+Case fans
+RGB lighting
+Cable management
+Thermal paste
+Heat sink
+Water cooling
+AIO cooler
+Custom loop
+Radiator
+Pump
+Reservoir
+CPU socket
+Memory slots
+PCIe slots
+SATA ports
+USB ports
+Ethernet port
+Audio jacks
+HDMI ports
+DisplayPort
+USB-C connector
+Thunderbolt port
+WiFi antenna
+Bluetooth adapter
+Network card
+Sound card
+Capture card
+M.2 slot
+NVME drive
+SATA SSD
+Mechanical HDD
+External drive
+Optical drive
+DVD burner
+Blu-ray drive
+Gaming keyboard
+Gaming mouse
+Monitor
+4K display
+Ultrawide monitor
+Gaming headset
+Webcam
+Microphone

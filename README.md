@@ -574,6 +574,119 @@ game_mechanics/
 └── multiplayer_modes.txt      # Modos de juego multijugador
 ```
 
+## 🎵 **Categorías Completamente Nuevas**
+
+### **Audio & Sound Design**
+```
+audio_design/
+├── sound_effects/
+│   ├── environmental.txt       # Sonidos ambientales naturales
+│   ├── mechanical.txt         # Sonidos de maquinaria y tecnología
+│   ├── organic.txt           # Sonidos corporales y biológicos
+│   └── electronic.txt        # Efectos sonoros digitales
+├── musical_elements/
+│   ├── instrumentation.txt    # Combinaciones instrumentales
+│   ├── rhythmic_patterns.txt  # Patrones rítmicos y temporales
+│   └── harmonic_textures.txt  # Texturas armónicas y tonales
+└── voice_acting/
+    ├── speech_patterns.txt    # Patrones y ritmos del habla
+    ├── emotional_delivery.txt # Entrega emocional vocal
+    └── accent_styles.txt      # Estilos de acento y dialecto
+```
+
+### **Psychology & Mental States**
+```
+psychology/
+├── cognitive_states/
+│   ├── perception_modes.txt   # Modos de percepción y atención
+│   ├── memory_types.txt       # Tipos de memoria y recuerdo
+│   └── attention_focus.txt    # Estados de atención y concentración
+├── emotional_complexity/
+│   ├── mixed_emotions.txt     # Emociones complejas y contradictorias
+│   ├── emotional_transitions.txt # Transiciones emocionales
+│   └── trauma_responses.txt   # Respuestas psicológicas al trauma
+└── social_psychology/
+    ├── group_dynamics.txt     # Dinámicas de grupo y sociales
+    ├── power_structures.txt   # Estructuras de poder y autoridad
+    └── cultural_behaviors.txt # Comportamientos culturales
+```
+
+### **Performance & Theater**
+```
+performance/
+├── theatrical_elements/
+│   ├── stage_directions.txt   # Direcciones escénicas y movimiento
+│   ├── costume_design.txt     # Diseño de vestuario teatral
+│   ├── set_design.txt        # Diseño escenográfico
+│   └── lighting_design.txt   # Diseño de iluminación teatral
+├── acting_techniques/
+│   ├── method_acting.txt      # Técnicas de actuación metodológica
+│   ├── physical_theater.txt   # Teatro físico y movimiento
+│   └── improvisation.txt     # Técnicas de improvisación
+└── performance_genres/
+    ├── classical_theater.txt  # Teatro clásico y tradicional
+    ├── contemporary_forms.txt # Formas teatrales contemporáneas
+    └── experimental_performance.txt # Performance experimental
+```
+
+### **Science & Technology Avanzada**
+```
+science_tech_advanced/
+├── emerging_technologies/
+│   ├── quantum_computing.txt  # Computación cuántica
+│   ├── bioengineering.txt     # Bioingeniería y biotecnología
+│   ├── nanotechnology.txt     # Nanotecnología y nanomateriales
+│   └── space_technology.txt   # Tecnología espacial y aeronáutica
+├── scientific_fields/
+│   ├── theoretical_physics.txt # Física teórica avanzada
+│   ├── neuroscience.txt       # Neurociencia y cerebro
+│   ├── genetics.txt          # Genética y biología molecular
+│   └── environmental_science.txt # Ciencia ambiental
+└── research_methods/
+    ├── experimental_design.txt # Diseño experimental científico
+    ├── data_analysis.txt       # Análisis de datos y estadística
+    └── laboratory_equipment.txt # Equipamiento de laboratorio
+```
+
+### **Cultural Anthropology**
+```
+cultural_anthropology/
+├── social_rituals/
+│   ├── coming_of_age.txt      # Rituales de iniciación
+│   ├── seasonal_ceremonies.txt # Ceremonias estacionales
+│   ├── life_transitions.txt   # Rituales de transición vital
+│   └── community_bonding.txt  # Rituales de unión comunitaria
+├── belief_systems/
+│   ├── animism.txt           # Creencias animistas
+│   ├── ancestor_worship.txt  # Culto a los ancestros
+│   ├── nature_worship.txt    # Culto a la naturaleza
+│   └── cosmic_philosophies.txt # Filosofías cósmicas
+└── cultural_practices/
+    ├── food_traditions.txt    # Tradiciones alimentarias
+    ├── art_traditions.txt     # Tradiciones artísticas
+    ├── music_traditions.txt   # Tradiciones musicales
+    └── storytelling_traditions.txt # Tradiciones narrativas
+```
+
+### **Combat & Warfare**
+```
+combat_warfare/
+├── fighting_systems/
+│   ├── martial_arts_styles.txt # Estilos de artes marciales
+│   ├── weapon_techniques.txt    # Técnicas de armas
+│   ├── tactical_formations.txt  # Formaciones tácticas
+│   └── battlefield_strategies.txt # Estrategias de batalla
+├── military_equipment/
+│   ├── armor_types.txt         # Tipos de armadura
+│   ├── siege_weapons.txt       # Armas de asedio
+│   ├── defensive_structures.txt # Estructuras defensivas
+│   └── military_vehicles.txt   # Vehículos militares
+└── war_scenarios/
+    ├── historical_battles.txt  # Batallas históricas famosas
+    ├── fantasy_conflicts.txt   # Conflictos fantásticos
+    └── futuristic_warfare.txt  # Guerra futurística
+```
+
 ## 📝 Mantenimiento
 
 ### Agregar Nuevas Categorías

@@ -3,6 +3,11 @@ sharp
 hyperreal
 photoreal
 4k
+8k
+16k
+32k
+ultra hd
+super resolution
 masterpiece
 best quality
 highest quality
@@ -22,8 +27,10 @@ broadcast quality
 cinema quality
 theatrical quality
 imax quality
+dolby vision
 hdr
 ultra hdr
+hdr10+
 high dynamic range
 wide color gamut
 perfect exposure
@@ -48,6 +55,1330 @@ harmonious
 aesthetic
 beautiful
 gorgeous
+stunning
+breathtaking
+magnificent
+spectacular
+extraordinary
+exceptional
+remarkable
+outstanding
+impressive
+striking
+captivating
+mesmerizing
+enchanting
+spellbinding
+bewitching
+alluring
+enticing
+seductive
+irresistible
+compelling
+fascinating
+intriguing
+mysterious
+enigmatic
+sublime
+transcendent
+divine
+heavenly
+celestial
+angelic
+ethereal
+otherworldly
+supernatural
+magical
+mystical
+legendary
+mythical
+epic
+heroic
+majestic
+regal
+noble
+aristocratic
+distinguished
+refined
+sophisticated
+elegant
+graceful
+polished
+immaculate
+pristine
+flawless
+perfect
+impeccable
+exquisite
+delicate
+intricate
+detailed
+meticulous
+precise
+accurate
+exact
+sharp focus
+tack sharp
+crystal clear
+razor sharp
+pin sharp
+laser focused
+ultra sharp
+hyper detailed
+micro detailed
+macro detailed
+fine detailed
+intricate details
+elaborate details
+complex details
+rich details
+dense details
+layered details
+textured details
+surface details
+material details
+fabric details
+skin details
+hair details
+eye details
+facial details
+anatomical details
+architectural details
+environmental details
+atmospheric details
+lighting details
+shadow details
+reflection details
+refraction details
+transparency details
+translucency details
+opacity details
+luminosity details
+brilliance details
+radiance details
+luminescence details
+phosphorescence details
+fluorescence details
+iridescence details
+opalescence details
+pearlescence details
+metallicity details
+chrome details
+mirror finish
+glossy finish
+matte finish
+satin finish
+brushed finish
+polished finish
+smooth finish
+rough finish
+textured finish
+grainy finish
+porous finish
+dense finish
+solid finish
+liquid finish
+gel finish
+foam finish
+crystalline finish
+amorphous finish
+organic finish
+synthetic finish
+natural finish
+artificial finish
+handmade finish
+machine finish
+precision finish
+rough finish
+distressed finish
+weathered finish
+aged finish
+vintage finish
+antique finish
+rustic finish
+modern finish
+contemporary finish
+futuristic finish
+sci-fi finish
+fantasy finish
+magical finish
+mystical finish
+supernatural finish
+ethereal finish
+ghostly finish
+spectral finish
+phantom finish
+spirit finish
+soul finish
+essence finish
+pure finish
+clean finish
+fresh finish
+new finish
+mint finish
+immaculate finish
+spotless finish
+sterile finish
+clinical finish
+laboratory finish
+scientific finish
+technical finish
+engineering finish
+architectural finish
+structural finish
+mechanical finish
+electronic finish
+digital finish
+virtual finish
+holographic finish
+laser finish
+plasma finish
+quantum finish
+nuclear finish
+atomic finish
+molecular finish
+cellular finish
+organic finish
+biological finish
+living finish
+breathing finish
+pulsing finish
+flowing finish
+streaming finish
+cascading finish
+pouring finish
+dripping finish
+melting finish
+freezing finish
+crystallizing finish
+solidifying finish
+liquefying finish
+vaporizing finish
+evaporating finish
+sublimating finish
+condensing finish
+precipitating finish
+filtering finish
+purifying finish
+refining finish
+distilling finish
+concentrating finish
+diluting finish
+mixing finish
+blending finish
+merging finish
+fusing finish
+welding finish
+bonding finish
+adhering finish
+sticking finish
+gripping finish
+holding finish
+supporting finish
+reinforcing finish
+strengthening finish
+fortifying finish
+hardening finish
+toughening finish
+softening finish
+cushioning finish
+padding finish
+insulating finish
+protecting finish
+shielding finish
+defending finish
+guarding finish
+securing finish
+locking finish
+sealing finish
+waterproof finish
+weatherproof finish
+fireproof finish
+bulletproof finish
+shatterproof finish
+scratch resistant finish
+wear resistant finish
+corrosion resistant finish
+fade resistant finish
+stain resistant finish
+antimicrobial finish
+antibacterial finish
+antiviral finish
+antiseptic finish
+sterile finish
+hygienic finish
+clean finish
+pure finish
+pristine finish
+fresh finish
+new finish
+unused finish
+untouched finish
+virgin finish
+original finish
+authentic finish
+genuine finish
+real finish
+actual finish
+true finish
+honest finish
+sincere finish
+genuine finish
+legitimate finish
+valid finish
+verified finish
+certified finish
+approved finish
+authorized finish
+licensed finish
+official finish
+formal finish
+proper finish
+correct finish
+right finish
+accurate finish
+precise finish
+exact finish
+perfect finish
+ideal finish
+optimal finish
+maximum finish
+ultimate finish
+supreme finish
+peak finish
+pinnacle finish
+apex finish
+zenith finish
+summit finish
+top finish
+best finish
+finest finish
+greatest finish
+most excellent finish
+most outstanding finish
+most remarkable finish
+most impressive finish
+most beautiful finish
+most stunning finish
+most gorgeous finish
+most elegant finish
+most sophisticated finish
+most refined finish
+most polished finish
+most perfect finish
+most flawless finish
+most immaculate finish
+most pristine finish
+ultra realistic rendering
+photogrammetry accurate
+lidar scanned precision
+volumetric lighting perfection
+subsurface scattering excellence
+global illumination mastery
+raytracing perfection
+pathtracing excellence
+monte carlo sampling
+importance sampling
+stratified sampling
+blue noise sampling
+temporal upsampling
+spatial upsampling
+dlss enhancement
+fsr optimization
+taau refinement
+temporal accumulation
+motion vector precision
+depth buffer accuracy
+normal map detail
+displacement mapping
+parallax occlusion
+relief mapping
+bump mapping detail
+specular mapping
+roughness mapping
+metallic mapping
+ambient occlusion
+screen space reflections
+screen space ambient occlusion
+contact shadows
+soft shadows
+hard shadows
+volumetric shadows
+cascaded shadow mapping
+shadow mapping precision
+light probe accuracy
+reflection probe detail
+cubemap resolution
+hdri environment
+ibl precision
+pbr workflow
+physically based
+material accurate
+shader complexity
+node graph detail
+procedural generation
+algorithmic creation
+mathematical precision
+computational accuracy
+simulation fidelity
+physics accuracy
+fluid simulation
+particle systems
+hair simulation
+cloth simulation
+soft body physics
+rigid body dynamics
+collision detection
+constraint solving
+numerical stability
+convergence accuracy
+iteration precision
+solver optimization
+adaptive refinement
+level of detail
+mesh decimation
+texture compression
+normal compression
+vertex compression
+animation compression
+skeletal animation
+vertex animation
+morph targets
+blend shapes
+facial animation
+eye tracking
+motion capture
+performance capture
+volumetric capture
+photogrammetry
+3d scanning
+lidar mapping
+point cloud
+mesh reconstruction
+surface reconstruction
+topology optimization
+quad mesh
+triangle mesh
+subdivision surface
+nurbs modeling
+parametric modeling
+procedural modeling
+generative modeling
+ai assisted
+machine learning
+neural networks
+deep learning
+computer vision
+image recognition
+pattern recognition
+style transfer
+content aware
+semantic segmentation
+instance segmentation
+object detection
+feature extraction
+edge detection
+corner detection
+line detection
+shape recognition
+texture analysis
+color analysis
+histogram analysis
+frequency analysis
+spectral analysis
+fourier transform
+wavelet analysis
+principal component
+independent component
+singular value
+matrix factorization
+tensor decomposition
+manifold learning
+dimensionality reduction
+feature selection
+data mining
+information extraction
+knowledge discovery
+pattern mining
+anomaly detection
+outlier detection
+statistical analysis
+probabilistic modeling
+bayesian inference
+maximum likelihood
+expectation maximization
+variational inference
+markov chain monte carlo
+gibbs sampling
+metropolis hastings
+importance sampling
+rejection sampling
+bootstrap sampling
+cross validation
+model selection
+hyperparameter tuning
+grid search
+random search
+bayesian optimization
+genetic algorithms
+evolutionary computation
+swarm intelligence
+particle swarm
+ant colony
+simulated annealing
+tabu search
+gradient descent
+stochastic gradient
+momentum optimization
+adaptive learning
+learning rate scheduling
+batch normalization
+layer normalization
+group normalization
+instance normalization
+dropout regularization
+weight decay
+early stopping
+data augmentation
+synthetic data
+generative adversarial
+variational autoencoder
+normalizing flows
+energy based models
+diffusion models
+score based
+langevin dynamics
+denoising score matching
+neural ordinary differential
+neural stochastic differential
+graph neural networks
+attention mechanisms
+transformer architecture
+self attention
+multi head attention
+cross attention
+positional encoding
+layer norm
+residual connections
+skip connections
+dense connections
+highway networks
+residual networks
+densely connected
+inception modules
+squeeze excitation
+channel attention
+spatial attention
+temporal attention
+memory networks
+neural turing machines
+differentiable programming
+automatic differentiation
+gradient computation
+backpropagation
+forward mode
+reverse mode
+dual numbers
+complex step
+finite differences
+numerical differentiation
+symbolic differentiation
+computer algebra
+theorem proving
+formal verification
+type checking
+static analysis
+dynamic analysis
+program synthesis
+code generation
+compiler optimization
+just in time
+ahead of time
+profile guided
+feedback directed
+link time optimization
+whole program optimization
+interprocedural optimization
+intraprocedural optimization
+loop optimization
+vectorization
+parallelization
+concurrent execution
+asynchronous processing
+event driven
+reactive programming
+functional programming
+object oriented
+procedural programming
+declarative programming
+imperative programming
+logic programming
+constraint programming
+dataflow programming
+pipeline processing
+stream processing
+batch processing
+real time processing
+interactive processing
+responsive design
+adaptive interface
+user experience
+human computer interaction
+accessibility compliant
+universal design
+inclusive design
+barrier free
+wcag compliant
+section 508
+ada compliant
+internationalization
+localization
+multilingual support
+unicode compliance
+utf8 encoding
+character encoding
+text rendering
+font rendering
+subpixel rendering
+cleartype
+antialiasing
+supersampling
+multisampling
+temporal antialiasing
+morphological antialiasing
+fast approximate
+screen space
+deferred rendering
+forward rendering
+tile based
+clustered shading
+visibility buffer
+mesh shaders
+primitive shaders
+task shaders
+amplification shaders
+geometry shaders
+tessellation shaders
+hull shaders
+domain shaders
+vertex shaders
+fragment shaders
+pixel shaders
+compute shaders
+ray generation
+ray intersection
+ray closest hit
+ray any hit
+ray miss
+callable shaders
+intersection shaders
+bindless resources
+descriptor indexing
+variable rate shading
+mesh primitive culling
+occlusion culling
+frustum culling
+backface culling
+hierarchical z buffer
+early z testing
+late z testing
+depth testing
+stencil testing
+alpha testing
+alpha blending
+additive blending
+multiplicative blending
+subtractive blending
+screen blending
+overlay blending
+soft light
+hard light
+color dodge
+color burn
+linear dodge
+linear burn
+vivid light
+linear light
+pin light
+hard mix
+difference blending
+exclusion blending
+hue blending
+saturation blending
+color blending
+luminosity blending
+normal blending
+dissolve blending
+multiply blending
+screen blending
+overlay blending
+soft light blending
+hard light blending
+color dodge blending
+color burn blending
+darken blending
+lighten blending
+difference blending
+exclusion blending
+hue saturation
+color balance
+brightness contrast
+levels adjustment
+curves adjustment
+histogram equalization
+gamma correction
+linear workflow
+scene referred
+display referred
+tone mapping
+exposure compensation
+highlight recovery
+shadow recovery
+white balance
+color temperature
+color grading
+color correction
+chroma keying
+luma keying
+alpha matting
+edge feathering
+motion blur
+depth of field
+bokeh quality
+optical quality
+lens quality
+sensor quality
+image quality
+signal quality
+noise reduction
+grain reduction
+artifact reduction
+compression optimization
+lossless compression
+lossy compression
+perceptual coding
+psychoacoustic modeling
+perceptual uniformity
+color accuracy
+color reproduction
+gamut mapping
+chromatic adaptation
+white point adaptation
+von kries transform
+bradford transform
+cat02 transform
+spectral rendering
+multispectral
+hyperspectral
+polarization
+birefringence
+dichroism
+fluorescence
+phosphorescence
+chemiluminescence
+bioluminescence
+triboluminescence
+sonoluminescence
+photoluminescence
+electroluminescence
+cathodoluminescence
+radioluminescence
+thermoluminescence
+optical phenomena
+atmospheric optics
+scattering effects
+absorption effects
+refraction effects
+reflection effects
+interference effects
+diffraction effects
+polarization effects
+dispersion effects
+chromatic aberration
+spherical aberration
+astigmatism
+coma aberration
+barrel distortion
+pincushion distortion
+perspective correction
+keystone correction
+geometric correction
+radiometric correction
+photometric correction
+colorimetric correction
+spectroradiometric
+spectrophotometric
+densitometric
+sensitometric
+tone reproduction
+dynamic range
+signal to noise
+contrast ratio
+modulation transfer
+optical transfer
+phase transfer
+edge spread
+line spread
+point spread
+impulse response
+frequency response
+temporal response
+spatial frequency
+cutoff frequency
+nyquist frequency
+aliasing artifacts
+moire patterns
+false color
+color fringing
+purple fringing
+lateral chromatic
+longitudinal chromatic
+vignetting correction
+distortion correction
+perspective correction
+geometric calibration
+radiometric calibration
+photometric calibration
+colorimetric calibration
+white balancing
+black level
+white level
+gamma curve
+tone curve
+response curve
+characteristic curve
+hurter driffield
+sensitometric curve
+density curve
+transmission curve
+reflection curve
+absorption curve
+emission curve
+excitation curve
+quantum efficiency
+detective quantum
+noise equivalent
+signal transfer
+noise power spectrum
+wiener spectrum
+autocorrelation
+cross correlation
+mutual information
+structural similarity
+peak signal noise
+mean squared error
+root mean squared
+mean absolute error
+perceptual quality
+subjective quality
+objective quality
+visual quality
+aesthetic quality
+artistic quality
+technical quality
+production quality
+broadcast quality
+cinema quality
+web quality
+print quality
+display quality
+viewing quality
+reproduction quality
+archive quality
+preservation quality
+restoration quality
+enhancement quality
+optimization quality
+processing quality
+rendering quality
+sampling quality
+quantization quality
+encoding quality
+decoding quality
+transmission quality
+storage quality
+retrieval quality
+access quality
+usability quality
+reliability quality
+durability quality
+sustainability quality
+efficiency quality
+performance quality
+scalability quality
+maintainability quality
+portability quality
+compatibility quality
+interoperability quality
+security quality
+privacy quality
+transparency quality
+accountability quality
+traceability quality
+auditability quality
+verifiability quality
+reproducibility quality
+repeatability quality
+consistency quality
+accuracy quality
+precision quality
+resolution quality
+sensitivity quality
+specificity quality
+selectivity quality
+linearity quality
+stability quality
+robustness quality
+flexibility quality
+adaptability quality
+responsiveness quality
+reactivity quality
+proactivity quality
+predictability quality
+controllability quality
+observability quality
+testability quality
+debuggability quality
+analyzability quality
+understandability quality
+readability quality
+writability quality
+learnability quality
+teachability quality
+transferability quality
+generalizability quality
+extensibility quality
+modifiability quality
+reusability quality
+composability quality
+modularity quality
+cohesion quality
+coupling quality
+encapsulation quality
+abstraction quality
+inheritance quality
+polymorphism quality
+overloading quality
+overriding quality
+specialization quality
+generalization quality
+classification quality
+categorization quality
+taxonomy quality
+ontology quality
+semantics quality
+syntax quality
+pragmatics quality
+linguistics quality
+communication quality
+expression quality
+articulation quality
+pronunciation quality
+intonation quality
+rhythm quality
+melody quality
+harmony quality
+counterpoint quality
+orchestration quality
+arrangement quality
+composition quality
+improvisation quality
+performance quality
+interpretation quality
+execution quality
+technique quality
+skill quality
+mastery quality
+expertise quality
+proficiency quality
+competency quality
+capability quality
+capacity quality
+potential quality
+talent quality
+gift quality
+aptitude quality
+ability quality
+intelligence quality
+wisdom quality
+knowledge quality
+understanding quality
+comprehension quality
+insight quality
+intuition quality
+perception quality
+awareness quality
+consciousness quality
+mindfulness quality
+attention quality
+focus quality
+concentration quality
+meditation quality
+contemplation quality
+reflection quality
+introspection quality
+self awareness quality
+self knowledge quality
+self understanding quality
+self realization quality
+self actualization quality
+self transcendence quality
+enlightenment quality
+awakening quality
+liberation quality
+freedom quality
+autonomy quality
+independence quality
+sovereignty quality
+authority quality
+power quality
+influence quality
+impact quality
+effect quality
+consequence quality
+result quality
+outcome quality
+achievement quality
+accomplishment quality
+success quality
+victory quality
+triumph quality
+conquest quality
+mastery quality
+dominance quality
+superiority quality
+excellence quality
+perfection quality
+idealization quality
+optimization quality
+maximization quality
+completion quality
+fulfillment quality
+satisfaction quality
+contentment quality
+happiness quality
+joy quality
+bliss quality
+euphoria quality
+ecstasy quality
+rapture quality
+transcendence quality
+sublime quality
+divine quality
+sacred quality
+holy quality
+blessed quality
+sanctified quality
+consecrated quality
+hallowed quality
+revered quality
+venerated quality
+worshipped quality
+adored quality
+beloved quality
+cherished quality
+treasured quality
+precious quality
+valuable quality
+priceless quality
+invaluable quality
+irreplaceable quality
+unique quality
+distinctive quality
+special quality
+exceptional quality
+extraordinary quality
+remarkable quality
+outstanding quality
+impressive quality
+amazing quality
+astonishing quality
+astounding quality
+stunning quality
+breathtaking quality
+awe inspiring quality
+magnificent quality
+splendid quality
+glorious quality
+radiant quality
+brilliant quality
+dazzling quality
+sparkling quality
+shimmering quality
+glittering quality
+gleaming quality
+glistening quality
+lustrous quality
+luminous quality
+incandescent quality
+phosphorescent quality
+fluorescent quality
+iridescent quality
+opalescent quality
+pearlescent quality
+metallic quality
+crystalline quality
+prismatic quality
+holographic quality
+rainbow quality
+spectral quality
+chromatic quality
+colorful quality
+vivid quality
+vibrant quality
+rich quality
+deep quality
+intense quality
+saturated quality
+pure quality
+clear quality
+transparent quality
+translucent quality
+opaque quality
+solid quality
+dense quality
+concentrated quality
+distilled quality
+refined quality
+purified quality
+filtered quality
+processed quality
+treated quality
+enhanced quality
+improved quality
+upgraded quality
+advanced quality
+sophisticated quality
+complex quality
+intricate quality
+elaborate quality
+detailed quality
+comprehensive quality
+thorough quality
+complete quality
+total quality
+absolute quality
+perfect quality
+flawless quality
+immaculate quality
+pristine quality
+spotless quality
+unblemished quality
+untainted quality
+uncontaminated quality
+undefiled quality
+unspoiled quality
+untouched quality
+virgin quality
+original quality
+authentic quality
+genuine quality
+real quality
+true quality
+honest quality
+sincere quality
+legitimate quality
+valid quality
+verified quality
+certified quality
+guaranteed quality
+assured quality
+confirmed quality
+established quality
+proven quality
+tested quality
+tried quality
+trusted quality
+reliable quality
+dependable quality
+consistent quality
+stable quality
+steady quality
+constant quality
+permanent quality
+enduring quality
+lasting quality
+durable quality
+resilient quality
+robust quality
+strong quality
+powerful quality
+mighty quality
+formidable quality
+invincible quality
+unbreakable quality
+indestructible quality
+eternal quality
+everlasting quality
+immortal quality
+timeless quality
+ageless quality
+endless quality
+infinite quality
+boundless quality
+limitless quality
+measureless quality
+immeasurable quality
+incalculable quality
+innumerable quality
+countless quality
+numberless quality
+multitudinous quality
+abundant quality
+plentiful quality
+copious quality
+profuse quality
+lavish quality
+generous quality
+bountiful quality
+prolific quality
+productive quality
+fruitful quality
+fertile quality
+creative quality
+innovative quality
+inventive quality
+imaginative quality
+original quality
+pioneering quality
+groundbreaking quality
+revolutionary quality
+transformative quality
+evolutionary quality
+progressive quality
+advanced quality
+cutting edge quality
+state of the art quality
+leading edge quality
+bleeding edge quality
+next generation quality
+futuristic quality
+visionary quality
+prophetic quality
+predictive quality
+prescient quality
+foresighted quality
+forward thinking quality
+proactive quality
+anticipatory quality
+preparatory quality
+preventive quality
+precautionary quality
+protective quality
+defensive quality
+safeguarding quality
+securing quality
+preserving quality
+conserving quality
+maintaining quality
+sustaining quality
+supporting quality
+nurturing quality
+fostering quality
+cultivating quality
+developing quality
+growing quality
+evolving quality
+advancing quality
+progressing quality
+improving quality
+enhancing quality
+refining quality
+perfecting quality
+optimizing quality
+maximizing quality
+amplifying quality
+intensifying quality
+strengthening quality
+reinforcing quality
+fortifying quality
+consolidating quality
+unifying quality
+integrating quality
+harmonizing quality
+balancing quality
+stabilizing quality
+equalizing quality
+normalizing quality
+standardizing quality
+regularizing quality
+systematizing quality
+organizing quality
+structuring quality
+ordering quality
+arranging quality
+coordinating quality
+synchronizing quality
+aligning quality
+calibrating quality
+tuning quality
+adjusting quality
+fine tuning quality
+precision quality
+accuracy quality
+exactness quality
+meticulousness quality
+thoroughness quality
+diligence quality
+carefulness quality
+attention quality
+mindfulness quality
+consciousness quality
+awareness quality
+alertness quality
+vigilance quality
+watchfulness quality
+observance quality
+observational quality
+perceptive quality
+discerning quality
+discriminating quality
+selective quality
+choosy quality
+picky quality
+particular quality
+specific quality
+precise quality
+exact quality
+definite quality
+certain quality
+sure quality
+confident quality
+assured quality
+guaranteed quality
+promised quality
+committed quality
+dedicated quality
+devoted quality
+loyal quality
+faithful quality
+steadfast quality
+unwavering quality
+resolute quality
+determined quality
+persistent quality
+persevering quality
+tenacious quality
+relentless quality
+tireless quality
+indefatigable quality
+inexhaustible quality
+boundless quality
+unlimited quality
+unrestricted quality
+unconfined quality
+unfettered quality
+unrestrained quality
+uninhibited quality
+unimpeded quality
+unobstructed quality
+unhindered quality
+facilitated quality
+enabled quality
+empowered quality
+liberated quality
+freed quality
+released quality
 stunning
 breathtaking
 spectacular

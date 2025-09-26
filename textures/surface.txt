@@ -18,3 +18,606 @@ opaque
 porous
 dense
 fibrous
+grainy
+granular
+sandy
+gritty
+coarse
+fine
+silky
+velvety
+fuzzy
+fluffy
+soft
+hard
+rigid
+flexible
+elastic
+stretchy
+springy
+bouncy
+spongy
+squishy
+firm
+solid
+liquid
+viscous
+sticky
+tacky
+slippery
+slick
+oily
+greasy
+waxy
+chalky
+powdery
+dusty
+muddy
+wet
+dry
+damp
+moist
+humid
+crisp
+brittle
+fragile
+delicate
+sturdy
+robust
+tough
+resilient
+durable
+cracked
+chipped
+broken
+fractured
+split
+torn
+ripped
+frayed
+unraveled
+tangled
+knotted
+braided
+woven
+knitted
+stitched
+sewn
+embroidered
+quilted
+patched
+layered
+laminated
+bonded
+fused
+melted
+molded
+cast
+forged
+hammered
+beaten
+pressed
+rolled
+extruded
+drawn
+pulled
+stretched
+compressed
+compacted
+condensed
+expanded
+inflated
+deflated
+collapsed
+crushed
+crumpled
+wrinkled
+creased
+folded
+bent
+twisted
+curved
+warped
+distorted
+deformed
+shaped
+sculpted
+carved
+etched
+engraved
+embossed
+debossed
+stamped
+printed
+painted
+stained
+dyed
+bleached
+faded
+discolored
+tarnished
+oxidized
+rusted
+corroded
+eroded
+pitted
+scarred
+marked
+scored
+scratched deep
+lightly scratched
+abraded
+sanded
+ground
+honed
+buffed
+brushed
+combed
+raked
+stippled
+dabbed
+sponged
+rolled texture
+dragged
+smeared
+blended
+feathered
+cross-hatched
+hatched
+lined
+striped
+banded
+ringed
+circled
+spotted
+dotted
+speckled
+freckled
+mottled
+marbled
+veined
+grained
+fibered
+threaded
+corded
+ribbed
+fluted
+channeled
+furrowed
+pleated
+gathered
+ruffled
+puckered
+dimpled
+pocked
+pitted surface
+honeycomb
+cellular
+bubble wrap
+foam
+mesh
+perforated
+ventilated
+aerated
+holey
+pierced
+punctured
+penetrated
+invaded
+infiltrated
+saturated
+soaked
+drenched
+flooded
+submerged
+immersed
+coated
+covered
+encased
+wrapped
+bound
+tied
+secured
+fastened
+attached
+adhered
+glued
+bonded strongly
+welded
+soldered
+brazed
+riveted
+screwed
+bolted
+nailed
+pinned
+clipped
+clamped
+gripped
+held
+supported
+suspended
+hanging
+dangling
+swinging
+moving
+shifting
+sliding
+slipping
+rolling
+rotating
+spinning
+twirling
+whirling
+vibrating
+oscillating
+pulsating
+throbbing
+beating
+pumping
+flowing
+streaming
+rushing
+gushing
+trickling
+dripping
+leaking
+seeping
+oozing
+bleeding
+weeping
+crying
+sobbing
+laughing
+giggling
+smiling
+frowning
+grimacing
+scowling
+glaring
+staring
+gazing
+looking
+watching
+observing
+studying
+examining
+inspecting
+analyzing
+investigating
+exploring
+discovering
+finding
+locating
+positioning
+placing
+setting
+arranging
+organizing
+sorting
+categorizing
+classifying
+labeling
+marking
+tagging
+naming
+titling
+heading
+captioning
+describing
+explaining
+defining
+clarifying
+specifying
+detailing
+elaborating
+expanding
+extending
+lengthening
+widening
+broadening
+deepening
+heightening
+raising
+elevating
+lifting
+hoisting
+carrying
+transporting
+moving forward
+advancing
+progressing
+developing
+growing
+expanding naturally
+blooming
+flowering
+budding
+sprouting
+germinating
+rooting
+branching
+spreading
+radiating
+emanating
+glowing
+shining
+gleaming
+glittering
+sparkling
+twinkling
+flickering
+flashing
+blinking
+strobing
+pulsing light
+breathing light
+living texture
+organic texture
+natural texture
+artificial texture
+synthetic texture
+manufactured texture
+machine texture
+industrial texture
+mechanical texture
+electronic texture
+digital texture
+pixelated texture
+bitmap texture
+vector texture
+rendered texture
+procedural texture
+algorithmic texture
+generated texture
+computed texture
+calculated texture
+mathematical texture
+geometric texture
+abstract texture
+artistic texture
+creative texture
+imaginative texture
+fantastical texture
+magical texture
+mystical texture
+spiritual texture
+ethereal texture
+ghostly texture
+spectral texture
+phantom texture
+invisible texture
+transparent texture
+clear texture
+crystal texture
+glass texture
+ice texture
+frozen texture
+cold texture
+cool texture
+warm texture
+hot texture
+burning texture
+flaming texture
+fiery texture
+molten texture
+liquid texture
+flowing texture
+streaming texture
+cascading texture
+waterfall texture
+river texture
+ocean texture
+sea texture
+lake texture
+pond texture
+puddle texture
+droplet texture
+bead texture
+pearl texture
+jewel texture
+gem texture
+diamond texture
+crystal faceted
+cut crystal
+polished crystal
+raw crystal
+rough crystal
+uncut crystal
+natural crystal
+synthetic crystal
+artificial crystal
+manufactured crystal
+precision texture
+accurate texture
+perfect texture
+flawless texture
+pristine texture
+immaculate texture
+spotless texture
+clean texture
+pure texture
+virgin texture
+untouched texture
+undisturbed texture
+peaceful texture
+calm texture
+serene texture
+tranquil texture
+quiet texture
+silent texture
+muted texture
+subdued texture
+gentle texture
+tender texture
+delicate texture
+fragile texture
+vulnerable texture
+sensitive texture
+responsive texture
+reactive texture
+active texture
+dynamic texture
+energetic texture
+vigorous texture
+powerful texture
+strong texture
+mighty texture
+forceful texture
+intense texture
+extreme texture
+radical texture
+dramatic texture
+striking texture
+bold texture
+confident texture
+assertive texture
+aggressive texture
+fierce texture
+wild texture
+untamed texture
+primitive texture
+ancient texture
+old texture
+aged texture
+mature texture
+seasoned texture
+experienced texture
+veteran texture
+classic texture
+traditional texture
+conventional texture
+standard texture
+normal texture
+typical texture
+usual texture
+ordinary texture
+common texture
+regular texture
+everyday texture
+familiar texture
+known texture
+recognized texture
+identified texture
+understood texture
+comprehended texture
+grasped texture
+mastered texture
+controlled texture
+dominated texture
+conquered texture
+defeated texture
+overcome texture
+surpassed texture
+exceeded texture
+transcended texture
+elevated texture
+uplifted texture
+inspired texture
+motivated texture
+encouraged texture
+supported texture
+backed texture
+reinforced texture
+strengthened texture
+fortified texture
+secured texture
+protected texture
+defended texture
+guarded texture
+watched texture
+monitored texture
+observed texture
+tracked texture
+followed texture
+pursued texture
+chased texture
+hunted texture
+sought texture
+searched texture
+explored texture
+investigated texture
+examined texture
+studied texture
+analyzed texture
+researched texture
+discovered texture
+found texture
+located texture
+identified texture
+recognized texture
+acknowledged texture
+accepted texture
+approved texture
+endorsed texture
+recommended texture
+suggested texture
+proposed texture
+offered texture
+presented texture
+displayed texture
+shown texture
+exhibited texture
+demonstrated texture
+performed texture
+executed texture
+accomplished texture
+achieved texture
+completed texture
+finished texture
+ended texture
+concluded texture
+terminated texture
+stopped texture
+halted texture
+paused texture
+suspended texture
+interrupted texture
+broken texture
+discontinued texture
+abandoned texture
+deserted texture
+left texture
+forgotten texture
+neglected texture
+ignored texture
+overlooked texture
+missed texture
+skipped texture
+bypassed texture
+avoided texture
+evaded texture
+escaped texture
+fled texture
+ran texture
+rushed texture
+hurried texture
+quick texture
+fast texture
+rapid texture
+swift texture
+speedy texture
+accelerated texture
+boosted texture
+enhanced texture
+improved texture
+upgraded texture
+advanced texture
+sophisticated texture
+complex texture
+complicated texture
+intricate texture
+detailed texture
+elaborate texture
+ornate texture
+decorative texture
+embellished texture
+adorned texture
+beautified texture
+enhanced beauty
+improved beauty
+perfected texture
+refined texture
+polished surface
+finished surface
+completed surface

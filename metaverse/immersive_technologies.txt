@@ -1,0 +1,40 @@
+spatial computing interfaces
+gesture recognition systems
+eye tracking calibration
+voice command processing
+brain computer interfaces
+haptic feedback devices
+force feedback controllers
+tactile sensation arrays
+temperature simulation
+wind generation systems
+scent diffusion technology
+taste simulation research
+vestibular motion platforms
+balance simulation systems
+proprioception tracking
+kinesthetic awareness
+spatial orientation
+depth perception calibration
+stereoscopic vision systems
+foveated rendering optimization
+varifocal display technology
+retinal projection systems
+holographic display arrays
+volumetric capture studios
+light field photography
+photogrammetry reconstruction
+neural radiance fields
+gaussian splatting rendering
+real time ray tracing
+global illumination
+ambient occlusion
+subsurface scattering
+physically based rendering
+material shader systems
+procedural texture generation
+ai assisted modeling
+automated rigging systems
+facial expression capture
+emotion recognition algorithms
+sentiment analysis processing

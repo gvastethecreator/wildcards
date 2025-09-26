@@ -28,6 +28,162 @@ Birch with white bark and ability to regrow from cut stumps
 Juniper with needle-like foliage and prickly habit
 Fir with needle-like foliage and soft wood
 Cottonwood with cotton-like pappus and invasive nature
+Sequoia with massive trunk and fire-resistant bark
+Douglas Fir with tall stature and distinctive cones
+Apple with fragrant blossoms and edible fruit
+Pear with white flowers and sweet fruit
+Plum with early spring blooms and stone fruit
+Peach with pink blossoms and fuzzy fruit
+Apricot with delicate flowers and orange fruit
+Fig with unusual flowers hidden inside fruit
+Olive with silvery leaves and ancient heritage
+Pomegranate with red flowers and jewel-like seeds
+Orange with fragrant white blossoms and citrus fruit
+Lemon with acidic fruit and evergreen foliage
+Lime with small tart fruit and thorny branches
+Grapefruit with large citrus fruit and bitter taste
+Mango with sweet tropical fruit and evergreen leaves
+Avocado with creamy fruit and dark green skin
+Date Palm with sweet fruit and desert adaptation
+Coconut Palm with large nuts and tropical appearance
+Banana with large leaves and curved fruit
+Bamboo with hollow stems and rapid growth
+Japanese Maple with delicate leaves and stunning fall color
+Norway Maple with broad canopy and dense shade
+Silver Maple with silvery leaf undersides and fast growth
+Sugar Maple with sweet sap and brilliant autumn color
+Red Maple with red flowers and early fall color
+Box Elder with compound leaves and winged seeds
+American Elm with graceful vase shape and historic significance
+English Elm with dense canopy and susceptibility to disease
+Siberian Elm with rapid growth and drought tolerance
+Chinese Elm with small leaves and exfoliating bark
+White Oak with light-colored bark and acorn production
+Red Oak with darker bark and pointed leaf lobes
+Live Oak with evergreen nature and sprawling form
+Bur Oak with large acorns and deep taproot
+Pin Oak with distinctive leaf shape and pyramid form
+Black Oak with dark bark and yellow fall color
+Post Oak with cross-shaped leaves and drought tolerance
+Chestnut Oak with chestnut-like leaves and ridge habitat
+White Pine with soft needles in clusters of five
+Scots Pine with orange bark and twisted needles
+Ponderosa Pine with vanilla-scented bark and large size
+Lodgepole Pine with straight trunk and fire adaptation
+Sugar Pine with enormous cones and mountain habitat
+Bristlecone Pine with extreme longevity and harsh conditions
+Loblolly Pine with fast growth and southern habitat
+Longleaf Pine with fire resistance and ecosystem importance
+Slash Pine with resin production and wetland tolerance
+Virginia Pine with short needles and poor soil adaptation
+Eastern White Pine with soft blue-green needles
+Western White Pine with large cones and mountain growth
+Limber Pine with flexible branches and high altitude
+Whitebark Pine with wildlife importance and decline
+Austrian Pine with dark green needles and wind tolerance
+Swiss Stone Pine with large seeds and alpine habitat
+Mugo Pine with shrub-like growth and mountain origin
+Eastern Red Cedar with fibrous bark and juniper berries
+Western Red Cedar with massive size and aromatic wood
+White Cedar with scale-like leaves and swamp habitat
+Port Orford Cedar with valuable wood and disease susceptibility
+Incense Cedar with spicy fragrance and fire resistance
+Deodar Cedar with weeping branches and Himalayan origin
+Atlas Cedar with blue-green needles and barrel-shaped cones
+Cedar of Lebanon with historical significance and flat-topped crown
+Bald Cypress with knees and swamp adaptation
+Montezuma Cypress with massive trunk and Mexican origin
+Pond Cypress with ascending branches and smaller stature
+European Larch with deciduous needles and mountain habitat
+Western Larch with golden fall color and fire adaptation
+Eastern Hemlock with small cones and shade tolerance
+Western Hemlock with drooping leader and forest dominance
+Mountain Hemlock with alpine habitat and twisted form
+Carolina Hemlock with rough cones and limited range
+Engelmann Spruce with high altitude and pointed crown
+Blue Spruce with blue-gray needles and ornamental use
+White Spruce with small cones and northern range
+Black Spruce with bog habitat and small stature
+Red Spruce with reddish bark and acid soil preference
+Sitka Spruce with coastal habitat and enormous size
+Norway Spruce with drooping branches and European origin
+Balsam Fir with fragrant needles and Christmas tree use
+Fraser Fir with upright cones and Appalachian habitat
+Noble Fir with large cones and high altitude
+Grand Fir with flat needles and Pacific Northwest
+Subalpine Fir with spire-like crown and mountain habitat
+White Fir with blue-green needles and drought tolerance
+Pacific Silver Fir with silvery leaf undersides
+California Red Fir with reddish bark and Sierra Nevada
+Shasta Red Fir with high elevation and limited range
+Bristlecone Fir with mountain habitat and Korea origin
+American Chestnut with historical importance and blight susceptibility
+Horse Chestnut with showy flowers and poisonous nuts
+European Beech with smooth bark and copper fall color
+American Beech with light gray bark and persistent leaves
+Southern Magnolia with large white flowers and evergreen leaves
+Tulip Tree with tulip-shaped flowers and straight trunk
+Sweetgum with star-shaped leaves and spiky fruit
+Black Gum with brilliant fall color and wildlife value
+American Basswood with heart-shaped leaves and fragrant flowers
+European Linden with small fragrant flowers
+American Sycamore with mottled bark and large leaves
+London Plane with exfoliating bark and urban tolerance
+Quaking Aspen with trembling leaves and white bark
+Bigtooth Aspen with larger leaves and mountain habitat
+Balsam Poplar with resinous buds and northern range
+Eastern Cottonwood with heart-shaped leaves and floodplain habitat
+Black Cottonwood with large leaves and Pacific coast
+Fremont Cottonwood with desert adaptation and triangular leaves
+Paper Birch with white exfoliating bark
+Yellow Birch with golden bark and winter interest
+River Birch with salmon-colored bark and wetland tolerance
+Gray Birch with chalky white bark and poor soil adaptation
+Sweet Birch with wintergreen-scented twigs
+Water Birch with mountain streams and shrub-like growth
+American Hornbeam with muscle-like bark and understory growth
+Eastern Hophornbeam with hop-like fruit and hard wood
+American Hazelnut with edible nuts and thicket formation
+Witch Hazel with yellow fall flowers and medicinal use
+Sweet Chestnut with edible nuts and coppice management
+Chinquapin with small chestnuts and southeastern habitat
+American Holly with spiny leaves and red berries
+Yaupon Holly with caffeine-containing leaves
+Possumhaw Holly with deciduous nature and red fruit
+Mountain Laurel with showy flowers and poisonous leaves
+Rhododendron with large flowers and acid soil preference
+Azalea with bright flowers and spring bloom
+Pawpaw with tropical-like fruit and understory growth
+Sassafras with mitten-shaped leaves and root beer flavor
+Spicebush with aromatic leaves and yellow fall color
+Redbud with heart-shaped leaves and pink spring flowers
+Cercis with early spring bloom and heart-shaped leaves
+Dogwood with showy bracts and red fall fruit
+Pacific Dogwood with large white bracts
+Kousa Dogwood with pointed bracts and strawberry-like fruit
+Cornelian Cherry with early yellow flowers and edible fruit
+Black Walnut with toxic allelopathy and valuable wood
+English Walnut with edible nuts and commercial importance
+Butternut with elongated nuts and declining populations
+Hickory with compound leaves and edible nuts
+Shagbark Hickory with exfoliating bark and sweet nuts
+Pignut Hickory with bitter nuts and strong wood
+Mockernut Hickory with large nuts and hard shell
+Shellbark Hickory with smooth bark when young
+Bitternut Hickory with yellow winter buds and bitter nuts
+Pecan with sweet nuts and southern habitat
+Black Ash with compound leaves and basket-making use
+White Ash with compound leaves and strong wood
+Green Ash with wetland tolerance and urban use
+Blue Ash with four-winged fruit and limestone soil
+Pumpkin Ash with swamp habitat and large leaves
+Mountain Ash with orange berries and northern range
+European Mountain Ash with orange-red berries
+American Chestnut with blight resistance breeding
+Japanese Chestnut with disease resistance
+Chinese Chestnut with smaller nuts and blight tolerance
+European Chestnut with large edible nuts
+Allegheny Chinkapin with small size and bur-like fruit
 Basswood with large size and tolerance to shade
 Blackthorn with thorns and dense, spiny branches
 Honeysuckle with fragrant flowers and invasive nature

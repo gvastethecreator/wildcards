@@ -1,0 +1,20 @@
+Catapult stone thrower
+Trebuchet counterweight engine
+Ballista giant crossbow
+Battering ram gate breaker
+Siege tower mobile fortress
+Mangonel torsion engine
+Onager wild ass catapult
+Bombard early cannon
+Mortar high-angle fire
+Cannon direct fire artillery
+Culverin long-range gun
+Falconet light artillery
+Saker medium cannon
+Demi-cannon heavy gun
+Petard wall breaker
+Greek fire incendiary
+Siege ladder scaling
+Grappling hook climbing
+Ramp earth approach
+Mining tunnel collapse

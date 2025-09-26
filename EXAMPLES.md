@@ -54,6 +54,69 @@ __game_design/interface_elements/ui_aesthetics__ interface design with __game_de
 A __game_design/mission_types/quest_objectives__ set in a __worldbuilding/civilizations/steampunk_societies__ location, featuring __worldbuilding/geography_features/impossible_landscapes__, with __game_mechanics/multiplayer_modes__ gameplay, __game_art/visual_effects/spell_abilities__ visual effects
 ```
 
+## 🎵 **Prompts de Audio y Sonido**
+
+### Diseño de Audio para Juegos
+```
+__audio_design/sound_effects/environmental__ ambient sounds mixed with __audio_design/sound_effects/mechanical__ effects, featuring __audio_design/musical_elements/instrumentation__ background music with __audio_design/musical_elements/rhythmic_patterns__ rhythm
+```
+
+### Escena Teatral Completa
+```
+__performance/theatrical_elements/stage_directions__ with __performance/theatrical_elements/costume_design__ costumes on __performance/theatrical_elements/set_design__ set, using __performance/theatrical_elements/lighting_design__ lighting, performed in __performance/performance_genres/classical_theater__ style
+```
+
+### Actuación Vocal
+```
+__audio_design/voice_acting/emotional_delivery__ performance with __audio_design/voice_acting/accent_styles__ accent, using __audio_design/voice_acting/speech_patterns__ delivery pattern, __performance/acting_techniques/method_acting__ technique
+```
+
+## 🧠 **Prompts Psicológicos y Culturales**
+
+### Estado Mental Complejo
+```
+Character experiencing __psychology/emotional_complexity/mixed_emotions__ while in __psychology/cognitive_states/perception_modes__ state, displaying __psychology/social_psychology/group_dynamics__ behavior, undergoing __psychology/emotional_complexity/emotional_transitions__
+```
+
+### Ritual Cultural
+```
+__cultural_anthropology/social_rituals/coming_of_age__ ceremony featuring __cultural_anthropology/belief_systems/animism__ beliefs, incorporating __cultural_anthropology/cultural_practices/music_traditions__ and __cultural_anthropology/cultural_practices/art_traditions__
+```
+
+### Tradición Comunitaria
+```
+Community practicing __cultural_anthropology/cultural_practices/food_traditions__ while sharing __cultural_anthropology/cultural_practices/storytelling_traditions__, centered around __cultural_anthropology/belief_systems/ancestor_worship__ with __cultural_anthropology/social_rituals/community_bonding__ activities
+```
+
+## 🔬 **Prompts Científicos y Tecnológicos**
+
+### Laboratorio Futurista
+```
+__science_tech_advanced/emerging_technologies/quantum_computing__ facility using __science_tech_advanced/research_methods/laboratory_equipment__ equipment, researching __science_tech_advanced/scientific_fields/theoretical_physics__ with __science_tech_advanced/research_methods/experimental_design__ methodology
+```
+
+### Concepto Científico
+```
+__science_tech_advanced/emerging_technologies/bioengineering__ project combining __science_tech_advanced/emerging_technologies/nanotechnology__ with __science_tech_advanced/scientific_fields/neuroscience__ research, using __science_tech_advanced/research_methods/data_analysis__ techniques
+```
+
+## ⚔️ **Prompts de Combate y Guerra**
+
+### Escena de Batalla
+```
+__combat_warfare/fighting_systems/martial_arts_styles__ warriors using __combat_warfare/fighting_systems/weapon_techniques__ in __combat_warfare/fighting_systems/tactical_formations__ formation, fighting __combat_warfare/war_scenarios/fantasy_conflicts__ with __combat_warfare/military_equipment/armor_types__ protection
+```
+
+### Campo de Batalla Histórico
+```
+__combat_warfare/war_scenarios/historical_battles__ featuring __combat_warfare/military_equipment/siege_weapons__ attacking __combat_warfare/military_equipment/defensive_structures__, using __combat_warfare/fighting_systems/battlefield_strategies__ with __combat_warfare/military_equipment/military_vehicles__
+```
+
+### Guerra Futurista
+```
+__combat_warfare/war_scenarios/futuristic_warfare__ scenario with __science_tech_advanced/emerging_technologies/space_technology__ weapons, featuring __combat_warfare/military_equipment/military_vehicles__ and __combat_warfare/fighting_systems/battlefield_strategies__ tactics
+```
+
 ## 🔄 Variaciones Dinámicas
 
 ### Método 1: Wildcards Anidadas

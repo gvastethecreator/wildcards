@@ -1,0 +1,135 @@
+Data Scientist
+Data Analyst
+Business Intelligence Analyst
+Market Research Analyst
+Quantitative Analyst
+Statistical Analyst
+Econometrician
+Operations Research Analyst
+Financial Analyst
+Investment Analyst
+Credit Analyst
+Risk Analyst
+Fraud Analyst
+Compliance Analyst
+Quality Analyst
+Performance Analyst
+Metrics Analyst
+KPI Analyst
+Reporting Analyst
+Dashboard Analyst
+Visualization Analyst
+Predictive Modeler
+Machine Learning Scientist
+Deep Learning Researcher
+Computer Vision Researcher
+Natural Language Processing Scientist
+Speech Recognition Researcher
+Recommendation Systems Scientist
+Reinforcement Learning Researcher
+Unsupervised Learning Specialist
+Supervised Learning Specialist
+Time Series Analyst
+Forecasting Analyst
+Demand Planner
+Supply Chain Analyst
+Inventory Analyst
+Pricing Analyst
+Revenue Analyst
+Customer Analytics Specialist
+Marketing Analytics Specialist
+Web Analytics Specialist
+Social Media Analyst
+SEO Analyst
+SEM Analyst
+Content Analyst
+Campaign Analyst
+Conversion Analyst
+Attribution Analyst
+Cohort Analyst
+Retention Analyst
+Churn Analyst
+Lifetime Value Analyst
+Product Analyst
+User Experience Researcher
+A/B Testing Specialist
+Experimentation Analyst
+Growth Analyst
+Funnel Analyst
+Engagement Analyst
+Behavioral Analyst
+Survey Researcher
+Focus Group Moderator
+Interview Researcher
+Ethnographic Researcher
+Field Researcher
+Online Researcher
+Social Researcher
+Psychology Researcher
+Cognitive Researcher
+Neuroscience Researcher
+Biostatistician
+Clinical Data Analyst
+Epidemiologist
+Public Health Analyst
+Environmental Data Analyst
+Climate Data Analyst
+Geospatial Analyst
+Remote Sensing Analyst
+GIS Analyst
+Cartographer
+Urban Planner
+Transportation Planner
+Traffic Analyst
+Logistics Analyst
+Energy Analyst
+Utilities Analyst
+Telecommunications Analyst
+Network Performance Analyst
+Security Analyst
+Threat Intelligence Analyst
+Log Analyst
+Forensic Data Analyst
+Financial Crime Analyst
+Anti-Money Laundering Analyst
+Regulatory Analyst
+Audit Data Analyst
+Tax Analyst
+Actuarial Analyst
+Insurance Analyst
+Healthcare Analyst
+Pharmaceutical Analyst
+Clinical Trial Statistician
+Bioinformatics Analyst
+Genomics Analyst
+Proteomics Analyst
+Agricultural Analyst
+Sports Analyst
+Gaming Analytics Specialist
+Entertainment Industry Analyst
+Media Analyst
+Education Data Analyst
+Learning Analytics Specialist
+Human Resources Analyst
+Workforce Analytics Specialist
+Talent Analytics Specialist
+Compensation Analyst
+Benefits Analyst
+Diversity Analytics Specialist
+Real Estate Analyst
+Property Analyst
+Appraisal Analyst
+Construction Analytics Specialist
+Manufacturing Analyst
+Quality Control Analyst
+Process Analyst
+Operational Efficiency Analyst
+Lean Six Sigma Analyst
+Continuous Improvement Analyst
+Change Management Analyst
+Project Analytics Specialist
+Portfolio Analyst
+Program Analyst
+Budget Analyst
+Cost Analyst
+Profitability Analyst

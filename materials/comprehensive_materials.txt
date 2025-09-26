@@ -373,3 +373,2130 @@ antimony flame retardant
 tellurium semiconductor
 iodine essential halogen
 xenon anesthetic gas
+aerogel ultra-light
+graphene single layer carbon
+carbon nanotubes cylindrical
+buckyballs soccer ball carbon
+diamond hardest natural
+graphite soft carbon
+charcoal porous carbon
+coal compressed carbon
+petroleum liquid carbon
+asphalt road surface
+bitumen waterproof tar
+rubber elastic polymer
+latex natural rubber
+silicone synthetic polymer
+plastic synthetic material
+polyethylene common plastic
+polypropylene versatile plastic
+polystyrene foam plastic
+polyvinyl chloride PVC
+polycarbonate clear plastic
+acrylic transparent plastic
+nylon strong synthetic
+polyester durable fabric
+spandex stretchy material
+lycra brand elastic
+elastane stretch fiber
+kevlar bullet resistant
+nomex flame resistant
+teflon non-stick coating
+gore-tex waterproof breathable
+tyvek house wrap
+mylar reflective film
+cellophane transparent wrap
+vinyl flexible plastic
+fiberglass reinforced plastic
+carbon fiber strong lightweight
+aramid heat resistant
+ceramic heat resistant
+porcelain fine ceramic
+earthenware porous ceramic
+stoneware dense ceramic
+terracotta fired clay
+bone china delicate ceramic
+faience tin-glazed ceramic
+majolica decorated ceramic
+raku Japanese ceramic
+celadon green ceramic
+blue and white porcelain
+cloisonné enameled metal
+champlevé recessed enamel
+plique-à-jour translucent enamel
+guilloché engine turned
+niello black metalwork
+damascening inlaid decoration
+mokume-gane mixed metal
+shakudo copper gold alloy
+shibuichi copper silver alloy
+kuromido blackened copper
+rokusho green patina
+urushi Japanese lacquer
+shellac insect resin
+varnish protective coating
+polyurethane durable finish
+epoxy strong adhesive
+resin hardened sap
+amber fossilized resin
+copal young amber
+jet fossilized wood
+lignite brown coal
+peat partially decayed
+humus soil organic matter
+loam fertile soil
+clay fine particles
+silt medium particles
+sand coarse particles
+gravel small stones
+pebbles smooth stones
+cobbles medium stones
+boulders large rocks
+bedrock solid rock
+shale layered sedimentary
+schist metamorphic rock
+gneiss banded rock
+amphibolite dark metamorphic
+serpentine green rock
+peridotite mantle rock
+basalt volcanic rock
+andesite intermediate volcanic
+rhyolite felsic volcanic
+obsidian volcanic glass
+pumice vesicular volcanic
+scoria volcanic cinder
+tuff volcanic ash
+breccia fragmented rock
+conglomerate rounded fragments
+sandstone cemented sand
+siltstone cemented silt
+mudstone fine sedimentary
+claystone clay rock
+ironstone iron-rich sedimentary
+chert silica rock
+flint sharp edge stone
+jasper colorful chert
+agate banded silica
+carnelian red chalcedony
+chalcedony microcrystalline quartz
+opal hydrated silica
+moonstone feldspar gem
+sunstone aventurine feldspar
+labradorite iridescent feldspar
+amazonite green feldspar
+orthoclase pink feldspar
+plagioclase calcium sodium feldspar
+quartz crystalline silica
+amethyst purple quartz
+citrine yellow quartz
+smoky quartz gray brown
+rose quartz pink variety
+rutilated quartz needle inclusions
+tourmalinated quartz black inclusions
+phantom quartz ghost crystals
+herkimer diamond clear quartz
+rock crystal clear quartz
+milky quartz white translucent
+aventurine green sparkly
+tiger's eye golden chatoyant
+hawk's eye blue gray chatoyant
+bull's eye red brown chatoyant
+cat's eye chatoyant chrysoberyl
+star sapphire asterism
+star ruby red asterism
+padparadscha pink orange sapphire
+Kashmir sapphire cornflower blue
+Ceylon sapphire various colors
+Burmese ruby pigeon blood
+Thai ruby dark red
+Mozambique ruby pinkish red
+Brazilian emerald yellowish green
+Colombian emerald vivid green
+Zambian emerald bluish green
+Afghani emerald deep green
+Russian emerald chrome rich
+trapiche emerald star pattern
+cat's eye emerald rare variety
+star emerald six ray
+Paraiba tourmaline neon blue
+rubellite pink tourmaline
+indicolite blue tourmaline
+verdelite green tourmaline
+watermelon tourmaline pink green
+chrome tourmaline bright green
+canary tourmaline yellow
+schorl black tourmaline
+dravite brown tourmaline
+uvite calcium magnesium tourmaline
+liddicoatite multicolored tourmaline
+elbaite lithium tourmaline
+tsavorite green garnet
+spessartine orange garnet
+almandine red garnet
+pyrope deep red garnet
+grossular calcium garnet
+andradite calcium iron garnet
+uvarovite green chrome garnet
+rhodolite purplish red garnet
+malaia garnet orange pink
+hessonite cinnamon garnet
+demantoid green andradite
+topazolite yellow andradite
+melanite black andradite
+hydrogrossular green white garnet
+imperial topaz pink orange
+blue topaz treated blue
+white topaz colorless
+champagne topaz brown
+mystic topaz rainbow coated
+London blue topaz dark blue
+Swiss blue topaz medium blue
+sky blue topaz light blue
+pink topaz rare natural
+precious topaz golden
+silver topaz colorless
+sherry topaz brownish
+smoky topaz grayish brown
+green topaz rare variety
+red topaz extremely rare
+violet topaz rare purple
+yellow topaz golden variety
+orange topaz sunset colored
+peach topaz soft orange
+apricot topaz warm orange
+salmon topaz pinkish orange
+coral topaz reddish orange
+bronze topaz metallic brown
+copper topaz reddish brown
+rust topaz oxidized brown
+amber topaz honey colored
+cognac topaz dark brown
+chocolate topaz rich brown
+coffee topaz dark roasted
+mahogany topaz reddish brown
+burgundy topaz wine colored
+crimson topaz deep red
+scarlet topaz bright red
+vermillion topaz orange red
+ruby topaz red variety
+garnet topaz purplish red
+rose topaz pink variety
+blush topaz pale pink
+pearl topaz lustrous white
+cream topaz yellowish white
+ivory topaz warm white
+bone topaz off white
+snow topaz pure white
+ice topaz crystal clear
+water topaz transparent
+glass topaz crystal clarity
+diamond topaz brilliant cut
+sapphire topaz blue variety
+emerald topaz green variety
+amethyst topaz purple variety
+citrine topaz yellow variety
+aquamarine beryl blue green
+morganite beryl peach pink
+heliodor beryl golden yellow
+goshenite beryl colorless
+bixbite beryl red variety
+emerald beryl green variety
+beryl hexagonal crystal
+chrysoberyl golden yellow
+alexandrite color change chrysoberyl
+cat's eye chrysoberyl chatoyant
+golden beryl yellow variety
+green beryl light emerald
+yellow beryl canary colored
+white beryl colorless variety
+pink beryl morganite variety
+red beryl bixbite variety
+blue beryl aquamarine variety
+purple beryl rare variety
+orange beryl sunset colored
+brown beryl earth toned
+black beryl extremely rare
+gray beryl neutral toned
+violet beryl amethyst colored
+indigo beryl deep blue
+turquoise beryl blue green
+lime beryl bright green
+forest beryl dark green
+mint beryl pale green
+sage beryl grayish green
+olive beryl yellowish green
+jade beryl green variety
+peridot olivine green
+forsterite magnesium olivine
+fayalite iron olivine
+chrysolite golden olivine
+demantoid green garnet
+tsavorite green grossular
+spinel magnesium aluminum oxide
+ruby spinel red variety
+blue spinel cobalt colored
+pink spinel rose variety
+lavender spinel purple variety
+black spinel dark variety
+white spinel colorless variety
+gray spinel neutral toned
+violet spinel purple variety
+orange spinel sunset colored
+yellow spinel canary colored
+green spinel rare variety
+brown spinel earth toned
+star spinel asterism variety
+flame spinel reddish orange
+hot pink spinel vivid pink
+magenta spinel purplish pink
+burgundy spinel wine colored
+crimson spinel deep red
+scarlet spinel bright red
+cherry spinel red variety
+raspberry spinel pinkish red
+strawberry spinel light red
+coral spinel orange pink
+salmon spinel pinkish orange
+peach spinel soft orange
+apricot spinel warm orange
+orange spinel sunset variety
+tangerine spinel bright orange
+bronze spinel metallic brown
+copper spinel reddish brown
+gold spinel yellow variety
+silver spinel metallic white
+platinum spinel grayish white
+palladium spinel rare metal
+rhodium spinel rare variety
+iridium spinel rare metal
+osmium spinel dense metal
+ruthenium spinel hard metal
+rhenium spinel rare element
+tungsten spinel heavy metal
+titanium spinel strong metal
+vanadium spinel steel additive
+chromium spinel green coloring
+manganese spinel pink coloring
+iron spinel red coloring
+cobalt spinel blue coloring
+nickel spinel green coloring
+copper spinel red coloring
+zinc spinel white metal
+cadmium spinel toxic metal
+mercury spinel liquid metal
+lead spinel heavy metal
+tin spinel soft metal
+bismuth spinel crystalline metal
+antimony spinel metalloid
+arsenic spinel poisonous element
+selenium spinel semiconductor
+tellurium spinel rare metalloid
+polonium spinel radioactive element
+radon spinel noble gas
+xenon spinel inert gas
+krypton spinel noble gas
+argon spinel inert gas
+neon spinel noble gas
+helium spinel light gas
+hydrogen spinel lightest element
+lithium spinel soft metal
+beryllium spinel light metal
+boron spinel metalloid
+carbon spinel diamond graphite
+nitrogen spinel gas element
+oxygen spinel life gas
+fluorine spinel reactive halogen
+sodium spinel soft metal
+magnesium spinel light metal
+aluminum spinel common metal
+silicon spinel semiconductor
+phosphorus spinel nonmetal
+sulfur spinel yellow element
+chlorine spinel green gas
+potassium spinel soft metal
+calcium spinel alkaline earth
+scandium spinel transition metal
+titanium spinel strong lightweight
+vanadium spinel steel hardener
+chromium spinel stainless steel
+manganese spinel steel alloy
+iron spinel magnetic metal
+cobalt spinel magnetic metal
+nickel spinel magnetic metal
+copper spinel conductive metal
+zinc spinel galvanizing metal
+gallium spinel liquid metal
+germanium spinel semiconductor
+arsenic spinel toxic metalloid
+selenium spinel essential trace
+bromine spinel liquid halogen
+krypton spinel noble gas
+rubidium spinel soft metal
+strontium spinel alkaline earth
+yttrium spinel rare earth
+zirconium spinel corrosion resistant
+niobium spinel superconductor
+molybdenum spinel refractory metal
+technetium spinel artificial element
+ruthenium spinel catalyst metal
+rhodium spinel precious metal
+palladium spinel catalyst metal
+silver spinel precious metal
+cadmium spinel toxic metal
+indium spinel soft metal
+tin spinel plating metal
+antimony spinel flame retardant
+tellurium spinel semiconductor
+iodine spinel essential halogen
+xenon spinel anesthetic gas
+cesium spinel soft metal
+barium spinel alkaline earth
+lanthanum spinel rare earth
+cerium spinel most abundant lanthanide
+praseodymium spinel green lanthanide
+neodymium spinel magnet material
+promethium spinel radioactive lanthanide
+samarium spinel magnet material
+europium spinel red phosphor
+gadolinium spinel contrast agent
+terbium spinel green phosphor
+dysprosium spinel magnet additive
+holmium spinel magnetic properties
+erbium spinel optical amplifier
+thulium spinel x-ray source
+ytterbium spinel laser material
+lutetium spinel expensive lanthanide
+hafnium spinel nuclear control
+tantalum spinel capacitor material
+tungsten spinel highest melting
+rhenium spinel rare metal
+osmium spinel densest element
+iridium spinel corrosion resistant
+platinum spinel precious metal
+gold spinel precious metal
+mercury spinel liquid metal
+thallium spinel toxic metal
+lead spinel heavy metal
+bismuth spinel crystalline structure
+polonium spinel radioactive element
+astatine spinel rarest halogen
+radon spinel radioactive gas
+francium spinel radioactive metal
+radium spinel radioactive element
+actinium spinel radioactive element
+thorium spinel nuclear fuel
+protactinium spinel rare actinide
+uranium spinel nuclear fuel
+neptunium spinel artificial element
+plutonium spinel nuclear material
+americium spinel smoke detector
+curium spinel artificial element
+berkelium spinel artificial element
+californium spinel artificial element
+einsteinium spinel artificial element
+fermium spinel artificial element
+mendelevium spinel artificial element
+nobelium spinel artificial element
+lawrencium spinel artificial element
+rutherfordium spinel artificial element
+dubnium spinel artificial element
+seaborgium spinel artificial element
+bohrium spinel artificial element
+hassium spinel artificial element
+meitnerium spinel artificial element
+darmstadtium spinel artificial element
+roentgenium spinel artificial element
+copernicium spinel artificial element
+nihonium spinel artificial element
+flerovium spinel artificial element
+moscovium spinel artificial element
+livermorium spinel artificial element
+tennessine spinel artificial element
+oganesson spinel artificial element
+super heavy elements
+transuranium elements
+transactinide elements
+island of stability
+magic numbers
+nuclear shell model
+radioactive decay
+alpha decay
+beta decay
+gamma radiation
+neutron emission
+proton emission
+spontaneous fission
+nuclear isomers
+metastable states
+nuclear transmutation
+artificial radioactivity
+nuclear synthesis
+particle accelerator
+cyclotron production
+linear accelerator
+synchrotron radiation
+plasma physics
+fusion energy
+cold fusion
+hot fusion
+magnetic confinement
+inertial confinement
+tokamak reactor
+stellarator design
+laser fusion
+ion beam fusion
+muon catalyzed fusion
+sonofusion controversy
+electrochemical fusion
+plasma crystal
+quark matter
+strange matter
+neutron matter
+electron degenerate matter
+white dwarf matter
+neutron star matter
+black hole matter
+dark matter
+dark energy
+quantum vacuum
+zero point energy
+casimir effect
+vacuum fluctuations
+virtual particles
+quantum field theory
+standard model
+beyond standard model
+supersymmetry
+string theory
+loop quantum gravity
+quantum mechanics
+wave particle duality
+uncertainty principle
+quantum entanglement
+quantum superposition
+many worlds interpretation
+copenhagen interpretation
+hidden variable theory
+pilot wave theory
+objective collapse theory
+consciousness causes collapse
+quantum decoherence
+environmental decoherence
+measurement problem
+schrödinger's cat
+quantum tunneling
+quantum interference
+double slit experiment
+quantum eraser
+delayed choice quantum eraser
+wheeler's delayed choice
+quantum zeno effect
+watched pot never boils
+quantum computation
+quantum cryptography
+quantum teleportation
+quantum information
+quantum communication
+quantum sensors
+quantum metrology
+quantum radar
+quantum lidar
+quantum compass
+quantum clock
+atomic clock
+optical clock
+nuclear clock
+gravitational redshift
+time dilation
+length contraction
+mass energy equivalence
+special relativity
+general relativity
+curved spacetime
+gravitational waves
+black holes
+event horizon
+singularity
+hawking radiation
+information paradox
+holographic principle
+ads cft correspondence
+wormholes
+time travel
+grandfather paradox
+bootstrap paradox
+causal loops
+closed timelike curves
+novikov consistency
+chronology protection
+cosmic censorship
+no hair theorem
+area theorem
+thermodynamic laws
+entropy increase
+maxwell's demon
+landauer's principle
+information erasure
+computational irreversibility
+reversible computing
+quantum computing
+quantum algorithms
+shor's algorithm
+grover's algorithm
+quantum fourier transform
+quantum error correction
+quantum supremacy
+quantum advantage
+nisq devices
+fault tolerant quantum
+topological qubits
+anyons
+braiding
+majorana fermions
+quantum dots
+superconducting qubits
+trapped ion qubits
+photonic qubits
+neutral atom qubits
+silicon qubits
+diamond nv centers
+quantum annealing
+adiabatic quantum
+variational quantum
+quantum machine learning
+quantum neural networks
+quantum artificial intelligence
+quantum consciousness
+orchestrated objective reduction
+microtubules
+quantum biology
+photosynthesis efficiency
+bird navigation
+enzyme catalysis
+dna mutations
+protein folding
+quantum effects life
+warm quantum coherence
+environmental protection
+decoherence free subspaces
+quantum error avoidance
+dynamical decoupling
+bang bang control
+composite pulses
+adiabatic control
+optimal control theory
+grape algorithm
+chopped random basis
+randomized benchmarking
+process tomography
+gate set tomography
+direct fidelity estimation
+shadow estimation
+classical shadows
+randomized measurements
+measurement induced phase
+transition monitoring
+quantum state preparation
+ground state cooling
+sideband cooling
+doppler cooling
+sub doppler cooling
+sisyphus cooling
+evaporative cooling
+sympathetic cooling
+buffer gas cooling
+optical molasses
+magneto optical trap
+magnetic trap
+optical trap
+optical lattice
+tweezer arrays
+magic wavelength
+stark shift
+ac stark shift
+light shifts
+optical pumping
+population transfer
+stimulated raman
+adiabatic rapid passage
+landau zener
+rosen zener
+demkov crossing
+avoided crossing
+conical intersection
+berry phase
+geometric phase
+aharonov bohm effect
+magnetic monopoles
+gauge theories
+yang mills theory
+quantum chromodynamics
+electroweak theory
+grand unified theories
+theory of everything
+m theory
+superstring theory
+heterotic string
+type i string
+type iia string
+type iib string
+d branes
+p branes
+calabi yau manifolds
+extra dimensions
+kaluza klein theory
+randall sundrum models
+large extra dimensions
+compactification
+moduli stabilization
+landscape multiverse
+anthropic principle
+fine tuning problem
+hierarchy problem
+cosmological constant
+vacuum energy
+dark energy
+dark matter
+wimps
+axions
+sterile neutrinos
+primordial black holes
+cosmic inflation
+eternal inflation
+chaotic inflation
+slow roll inflation
+graceful exit
+reheating
+baryogenesis
+leptogenesis
+cp violation
+matter antimatter
+asymmetry
+nucleosynthesis
+cosmic microwave background
+acoustic oscillations
+baryon drag
+silk damping
+thomson scattering
+compton scattering
+rayleigh scattering
+mie scattering
+geometric optics
+wave optics
+fourier optics
+gaussian optics
+matrix optics
+hamiltonian optics
+fermat principle
+huygens principle
+snell's law
+fresnel equations
+brewster angle
+total internal reflection
+critical angle
+numerical aperture
+acceptance angle
+etendue conservation
+brightness theorem
+abbe sine condition
+aplanatic surfaces
+coma aberration
+spherical aberration
+chromatic aberration
+astigmatism
+field curvature
+distortion
+vignetting
+flare
+ghosting
+diffraction limited
+airy disk
+strehl ratio
+modulation transfer
+point spread function
+optical transfer function
+phase transfer function
+contrast sensitivity
+visual acuity
+color vision
+photopic vision
+scotopic vision
+mesopic vision
+adaptation
+pupil response
+accommodation
+vergence
+binocular vision
+stereopsis
+depth perception
+motion parallax
+texture gradients
+occlusion cues
+atmospheric perspective
+linear perspective
+size constancy
+color constancy
+brightness constancy
+shape constancy
+perceptual constancy
+gestalt principles
+figure ground
+proximity
+similarity
+continuity
+closure
+common fate
+symmetry
+prägnanz
+emergence
+reification
+multistability
+invariance
+visual attention
+selective attention
+divided attention
+sustained attention
+alerting
+orienting
+executive control
+attention networks
+default mode network
+salience network
+central executive
+task positive network
+resting state networks
+brain connectivity
+structural connectivity
+functional connectivity
+effective connectivity
+dynamic connectivity
+graph theory
+small world networks
+scale free networks
+hub nodes
+rich club
+modularity
+community structure
+hierarchical organization
+criticality
+self organized criticality
+power laws
+long range correlations
+fractal geometry
+multifractals
+chaos theory
+strange attractors
+lyapunov exponents
+sensitive dependence
+butterfly effect
+lorenz attractor
+henon map
+logistic map
+period doubling
+bifurcations
+catastrophe theory
+cusp catastrophe
+fold catastrophe
+swallowtail catastrophe
+butterfly catastrophe
+elliptic umbilics
+hyperbolic umbilics
+parabolic umbilics
+singularity theory
+morse theory
+thom catastrophes
+arnold catastrophes
+topological stability
+structural stability
+versal deformations
+universal unfoldings
+jet bundles
+contact geometry
+symplectic geometry
+hamiltonian mechanics
+lagrangian mechanics
+action principles
+least action
+hamilton jacobi
+canonical transformations
+poisson brackets
+liouville theorem
+ergodic theory
+mixing systems
+bernoulli systems
+kolmogorov entropy
+algorithmic complexity
+computational complexity
+p vs np
+np complete
+np hard
+polynomial hierarchy
+pspace complete
+exponential hierarchy
+arithmetic hierarchy
+analytical hierarchy
+descriptive set theory
+forcing method
+independence results
+continuum hypothesis
+axiom of choice
+zorn's lemma
+well ordering principle
+transfinite induction
+cardinal numbers
+ordinal numbers
+aleph numbers
+beth numbers
+large cardinals
+inaccessible cardinals
+mahlo cardinals
+measurable cardinals
+supercompact cardinals
+huge cardinals
+rank into rank
+wholeness axioms
+ultimate l
+inner model theory
+determinacy axioms
+martin's axiom
+diamond principle
+club forcing
+proper forcing
+semi proper forcing
+iterated forcing
+product forcing
+random forcing
+cohen forcing
+sacks forcing
+miller forcing
+laver forcing
+mathias forcing
+silver forcing
+prikry forcing
+magidor forcing
+radin forcing
+gitik forcing
+woodin forcing
+kunen forcing
+hamkins forcing
+set theoretic geology
+modal logic
+possible worlds
+necessity
+possibility
+contingency
+counterfactuals
+lewis semantics
+kripke semantics
+neighborhood semantics
+algebraic semantics
+topological semantics
+coalgebraic semantics
+categorical semantics
+topos theory
+intuitionistic logic
+constructive mathematics
+type theory
+homotopy type theory
+univalence axiom
+higher inductive types
+cubical type theory
+observational type theory
+extensional type theory
+intensional type theory
+dependent types
+polymorphic types
+system f
+system f omega
+calculus of constructions
+pure type systems
+lambda calculus
+combinatory logic
+categorical logic
+linear logic
+relevance logic
+substructural logic
+non classical logic
+many valued logic
+fuzzy logic
+paraconsistent logic
+dialetheism
+explosion principle
+principle of non
+contradiction
+law of excluded middle
+double negation
+elimination
+de morgan laws
+distributivity
+associativity
+commutativity
+idempotence
+absorption
+complementation
+duality
+stone duality
+boolean algebras
+heyting algebras
+mereology
+gunky objects
+atomless mereology
+classical mereology
+extensional mereology
+composition
+parthood
+overlap
+disjointness
+proper parts
+atoms
+universalism
+nihilism
+organicism
+temporal parts
+four dimensionalism
+three dimensionalism
+perdurance
+endurance
+temporal stages
+temporal slices
+persistence
+identity over time
+ship of theseus
+branching identity
+fission cases
+closest continuer
+psychological continuity
+physical continuity
+soul theory
+bundle theory
+no self theory
+stream of consciousness
+narrative identity
+moral responsibility
+free will
+determinism
+compatibilism
+incompatibilism
+hard determinism
+libertarianism
+agent causation
+event causation
+reasons explanation
+causal explanation
+teleological explanation
+functional explanation
+mechanistic explanation
+reductive explanation
+emergent properties
+downward causation
+mental causation
+anomalous monism
+token identity
+type identity
+functionalism
+multiple realizability
+machine functionalism
+homuncular functionalism
+role functionalism
+causal role
+ramsey sentences
+lewis method
+jackson knowledge
+argument
+mary's room
+what it's like
+qualia
+consciousness
+hard problem
+explanatory gap
+zombie argument
+inverted spectrum
+absent qualia
+china brain
+biological naturalism
+integrated information
+global workspace
+higher order thought
+attention schema
+predictive processing
+bayesian brain
+free energy principle
+embodied cognition
+extended mind
+situated cognition
+enactive cognition
+ecological psychology
+direct perception
+indirect perception
+sense data
+naive realism
+representative realism
+phenomenalism
+idealism
+berkeley idealism
+kantian idealism
+absolute idealism
+materialism
+physicalism
+eliminativism
+reductionism
+emergence
+supervenience
+multiple realizability
+special sciences
+unity of science
+methodological individualism
+holism
+systems theory
+complexity science
+network science
+information theory
+cybernetics
+second order cybernetics
+autopoiesis
+self organization
+dissipative structures
+synergetics
+chaos dynamics
+nonlinear dynamics
+complex adaptive systems
+agent based modeling
+cellular automata
+game theory
+evolutionary game theory
+social choice theory
+mechanism design
+auction theory
+contract theory
+signaling theory
+screening theory
+moral hazard
+adverse selection
+principal agent
+incomplete contracts
+transaction costs
+property rights
+coase theorem
+externalities
+public goods
+commons tragedy
+collective action
+social dilemmas
+cooperation
+reciprocity
+altruism
+group selection
+kin selection
+inclusive fitness
+hamilton's rule
+prisoner's dilemma
+public goods game
+ultimatum game
+dictator game
+trust game
+coordination game
+battle of sexes
+hawk dove game
+stag hunt
+chicken game
+matching pennies
+zero sum games
+non zero sum
+nash equilibrium
+subgame perfection
+perfect bayesian
+sequential equilibrium
+correlated equilibrium
+evolutionary stable
+replicator dynamics
+quasispecies
+hypercycles
+autocatalysis
+chemical evolution
+origin of life
+rna world
+metabolism first
+genes first
+lipid world
+iron sulfur world
+clay hypothesis
+panspermia
+directed panspermia
+abiogenesis
+spontaneous generation
+miller urey
+oparin haldane
+prebiotic chemistry
+organic compounds
+amino acids
+nucleotides
+fatty acids
+sugars
+phospholipids
+protocells
+vesicles
+coacervates
+hydrogels
+micelles
+liposomes
+polymersomes
+giant vesicles
+compartmentalization
+membrane formation
+permeability
+selective transport
+active transport
+passive transport
+osmosis
+diffusion
+facilitated diffusion
+endocytosis
+exocytosis
+phagocytosis
+pinocytosis
+receptor mediated
+clathrin coated
+caveolin mediated
+macropinocytosis
+membrane fusion
+snare proteins
+calcium triggered
+synaptic transmission
+neurotransmitters
+action potentials
+resting potential
+depolarization
+hyperpolarization
+refractory period
+voltage gated
+ligand gated
+mechanosensitive
+thermosensitive
+ph sensitive
+stretch activated
+pressure sensitive
+osmosensitive
+chemosensitive
+photosensitive
+electroreceptive
+magnetoreceptive
+gravitropic
+thigmotropic
+hydrotropic
+chemotropic
+phototropic
+geotropic
+aerotropic
+galvanotropic
+thermotropic
+rheotropic
+barophilic
+halophilic
+acidophilic
+alkaliphilic
+psychrophilic
+thermophilic
+hyperthermophilic
+mesophilic
+osmophilic
+xerophilic
+radioresistant
+extremophiles
+archaea
+bacteria
+eukarya
+three domains
+tree of life
+horizontal transfer
+endosymbiosis
+mitochondrial origin
+chloroplast origin
+serial endosymbiosis
+lynn margulis
+woese classification
+molecular phylogeny
+ribosomal rna
+protein sequences
+dna barcoding
+molecular clock
+neutral theory
+kimura model
+jukes cantor
+hasegawa kishino
+general time reversible
+codon models
+amino acid models
+site heterogeneity
+rate variation
+gamma distribution
+invariant sites
+maximum likelihood
+bayesian inference
+mcmc methods
+metropolis hastings
+gibbs sampling
+markov chains
+monte carlo
+importance sampling
+rejection sampling
+bootstrap
+jackknife
+cross validation
+model selection
+information criteria
+aic bic dic
+likelihood ratio
+bayes factors
+posterior probabilities
+credible intervals
+confidence intervals
+hypothesis testing
+null hypothesis
+alternative hypothesis
+type i error
+type ii error
+statistical power
+effect size
+cohen's d
+correlation
+regression
+linear models
+generalized linear
+mixed effects
+hierarchical models
+multilevel modeling
+structural equation
+path analysis
+factor analysis
+principal components
+cluster analysis
+discriminant analysis
+logistic regression
+survival analysis
+time series analysis
+spectral analysis
+fourier transform
+wavelet analysis
+hilbert transform
+empirical mode
+singular spectrum
+independent component
+blind source separation
+sparse coding
+dictionary learning
+compressed sensing
+matrix factorization
+tensor decomposition
+dimensionality reduction
+manifold learning
+nonlinear embedding
+t sne
+umap
+isomap
+locally linear
+laplacian eigenmaps
+diffusion maps
+autoencoder
+variational autoencoder
+generative adversarial
+normalizing flows
+energy based models
+boltzmann machines
+restricted boltzmann
+deep belief networks
+convolutional networks
+recurrent networks
+long short term
+gated recurrent
+transformer models
+attention mechanism
+self attention
+multi head attention
+positional encoding
+layer normalization
+batch normalization
+dropout regularization
+weight decay
+early stopping
+learning rate decay
+gradient clipping
+batch gradient
+stochastic gradient
+mini batch gradient
+momentum
+nesterov momentum
+adagrad
+rmsprop
+adam optimizer
+adamw
+learning rate schedules
+cosine annealing
+warm restarts
+cyclical rates
+one cycle policy
+super convergence
+lottery ticket
+network pruning
+knowledge distillation
+transfer learning
+few shot learning
+zero shot learning
+meta learning
+learning to learn
+model agnostic
+gradient based meta
+optimization based
+memory augmented
+neural turing machines
+differentiable programming
+automatic differentiation
+backpropagation
+forward mode
+reverse mode
+dual numbers
+hyperdual numbers
+complex step
+finite differences
+symbolic differentiation
+computer algebra
+symbolic computation
+theorem proving
+automated reasoning
+satisfiability solving
+constraint satisfaction
+logic programming
+answer set programming
+inductive logic
+statistical learning
+probably approximately
+pac learning
+rademacher complexity
+vc dimension
+covering numbers
+stability
+generalization bounds
+uniform convergence
+empirical processes
+concentration inequalities
+hoeffding inequality
+azuma inequality
+mcdiarmid inequality
+talagrand inequality
+bernstein inequality
+bennett inequality
+chernoff bounds
+union bounds
+bonferroni correction
+false discovery rate
+benjamini hochberg
+benjamini yekutieli
+bonferroni holm
+sidak correction
+multiple comparisons
+family wise error
+per comparison error
+sequential testing
+group sequential
+adaptive designs
+interim analyses
+stopping rules
+futility boundaries
+efficacy boundaries
+alpha spending
+beta spending
+lan demets
+o'brien fleming
+pocock boundaries
+haybittle peto
+monitoring committees
+data safety
+independent review
+central review
+adjudication
+source verification
+quality assurance
+good clinical practice
+regulatory compliance
+fda approval
+ema approval
+health authority
+clinical trials
+randomized controlled
+double blind
+single blind
+open label
+crossover design
+parallel group
+factorial design
+cluster randomized
+stepped wedge
+pragmatic trials
+explanatory trials
+superiority trials
+non inferiority
+equivalence trials
+adaptive trials
+seamless phase
+master protocols
+umbrella trials
+basket trials
+platform trials
+n of 1 trials
+single case design
+interrupted time series
+before after studies
+ecological studies
+cross sectional
+case control
+cohort studies
+prospective cohort
+retrospective cohort
+nested case control
+case cohort
+case crossover
+self controlled
+systematic reviews
+meta analyses
+network meta analysis
+individual patient data
+evidence synthesis
+health technology
+pharmacoeconomics
+cost effectiveness
+quality adjusted
+disability adjusted
+markov models
+decision trees
+monte carlo simulation
+probabilistic sensitivity
+value of information
+budget impact
+real world evidence
+observational studies
+administrative data
+electronic health
+claims databases
+registries
+biobanks
+cohort consortiums
+genome wide association
+polygenic scores
+mendelian randomization
+instrumental variables
+causal inference
+directed acyclic graphs
+confounding
+selection bias
+information bias
+measurement error
+misclassification
+recall bias
+interviewer bias
+healthy worker effect
+healthy user bias
+immortal time bias
+index event bias
+collider stratification
+berkson's paradox
+simpson's paradox
+ecological fallacy
+atomistic fallacy
+modifiable unit problem
+statistical interaction
+biological interaction
+synergism
+antagonism
+additive scale
+multiplicative scale
+relative risk
+odds ratio
+hazard ratio
+incidence rate
+prevalence
+sensitivity
+specificity
+positive predictive
+negative predictive
+likelihood ratios
+receiver operating
+area under curve
+concordance index
+discrimination
+calibration
+hosmer lemeshow
+brier score
+net benefit
+decision curve
+clinical utility
+number needed treat
+number needed harm
+absolute risk
+relative risk reduction
+absolute risk reduction
+attributable risk
+population attributable
+prevented fraction
+protective efficacy
+vaccine effectiveness
+herd immunity
+basic reproduction
+effective reproduction
+serial interval
+generation time
+incubation period
+infectious period
+latent period
+epidemic curve
+growth rate
+doubling time
+peak timing
+attack rate
+secondary attack
+household transmission
+community transmission
+superspreading events
+overdispersion
+contact tracing
+quarantine
+isolation
+social distancing
+non pharmaceutical
+lockdown measures
+travel restrictions
+border controls
+testing strategies
+screening programs
+surveillance systems
+outbreak investigation
+epidemic intelligence
+disease surveillance
+syndromic surveillance
+laboratory surveillance
+sentinel surveillance
+active surveillance
+passive surveillance
+notifiable diseases
+case definitions
+laboratory confirmation
+clinical diagnosis
+probable case
+suspected case
+contact definition
+exposure categories
+risk stratification
+vulnerability assessment
+threat assessment
+risk communication
+crisis communication
+health communication
+behavior change
+social marketing
+community engagement
+stakeholder involvement
+public participation
+citizen science
+crowdsourcing
+collective intelligence
+swarm intelligence
+wisdom of crowds
+prediction markets
+forecasting
+expert elicitation
+scenario planning
+horizon scanning
+technology foresight
+innovation systems
+diffusion of innovation
+technology adoption
+early adopters
+opinion leaders
+network effects
+path dependence
+lock in effects
+switching costs
+compatibility
+standards wars
+platform competition
+two sided markets
+network externalities
+economies of scale
+economies of scope
+learning curves
+experience effects
+first mover advantage
+barriers to entry
+sunk costs
+contestable markets
+perfect competition
+monopolistic competition
+oligopoly
+monopoly
+market power
+price discrimination
+bundling
+tying
+predatory pricing
+limit pricing
+entry deterrence
+strategic behavior
+game theoretic
+industrial organization
+antitrust policy
+competition policy
+merger control
+abuse of dominance
+cartels
+vertical restraints
+essential facilities
+intellectual property
+patent system
+copyright
+trademarks
+trade secrets
+licensing
+technology transfer
+open innovation
+innovation networks
+clusters
+ecosystems
+triple helix
+quadruple helix
+national innovation
+regional innovation
+sectoral innovation
+technological paradigms
+general purpose
+disruptive innovation
+sustaining innovation
+architectural innovation
+modular innovation
+radical innovation
+incremental innovation
+breakthrough innovation
+competence destroying
+competence enhancing
+s curve
+technology lifecycle
+emergence
+growth
+maturity
+decline
+creative destruction
+long waves
+kondratieff cycles
+schumpeterian waves
+techno economic
+paradigm shifts
+sociotechnical
+transitions
+multi level perspective
+landscape pressures
+regime dynamics
+niche experiments
+strategic niche
+transition management
+sustainability
+transitions
+circular economy
+cradle to cradle
+life cycle assessment
+industrial ecology
+material flow analysis
+urban metabolism
+social metabolism
+ecological footprint
+carbon footprint
+water footprint
+land footprint
+biodiversity footprint
+planetary boundaries
+tipping points
+earth system
+anthropocene
+great acceleration
+safe operating space
+doughnut economics
+wellbeing economics
+happiness economics
+behavioral economics
+nudging
+choice architecture
+libertarian paternalism
+bounded rationality
+cognitive biases
+heuristics
+prospect theory
+loss aversion
+endowment effect
+status quo bias
+anchoring
+availability heuristic
+representativeness
+confirmation bias
+overconfidence
+planning fallacy
+hot cold empathy gaps
+present bias
+hyperbolic discounting
+time inconsistency
+self control problems
+commitment devices
+mental accounting
+framing effects
+reference dependence
+social preferences
+fairness
+reciprocity
+trust
+cooperation
+public goods
+social dilemmas
+tragedy of commons
+collective action
+free riding
+social norms
+social capital
+networks
+social cohesion
+community resilience
+adaptive capacity
+vulnerability
+exposure
+sensitivity
+coping capacity
+transformation
+adaptation
+mitigation
+resilience thinking
+panarchy
+adaptive cycle
+collapse
+release
+reorganization
+conservation
+innovation
+exploitation
+r k selection
+succession
+climax community
+disturbance regimes
+intermediate disturbance
+diversity stability
+insurance hypothesis
+portfolio effects
+complementarity
+facilitation
+competition
+predation
+parasitism
+mutualism
+commensalism
+neutralism
+amensalism
+allelopathy
+chemical ecology
+volatile organic
+pheromones
+chemical signals
+quorum sensing
+biofilms
+microbial mats
+stromatolites
+extremophile
+communities
+hydrothermal vents
+cold seeps
+salt lakes
+soda lakes
+acid lakes
+alkaline lakes
+hypersaline
+environments
+desert crusts
+endolithic
+communities
+cave ecosystems
+deep subsurface
+marine sediments
+permafrost
+ice ecosystems
+polar deserts
+high altitude
+alpine zones
+cloud forests
+epiphytic
+communities
+canopy ecology
+forest succession
+old growth
+secondary growth
+fragmented forests
+edge effects
+habitat
+fragmentation
+landscape ecology
+corridor design
+metapopulations
+source sink
+dynamics
+island biogeography
+species area
+relationship
+distance decay
+nestedness
+turnover
+beta diversity
+gamma diversity
+phylogenetic diversity
+functional diversity
+trait diversity
+morphological
+diversity
+genetic diversity
+nucleotide diversity
+allelic diversity
+heterozygosity
+inbreeding
+coefficient
+population structure
+genetic drift
+gene flow
+migration
+founder effects
+bottlenecks
+effective population
+census population
+demographic
+stochasticity
+environmental
+stochasticity
+extinction vortex
+minimum viable
+population
+population viability
+quasi extinction
+extinction debt
+living dead
+conservation
+genetics
+captive breeding
+genetic rescue
+assisted migration
+species reintroduction
+habitat restoration
+ecosystem restoration
+rewilding
+trophic rewilding
+pleistocene rewilding
+novel ecosystems
+hybrid ecosystems
+anthropogenic
+environments
+urban ecology
+green infrastructure
+ecosystem services
+provisioning services
+regulating services
+cultural services
+supporting services
+natural capital
+ecosystem valuation
+payment for
+ecosystem services
+biodiversity offsets
+conservation banking
+wetland mitigation
+habitat banking
+conservation
+easements
+protected areas
+national parks
+nature reserves
+wilderness areas
+world heritage
+biosphere reserves
+ramsar sites
+natura 2000
+key biodiversity
+important bird
+endemic bird
+hotspots
+ecoregions
+biogeographic
+realms
+wallace lines
+continental drift
+plate tectonics
+pangaea breakup
+gondwana
+laurasia
+tethys sea
+vicariance
+biogeography
+dispersal
+biogeography
+molecular
+phylogeography
+coalescent theory
+gene trees
+species trees
+incomplete lineage
+sorting
+hybridization
+introgression
+adaptive
+introgression
+hybrid zones
+tension zones
+bounded hybrid
+superiority
+genomic islands
+speciation
+allopatric
+sympatric
+parapatric
+peripatric
+ecological
+speciation
+sexual selection
+speciation
+polyploid
+speciation
+chromosomal
+rearrangements
+reproductive
+isolation
+prezygotic
+barriers
+postzygotic
+barriers
+mechanical
+isolation
+behavioral
+isolation
+temporal
+isolation
+ecological
+isolation
+gametic
+isolation
+hybrid
+inviability
+hybrid sterility
+hybrid breakdown
+reinforcement
+character
+displacement
+good genes
+runaway selection
+sensory bias
+sexual conflict
+sperm competition
+cryptic female
+choice
+mating systems
+monogamy
+polygamy
+polygyny
+polyandry
+promiscuity
+cooperative
+breeding
+helpers
+eusociality
+kin selection
+inclusive fitness
+hamilton rule
+greenbeard
+effects
+group selection
+levels of
+selection
+selfish gene
+gene eye view
+extended
+phenotype
+niche
+construction
+ecosystem
+engineering
+keystone
+species
+foundation
+species
+umbrella
+species
+flagship
+species
+indicator
+species
+sentinel
+species
+apex predators
+mesopredators
+trophic cascades
+top down
+control
+bottom up
+control
+wasp waist
+ecosystems
+fishing down
+trophic levels
+shifting
+baselines
+empty ocean
+hypothesis
+anthropocene
+defaunation
+sixth mass
+extinction
+background
+extinction
+extinction
+rates
+species
+turnover
+speciation
+rates
+diversification
+rates
+adaptive
+radiation
+evolutionary
+radiation
+ecological
+release
+competitive
+release
+character
+release
+niche expansion
+niche
+conservatism
+phylogenetic
+niche
+conservatism
+climatic niche
+fundamental
+niche
+realized niche
+hutchinsonian
+niche
+grinnellian
+niche
+niche overlap
+niche breadth
+specialist
+generalist
+jack of trades
+master of none
+trade offs
+allocation
+constraints
+life history
+strategies
+fast slow
+continuum
+pace of life
+syndrome

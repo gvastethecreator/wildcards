@@ -1,23 +1,268 @@
-Tulip with delicate cup-shaped petals and vibrant colors like red, orange, yellow, pink, purple, blue, white
-Lily with six petals that symbolize purity and innocence
-Rose in various shades from pure white to deep crimson
-Sunflower with bright yellow petals and dark centers
-Daisy with a daisy-like shape and often white petals with a yellow center
-Orchid with exotic look featuring three petals and a lip-like structure
-Violet with heart-shaped petals and sweet fragrance
-Poppy with delicate, papery petals in red, pink, or orange hues
-Magnolia with showy, star-shaped flowers in shades of pink to purple
-Freesia with highly fragrant blooms resembling small trumpets
-Hibiscus with large, showy flowers and five-lobed shape
-Zinnia with daisy-like appearance but no scent
-Lavender with a delicate purple color and calming scent
-Gerbera with bright colors like red, orange, yellow, pink, and white
-Begonia with waxy leaves and small white or pink blooms
-Chrysanthemum with long-lasting flowers in shades of yellow to white
-Mushroom-shaped Antherium with long-lasting blooms
-Carnation with sweet fragrance and pinched center
-Snapdragon with unusual shape resembling a dragon's mouth
-Dahlia with showy, pom-pom-like appearance
+Tulip
+Lily
+Rose
+Sunflower
+Daisy
+Orchid
+Violet
+Poppy
+Magnolia
+Freesia
+Hibiscus
+Zinnia
+Lavender
+Gerbera
+Begonia
+Chrysanthemum
+Anthurium
+Carnation
+Snapdragon
+Dahlia
+Petunia
+Marigold
+Peony
+Iris
+Daffodil
+Hyacinth
+Crocus
+Gladiolus
+Azalea
+Rhododendron
+Camellia
+Gardenia
+Jasmine
+Lilac
+Wisteria
+Honeysuckle
+Morning Glory
+Sweet Pea
+Forget-me-not
+Pansy
+Impatiens
+Geranium
+Fuchsia
+Bougainvillea
+Bird of Paradise
+Protea
+Strelitzia
+Calla Lily
+Water Lily
+Lotus
+Amaryllis
+Poinsettia
+African Violet
+Cyclamen
+Gloxinia
+Bromeliad
+Anthurium
+Peace Lily
+Spathiphyllum
+Philodendron Flower
+Monstera Bloom
+Rubber Plant Flower
+Snake Plant Bloom
+Pothos Flower
+ZZ Plant Bloom
+Fiddle Leaf Fig Flower
+Swiss Cheese Plant Bloom
+Prayer Plant Flower
+Calathea Bloom
+Maranta Flower
+Boston Fern Spore
+Maidenhair Fern Spore
+Bird's Nest Fern
+Staghorn Fern
+Boston Ivy Flower
+English Ivy Bloom
+Pothos Ivy Flower
+Heartleaf Philodendron Bloom
+Golden Pothos Flower
+Marble Queen Pothos Bloom
+Neon Pothos Flower
+Satin Pothos Bloom
+Cebu Blue Pothos Flower
+Jade Pothos Bloom
+Pearls and Jade Pothos Flower
+Manjula Pothos Bloom
+Global Green Pothos Flower
+Hoya Flower
+Wax Plant Bloom
+Hindu Rope Plant Flower
+Hoya Carnosa Bloom
+Hoya Pubicalyx Flower
+Hoya Australis Bloom
+Hoya Bella Flower
+Hoya Compacta Bloom
+Hoya Kerrii Flower
+String of Hearts Bloom
+String of Pearls Flower
+String of Bananas Bloom
+String of Dolphins Flower
+String of Turtles Bloom
+Burro's Tail Flower
+Donkey's Tail Bloom
+Jade Plant Flower
+Money Tree Bloom
+Chinese Money Plant Flower
+Pilea Peperomioides Bloom
+Rubber Tree Flower
+Ficus Elastica Bloom
+Ficus Benjamina Flower
+Weeping Fig Bloom
+Fiddle Leaf Fig Flower
+Ficus Lyrata Bloom
+Ficus Audrey Flower
+Ficus Altissima Bloom
+Monstera Deliciosa Flower
+Swiss Cheese Plant Bloom
+Monstera Adansonii Flower
+Monstera Peru Bloom
+Monstera Siltepecana Flower
+Monstera Pinnatipartita Bloom
+Monstera Obliqua Flower
+Monstera Dubia Bloom
+Philodendron Brasil Flower
+Philodendron Micans Bloom
+Philodendron Pink Princess Flower
+Philodendron White Knight Bloom
+Philodendron Melanochrysum Flower
+Philodendron Verrucosum Bloom
+Philodendron Gloriosum Flower
+Philodendron Pastazanum Bloom
+Philodendron Mamei Flower
+Philodendron Crystallinum Bloom
+Philodendron Clarinervium Flower
+Philodendron Billietiae Bloom
+Philodendron Atabapoense Flower
+Philodendron Joepii Bloom
+Alocasia Polly Flower
+Alocasia Amazonica Bloom
+Alocasia Black Velvet Flower
+Alocasia Silver Dragon Bloom
+Alocasia Frydek Flower
+Alocasia Zebrina Bloom
+Alocasia Macrorrhiza Flower
+Elephant Ear Bloom
+Colocasia Flower
+Taro Plant Bloom
+Caladium Flower
+Angel Wings Bloom
+Heart of Jesus Flower
+Fancy Leaved Caladium Bloom
+Aglaonema Flower
+Chinese Evergreen Bloom
+Silver Bay Aglaonema Flower
+Red Aglaonema Bloom
+Pink Dalmatian Aglaonema Flower
+Maria Aglaonema Bloom
+Emerald Bay Aglaonema Flower
+Golden Bay Aglaonema Bloom
+Dieffenbachia Flower
+Dumb Cane Bloom
+Tropic Snow Dieffenbachia Flower
+Camille Dieffenbachia Bloom
+Maroba Dieffenbachia Flower
+Dracaena Flower
+Dragon Tree Bloom
+Corn Plant Flower
+Dracaena Marginata Bloom
+Madagascar Dragon Tree Flower
+Dracaena Fragrans Bloom
+Dracaena Compacta Flower
+Dracaena Lemon Lime Bloom
+Dracaena Goldieana Flower
+Dracaena Reflexa Bloom
+Song of India Flower
+Song of Jamaica Bloom
+Sansevieria Flower
+Snake Plant Bloom
+Mother-in-Law's Tongue Flower
+Sansevieria Trifasciata Bloom
+Golden Hahnii Snake Plant Flower
+Laurentii Snake Plant Bloom
+Moonshine Snake Plant Flower
+Cylindrica Snake Plant Bloom
+Whale Fin Snake Plant Flower
+Fernwood Snake Plant Bloom
+Starfish Snake Plant Flower
+Zeylanica Snake Plant Bloom
+Aloe Vera Flower
+Aloe Plant Bloom
+Haworthia Flower
+Zebra Plant Bloom
+Pearl Plant Flower
+Cathedral Window Haworthia Bloom
+Gasteria Flower
+Ox Tongue Plant Bloom
+Echeveria Flower
+Hens and Chicks Bloom
+Jade Plant Flower
+Crassula Ovata Bloom
+String of Pearls Flower
+Senecio Rowleyanus Bloom
+Burro's Tail Flower
+Sedum Morganianum Bloom
+Christmas Cactus Flower
+Thanksgiving Cactus Bloom
+Easter Cactus Flower
+Prickly Pear Cactus Bloom
+Barrel Cactus Flower
+Saguaro Cactus Bloom
+Cholla Cactus Flower
+Pincushion Cactus Bloom
+Hedgehog Cactus Flower
+Fishhook Cactus Bloom
+Golden Barrel Cactus Flower
+Old Man Cactus Bloom
+Powder Puff Cactus Flower
+Moon Cactus Bloom
+Grafted Cactus Flower
+Desert Rose Bloom
+Adenium Flower
+Crown of Thorns Bloom
+Euphoria Milii Flower
+Pachira Aquatica Bloom
+Money Tree Flower
+Braided Money Tree Bloom
+Schefflera Flower
+Umbrella Tree Bloom
+Norfolk Pine Flower
+Araucaria Heterophylla Bloom
+Ponytail Palm Flower
+Beaucarnea Recurvata Bloom
+Yucca Plant Flower
+Spineless Yucca Bloom
+Majesty Palm Flower
+Ravenea Rivularis Bloom
+Parlor Palm Flower
+Chamaedorea Elegans Bloom
+Kentia Palm Flower
+Howea Forsteriana Bloom
+Areca Palm Flower
+Dypsis Lutescens Bloom
+Cat Palm Flower
+Chamaedorea Cataractarum Bloom
+Sago Palm Flower
+Cycas Revoluta Bloom
+Cardboard Palm Flower
+Zamia Furfuracea Bloom
+ZZ Plant Flower
+Zamioculcas Zamiifolia Bloom
+Raven ZZ Plant Flower
+Black ZZ Plant Bloom
+Zenzi ZZ Plant Flower
+Lucky Bamboo Flower
+Dracaena Sanderiana Bloom
+Bamboo Palm Flower
+Chamaedorea Seifrizii Bloom
+Chinese Fan Palm Flower
+Livistona Chinensis Bloom
+European Fan Palm Flower
+Chamaerops Humilis Bloom
+Windmill Palm Flower
+Trachycarpus Fortunei Bloom
+Mediterranean Fan Palm Flower
+Chamaerops Humilis Bloom
 Amaryllis with large, trumpet-shaped flowers in shades of red, pink, or white
 Eucalyptus with tiny, aromatic flowers that are not typically used for decoration
 Calla with elegant, arum-like shape and pure white color
