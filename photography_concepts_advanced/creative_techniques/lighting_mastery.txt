@@ -1,0 +1,135 @@
+dramatic single source lighting
+Rembrandt triangle light pattern
+split lighting half face shadow
+butterfly lighting nose shadow
+loop lighting slight nose shadow
+broad lighting lit side toward camera
+short lighting shadow side toward camera
+rim lighting edge definition
+backlighting silhouette creation
+side lighting texture emphasis
+top lighting overhead dramatic
+bottom lighting horror effect
+cross lighting dual source
+triangle lighting three point
+four point lighting complete control
+five point lighting elaborate setup
+key light primary illumination
+fill light shadow reduction
+hair light separation
+background light depth creation
+accent light detail emphasis
+practical light scene integration
+motivated light source justification
+available light natural existing
+window light soft directional
+golden hour warm angled
+blue hour cool twilight
+overcast light even diffused
+open shade indirect
+reflected light bounced
+filtered light modified
+diffused light softened
+hard light sharp shadow
+soft light gradual transition
+directional light angled
+omnidirectional light scattered
+specular light mirror reflection
+diffuse light scattered reflection
+transmitted light through material
+absorbed light color subtraction
+polarized light reduced reflection
+unpolarized light natural state
+coherent light laser precision
+incoherent light mixed wavelength
+monochromatic light single color
+polychromatic light multiple color
+continuous spectrum rainbow
+line spectrum discrete
+thermal radiation heat emission
+fluorescence UV excitation
+phosphorescence delayed emission
+incandescence heat glow
+luminescence cool emission
+bioluminescence living organism
+chemiluminescence chemical reaction
+electroluminescence electrical excitation
+photoluminescence light absorption
+radioluminescence radioactive decay
+triboluminescence friction spark
+sonoluminescence sound collapse
+candlelight warm flicker
+firelight dancing orange
+torchlight smoky flame
+lantern light contained flame
+oil lamp steady wick
+kerosene light portable fuel
+gas light controlled flame
+electric light filament glow
+LED light semiconductor
+halogen light tungsten enhanced
+fluorescent light mercury vapor
+xenon light arc discharge
+strobe light flash duration
+flash light brief intense
+continuous light constant output
+modeling light preview
+pilot light low power
+tungsten light warm temperature
+daylight light cool temperature
+mixed light multiple sources
+color temperature kelvin scale
+white balance color correction
+gel filter color modification
+diffusion filter light softening
+neutral density filter exposure control
+polarizing filter reflection control
+UV filter atmospheric haze
+IR filter infrared blocking
+warming filter color enhancement
+cooling filter blue emphasis
+contrast filter black white
+red filter dramatic sky
+orange filter sunset enhancement
+yellow filter haze cutting
+green filter foliage separation
+blue filter cloud contrast
+purple filter creative effect
+magenta filter color correction
+cyan filter warm reduction
+color correction filter balance
+special effect filter creative
+star filter point light
+soft focus filter dreamy
+fog filter atmospheric
+mist filter subtle haze
+gradient filter transition
+split filter dual effect
+prism filter rainbow
+kaleidoscope filter pattern
+multiple image filter repetition
+motion blur filter movement
+zoom filter radial
+rotation filter circular
+linear polarizer single direction
+circular polarizer camera rotation
+variable ND filter adjustable
+step-up ring size adapter
+step-down ring size reducer
+lens hood flare protection
+barn doors light control
+snoot focused beam
+softbox diffused rectangle
+umbrella bounce reflector
+beauty dish portrait flattering
+octagon softbox wrap around
+strip light narrow rectangle
+ring light circular even
+panel light large even
+spot light focused beam
+flood light wide coverage
+fresnel light focused adjustable
+par light parabolic reflector
+LED panel modern efficient
+fluorescent panel cool even
+tungsten fresnel warm focused

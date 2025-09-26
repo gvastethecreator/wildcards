@@ -1,0 +1,49 @@
+Digital Painter
+Digital Illustrator
+Concept Artist
+Matte Painter
+Digital Matte Artist
+Environment Concept Artist
+Character Concept Artist
+Vehicle Designer
+Prop Concept Artist
+Creature Designer
+Monster Designer
+Robot Designer
+Mechanical Designer
+UI/UX Designer
+Interface Designer
+App Designer
+Web Designer
+Game Artist
+3D Artist
+3D Modeler
+Character Modeler
+Environment Modeler
+Hard Surface Modeler
+Organic Modeler
+Texture Artist
+Substance Designer
+Material Artist
+Shader Artist
+Lighting Artist
+Rendering Specialist
+VFX Artist
+Compositor
+Motion Graphics Designer
+After Effects Artist
+Particle Effects Artist
+Simulation Artist
+Fluid Dynamics Artist
+Cloth Simulation Specialist
+Hair and Fur Artist
+Skin Shader Specialist
+Digital Sculptor
+ZBrush Artist
+Blender Artist
+Maya Artist
+3ds Max Artist
+Cinema 4D Artist
+Houdini Artist
+Unreal Engine Artist
+Unity Artist

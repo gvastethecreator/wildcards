@@ -1,0 +1,50 @@
+exploration vessel
+research ship
+colony ship
+generation ship
+ark ship
+seed ship
+terraforming vessel
+mining ship
+cargo hauler
+transport vessel
+passenger liner
+cruise ship
+diplomatic vessel
+embassy ship
+hospital ship
+medical frigate
+rescue ship
+salvage vessel
+refinery ship
+factory ship
+mobile base
+command ship
+flagship
+capital ship
+dreadnought
+battleship
+cruiser
+destroyer
+frigate
+corvette
+patrol boat
+scout ship
+reconnaissance vessel
+stealth ship
+cloaked vessel
+spy ship
+infiltration craft
+assault ship
+boarding craft
+dropship
+landing craft
+shuttle
+escape pod
+life pod
+fighter
+interceptor
+bomber
+gunship
+support craft
+repair ship

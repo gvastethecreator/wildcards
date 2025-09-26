@@ -1,0 +1,20 @@
+user journey mapping experience flow
+wireframe layout structural planning
+prototype interactive testing
+user persona target audience
+usability testing feedback collection
+information architecture content organization
+navigation design wayfinding system
+responsive design device adaptation
+accessibility compliance inclusive design
+microinteraction delightful details
+loading animation user patience
+error handling graceful failure
+onboarding process user introduction
+dashboard design data presentation
+form design input efficiency
+search functionality discovery ease
+filter system content refinement
+notification design attention management
+gesture control touch interaction
+voice interface conversational design

@@ -1,0 +1,59 @@
+Feudal Lord Hierarchy Duke Sovereign Prince
+Feudal Lord Hierarchy Marquess March Lord
+Feudal Lord Hierarchy Earl Count Shire
+Feudal Lord Hierarchy Viscount Deputy Count
+Feudal Lord Hierarchy Baron Land Lord
+Feudal Lord Hierarchy Baronet Hereditary Title
+Feudal Lord Hierarchy Knight Banneret Banner
+Feudal Lord Hierarchy Knight Bachelor Single
+Feudal Lord Hierarchy Esquire Squire Rank
+Feudal Lord Hierarchy Gentleman Armiger Arms
+Royal House Plantagenet Angevin Empire
+Royal House Plantagenet Henry II Eleanor
+Royal House Plantagenet Richard Lionheart Crusader
+Royal House Plantagenet John Lackland Charter
+Royal House Plantagenet Henry III Long Reign
+Royal House Plantagenet Edward Longshanks Hammer
+Royal House Plantagenet Edward II Weak King
+Royal House Plantagenet Edward III Hundred Years
+Royal House Plantagenet Black Prince Edward
+Royal House Plantagenet Richard II Deposed King
+Royal House Lancaster Henry IV Bolingbroke
+Royal House Lancaster Henry V Agincourt Victor
+Royal House Lancaster Henry VI Mad King
+Royal House York Edward IV Yorkist King
+Royal House York Richard III Last Plantagenet
+Royal House Tudor Henry VII Welsh Dynasty
+Royal House Tudor Henry VIII Six Wives
+Royal House Tudor Edward VI Boy King
+Royal House Tudor Mary I Bloody Mary
+Royal House Tudor Elizabeth I Virgin Queen
+Royal House Stuart James I Union Crowns
+Royal House Stuart Charles I Executed King
+Royal House Stuart Charles II Restoration King
+Royal House Stuart James II Catholic King
+Royal House Stuart William III Orange King
+Royal House Stuart Anne Last Stuart
+Royal House Hanover George I German King
+Noble House Percy Northumberland Earls
+Noble House Neville Warwick Kingmaker
+Noble House Beaufort Illegitimate Royal
+Noble House Mortimer March Earls
+Noble House Holland Kent Dukes
+Noble House Mowbray Norfolk Dukes
+Noble House Howard Norfolk Dukes
+Noble House Stanley Derby Earls
+Noble House Clifford Cumberland Earls
+Noble House Talbot Shrewsbury Earls
+Noble House de Vere Oxford Earls
+Noble House Fitzalan Arundel Earls
+Noble House Grey Stamford Earls
+Noble House Hastings Huntingdon Earls
+Continental House Capet French Royal Dynasty
+Continental House Valois French Royal Branch
+Continental House Bourbon French Royal Branch
+Continental House Habsburg Austrian Imperial Dynasty
+Continental House Hohenstaufen German Imperial Dynasty
+Continental House Luxemburg Imperial Dynasty
+Continental House Wittelsbach Bavarian Dynasty
+Continental House Wettin Saxon Dynasty

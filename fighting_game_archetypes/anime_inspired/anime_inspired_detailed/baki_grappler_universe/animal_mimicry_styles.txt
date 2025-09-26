@@ -1,0 +1,53 @@
+Animal Mimicry Mantis Praying Stance Fighter
+Animal Mimicry Tiger Prowling Strike Fighter
+Animal Mimicry Bear Grappling Hug Fighter
+Animal Mimicry Eagle Diving Talon Fighter
+Animal Mimicry Snake Coiling Constriction Fighter
+Animal Mimicry Monkey Acrobatic Swing Fighter
+Animal Mimicry Crane Single Leg Balance Fighter
+Animal Mimicry Dragon Mythical Power Fighter
+Animal Mimicry Leopard Speed Pounce Fighter
+Animal Mimicry Gorilla Chest Beating Fighter
+Animal Mimicry Shark Circling Bite Fighter
+Animal Mimicry Wolf Pack Hunting Fighter
+Animal Mimicry Spider Web Trap Fighter
+Animal Mimicry Scorpion Tail Strike Fighter
+Animal Mimicry Octopus Multi-Limb Fighter
+Animal Mimicry Elephant Trunk Swing Fighter
+Animal Mimicry Rhinoceros Charging Fighter
+Animal Mimicry Turtle Shell Defense Fighter
+Animal Mimicry Hawk Soaring Strike Fighter
+Animal Mimicry Lizard Wall Climbing Fighter
+Animal Mimicry Frog Jumping Kick Fighter
+Animal Mimicry Crab Sideways Movement Fighter
+Animal Mimicry Bat Echolocation Fighter
+Animal Mimicry Whale Deep Dive Fighter
+Animal Mimicry Cheetah Sprint Dash Fighter
+Historical Beast Saber-tooth Tiger Fang Fighter
+Historical Beast Woolly Mammoth Tusk Fighter
+Historical Beast Cave Bear Claw Fighter
+Historical Beast Giant Eagle Talon Fighter
+Historical Beast Dire Wolf Pack Fighter
+Historical Beast Terror Bird Kick Fighter
+Historical Beast Megalania Monitor Fighter
+Historical Beast Short-faced Bear Fighter
+Historical Beast Cave Lion Roar Fighter
+Historical Beast Giant Beaver Tail Fighter
+Mythical Beast Phoenix Fire Rebirth Fighter
+Mythical Beast Unicorn Horn Charge Fighter
+Mythical Beast Griffin Wing Claw Fighter
+Mythical Beast Chimera Multi-Head Fighter
+Mythical Beast Sphinx Riddle Fighter
+Mythical Beast Minotaur Maze Fighter
+Mythical Beast Hydra Multi-Strike Fighter
+Mythical Beast Basilisk Gaze Fighter
+Mythical Beast Kraken Tentacle Fighter
+Mythical Beast Leviathan Sea Fighter
+Mythical Beast Behemoth Land Fighter
+Mythical Beast Wendigo Hunger Fighter
+Mythical Beast Manticore Spike Fighter
+Mythical Beast Banshee Wail Fighter
+Prehistoric Predator Tyrannosaurus Rex Jaw Fighter
+Prehistoric Predator Velociraptor Pack Fighter
+Prehistoric Predator Allosaurus Claw Fighter
+Prehistoric Predator Spinosaurus Sail Fighter

@@ -1,0 +1,54 @@
+Heavy Cavalry Uma-no-ri Mounted Samurai
+Heavy Cavalry Yoroi-musha Armored Warrior
+Heavy Cavalry Kiba-musha Horse Warrior
+Heavy Cavalry Umamawariyaku Horse Guard
+Heavy Cavalry Taisho General Commander
+Heavy Cavalry Hatamoto Flag Bearer Elite
+Heavy Cavalry Sengoku Horse Archer
+Heavy Cavalry Takeda Red Cavalry Famous
+Light Cavalry Kogusoku Light Armor Scout
+Light Cavalry Monomi Scout Reconnaissance  
+Light Cavalry Tsukai Messenger Rider
+Light Cavalry Hayatori Fast Capture Unit
+Light Cavalry Baishin Retainer Mounted
+Light Cavalry Uhyoe Horse Guard Light
+Light Cavalry Kyuba-no-michi Way Horse Bow
+Light Cavalry Yabusame Ritual Mounted Archery
+Infantry Ashigaru Foot Soldier Light
+Infantry Yari-ashigaru Spear Foot Soldier
+Infantry Teppo-ashigaru Arquebus Gunner
+Infantry Yumi-ashigaru Bow Foot Soldier
+Infantry Nobori-mochi Flag Bearer Infantry
+Infantry Taiko-mochi Drum Bearer Infantry
+Infantry Horagai Shell Horn Blower
+Infantry Hatamoto-yoriki Retainer Assistant
+Infantry Komono Equipment Bearer
+Infantry Chugen Middle Rank Infantry
+Archers Yumi-musha Bow Warrior
+Archers Kyujutsu Archery Technique Master
+Archers Teki-ya Long Distance Archer
+Archers Do-keshi Armor Piercer
+Archers Kaburaya Whistling Arrow
+Archers Hama-ya Evil Breaking Arrow
+Archers Watakushi-ya Personal Arrow
+Archers Yabusame Mounted Ritual Archer
+Archers Inuoumono Dog Hunting Archer
+Archers Kasagake Hat Shooting Archer
+Defenders Shiro-gata Castle Formation Fighter
+Defenders Toride Fortress Defender
+Defenders Yagura Tower Guard Warrior
+Defenders Karahafu Curved Gable Defender
+Defenders Ishiotoshi Stone Dropper
+Defenders Yagura-ban Tower Guard Duty
+Defenders Kido Gate Guard Warrior
+Defenders Honmaru Main Keep Defender
+Defenders Ninomaru Second Bailey Guard
+Defenders Sannomaru Third Bailey Guard
+Attackers Shiro-zeme Castle Besieger
+Attackers Tsuwamono Strong Warrior
+Attackers Ichiban-yari First Spear Honor
+Attackers Ichiban-nori First to Board
+Attackers Kiba First Rider Honor
+Attackers Senpo Vanguard Advanced Guard
+Attackers Chu-gun Main Army Center
+Attackers Kōgun Rear Guard Reserve

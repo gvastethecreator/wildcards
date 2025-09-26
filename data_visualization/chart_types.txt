@@ -1,0 +1,116 @@
+Bar chart comparison
+Line graph trends
+Pie chart proportions
+Scatter plot correlation
+Histogram distribution
+Box plot statistical
+Violin plot density
+Heat map intensity
+Treemap hierarchical
+Sunburst radial hierarchy
+Sankey flow diagram
+Chord diagram relationships
+Network graph connections
+Force directed layout
+Matrix visualization
+Parallel coordinates
+Radar chart multivariate
+Gantt chart timeline
+Candlestick financial
+Area chart stacked
+Stream graph flowing
+Slope graph changes
+Dot plot precise
+Bullet chart performance
+Gauge chart measurement
+Funnel chart conversion
+Waterfall chart breakdown
+Marimekko mosaic
+Bump chart ranking
+Ridgeline distribution
+Beeswarm unique values
+Calendar heat map
+Isotype pictorial
+Small multiples comparison
+Dashboard overview
+Real-time streaming
+Interactive exploration
+Drill-down capability
+Zoom pan navigation
+Filter dynamic
+Sort reorganization
+Group categorization
+Aggregate summarization
+Annotation explanatory
+Tooltip contextual
+Legend identification
+Axis labeling
+Grid reference
+Color encoding
+Size mapping
+Shape distinction
+Pattern differentiation
+Opacity transparency
+Animation transition
+Brushing selection
+Linking coordination
+Highlighting emphasis
+Search discovery
+Export sharing
+Print formatting
+Responsive adaptation
+Mobile optimization
+Accessibility compliance
+Screen reader friendly
+Color blind consideration
+High contrast mode
+Large text option
+Keyboard navigation
+Touch interaction
+Voice control
+Gesture recognition
+Eye tracking
+Brain computer interface
+Augmented reality overlay
+Virtual reality immersion
+3D spatial mapping
+Holographic projection
+Ambient visualization
+Peripheral awareness
+Calm technology
+Glanceable information
+Always on display
+Context aware
+Location based
+Time sensitive
+Personalized relevant
+Predictive anticipatory
+Machine learning enhanced
+AI generated insights
+Natural language queries
+Conversational interface
+Storytelling narrative
+Guided exploration
+Progressive disclosure
+Layered complexity
+Simplified abstraction
+Expert detailed
+Novice friendly
+Educational tutorial
+Professional analysis
+Scientific precision
+Artistic expression
+Journalistic clarity
+Business intelligence
+Marketing analytics
+Social media metrics
+Web traffic analysis
+Financial reporting
+Healthcare monitoring
+Environmental tracking
+Sports performance
+Entertainment consumption
+Educational progress
+Research findings
+Survey results
+Census demographics

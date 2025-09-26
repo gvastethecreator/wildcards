@@ -1,0 +1,56 @@
+Katana Specialist Long Sword Master
+Katana Specialist Iaido Quick Draw Fighter
+Katana Specialist Kenjutsu Sword Technique
+Katana Specialist Tameshigiri Test Cutting
+Katana Specialist Two Sword Niten Fighter
+Wakizashi Specialist Short Sword Fighter
+Wakizashi Specialist Seppuku Ritual Blade
+Wakizashi Specialist Indoor Combat Fighter
+Tanto Specialist Fighting Knife Master
+Tanto Specialist Last Resort Blade
+Tanto Specialist Assassination Weapon
+Nodachi Specialist Great Sword Fighter
+Nodachi Specialist Battlefield Long Blade
+Nodachi Specialist Anti Cavalry Sword
+Tachi Specialist Ceremonial Long Sword
+Tachi Specialist Mounted Combat Blade
+Yari Specialist Spear Fighter Infantry
+Yari Specialist Su-yari Straight Spear
+Yari Specialist Kama-yari Sickle Spear
+Yari Specialist Jumonji-yari Cross Spear
+Yari Specialist Bishamon-yari Trident Spear
+Naginata Specialist Polearm Curved Blade
+Naginata Specialist Onna-bugeisha Women Fighter
+Naginata Specialist Sohei Monk Warrior
+Naginata Specialist Ko-naginata Short Polearm
+Naginata Specialist O-naginata Long Polearm
+Bo Specialist Long Staff Fighter
+Bo Specialist Rokushaku-bo Six Foot Staff
+Bo Specialist Jo Short Staff Fighter
+Bo Specialist Hanbo Half Staff Fighter
+Yumi Specialist Longbow Archer
+Yumi Specialist Kyujutsu Archery Art
+Yumi Specialist Yabusame Mounted Archery
+Yumi Specialist Kyudo Way Bow
+Yumi Specialist Hankyu Half Bow
+Teppo Specialist Arquebus Gunner
+Teppo Specialist Tanegashima Matchlock
+Teppo Specialist Hinawaju Matchlock Rifle
+Teppo Specialist Ozutsu Large Cannon
+Shuriken Specialist Throwing Star Ninja
+Shuriken Specialist Hira Shuriken Flat Star
+Shuriken Specialist Bo Shuriken Spike
+Kunai Specialist Utility Knife Tool
+Kunai Specialist Ninja Multi Tool
+Tessen Specialist Iron Fan Fighter
+Tessen Specialist Concealed Weapon
+Jutte Specialist Sword Breaker
+Jutte Specialist Police Weapon
+Sai Specialist Three Pronged Fork
+Sai Specialist Okinawan Weapon
+Tonfa Specialist Side Handle Baton
+Tonfa Specialist Okinawan Police
+Kama Specialist Sickle Fighter
+Kama Specialist Kusarigama Chain Sickle
+Kyoketsu Shoge Specialist Hooked Chain
+Manriki Kusari Specialist Weighted Chain

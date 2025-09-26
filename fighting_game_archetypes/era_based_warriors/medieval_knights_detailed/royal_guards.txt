@@ -1,0 +1,60 @@
+Royal Guard Household Knight Personal Protector
+Royal Guard Yeoman Guard Royal Bodyguard
+Royal Guard Garde du Corps French Royal
+Royal Guard Cent-Suisses Swiss Guard
+Royal Guard Gardes Françaises French Guard
+Royal Guard Life Guard English Royal
+Royal Guard Horse Guard Mounted Royal
+Royal Guard Foot Guard Infantry Royal
+Royal Guard Scots Guard Scottish Royal
+Royal Guard Irish Guard Irish Royal
+Noble House Knight Baronial Retainer
+Noble House Knight Ducal Household Fighter
+Noble House Knight Comital Service Knight
+Noble House Knight Household Cavalry
+Noble House Knight Mesnie Household Troop
+Noble House Knight Familia Noble Family
+Noble House Knight Retinue Personal Following
+Noble House Knight Affinity Noble Connection
+Feudal Hierarchy Duke Duchy Ruler
+Feudal Hierarchy Count County Ruler
+Feudal Hierarchy Baron Barony Ruler
+Feudal Hierarchy Viscount Viscounty Ruler
+Feudal Hierarchy Marquis March Ruler
+Feudal Hierarchy Earl English Count
+Feudal Hierarchy Lord Manor Ruler
+Feudal Hierarchy Vassal Feudal Dependent
+Feudal Hierarchy Liege Lord Feudal Superior
+Feudal Hierarchy Suzerain Overlord Superior
+Feudal Hierarchy Tenant in Chief Crown Vassal
+Feudal Hierarchy Mesne Lord Middle Lord
+Feudal Hierarchy Sub-infeudation Lower Grant
+Feudal Hierarchy Knight's Fee Military Tenure
+Feudal Hierarchy Homage Feudal Ceremony
+Feudal Hierarchy Fealty Feudal Oath
+Feudal Hierarchy Investiture Feudal Grant
+Feudal Hierarchy Escheat Feudal Reversion
+Feudal Hierarchy Relief Inheritance Payment
+Feudal Hierarchy Wardship Minor Protection
+Feudal Hierarchy Marriage Feudal Control
+Feudal Hierarchy Scutage Shield Money
+Feudal Hierarchy Knight Service Military Obligation
+Feudal Hierarchy Castle Guard Fortress Duty
+Feudal Hierarchy Suit of Court Legal Duty
+House Plantagenet English Royal House
+House Capetian French Royal House
+House Valois French Royal Branch
+House Habsburg Austrian Imperial House
+House Hohenstaufen German Imperial House
+House Luxembourg Imperial House
+House Wittelsbach Bavarian House
+House Wettin Saxon House
+House Oldenburg Danish Royal House
+House Vasa Swedish Royal House
+House Jagiellon Polish Lithuanian House
+House Anjou French Noble House
+House Bourbon French Royal House
+House Lancaster English Royal Branch
+House York English Royal Branch
+House Stuart Scottish English Royal
+House Tudor English Royal House

@@ -1,0 +1,20 @@
+open shade evenness
+window light direction
+doorway light framing
+architectural light patterns
+urban canyon lighting
+rooftop light exposure
+courtyard light containment
+balcony light filtering
+greenhouse light diffusion
+skylight illumination
+clerestory light elevation
+lightwell light channeling
+portico light protection
+colonnade light rhythm
+arcade light sequence
+atrium light centralization
+conservatory light cultivation
+solarium light concentration
+pavilion light openness
+gazebo light shelter

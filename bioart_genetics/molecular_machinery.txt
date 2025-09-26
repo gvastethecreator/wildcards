@@ -1,0 +1,109 @@
+DNA origami structures
+RNA folding patterns
+Protein crystallization
+Cell membrane dynamics
+Mitochondrial networks
+Chloroplast arrangement
+Ribosome assembly
+Chromosome organization
+Gene expression waves
+Transcription factories
+Translation machinery
+Splicing mechanisms
+CRISPR cas9 cutting
+Base editing precision
+Prime editing targeted
+Epigenome editing
+Chromatin remodeling
+Histone modifications
+DNA methylation patterns
+Non-coding RNA regulation
+MicroRNA networks
+Long non-coding RNA
+Circular RNA structures
+Riboswitches responsive
+Aptamers binding
+Molecular motors
+Kinesin walking
+Dynein transport
+Myosin contraction
+ATP synthase rotation
+DNA polymerase
+RNA polymerase
+Topoisomerases
+Helicases unwinding
+Ligases joining
+Nucleases cutting
+Proteases cleaving
+Kinases phosphorylating
+Phosphatases removing
+Ubiquitin tagging
+SUMO modification
+Acetylation marks
+Methylation states
+Glycosylation patterns
+Lipidation anchoring
+Nitrosylation signaling
+Redox modifications
+Allosteric regulation
+Cooperativity binding
+Enzyme kinetics
+Michaelis Menten
+Hill equation
+Competitive inhibition
+Non-competitive blocking
+Allosteric modulation
+Feedback loops
+Feedforward control
+Bistable switches
+Oscillatory circuits
+Noise filtering
+Signal amplification
+Threshold detection
+Logic gates biological
+AND gates
+OR gates
+NOT gates
+XOR exclusive
+NAND universal
+NOR universal
+Memory storage
+Toggle switches
+Counters cellular
+Timers biological
+Sensors environmental
+Actuators responsive
+Synthetic biology
+BioBricks standard
+Biofoundries automated
+Directed evolution
+Laboratory evolution
+Continuous evolution
+Compartmentalized evolution
+Phage assisted evolution
+Error prone PCR
+DNA shuffling
+Saturation mutagenesis
+Site directed mutagenesis
+Random mutagenesis
+Chemical mutagenesis
+UV mutagenesis
+Selection pressure
+Fitness landscapes
+Neutral networks
+Evolutionary algorithms
+Genetic algorithms
+Genetic programming
+Artificial life
+Cellular automata
+Self-replicating machines
+Von Neumann constructors
+Quasispecies evolution
+RNA world hypothesis
+Protocells synthetic
+Minimal genomes
+Essential genes
+Core metabolome
+Metabolic engineering
+Flux balance analysis
+Constraint based modeling

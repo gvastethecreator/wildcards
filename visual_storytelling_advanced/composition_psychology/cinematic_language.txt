@@ -1,0 +1,66 @@
+# Category: Visual Storytelling Advanced
+# Subcategory: Composition Psychology - Cinematic Language
+# Updated: September 25, 2025
+# Count: 60 entries
+# Tags: cinematography, visual-language, film-technique, storytelling-grammar, professional-direction
+
+establishing shot with wide environmental context introducing setting and scale
+extreme wide shot with vast landscape creating epic scope and character insignificance
+medium shot with character interaction creating conversational intimate human connection
+close-up with facial detail revealing emotional state and psychological intimacy
+extreme close-up with eyes or hands creating intense personal dramatic emphasis
+over-the-shoulder shot with perspective sharing creating viewer character identification
+two-shot with dual character framing creating relationship dynamic and interaction
+group shot with ensemble framing creating community dynamics and social hierarchy
+master shot with complete scene coverage creating spatial relationship understanding
+insert shot with detail emphasis creating information delivery and symbolic meaning
+cutaway shot with location change creating temporal transition and pace control
+reaction shot with response capture creating emotional continuity and audience engagement
+match cut with visual continuity creating seamless transition and thematic connection
+jump cut with temporal ellipsis creating energetic pace and time compression
+cross-cut with parallel action creating tension suspense and narrative complexity
+fade in with gradual appearance creating gentle introduction and peaceful opening
+fade out with gradual disappearance creating conclusive ending and emotional closure
+dissolve transition with image overlap creating dream-like temporal passage
+wipe transition with directional replacement creating dynamic energetic scene change
+iris in with circular expansion creating focused attention and character introduction
+iris out with circular contraction creating dramatic ending and attention isolation
+zoom in with focal magnification creating intensity building and detail emphasis
+zoom out with focal expansion creating revelation surprise and context provision
+dolly in with physical approach creating emotional intimacy and character connection
+dolly out with physical retreat creating emotional distance and objective perspective
+tracking shot with horizontal movement creating dynamic energy and visual interest
+crane shot with vertical elevation creating god's eye perspective and scope expansion
+handheld camera with organic movement creating documentary realism and urgency
+steadicam with smooth stabilization creating fluid elegant sophisticated movement
+static camera with fixed position creating contemplative observational neutral perspective
+dutch tilt with horizon rotation creating psychological unease and disorientation
+rack focus with depth shift creating attention direction and narrative emphasis
+split screen with dual image creating comparison contrast and parallel storytelling
+frame rate variation with speed adjustment creating temporal manipulation and emphasis
+exposure variation with brightness control creating mood atmosphere and symbolic meaning
+color grading with hue adjustment creating emotional tone and genre identification
+film grain with texture addition creating period authenticity and tactile quality
+lens flare with light artifact creating reality enhancement and visual interest
+bokeh effect with background blur creating dreamy romantic atmospheric quality
+vignetting with edge darkening creating nostalgic intimate focused attention
+chromatic aberration with color fringing creating technical reality and authentic feel
+motion blur with movement streak creating speed energy and kinetic excitement
+depth of field with focus plane creating hierarchy emphasis and visual separation
+aspect ratio with frame proportion creating genre expectation and viewing experience
+letterboxing with black bars creating cinematic scope and epic storytelling feel
+full frame with complete image creating immersive inclusive comprehensive experience
+safe area with broadcast boundary creating television distribution and technical consideration
+headroom with space above creating comfortable framing and professional composition
+lead room with direction space creating movement anticipation and visual balance
+nose room with facing space creating comfortable viewing and natural composition
+background separation with depth distinction creating subject isolation and emphasis
+foreground obstruction with partial blocking creating voyeuristic perspective and realism
+environmental storytelling with set decoration creating narrative information and context
+symbolic props with meaningful objects creating thematic depth and visual metaphor
+costume continuity with wardrobe consistency creating professional production value
+makeup continuity with appearance maintenance creating seamless narrative flow
+lighting continuity with illumination consistency creating professional technical quality
+color continuity with hue maintenance creating visual coherence and professional standard
+performance continuity with acting consistency creating believable character portrayal
+script continuity with dialogue accuracy creating narrative coherence and professional execution

@@ -1,0 +1,59 @@
+Sword Knight Longsword Two Hand Master
+Sword Knight Arming Sword Single Hand
+Sword Knight Bastard Sword Hand Half
+Sword Knight Great Sword Two Hand
+Sword Knight Falchion Single Edge Cleaver
+Sword Knight Scimitar Curved Eastern
+Sword Knight Rapier Thrusting Sword
+Sword Knight Sabre Curved Military
+Lance Knight Heavy Cavalry Charge
+Lance Knight Couched Lance Tucked
+Lance Knight Lance Rest Armor Support
+Lance Knight Tournament Lance Blunted
+Lance Knight War Lance Sharp Point
+Lance Knight Vamplate Hand Guard
+Mace Knight Blunt Weapon Crusher
+Mace Knight War Hammer Spike
+Mace Knight Morning Star Spiked
+Mace Knight Flail Chain Weapon
+Mace Knight Holy Water Sprinkler Multi Spike
+Axe Knight Battle Axe Two Hand
+Axe Knight War Axe Single Hand
+Axe Knight Halberd Polearm Combined
+Axe Knight Poleaxe Knight Weapon
+Axe Knight Lucerne Hammer Spike
+Crossbow Knight Mechanical Bow
+Crossbow Knight Arbalest Heavy Crossbow
+Crossbow Knight Windlass Spanning Device
+Crossbow Knight Pavise Shield Protection
+Crossbow Knight Quarrel Bolt Projectile
+Bow Knight Longbow English Weapon
+Bow Knight Recurve Bow Composite
+Bow Knight Mounted Archery Horse
+Bow Knight Bodkin Point Armor Pierce
+Bow Knight Broadhead Hunting Point
+Dagger Knight Rondel Dagger Thrust
+Dagger Knight Baselard Swiss Dagger
+Dagger Knight Stiletto Thin Blade
+Dagger Knight Anelace Noble Dagger
+Dagger Knight Misericorde Mercy Dagger
+Spear Knight Infantry Polearm
+Spear Knight Pike Long Spear
+Spear Knight Partisan Broad Head
+Spear Knight Ranseur Three Prong
+Spear Knight Spontoon Officer Spear
+Shield Knight Heater Shield Triangular
+Shield Knight Kite Shield Cavalry
+Shield Knight Buckler Small Round
+Shield Knight Pavise Crossbow Shield
+Shield Knight Targe Scottish Round
+Polearm Knight Halberd Axe Spike
+Polearm Knight Glaive Blade Staff
+Polearm Knight Bardiche Eastern Axe
+Polearm Knight Voulge Cleaver Blade
+Polearm Knight Guisarme Hook Blade
+Siege Knight Trebuchet Operator Stone
+Siege Knight Ballista Operator Bolt
+Siege Knight Catapult Operator Rock
+Siege Knight Battering Ram Gate
+Siege Knight Siege Tower Mobile

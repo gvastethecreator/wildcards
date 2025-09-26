@@ -1,0 +1,55 @@
+Roman Legion Centurion Century Commander Battle Leader
+Roman Legion Legionnaire Professional Soldier Infantry Fighter
+Roman Legion Optio Second in Command Centurion Assistant
+Roman Legion Signifer Standard Bearer Eagle Guardian
+Roman Legion Cornicen Horn Blower Battle Communicator
+Roman Legion Aquilifer Eagle Bearer Legion Symbol Carrier
+Roman Legion Immunes Specialist Soldier Technical Expert
+Roman Legion Hastati First Line Young Soldiers
+Roman Legion Principes Second Line Veteran Warriors
+Roman Legion Triarii Third Line Elite Reserve Veterans
+Roman Legion Velites Light Infantry Skirmisher Scout
+Roman Legion Extraordinarii Elite Allied Troops
+Roman Legion Praetorian Guard Emperor's Elite Bodyguard
+Roman Legion Urban Cohort City Police Military
+Roman Legion Vigiles Night Watch Fire Fighting Force
+Roman Legion Auxilia Allied Foreign Troops
+Roman Legion Germanic Auxiliary Barbarian Allies
+Roman Legion Gallic Auxiliary Celtic Warriors
+Roman Legion Syrian Auxiliary Eastern Archers
+Roman Legion Dacian Auxiliary Mountain Fighters
+Roman Legion Numidian Cavalry African Horse Warriors
+Roman Legion Balearic Slingers Island Projectile Specialists
+Roman Legion Cretan Archers Mediterranean Bow Masters
+Roman Legion Thracian Gladiator Arena Fighter
+Roman Legion Murmillo Gladiator Fish Helmet Fighter
+Roman Legion Retiarius Gladiator Net Trident Fighter
+Roman Legion Secutor Gladiator Chaser Fighter
+Roman Legion Hoplomachus Gladiator Greek Style Fighter
+Roman Legion Dimachaerus Gladiator Dual Sword Fighter
+Roman Legion Bestiarius Gladiator Beast Fighter
+Roman Legion Venator Gladiator Hunter Fighter
+Roman Legion Sagittarius Gladiator Archer Fighter
+Roman Legion Andabata Gladiator Blind Fighter
+Roman Legion Essedarius Gladiator Chariot Fighter
+Roman Legion Laquearius Gladiator Lasso Fighter
+Roman Legion Provocator Gladiator Challenge Fighter
+Early Roman Republic Citizen Soldier Militia Fighter
+Early Roman Republic Consul Military Leader
+Early Roman Republic Dictator Emergency Commander
+Early Roman Republic Tribune Military Officer
+Middle Roman Republic Marian Reforms Professional Army
+Middle Roman Republic Social War Italian Allies
+Late Roman Republic Civil War Veterans
+Late Roman Republic Pompey's Legions Eastern Campaign
+Late Roman Republic Caesar's Legions Gallic Wars
+Late Roman Republic Octavian's Forces Final Victory
+Roman Empire Augustus Legion Imperial Standard
+Roman Empire Trajan's Legions Dacian Wars
+Roman Empire Hadrian's Wall Border Guards
+Roman Empire Marcus Aurelius Germanic Wars
+Late Roman Empire Foederati Barbarian Allies
+Late Roman Empire Limitanei Border Troops
+Late Roman Empire Comitatenses Mobile Field Army
+Byzantine Empire Cataphract Heavy Cavalry
+Byzantine Empire Theme System Soldier Farmers

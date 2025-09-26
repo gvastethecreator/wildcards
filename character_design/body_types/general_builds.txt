@@ -1,0 +1,44 @@
+Athletic Build
+Muscular Physique
+Lean Muscle
+Toned Body
+Swimmer's Build
+Runner's Body
+Gymnast Physique
+Dancer's Form
+Martial Artist Build
+Rock Climber Build
+Bodybuilder Physique
+Powerlifter Frame
+Strongman Build
+CrossFit Athlete
+Olympic Athlete Build
+Endomorph
+Mesomorph
+Ectomorph
+Hourglass Figure
+Pear Shape
+Apple Shape
+Rectangle Shape
+Inverted Triangle
+Triangle Shape
+Petite Frame
+Tall Frame
+Average Build
+Stocky Build
+Broad Shoulders
+Narrow Shoulders
+Wide Hips
+Narrow Hips
+Thick Waist
+Thin Waist
+Long Torso
+Short Torso
+Long Legs
+Short Legs
+Long Arms
+Short Arms
+Big Hands
+Small Hands
+Large Feet
+Small Feet

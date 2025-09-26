@@ -1,0 +1,51 @@
+Team Player Squad Leader
+Team Player Second-in-Command
+Team Player Support Specialist
+Team Player Medic Healer
+Team Player Communications Officer
+Team Player Technical Expert
+Team Player Heavy Weapons Specialist
+Team Player Demolitions Expert
+Team Player Engineer Builder
+Team Player Logistics Coordinator
+Team Player Supply Chain Manager
+Team Player Equipment Maintenance
+Team Player Vehicle Operator
+Team Player Pilot Navigator
+Team Player Radar Operator
+Team Player Sonar Specialist
+Team Player Intelligence Analyst
+Team Player Code Breaker
+Team Player Translator Linguist
+Team Player Cultural Liaison
+Team Player Diplomatic Negotiator
+Team Player Hostage Negotiator
+Team Player Crisis Mediator
+Team Player Conflict Resolver
+Team Player Peace Keeper
+Team Player Unity Builder
+Team Player Morale Booster
+Team Player Cheerleader Motivator
+Team Player Team Spirit Leader
+Team Player Group Therapy Facilitator
+Team Player Peer Counselor
+Team Player Buddy System Partner
+Team Player Study Group Organizer
+Team Player Project Manager
+Team Player Task Force Coordinator
+Team Player Committee Member
+Team Player Board Representative
+Team Player Union Organizer
+Team Player Strike Coordinator
+Team Player Collective Bargainer
+Team Player Cooperative Member
+Team Player Community Organizer
+Team Player Neighborhood Committee
+Team Player School Board Member
+Team Player Parent Teacher Association
+Team Player Sports Team Captain
+Team Player Athletic Trainer
+Team Player Coaching Assistant
+Team Player Equipment Manager
+Team Player Game Statistician
+Team Player Video Analyst

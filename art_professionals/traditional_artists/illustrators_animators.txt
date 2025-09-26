@@ -1,0 +1,45 @@
+Book Illustrator
+Magazine Illustrator
+Editorial Illustrator
+Scientific Illustrator
+Medical Illustrator
+Technical Illustrator
+Botanical Illustrator
+Wildlife Illustrator
+Fashion Illustrator
+Architectural Illustrator
+Patent Illustrator
+Courtroom Sketch Artist
+News Illustrator
+Sports Illustrator
+Children's Book Illustrator
+Comic Book Artist
+Graphic Novelist
+Manga Artist
+Storyboard Artist
+Concept Sketch Artist
+Character Designer
+Creature Designer
+Environment Artist
+Prop Designer
+Costume Designer
+Production Designer
+Set Designer
+Matte Painter
+Background Artist
+Layout Artist
+Animation Artist
+2D Animator
+Traditional Animator
+Hand-Drawn Animator
+Cell Animator
+Frame-by-Frame Animator
+Stop Motion Animator
+Puppeteer
+Model Maker
+Armature Builder
+Set Builder
+Miniature Artist
+Scale Model Builder
+Diorama Creator
+Shadow Box Artist

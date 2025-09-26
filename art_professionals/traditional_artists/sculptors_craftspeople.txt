@@ -1,0 +1,45 @@
+Sculptor
+Stone Carver
+Marble Sculptor
+Bronze Caster
+Clay Sculptor
+Ceramic Artist
+Potter
+Wheel Thrower
+Hand-Builder
+Kiln Master
+Glaze Specialist
+Raku Artist
+Porcelain Artist
+Stoneware Potter
+Earthenware Craftsperson
+Wood Carver
+Whittler
+Chainsaw Sculptor
+Relief Carver
+Furniture Maker
+Cabinet Maker
+Woodturner
+Metalworker
+Blacksmith
+Silversmith
+Goldsmith
+Coppersmith
+Jewelry Maker
+Ring Designer
+Bracelet Artisan
+Necklace Creator
+Earring Specialist
+Custom Jewelry Designer
+Precious Metal Artist
+Gem Setter
+Diamond Cutter
+Stone Polisher
+Enamel Artist
+Filigree Specialist
+Chain Mail Artist
+Armor Maker
+Blade Smith
+Knife Maker
+Sword Forger
+Tool Maker

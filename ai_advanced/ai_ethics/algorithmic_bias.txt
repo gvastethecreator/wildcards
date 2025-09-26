@@ -1,0 +1,51 @@
+# Category: AI Advanced
+# Subcategory: AI Ethics - Algorithmic Bias
+# Updated: September 25, 2025
+# Count: 45 entries
+# Tags: ai-ethics, algorithmic-bias, fairness, discrimination, machine-learning
+
+facial recognition systems misidentifying darker skin tones
+hiring algorithms favoring male candidates over female applicants
+credit scoring models discriminating against minority neighborhoods
+predictive policing software reinforcing racial profiling patterns
+medical diagnosis AI missing symptoms in underrepresented populations
+recommendation algorithms creating filter bubbles and echo chambers
+automated resume screening eliminating qualified diverse candidates
+criminal risk assessment tools showing racial bias in sentencing
+loan approval systems denying credit based on zip code demographics
+image recognition failing to identify people with disabilities accurately
+language translation models reflecting gender stereotypes
+voice recognition systems struggling with non-native accents
+autonomous vehicle sensors performing poorly in diverse lighting conditions
+content moderation algorithms censoring minority cultural expressions
+search engine results reinforcing harmful stereotypes
+advertising platforms enabling discriminatory targeting
+insurance pricing models using proxies for protected characteristics
+educational assessment tools biased against students from low-income families
+healthcare resource allocation algorithms disadvantaging rural populations
+employment screening tools filtering out older worker applicants
+housing recommendation systems perpetuating residential segregation
+social media algorithms amplifying extremist content
+news feed curation creating political polarization
+mental health chatbots providing culturally insensitive responses
+customer service bots offering different quality based on perceived demographics
+price optimization algorithms charging different amounts by location
+gig economy platforms rating systems biased against workers of color
+dating app algorithms reinforcing beauty standards and racial preferences
+gaming AI creating hostile environments for female players
+financial advisory bots providing different investment advice by gender
+legal case prediction models reflecting historical judicial bias
+immigration processing systems flagging applicants by country of origin
+accessibility tools failing users with diverse disability types
+language learning apps biased toward standard dialect speakers
+music recommendation systems underrepresenting artists from global south
+shopping recommendation engines assuming binary gender categories
+smart city sensors monitoring certain neighborhoods more heavily
+healthcare triage systems prioritizing patients by insurance status
+job matching platforms steering women away from technical roles
+academic paper review systems biased against certain research topics
+transportation apps avoiding routes through lower-income areas
+childcare matching services reinforcing traditional gender roles
+elder care recommendation systems overlooking cultural preferences
+disaster response AI allocating resources unequally across communities
+climate adaptation planning tools ignoring vulnerable population needs

@@ -1,0 +1,20 @@
+matte surface diffusion
+glossy surface reflection
+satin surface semi-gloss
+eggshell surface subtle sheen
+semi-gloss surface moderate shine
+high-gloss surface mirror-like
+brushed surface directional texture
+polished surface smooth finish
+hammered surface textured metal
+sandblasted surface frosted glass
+etched surface acid treatment
+embossed surface raised pattern
+debossed surface recessed design
+stippled surface dotted texture
+combed surface linear pattern
+crosshatch surface grid texture
+pebbled surface granular feel
+smooth surface seamless finish
+rough surface tactile quality
+textured surface dimensional depth

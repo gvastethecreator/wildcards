@@ -1,0 +1,102 @@
+photoshop layer masking precision selection
+illustrator vector paths scalable graphics
+procreate pressure-sensitive natural brushes
+clip studio paint animation frame-by-frame
+blender 3d modeling polygon mesh sculpting
+zbrush digital sculpting organic forms
+cinema 4d motion graphics procedural animation
+after effects compositing visual effects layers
+substance painter pbr material texturing workflow
+marvelous designer cloth simulation draping
+houdini procedural generation node-based system
+unity real-time rendering game engine integration
+unreal engine photorealistic architectural visualization
+maya character rigging animation pipeline
+3ds max architectural modeling precise geometry
+keyshot product rendering global illumination
+octane render gpu-accelerated photorealism
+arnold renderer physically-based materials
+redshift biased rendering production pipeline
+cycles open-source path tracing integration
+v-ray industry standard architectural rendering
+corona renderer photorealistic interior visualization
+lumion landscape architectural presentation
+twinmotion real-time architectural walkthrough
+enscape architectural visualization plugin integration
+sketch ui ux design vector interface
+figma collaborative interface design browser
+adobe xd user experience design prototyping
+invision prototyping collaboration platform
+principle interaction design animation tool
+framer code-based design animation
+origami facebook design prototyping tool
+marvel simple prototyping collaboration
+axure complex wireframing interaction design
+balsamiq low-fidelity wireframing sketching
+miro collaborative whiteboard brainstorming
+whimsical flowcharts mind mapping
+lucidchart diagramming collaboration professional
+draw.io free diagramming web application
+omnigraffle mac diagramming professional tool
+visio microsoft diagramming enterprise solution
+canva social media design templates
+adobe spark quick content creation
+figma design systems collaboration
+sketch symbols libraries design systems
+adobe creative cloud integrated suite
+affinity designer vector graphics affordable
+affinity photo raster editing photoshop alternative
+affinity publisher desktop publishing layout
+coreldraw vector graphics windows focus
+paintshop pro photo editing affordable
+gimp gnu image manipulation free
+inkscape vector graphics open source
+krita digital painting open source
+blender grease pencil 2d animation
+opentoonz studio ghibli animation software
+tvpaint professional 2d animation
+toon boom harmony industry standard animation
+adobe animate web animation interactive
+moho anime studio 2d character animation
+dragonframe stop motion animation
+fusion davinci resolve compositing
+nuke compositor industry standard vfx
+natron open source compositing alternative
+hitfilm express free video editing vfx
+davinci resolve color grading editing
+premiere pro video editing industry standard
+final cut pro mac video editing
+avid media composer professional editing
+lightworks professional editing cross-platform
+kdenlive open source video editing
+openshot simple video editing free
+shotcut cross-platform video editing
+filmora user-friendly video editing
+vegas pro professional video editing
+edius broadcast video editing
+resolve color grading industry standard
+baselight high-end color grading
+nucoda broadcast color grading
+scratch color grading compositing
+flame finishing compositing autodesk
+smoke editing finishing
+maya entertainment industry animation
+houdini procedural effects simulation
+katana lighting lookdev pipeline
+mari texture painting industry standard
+mudbox digital sculpting autodesk
+modo modeling animation rendering
+lightwave veteran 3d application
+cinema 4d motion graphics broadcast
+clarisse rendering lighting pipeline
+arnold rendering pixar renderman
+octane gpu rendering unbiased
+redshift gpu rendering biased
+cycles blender integrated rendering
+v-ray chaosgroup versatile renderer
+corona realistic interior rendering
+keyshot product visualization rendering
+maxwell render physically accurate
+thea render versatile lighting
+luxrender open source unbiased
+appleseed open source renderer

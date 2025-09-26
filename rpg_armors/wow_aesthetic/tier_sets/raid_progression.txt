@@ -1,0 +1,29 @@
+tier 1 molten core lawbringer paladin with ragnaros flame resistance
+tier 2 blackwing lair judgment paladin with nefarian dragon scale crafting
+tier 3 naxxramas redemption paladin with kel'thuzad undead legion protection
+tier 4 karazhan justicar paladin with medivh arcane tower exploration
+tier 5 serpentshrine cavern crystalforge paladin with lady vashj naga resistance
+tier 6 black temple lightbringer paladin with illidan demon hunter confrontation
+tier 7 naxxramas heroes redemption paladin with updated lich king encounter
+tier 8 ulduar conqueror paladin with yogg saron old god corruption resistance
+tier 9 trial of crusader crusader paladin with anub'arak nerubian king combat
+tier 10 icecrown citadel sanctified paladin with lich king arthas final battle
+tier 11 bastion of twilight reinforced paladin with deathwing cataclysm survival
+tier 12 firelands immolation paladin with ragnaros elemental lord resurrection
+tier 13 dragon soul dragon soul paladin with deathwing aspect madness corruption
+tier 14 heart of fear dreadnaught paladin with garrosh horde warchief rebellion
+tier 15 throne of thunder guardian paladin with lei shen thunder king mogu power
+tier 16 siege of orgrimmar retribution paladin with garrosh true horde restoration
+tier 17 highmaul primal paladin with imperator margok ogre sorcerer supremacy
+tier 18 blackrock foundry blackhand paladin with warlord foundry war machine construction
+tier 19 emerald nightmare dreamgrove paladin with xavius nightmare lord corruption
+tier 20 tomb of sargeras tomb paladin with kil'jaeden burning legion commander
+tier 21 antorus the burning throne antorus paladin with argus world soul titan
+death knight tier scourgelord with lich king arthas undead mastery power
+warrior tier dreadnaught with strength honor and battlefield tactical supremacy
+rogue tier shadowcraft with stealth assassination and poison application mastery
+mage tier arcanist with elemental fire frost arcane magic school specialization
+warlock tier nemesis with demon summoning and soul manipulation dark magic
+priest tier vestments with holy shadow discipline magic divine calling service
+shaman tier earthfury with elemental totemic ancestral spirit nature connection
+hunter tier dragonstalker with beast mastery and survival wilderness tracking skill

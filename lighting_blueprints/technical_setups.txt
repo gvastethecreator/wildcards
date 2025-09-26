@@ -1,0 +1,106 @@
+three-point lighting setup with key fill and rim light positioning
+Rembrandt lighting creating triangular highlight on shadow side of face
+butterfly lighting positioned directly above subject casting nose shadow
+loop lighting creating small shadow loop beside nose
+split lighting dividing face exactly in half with light and shadow
+broad lighting illuminating side of face turned toward camera
+short lighting illuminating side of face turned away from camera
+clamshell lighting using beauty dish above and reflector below
+rim lighting creating bright outline separating subject from background
+hair light positioned behind subject highlighting hair texture
+background light separating subject from backdrop with gradient
+practical lighting using visible light sources within scene
+motivated lighting appearing to come from logical source
+ambient lighting providing overall scene illumination without shadows
+hard lighting creating sharp defined shadows with minimal transition
+soft lighting creating gradual shadow transitions and flattering skin
+diffused lighting spreading light evenly through translucent material
+bounced lighting reflecting off surfaces for indirect illumination
+colored gel lighting adding mood through chromatic temperature shifts
+tungsten lighting warm 3200K color temperature for indoor scenes
+daylight balanced lighting cool 5600K color temperature matching sunlight
+LED panel lighting energy efficient with adjustable color temperature
+fluorescent lighting continuous even illumination for extended shoots
+HMI lighting powerful daylight balanced arc lights for exterior work
+strobe lighting high intensity flash for still photography
+continuous lighting constant illumination allowing real-time adjustment
+fresnel lens focusing creating hard or soft light with barn doors
+softbox lighting large diffused source creating even skin illumination
+umbrella lighting bounced or shoot-through for portable soft light
+beauty dish lighting focused soft light for portrait work
+octabank lighting eight-sided large softbox for wrap-around illumination
+strip light lighting long narrow softbox for edge lighting
+honeycomb grid controlling light spill with precise beam angle
+barn doors controlling light direction with adjustable metal flaps
+flags blocking unwanted light with opaque panels
+scrims reducing light intensity with translucent fabric panels
+reflectors bouncing light back onto subject with white gold or silver
+gobos creating shadow patterns with cutout shapes
+cookies casting dappled shadow patterns mimicking natural elements
+practical bulbs visible light sources integrated into set design
+neon lighting colorful tube lighting creating mood atmosphere
+candle lighting warm flickering illumination for intimate scenes
+firelight simulation using warm amber gels and flickering mechanisms
+moonlight simulation using cool blue lighting with soft shadows
+sunlight simulation using hard warm light with sharp shadows
+golden hour lighting warm low angle light with long shadows
+blue hour lighting cool twilight illumination between day and night
+overcast lighting soft even illumination simulating cloudy sky
+window lighting natural daylight streaming through glass openings
+streetlight simulation using warm sodium vapor color temperature
+car headlight simulation using cool white hard beam patterns
+stage lighting theatrical illumination with dramatic color changes
+concert lighting dynamic moving lights synchronized with music
+architectural lighting highlighting building features and textures
+landscape lighting illuminating outdoor environments and gardens
+underwater lighting waterproof illumination for submerged scenes
+macro lighting specialized close-up illumination revealing fine details
+high-speed photography lighting brief intense illumination freezing motion
+long exposure lighting extended illumination for motion blur effects
+light painting using moving lights during extended exposures
+projection mapping lighting digital images onto three-dimensional surfaces
+laser lighting concentrated coherent beams for special effects
+blacklight ultraviolet illumination revealing fluorescent materials
+infrared lighting invisible illumination for night vision cameras
+fiber optic lighting point sources delivered through flexible cables
+electroluminescent lighting cold light strips for costume integration
+phosphorescent lighting glow-in-the-dark materials charged by light exposure
+bioluminescent lighting living organisms producing natural illumination
+holographic lighting three-dimensional light projections in space
+volumetric lighting visible light beams through atmospheric particles
+caustic lighting water or glass refracting light into patterns
+chromatic aberration lighting separating colors at high contrast edges
+bokeh lighting out-of-focus highlights creating circular blur patterns
+lens flare lighting bright sources creating optical artifacts
+god rays lighting dramatic beams streaming through openings
+rim backlighting creating bright outline around subject silhouette
+kicker lighting accent light from side angle highlighting texture
+eye light small catch light creating sparkle in subject's eyes
+background separation lighting preventing subject from blending into backdrop
+color temperature mixing combining warm and cool sources for contrast
+light falloff controlling how quickly illumination decreases with distance
+inverse square law understanding how light intensity decreases over distance
+light metering measuring illumination levels for proper exposure
+white balance adjusting color temperature for neutral color reproduction
+color rendering index measuring how accurately colors appear under light
+footcandle measurement quantifying illumination intensity at surface
+lux measurement metric unit for illumination intensity
+kelvin temperature measuring color temperature of light sources
+RGB color mixing combining red green and blue for full spectrum
+additive color mixing light colors combining to create white
+subtractive color mixing pigment colors combining to create black
+complementary color pairing opposite colors on color wheel for contrast
+analogous color grouping adjacent colors on wheel for harmony
+triadic color arrangement three evenly spaced colors for vibrant contrast
+split complementary using base color plus two colors adjacent to complement
+tetradic color arrangement four colors forming rectangle on color wheel
+monochromatic color scheme using single color in various tones
+achromatic color scheme using only black white and gray tones
+warm color temperature reds oranges and yellows creating cozy atmosphere
+cool color temperature blues greens and purples creating calm atmosphere
+neutral color temperature balanced between warm and cool for natural look
+color scripting planning emotional color progression throughout narrative
+lighting continuity maintaining consistent illumination between shots
+day-for-night filming daylight scenes with filters appearing nocturnal
+night-for-day filming dark scenes with added light appearing daytime
+magic hour timing shoot during golden or blue hour for optimal light

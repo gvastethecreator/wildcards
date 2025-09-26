@@ -1,0 +1,113 @@
+camera pan horizontal movement following subject across frame
+camera tilt vertical movement revealing height or depth
+camera zoom optical magnification drawing viewer closer or farther
+camera dolly physical movement of entire camera apparatus
+camera track lateral movement parallel to subject action
+camera crane vertical movement providing elevated perspective
+camera handheld organic movement creating intimate documentary feel
+camera steadicam stabilized movement combining mobility with smoothness
+camera gimbal electronically stabilized movement for complex shots
+camera drone aerial movement providing impossible perspectives
+whip pan rapid horizontal movement creating motion blur transition
+crash zoom abrupt magnification creating dramatic emphasis
+push-in slow approach intensifying emotional connection
+pull-out gradual retreat revealing broader context
+orbital movement circular path around stationary subject
+figure-eight movement infinity pattern creating dynamic coverage
+parallax movement revealing depth through layered motion
+match cut movement action continuing seamlessly between shots
+motivated movement camera responding to character actions
+unmotivated movement camera creating independent visual rhythm
+leading the action camera anticipating subject movement
+following the action camera reacting to subject movement
+blocking actors strategic positioning of performers within frame
+staging environment arrangement of set pieces for optimal movement
+sight lines ensuring clear visual pathways between key elements
+proxemics psychological effects of physical distance between subjects
+kinetic energy visual excitement created through movement
+static composition deliberate absence of movement for emphasis
+dynamic composition active movement creating visual tension
+circular staging movement patterns forming circles or spirals
+linear staging movement along straight pathways
+triangular staging three-point positioning creating stable composition
+diagonal staging movement along angled pathways creating energy
+vertical staging movement emphasizing height through elevation changes
+horizontal staging movement emphasizing width through lateral motion
+foreground action movement occurring closest to camera
+background action movement occurring farthest from camera
+middle ground action movement occurring in central depth plane
+layered action simultaneous movement at multiple depth planes
+converging action multiple subjects moving toward single point
+diverging action subjects moving away from central point
+crossing action subjects passing through frame in opposite directions
+parallel action subjects moving in same direction maintaining distance
+intersecting action subjects paths crossing at specific moment
+chase sequence rapid movement with pursuit and evasion
+fight choreography carefully planned combat movements ensuring safety
+dance numbers musical sequences requiring precise movement coordination
+crowd scenes mass movement of background performers
+vehicle sequences movement involving cars motorcycles or other transport
+water scenes movement adapted for aquatic environments
+aerial sequences movement occurring during flight or falling
+zero gravity movement simulating weightless environment effects
+slow motion movement temporally extended revealing hidden details
+time lapse movement temporally compressed showing extended processes
+reverse motion movement played backwards creating surreal effects
+stop motion movement created through sequential still photographs
+motion capture digital recording of real movement for animation
+performance capture comprehensive recording including facial expressions
+previz movement pre-visualization using digital tools before filming
+animatics rough animation showing basic movement concepts
+storyboard sequential drawings indicating planned movement
+shot list detailed breakdown of required movements per setup
+movement rehearsal practice sessions perfecting choreographed sequences
+movement improvisation spontaneous actions developed during filming
+character movement distinctive motion patterns defining personality
+emotional movement physical expression of internal psychological states
+period movement historically accurate motion appropriate to era
+cultural movement region-specific gestures and movement patterns
+age-appropriate movement motion suitable for character demographics
+disability representation authentic movement for differently-abled characters
+animal movement observation and replication of creature behaviors
+supernatural movement impossible actions suggesting otherworldly abilities
+mechanical movement robotic or artificial motion patterns
+liquid movement fluid continuous motion resembling water flow
+wind movement responding to or suggesting air current effects
+fire movement rapid flickering motion suggesting flame behavior
+earth movement heavy grounded motion suggesting geological forces
+explosive movement rapid expansion from central point
+implosive movement rapid contraction toward central point
+magnetic movement attraction and repulsion forces affecting motion
+gravitational movement falling and floating effects
+centrifugal movement spinning outward from rotating center
+centripetal movement spiraling inward toward central point
+pendulum movement rhythmic swinging back and forth
+oscillating movement rapid back and forth vibration
+pulsing movement rhythmic expansion and contraction
+breathing movement rising and falling like respiratory rhythm
+heartbeat movement double pulse rhythm suggesting cardiovascular activity
+wave movement undulating motion traveling across surface
+ripple movement concentric circles expanding from impact point
+cascade movement descending levels like waterfall effect
+avalanche movement accelerating mass destruction
+earthquake movement violent shaking and structural collapse
+tornado movement spiraling vortex with destructive power
+hurricane movement circular wind patterns with calm center
+lightning movement rapid jagged electrical discharge patterns
+thunder movement delayed shock wave following lightning
+rainfall movement vertical descent with wind direction influence
+snowfall movement gentle descent with swirling air current effects
+fog movement slow horizontal drift obscuring visibility
+smoke movement vertical rise with wind dispersion
+steam movement rapid expansion from heated liquid
+mist movement fine droplet suspension in air
+dust movement particle clouds stirred by activity
+sand movement granular flow responding to wind and gravity
+leaf movement individual and mass response to air currents
+grass movement field-wide response to wind patterns
+tree movement branch swaying and trunk flexibility
+flower movement delicate petal response to breeze
+bird movement flight patterns takeoff landing and formation flying
+fish movement swimming patterns schooling and feeding behaviors
+insect movement flight crawling and swarming activities
+mammal movement walking running jumping and hunting behaviors

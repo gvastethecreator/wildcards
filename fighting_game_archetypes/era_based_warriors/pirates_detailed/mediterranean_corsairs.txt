@@ -1,0 +1,55 @@
+Mediterranean Corsair Barbary Coast Raider
+Mediterranean Corsair Algiers Base North Africa
+Mediterranean Corsair Tunis Regency Pirate
+Mediterranean Corsair Tripoli Corsair Libya
+Mediterranean Corsair Salé Republic Morocco
+Mediterranean Corsair Ottoman Empire Sanctioned
+Mediterranean Corsair Janissary Marine Soldier
+Mediterranean Corsair Rais Captain Leader
+Mediterranean Corsair Galley Slave Rower
+Mediterranean Corsair Christian Captive Slave
+Mediterranean Corsair Levantine Corsair Eastern
+Mediterranean Corsair Malta Knights Enemy
+Mediterranean Corsair Venetian Galley Hunter
+Mediterranean Corsair Genoa Merchant Target
+Mediterranean Corsair Spanish Treasure Hunter
+Mediterranean Corsair French Merchant Raider
+Mediterranean Corsair Sack Coastal Town
+Mediterranean Corsair Slave Market Supplier
+Mediterranean Corsair Ransom Negotiator
+Mediterranean Corsair Convert Islam Turncoat
+Adriatic Pirate Venetian Republic Enemy
+Adriatic Pirate Dalmatian Coast Base
+Adriatic Pirate Uskok Croatian Raider
+Adriatic Pirate Senj Fortress Base
+Adriatic Pirate Habsburg Austrian Support
+Adriatic Pirate Ottoman Turkish Enemy
+Adriatic Pirate Split Harbor Raider
+Adriatic Pirate Dubrovnik Republic Target
+Adriatic Pirate Istrian Peninsula Base
+Aegean Pirate Greek Island Base
+Aegean Pirate Cyclades Island Raider
+Aegean Pirate Crete Venetian Territory
+Aegean Pirate Rhodes Knights Territory
+Aegean Pirate Ottoman Turkish Patrol
+Aegean Pirate Byzantine Successor Pirate
+Aegean Pirate Archipelago Island Hopper
+Aegean Pirate Merchant Galley Hunter
+Tyrrhenian Pirate Sardinia Corsica Base
+Tyrrhenian Pirate Papal State Enemy
+Tyrrhenian Pirate Tuscan Coast Raider
+Tyrrhenian Pirate Neapolitan Water Enemy
+Tyrrhenian Pirate Sicilian Strait Raider
+Tyrrhenian Pirate French Riviera Target
+Ionian Pirate Albanian Coast Base
+Ionian Pirate Corfu Venetian Target
+Ionian Pirate Otranto Strait Controller
+Ionian Pirate Southern Italy Raider
+Black Sea Pirate Cossack Sich Raider
+Black Sea Pirate Zaporizhzhian Cossack
+Black Sea Pirate Crimean Tatar Ally
+Black Sea Pirate Ottoman Turkish Enemy
+Black Sea Pirate Romanian Coast Raider
+Black Sea Pirate Bulgarian Coast Target
+Black Sea Pirate Georgian Coast Raider
+Black Sea Pirate Circassian Mountain Base

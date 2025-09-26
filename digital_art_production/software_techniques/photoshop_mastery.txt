@@ -1,0 +1,130 @@
+layer masking technique
+adjustment layer color
+blend mode compositing
+smart filter non-destructive
+clone stamp repair
+healing brush restoration
+content-aware fill
+perspective warp correction
+liquify tool distortion
+puppet warp animation
+frequency separation retouching
+dodge and burn modeling
+color grading cinematic
+curves adjustment precision
+levels histogram correction
+hue saturation vibrance
+shadow highlight recovery
+noise reduction digital
+sharpening output preparation
+batch processing automation
+luminosity masking precision
+channel masking advanced
+vector masking path-based
+clipping mask layer limitation
+layer group organization
+smart object non-destructive
+linked smart object external
+embedded smart object internal
+adjustment layer masking
+layer style effects
+drop shadow depth
+inner shadow recessed
+outer glow luminous
+inner glow internal light
+bevel emboss dimension
+satin metallic sheen
+color overlay tint
+gradient overlay blend
+pattern overlay texture
+stroke outline definition
+blend mode normal standard
+multiply darken
+screen lighten
+overlay contrast
+soft light gentle
+hard light harsh
+color dodge brightening
+color burn darkening
+linear dodge add
+linear burn subtract
+vivid light extreme
+linear light balanced
+pin light replace
+hard mix posterize
+difference invert
+exclusion muted invert
+hue color only
+saturation intensity only
+color hue-saturation
+luminosity brightness only
+darker color compare
+lighter color compare
+divide mathematical
+pen tool precise paths
+direct selection anchor manipulation
+path selection entire path
+add anchor point path expansion
+delete anchor point path reduction
+convert point tool smooth-corner
+curvature pen easy curves
+freeform pen natural drawing
+magnetic pen edge detection
+quick selection intelligent edge
+magic wand similar pixels
+rectangular marquee geometric
+elliptical marquee circular
+single row pixel line
+single column pixel line
+lasso tool freehand
+polygonal lasso straight edges
+magnetic lasso edge following
+crop tool composition
+slice tool web division
+eyedropper color sampling
+3D material picker texture
+count tool object counting
+ruler tool measurement
+note tool annotation
+hand tool navigation
+zoom tool magnification
+foreground color primary
+background color secondary
+default colors black-white
+switch colors x-key
+brush tool painting
+pencil tool hard edge
+color replacement target hue
+mixer brush realistic paint
+history brush state restoration
+art history impressionistic
+eraser tool removal
+background eraser smart removal
+magic eraser similar removal
+gradient tool smooth transition
+paint bucket fill tool
+pattern stamp texture brush
+healing brush seamless repair
+spot healing automatic repair
+patch tool area replacement
+content-aware move object relocation
+red eye tool portrait correction
+blur tool softening
+sharpen tool detail enhancement
+smudge tool paint mixing
+dodge tool lightening
+burn tool darkening
+sponge tool saturation
+type tool text creation
+horizontal type standard text
+vertical type rotated text
+type mask selection text
+horizontal type mask selection
+vertical type mask selection
+path text curved text
+rectangle tool geometric shape
+rounded rectangle smooth corners
+ellipse tool circular shape
+polygon tool multi-sided
+line tool straight stroke
+custom shape library shapes

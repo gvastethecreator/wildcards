@@ -1,0 +1,45 @@
+Battle Scars Veteran
+Fresh Faced Rookie
+Weathered Experienced
+Youthful Energetic
+Aged Wise Master
+Middle-Aged Prime
+Teen Prodigy Fighter
+Child Genius Warrior
+Elderly Sage Fighter
+Ancient Master Immortal
+Timeless Ageless Fighter
+Stone-Faced Stoic
+Expressive Emotional
+Smiling Optimist Fighter
+Frowning Pessimist
+Neutral Calm Expression
+Intense Fierce Gaze
+Gentle Kind Eyes
+Sharp Predator Stare
+Wise Ancient Eyes
+Young Bright Eyes
+Tired Weary Look
+Alert Watchful Gaze
+Sleepy Relaxed Eyes
+Wide-Eyed Surprised
+Narrow-Eyed Suspicious
+Closed-Eyes Meditative
+One-Eyed Patch Veteran
+Heterochromia Different Colors
+Glowing Eyes Power
+Normal Human Eyes
+Mechanical Cyber Eyes
+Bandaged Wrapped Fighter
+Masked Hidden Identity
+Hooded Mysterious Fighter
+Bare-Faced Open Fighter
+Painted War Face
+Tattooed Marked Warrior
+Pierced Modified Fighter
+Clean Unmarked Fighter
+Dirty Battle-Worn
+Polished Pristine Fighter
+Rugged Rough Fighter
+Smooth Clean Fighter
+Hairy Wild Fighter

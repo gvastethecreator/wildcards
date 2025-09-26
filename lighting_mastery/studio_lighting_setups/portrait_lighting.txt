@@ -1,0 +1,121 @@
+three-point lighting classic
+key light primary illumination
+fill light shadow softening
+rim light edge definition
+Rembrandt lighting triangle
+butterfly lighting glamour
+loop lighting subtle shadow
+split lighting dramatic half
+broad lighting wide face
+short lighting narrow face
+clamshell lighting beauty
+high key bright exposure
+low key dramatic shadows
+side lighting texture emphasis
+top lighting overhead drama
+backlighting silhouette creation
+cross lighting dual source
+edge lighting outline definition
+practical lighting environmental
+motivated lighting realistic
+Paramount lighting butterfly shadow
+shell lighting wrap-around softness
+beauty dish centered perfection
+ring light shadowless illumination
+octabox eight-sided softness
+parabolic reflector focused beam
+fresnel spotlight theatrical control
+barn doors light shaping
+snoot narrow beam control
+grid honeycomb directional
+flag shadow creation
+scrim diffusion softening
+bounce card fill reflection
+v-flat background control
+gobo pattern projection
+cookie shadow texture
+gel color temperature
+diffusion material soft light
+reflector light direction
+umbrella broad coverage
+softbox controlled diffusion
+strip light linear highlight
+background light separation
+hair light rim definition
+kicker light accent highlight
+catch light eye sparkle
+modeling light continuous preview
+strobe flash burst
+tungsten continuous warm
+LED panel adjustable temperature
+HMI daylight balanced
+fluorescent color accurate
+practical bulb environmental
+candle flame warm ambiance
+fire pit dramatic flicker
+neon tube colorful glow
+laser beam precise line
+spotlight dramatic focus
+floodlight broad coverage
+work light utilitarian
+street light urban atmosphere
+car headlight directional beam
+traffic light color signal
+shop window commercial display
+billboard backlight advertising
+stage light theatrical drama
+concert light music atmosphere
+club light party energy
+disco ball scattered sparkle
+mirror ball reflection pattern
+prism light spectrum split
+crystal light refraction
+water reflection liquid mirror
+glass refraction light bend
+metal reflection surface shine
+fabric diffusion soft scatter
+paper diffusion affordable soft
+shower curtain DIY diffusion
+bedsheet makeshift modifier
+aluminum foil harsh reflection
+white wall bounce surface
+ceiling bounce indirect soft
+window light natural source
+door light directional natural
+skylight overhead natural
+clerestory window high natural
+north window consistent soft
+south window variable intensity
+east window morning warm
+west window evening golden
+golden hour warm glow
+blue hour cool mystery
+magic hour photographer favorite
+harsh noon overhead shadow
+overcast soft diffusion
+storm light dramatic contrast
+sunset warm directional
+sunrise cool awakening
+twilight mixed temperature
+night artificial dominant
+indoor mixed temperature
+outdoor natural variable
+studio controlled environment
+location environmental challenge
+available light existing source
+mixed lighting multiple sources
+color temperature kelvin scale
+daylight 5600K standard
+tungsten 3200K warm
+candlelight 1900K intimate
+fluorescent 4100K office
+LED variable adjustable
+white balance color correction
+gel filter color modification
+CTO orange warming
+CTB blue cooling
+plus green magenta correction
+minus green green removal
+ND filter light reduction
+polarizer reflection control
+diffusion filter soft light

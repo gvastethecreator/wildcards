@@ -2,42 +2,57 @@
 
 ## Project Overview
 
-This is a comprehensive collection of wildcards for ComfyUI, structured as a curated text-based prompt enhancement system. The project contains thousands of categorized terms organized in `.txt` files to dynamically generate creative AI prompts for image generation.
+This is a comprehensive collection of wildcards for ComfyUI, structured as a curated text-based prompt enhancement system. The project contains thousands of categorized terms organized in `.txt` files to dynamically generate creative AI prompts for image generation. **Updated with 2025 trends** including AI ethics, sustainability, hybrid spaces, and neurosciencewell
 
 ## Architecture & Organization
 
 ### Core Structure Pattern
-- **Categorization**: 80+ top-level directories following semantic domains (characters, environments, styles, technical, etc.)
+- **Scale**: 100+ top-level directories following semantic domains
 - **File Format**: Plain `.txt` files with one term/phrase per line
 - **Naming Convention**: Descriptive directory names with snake_case for multi-word concepts
-- **Hierarchical Organization**: Categories → Subcategories → Content files
+- **Hierarchical Organization**: Categories → Subcategories → Content files (max 3 levels deep)
+- **Documentation Language**: Mixed Spanish/English (README in Spanish, instructions in English)
 
-### Key Directory Categories
+### Essential Directory Categories
 ```
-characters/        # People, professions, creatures
-environments/      # Locations, weather, landscapes  
-styles/           # Art movements, photography techniques
-technical/        # Camera settings, lighting, composition
+characters/        # People, professions, creatures, archetypes
+environments/      # Locations, weather, landscapes, liminal spaces
+styles/           # Art movements, photography techniques, visual aesthetics
+technical/        # Camera settings, lighting, composition, post-processing
 modifiers/        # Quality terms, positive/negative descriptors
-objects/          # Items, vehicles, weapons, furniture
-worldbuilding/    # Fantasy/sci-fi settings, mythology
-impossible_*/     # Surreal/abstract concepts
+objects/          # Items, vehicles, weapons, furniture, impossible geometry
+worldbuilding/    # Fantasy/sci-fi settings, mythology, impossible societies
+ai_advanced/      # AI ethics, emerging roles, visualization (2025)
+sustainability_advanced/  # Climate adaptation, green tech (2025)
+neuroscience_wellness/    # Brain states, biofeedback (2025)
+content_creation_advanced/ # Platform-specific, AI workflows (2025)
 ```
 
 ## Content Patterns
 
-### Standard Wildcard Files
-- **Format**: Newline-separated terms, no quotes or special formatting
-- **Content Style**: Descriptive phrases that work naturally in prompts
+### Legacy Format (Pre-2025)
+- **Format**: Pure content, one term per line, no metadata
 - **Examples**: 
   - `characters/professions/modern.txt`: "Doctor", "Engineer", "Teacher"
-  - `technical/lighting/types.txt`: "natural lighting", "dramatic lighting"
   - `modifiers/positive.txt`: "high detail", "masterpiece", "ultra high quality"
 
-### Advanced Concept Files
-- **Impossible Concepts**: Creative abstract professions and surreal scenarios
-- **Worldbuilding**: Detailed fantasy/sci-fi settings and mythology
-- **Specialized**: Domain-specific terminology (gaming, cinema, fashion)
+### Modern Format (2025+)
+- **Header Metadata**: Required for new categories
+```
+# Category: AI Advanced
+# Subcategory: Emerging AI Roles - AI Artists  
+# Updated: September 25, 2025
+# Count: 40 entries
+# Tags: ai-creativity, digital-artists, generative-art
+```
+- **Content**: Detailed descriptive phrases that work naturally in AI prompts
+- **Examples**: `ai_advanced/emerging_ai_roles/ai_artists.txt`, `sustainability_advanced/*/`
+
+### Specialized Content Types
+- **Impossible Concepts**: Abstract geometries, surreal scenarios (`objects/impossible_geometry.txt`)
+- **Technical Descriptors**: Camera settings, lighting, composition rules
+- **Cultural References**: Gaming, cinema, fashion, platform-specific aesthetics
+- **Scientific/Academic**: Neuroscience terms, climate data, AI ethics concepts
 
 ## Wildcard Usage System
 
@@ -63,36 +78,36 @@ __characters/professions/{modern,fantasy}__  # Choose from multiple files
 ## Development Guidelines
 
 ### Adding New Categories
-1. Create semantic directory names that align with existing patterns
-2. Use lowercase with underscores for multi-word directories
-3. Maintain hierarchical organization (max 3 levels deep recommended)
-4. Add documentation to `README.md` structure section
+1. **2025+ Format**: Always include metadata headers with Category, Subcategory, Updated date, Count, and Tags
+2. **Directory Structure**: Use semantic names with snake_case, max 3 levels deep
+3. **Documentation**: Update `README.md` with Spanish descriptions and examples
+4. **Integration**: Add usage examples to the README's "Cómo Usar las Wildcards" section
 
 ### Content Standards
-- One term per line in `.txt` files
-- No empty lines or comments within content files
-- Terms should be prompt-ready (no special characters that break wildcard parsing)
-- Consistent terminology within categories
-- Balance between specificity and variety
+- **Legacy Files**: Pure content, one term per line, no metadata
+- **Modern Files**: Metadata header + content (see format above)
+- **Prompt Compatibility**: Terms must work naturally in ComfyUI wildcard syntax `__category/file__`
+- **No Special Characters**: Avoid characters that break wildcard parsing
+- **Descriptive Phrases**: Multi-word terms that enhance AI prompts naturally
 
-### File Naming
-- Use descriptive names that clearly indicate content
-- Maintain consistency within categories
-- Prefer singular nouns for file names
-- Use `general.txt` for broad collections within a category
+### File Organization Patterns
+- **Core Categories**: `characters/`, `environments/`, `styles/`, `technical/`, `modifiers/`
+- **Advanced Categories**: `*_advanced/` naming for specialized 2025 content
+- **Impossible Concepts**: Files containing surreal/abstract terms for creative prompts
+- **Language Mixing**: Spanish README documentation, English instruction files
 
 ## Integration Points
 
-### Documentation Files
-- `README.md`: Complete structure overview and usage guide
-- `EXAMPLES.md`: Practical prompt templates and combinations
-- Both files should be updated when adding major new categories
+### Critical Documentation Files
+- `README.md`: Spanish-language comprehensive guide with category descriptions and usage examples
+- No separate EXAMPLES.md - examples integrated into README sections
+- Update both structure overview and "Cómo Usar las Wildcards" when adding categories
 
-### Maintenance Workflow
-1. New content goes in existing categories when possible
-2. New categories require documentation updates
-3. Test wildcards in actual ComfyUI workflows
-4. Maintain semantic consistency across related categories
+### Development Workflow
+1. **Content Addition**: Prefer existing categories, use modern format for new 2025+ files
+2. **Category Creation**: Requires README updates in Spanish with emoji icons and descriptions
+3. **Quality Assurance**: Test wildcards in ComfyUI before committing
+4. **Metadata Consistency**: Use consistent tagging and dating patterns for new content
 
 ## Domain Knowledge
 
@@ -104,3 +119,25 @@ This project specifically serves **AI image generation workflows**, where:
 - Hierarchical organization enables complex prompt building
 
 The content balances practical terms (professions, objects) with creative concepts (impossible geometries, abstract professions) to serve both realistic and fantastical image generation needs.
+
+## Key Content Evolution Patterns
+
+### Temporal Content Strategy
+- **Legacy Content**: Traditional categories (characters, styles, environments) with simple term lists
+- **2025 Expansion**: Advanced categories reflecting contemporary concerns (AI ethics, climate change, hybrid work)
+- **Impossible/Surreal**: Specialized content for abstract artistic exploration
+- **Cultural Integration**: Platform-specific aesthetics (TikTok, Instagram) and viral culture references
+
+### Metadata Standards (2025+)
+```
+# Category: [Main Category Name]
+# Subcategory: [Category - Specific Area]  
+# Updated: [Month Day, Year]
+# Count: [Number] entries
+# Tags: [comma-separated, lowercase-with-hyphens]
+```
+
+### Usage Context Awareness
+- Files are consumed by ComfyUI's wildcard extension using `__path/to/file__` syntax
+- Content must be prompt-ready descriptive phrases, not just keywords
+- Hierarchical categories enable complex prompt building: `__characters/professions/modern__ in __environments/locations/urban__ with __technical/lighting/dramatic__`

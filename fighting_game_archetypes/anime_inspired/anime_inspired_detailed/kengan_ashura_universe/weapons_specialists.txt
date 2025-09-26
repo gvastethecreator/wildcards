@@ -1,0 +1,50 @@
+Katana Single Edge Sword Fighter
+Wakizashi Short Sword Dual Wielder Fighter
+Tanto Knife Close Combat Fighter
+Naginata Polearm Reach Fighter
+Yari Spear Thrust Fighter
+Bo Staff Long Range Fighter
+Tonfa Paired Batons Fighter
+Sai Three Pronged Trident Fighter
+Nunchaku Flail Chain Fighter
+Kusarigama Chain Sickle Fighter
+Shuriken Throwing Star Fighter
+Kunai Utility Knife Fighter
+Tessen Iron Fan Fighter
+Jutte Sword Breaker Fighter
+Manriki Chain Weighted Fighter
+Kyoketsu Shoge Hooked Chain Fighter
+Tekko Knuckle Dusters Fighter
+Kama Sickle Harvesting Fighter
+Kanabo Spiked Club Fighter
+Tetsubo Iron Staff Fighter
+Nodachi Great Sword Fighter
+Odachi Long Sword Fighter
+Kodachi Short Sword Fighter
+Shikomizue Hidden Blade Cane Fighter
+Fukiya Blowgun Dart Fighter
+Makibishi Caltrops Trap Fighter
+Metsubushi Blinding Powder Fighter
+Gunpowder Bomb Explosive Fighter
+Smoke Bomb Concealment Fighter
+Flash Bang Disorientation Fighter
+Caltrops Ground Spikes Fighter
+Wire Garrote Strangulation Fighter
+Poison Needle Hidden Fighter
+Hidden Blade Concealed Fighter
+Throwing Knife Projectile Fighter
+Crossbow Mechanical Fighter
+Compound Bow Modern Fighter
+Recurve Bow Traditional Fighter
+Longbow Distance Fighter
+Short Bow Quick Fighter
+Sling Stone Projectile Fighter
+Atlatl Spear Thrower Fighter
+Bola Weighted Rope Fighter
+Whip Flexible Weapon Fighter
+Flail Morning Star Fighter
+Mace Blunt Weapon Fighter
+War Hammer Heavy Fighter
+Battle Axe Chopping Fighter
+Halberd Combination Fighter
+Glaive Curved Blade Fighter

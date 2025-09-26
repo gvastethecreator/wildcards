@@ -1,0 +1,98 @@
+sunrise simulation gradual warm light increase mimicking dawn
+sunset simulation gradual warm light decrease mimicking dusk
+candlelight flicker random warm light variation mimicking flame movement
+fireplace glow warm orange light pulsing with wood burning rhythm
+lightning flash bright white strobe simulating electrical storm
+car headlights cool white beam sweeping across scene
+streetlamp sodium warm amber steady illumination from overhead
+moonlight cool blue soft illumination filtering through atmosphere
+starlight tiny pinpoints scattered across dark background
+aurora borealis shifting green and blue curtains in northern sky
+neon signs buzzing colorful tube lighting with electrical hum
+fluorescent office harsh white light with subtle flicker
+hospital lighting sterile cool white continuous illumination
+prison cell single harsh bulb casting stark shadows
+submarine red low-level illumination preserving night vision
+airplane cabin soft white overhead reading lights
+train compartment warm yellow incandescent bulbs swaying gently
+lighthouse beacon rotating bright beam sweeping ocean
+construction site harsh white work lights on tall poles
+stadium floodlights bright white illumination covering large area
+concert spotlights focused beams following performers on stage
+theater footlights warm illumination from below stage level
+church stained glass colored light filtering through windows
+cathedral shaft dramatic beam streaming through high opening
+campfire warm orange flickering light with dancing shadows
+torch flame bright warm light with wind-blown movement
+lantern soft warm glow contained within glass or fabric
+oil lamp steady warm flame with slight flicker
+gas lamp bright white light with subtle blue tinge
+electric bulb steady warm illumination with filament glow
+LED strip continuous line of bright white or colored light
+laser pointer narrow coherent beam creating dot on surface
+flashlight focused white beam with battery-powered consistency
+searchlight powerful beam scanning large area from single point
+projector bright focused beam displaying images or patterns
+disco ball scattered sparkles reflecting from mirrored surface
+strobe light rapid bright flashes creating freeze-frame effects
+blacklight ultraviolet illumination revealing fluorescent materials
+infrared camera invisible illumination visible only through special equipment
+night vision green monochromatic illumination amplifying available light
+thermal imaging false color representation of heat signatures
+X-ray illumination penetrating illumination revealing internal structures
+microscope illumination intense focused light for specimen examination
+telescope gathering faint light from distant celestial objects
+lighthouse lens focused beam visible from great distance
+signal fire bright flame used for long-distance communication
+emergency flare bright colored light for distress signaling
+police siren red and blue alternating lights with warning pattern
+ambulance strobe white and red emergency lighting with urgency
+fire truck bright red warning lights with rotating beam
+construction beacon orange warning light with steady or flashing pattern
+airport runway white and colored lights marking safe landing path
+traffic light red yellow green sequence controlling vehicle flow
+stop sign retroreflective surface illuminated by vehicle headlights
+road marker reflective studs marking lane boundaries
+hazard light orange warning illumination for roadside emergencies
+marine navigation red and green lights indicating vessel direction
+airplane wing lights red and green position indicators
+helicopter searchlight powerful beam for rescue or surveillance
+military flare bright illumination for battlefield visibility
+parachute flare aerial illumination descending slowly under canopy
+roman candle sequential colorful explosive illumination
+fireworks burst explosive colorful illumination in night sky
+sparkler handheld sparking illumination with metallic particles
+glowstick chemical illumination lasting several hours
+phosphorescence biological light production by living organisms
+bioluminescence natural light emission from marine creatures
+aurora australis southern hemisphere atmospheric light phenomenon
+zodiacal light faint illumination from interplanetary dust
+gegenschein faint glow opposite sun in night sky
+airglow upper atmosphere emission creating subtle illumination
+lightning bug intermittent yellow-green flashing from insect
+deep sea creatures bioluminescent patterns for communication
+volcanic glow red illumination from molten rock and gas
+meteor bright streak across sky from burning space debris
+satellite steady moving point of reflected sunlight
+space station bright steady movement across star field
+planet reflection steady circular illumination in telescope
+star twinkle atmospheric distortion of steady stellar light
+supernova brief intense stellar explosion outshining galaxy
+comet ion tail blue illumination streaming away from sun
+comet dust tail yellow illumination of reflected particles
+solar eclipse dark shadow with brilliant corona visible
+lunar eclipse red illumination from refracted earth shadow
+solar flare bright eruption from sun's surface
+sunspot dark region on sun's photosphere
+sun pillar vertical column of light reflected from ice crystals
+sun dog bright spot beside sun caused by ice crystal refraction
+moon halo circular illumination around moon from ice crystals
+rainbow arc spectrum dispersed by water droplets
+double rainbow two concentric arcs with reversed color order
+supernumerary rainbow faint additional arcs inside primary rainbow
+circumhorizontal arc rainbow colors in horizontal band
+iridescent clouds pearl-like colors from ice crystal diffraction
+crepuscular rays sun beams streaming through cloud openings
+anticrepuscular rays shadow beams converging opposite sun
+green flash brief green illumination at sunrise or sunset
+blue flash rare blue illumination under specific atmospheric conditions

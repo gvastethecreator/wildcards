@@ -1,0 +1,41 @@
+negative prompt engineering
+artifact prevention
+distortion avoidance
+quality degradation prevention
+anatomical error reduction
+unrealistic element blocking
+noise pattern elimination
+blur reduction techniques
+oversaturation prevention
+undersaturation blocking
+contrast imbalance avoidance
+lighting artifact removal
+shadow distortion prevention
+highlight blown-out blocking
+color cast elimination
+chromatic aberration reduction
+motion blur prevention
+depth of field errors
+perspective distortion blocking
+scale inconsistency prevention
+texture repetition avoidance
+pattern interference blocking
+style contamination prevention
+concept bleeding avoidance
+unwanted object blocking
+background noise elimination
+foreground contamination prevention
+composition error reduction
+framing issue avoidance
+cropping problem prevention
+resolution degradation blocking
+compression artifact elimination
+upscaling error prevention
+downscaling quality loss
+format conversion issues
+color space problems
+gamma correction errors
+dynamic range limitations
+bit depth restrictions
+file corruption prevention
+rendering glitch elimination

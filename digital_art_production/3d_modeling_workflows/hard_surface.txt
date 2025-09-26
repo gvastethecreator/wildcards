@@ -1,0 +1,20 @@
+hard surface modeling
+subdivision surface workflow
+edge flow topology
+quad-based geometry
+ngon cleanup optimization
+boolean operations cutting
+bevel modifier smoothing
+inset face detail
+knife tool cutting
+loop cut segmentation
+edge select precision
+face select area
+vertex select point
+proportional editing falloff
+mirror modifier symmetry
+array modifier repetition
+solidify modifier thickness
+skin modifier organic
+screw modifier threading
+lattice modifier deformation

@@ -1,0 +1,51 @@
+Natural Lighting
+Artificial Lighting
+Studio Lighting
+Ambient Light
+Direct Light
+Indirect Light
+Diffused Light
+Hard Light
+Soft Light
+Key Light
+Fill Light
+Rim Light
+Back Light
+Hair Light
+Background Light
+Kicker Light
+Accent Light
+Practical Light
+Motivated Light
+Unmotivated Light
+Golden Hour Light
+Blue Hour Light
+Magic Hour Light
+Sunrise Light
+Sunset Light
+Midday Sun
+Overcast Light
+Cloudy Day Light
+Foggy Atmosphere
+Misty Conditions
+Dramatic Lighting
+Moody Lighting
+Atmospheric Lighting
+Cinematic Lighting
+Theatrical Lighting
+Stage Lighting
+Concert Lighting
+Spotlight Effect
+Floodlight Coverage
+Candlelight
+Firelight
+Lamplight
+Neon Lighting
+LED Lighting
+Fluorescent Light
+Incandescent Bulb
+Halogen Light
+Strobe Light
+Flash Photography
+Bounce Flash
+Fill Flash

@@ -1,0 +1,55 @@
+Yamashiro Province Kyoto Imperial Capital
+Yamashiro Province Fushimi Castle Strategic Location
+Yamashiro Province Imperial Court Noble Samurai
+Yamato Province Nara Ancient Capital
+Yamato Province Kasuga Shrine Sacred Warrior
+Yamato Province Kofukuji Temple Warrior Monk
+Kawachi Province Osaka Bay Strategic Port
+Kawachi Province Ishiyama Honganji Fortress Temple
+Izumi Province Sakai Merchant Warrior
+Settsu Province Osaka Castle Toyotomi Stronghold
+Settsu Province Sumiyoshi Shrine Naval Prayer
+Iga Province Ninja Homeland Mountain
+Iga Province Hattori Hanzo Ninja Clan
+Iga Province Iga-ryu Ninjutsu School
+Ise Province Grand Shrine Sacred Warrior
+Ise Province Kumano Kodo Pilgrimage Route
+Shima Province Pearl Diving Ama Warrior
+Owari Province Nagoya Oda Nobunaga Domain
+Owari Province Atsuta Shrine Sacred Sword
+Mikawa Province Tokugawa Homeland Origin
+Mikawa Province Okazaki Castle Ieyasu Birth
+Totomi Province Hamamatsu Castle Tokugawa Base
+Suruga Province Mount Fuji Sacred Mountain
+Suruga Province Sumpu Castle Ieyasu Retirement
+Kai Province Takeda Shingen Tiger Domain
+Kai Province Kofu Castle Mountain Fortress
+Kai Province Takeda Cavalry Horse Warriors
+Shinano Province Uesugi Kenshin Dragon Territory
+Shinano Province Matsumoto Castle Black Crow
+Shinano Province Sanada Clan Mountain Warriors
+Kozuke Province Takasaki Castle Strategic Position
+Shimotsuke Province Nikko Shrine Tokugawa Mausoleum
+Hitachi Province Mito Domain Tokugawa Branch
+Shimosa Province Narita Castle Strategic Fort
+Kazusa Province Chiba Clan Horse Warriors
+Awa Province Tateyama Bay Naval Base
+Musashi Province Edo Tokyo Tokugawa Capital
+Musashi Province Kawagoe Castle Branch Castle
+Sagami Province Kamakura Shogunate Capital
+Sagami Province Odawara Castle Hojo Stronghold
+Izu Province Hakone Barrier Mountain Pass
+Izu Province Shimoda Perry Landing
+Echizen Province Fukui Domain Matsudaira Clan
+Echizen Province Ichijodani Asakura Castle
+Kaga Province Kanazawa Castle Maeda Domain
+Kaga Province Ikko-ikki Religious Warriors
+Noto Province Nanao Castle Coastal Fortress
+Etchu Province Toyama Castle Mountain Domain
+Echigo Province Kasugayama Castle Uesugi Base
+Echigo Province Joetsu Snow Country Warriors
+Sado Province Gold Mine Island Fortress
+Dewa Province Yamagata Castle Mountain Domain
+Dewa Province Shonai Domain Coastal Warriors
+Mutsu Province Sendai Domain Date Masamune
+Mutsu Province Aizu Domain Loyal Retainers

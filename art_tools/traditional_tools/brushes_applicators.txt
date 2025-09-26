@@ -1,0 +1,44 @@
+Flat Brush
+Round Brush
+Filbert Brush
+Bright Brush
+Fan Brush
+Angular Brush
+Liner Brush
+Detail Brush
+Script Brush
+Rigger Brush
+Mop Brush
+Wash Brush
+Hake Brush
+Badger Brush
+Sponge Brush
+Foam Brush
+Stencil Brush
+Stippling Brush
+Dry Brush
+Wet Brush
+Natural Bristle
+Synthetic Bristle
+Sable Hair
+Hog Bristle
+Squirrel Hair
+Goat Hair
+Ox Hair
+Camel Hair
+Mongoose Hair
+Kolinsky Sable
+Red Sable
+Watercolor Brush
+Oil Painting Brush
+Acrylic Brush
+Miniature Brush
+Model Painting Brush
+Fine Art Brush
+House Painting Brush
+Varnish Brush
+Glue Brush
+Palette Knife
+Painting Knife
+Spatula
+Spreader

@@ -1,0 +1,98 @@
+cinematic color grading post-production color manipulation for mood
+digital intermediate color timing process for film finishing
+LUT application lookup table color transformation for consistency
+primary color correction exposure contrast highlight shadow adjustment
+secondary color correction selective color area manipulation
+power window masking specific areas for targeted color correction
+tracking following moving subjects for consistent color treatment
+rotoscoping frame-by-frame masking for precise color control
+keying isolating colors for replacement or manipulation
+color matching ensuring consistency between different shots
+color continuity maintaining visual consistency throughout sequence
+day-for-night color grading making daylight appear nocturnal
+night-for-day color grading making darkness appear daylight
+magic hour enhancement extending golden hour color palette
+weather enhancement intensifying storm sunshine rain color effects
+season enhancement emphasizing spring summer autumn winter colors
+location enhancement making settings more visually appealing
+character enhancement using color to support character development
+mood enhancement using color to amplify emotional content
+genre enhancement using color to support comedy drama horror
+period enhancement using color to support historical authenticity
+fantasy enhancement using color to create otherworldly atmospheres
+sci-fi enhancement using color to suggest futuristic technology
+horror enhancement using color to create fear and tension
+romance enhancement using color to create intimacy and warmth
+action enhancement using color to increase energy and excitement
+documentary enhancement using color while maintaining realism
+commercial enhancement using color to increase product appeal
+music video enhancement using color for artistic expression
+television enhancement using color for broadcast standards
+streaming enhancement using color for digital distribution
+HDR color grading high dynamic range for expanded color gamut
+SDR color grading standard dynamic range for compatibility
+Rec.709 color space broadcast television color standard
+DCI-P3 color space digital cinema color standard
+Rec.2020 color space ultra-high-definition color standard
+sRGB color space standard web and computer color space
+Adobe RGB color space extended gamut for photography
+ProPhoto RGB color space maximum gamut for professional photography
+CMYK color space subtractive color for print reproduction
+LAB color space device-independent color representation
+XYZ color space absolute color based on human vision
+HSV color space hue saturation value cylindrical representation
+HSL color space hue saturation lightness cylindrical representation
+RGB color space additive color red green blue primaries
+YUV color space luminance chrominance video encoding
+gamma correction nonlinear color response for display devices
+linear workflow maintaining linear color throughout production
+log encoding logarithmic color encoding for maximum dynamic range
+false color temperature display for exposure analysis
+waveform monitoring luminance level analysis across image
+vectorscope monitoring chrominance analysis showing color distribution
+RGB parade monitoring separate red green blue channel analysis
+histogram analysis luminance distribution across tonal range
+scopes calibration ensuring accurate color monitoring equipment
+reference monitoring using calibrated displays for color accuracy
+color checker standardized color patches for calibration reference
+gray card neutral reference for exposure and color balance
+white balance correction for accurate color temperature reproduction
+skin tone optimization ensuring flattering human skin reproduction
+memory colors optimizing familiar colors like sky grass skin
+selective color targeting specific color ranges for adjustment
+color replace substituting one color with another
+color suppress reducing intensity of unwanted colors
+color enhance increasing intensity of desired colors
+color isolate removing all colors except selected range
+color shift moving entire color palette in specific direction
+color contrast increasing difference between colors
+color harmony reducing difference between colors for unity
+color temperature shift moving entire image warmer or cooler
+tint correction removing unwanted color cast
+saturation control increasing or decreasing color intensity
+vibrance control selective saturation avoiding skin tone distortion
+luminance control adjusting brightness without affecting color
+contrast control adjusting difference between light and dark
+highlight recovery restoring detail in overexposed areas
+shadow lift revealing detail in underexposed areas
+black point adjustment setting darkest point in image
+white point adjustment setting brightest point in image
+midtone contrast adjusting contrast in middle tones
+color wheels primary correction using lift gamma gain controls
+curves adjustment precise tone and color control using curves
+color warping extreme color manipulation for stylistic effects
+film emulation mimicking characteristics of photographic film
+vintage processing creating aged or retro color appearance
+bleach bypass high contrast desaturated look from film process
+cross processing color shifts from using wrong chemistry
+push processing increased contrast from overdevelopment
+pull processing decreased contrast from underdevelopment
+day-glo enhancement psychedelic oversaturated color effects
+infrared simulation false color mimicking infrared photography
+thermal imaging false color showing heat distribution
+night vision simulation green monochrome military appearance
+X-ray simulation high contrast skeletal appearance
+sepia toning monochrome brown color for vintage feel
+cyanotype blue monochrome alternative photography process
+platinum print monochrome with extended tonal range
+silver gelatin classic black and white photographic process

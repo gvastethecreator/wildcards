@@ -1,0 +1,20 @@
+real-time rendering gaming
+deferred shading pipeline
+forward rendering traditional
+tile-based rendering mobile
+clustered shading optimization
+screen-space reflection
+screen-space ambient occlusion
+temporal anti-aliasing
+multisample anti-aliasing
+fast approximate anti-aliasing
+image-based lighting
+environment mapping spherical
+cube mapping reflection
+parallax mapping depth
+normal mapping surface
+displacement mapping geometry
+tessellation subdivision
+geometry shader processing
+compute shader parallel
+vertex shader transformation

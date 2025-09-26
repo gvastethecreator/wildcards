@@ -1,0 +1,56 @@
+Roman Auxiliary Germanic Warrior Roman Service
+Roman Auxiliary Celtic Warrior Provincial Fighter
+Roman Auxiliary Thracian Warrior Balkan Fighter
+Roman Auxiliary Syrian Archer Eastern Province
+Roman Auxiliary Numidian Cavalry African Horse
+Roman Auxiliary Balearic Slinger Island Specialist
+Roman Auxiliary Cretan Archer Mediterranean Master
+Roman Auxiliary Gallic Cavalry Celtic Horse
+Roman Auxiliary Batavian Guard Rhine Elite
+Roman Auxiliary Dacian Warrior Romanian Fighter
+Roman Auxiliary Spanish Warrior Iberian Fighter
+Roman Auxiliary British Warrior Island Fighter
+Roman Auxiliary Pannonian Warrior Danubian Fighter
+Roman Auxiliary Raetian Warrior Alpine Fighter
+Roman Auxiliary Norican Warrior Austrian Fighter
+Alae Cavalry Wing Auxiliary Horse
+Alae Cavalry Quingenaria 500 Man Unit
+Alae Cavalry Milliaria 1000 Man Unit
+Cohors Infantry Auxiliary Foot Soldier
+Cohors Infantry Quingenaria 500 Man Unit
+Cohors Infantry Milliaria 1000 Man Unit
+Cohors Equitata Mixed Infantry Cavalry
+Numeri Irregular Unit Tribal Fighter
+Numeri Germanic Unit Tribal Organization
+Numeri Dacian Unit Romanian Service
+Numeri Palmyrene Unit Syrian Desert
+Cuneus Wedge Formation Cavalry
+Cuneus Sarmatian Heavy Cavalry Unit
+Vexillatio Detachment Special Mission
+Vexillatio Legion Detachment Elite
+Exploratores Scout Unit Reconnaissance
+Exploratores Germanic Frontier Scout
+Sagittarii Archer Unit Composite Bow
+Sagittarii Syrian Archer Eastern Master
+Sagittarii Cretan Archer Island Master
+Fundatores Slinger Unit Stone Thrower
+Fundatores Balearic Slinger Island Master
+Levis Armatura Light Infantry Skirmisher
+Levis Armatura Velites Roman Light
+Auxilia Palatina Late Roman Elite
+Auxilia Palatina Mobile Field Army
+Scholae Palatinae Late Roman Guard
+Scholae Palatinae Imperial Bodyguard
+Foederati Allied Barbarian Troops
+Foederati Treaty Warrior Land Grant
+Foederati Gothic Warrior Eastern Service
+Foederati Frankish Warrior Western Service
+Limitanei Border Troops Frontier Guard
+Limitanei Static Defense Regional
+Comitatenses Mobile Field Army Regional
+Comitatenses Late Roman Professional
+Palatini Imperial Guard Elite Force
+Palatini Court Regiment Imperial
+Protectores Palace Guard Officer
+Protectores Future General Training
+Scholae Palace School Officer Training

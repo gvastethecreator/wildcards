@@ -1,0 +1,20 @@
+haptic feedback tactile sensation
+biometric sensors physiological response
+brain-computer interface neural control
+eye tracking gaze interaction
+gesture recognition movement control
+voice recognition audio interaction
+facial recognition identity detection
+emotion recognition affective computing
+proximity sensors spatial awareness
+temperature sensors environmental response
+pressure sensors touch sensitivity
+accelerometer movement detection
+gyroscope orientation sensing
+GPS location awareness
+RFID proximity identification
+QR code information linking
+NFC near-field communication
+Bluetooth wireless connectivity
+WiFi network integration
+IoT internet connectivity

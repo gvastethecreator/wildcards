@@ -1,0 +1,55 @@
+Court Noble Kuge Imperial Court Aristocrat
+Court Noble Sesshō Regent Emperor Minor
+Court Noble Kampaku Chancellor Emperor Adult
+Court Noble Sadaijin Minister Left
+Court Noble Udaijin Minister Right
+Court Noble Naidaijin Interior Minister
+Court Noble Dainagon Major Counselor
+Court Noble Chunagon Middle Counselor
+Court Noble Shonagon Minor Counselor
+Court Noble Sangi Imperial Advisor
+Provincial Noble Zuryō Provincial Governor
+Provincial Noble Kokushi Provincial Official
+Provincial Noble Gunji District Magistrate
+Provincial Noble Gōzoku Local Magnate
+Provincial Noble Tato Paddy Field Owner
+Warrior Class Bushi Warrior Class
+Warrior Class Mononofu Armed Person
+Warrior Class Tsuwamono Strong Person
+Warrior Class Yorimashi Warrior Professional
+Warrior Class Saburai Servant Warrior
+Warrior Class Buke Warrior House
+Military Class Gōzoku Powerful Family
+Military Class Bezoku Horse Owning Family
+Military Class Baryoku Military Power Holder
+Military Class Kiheitai Mounted Guard Unit
+Military Class Kondei Strong Youth Guard
+Military Class Sakimori Border Guard
+Peasant Class Heimin Commoner
+Peasant Class Hyakushō Farmer Peasant
+Peasant Class Nōmin Agricultural People
+Peasant Class Sōson Village Community
+Peasant Class Zaichō Local Elite
+Peasant Class Myōshu Paddy Field Owner
+Artisan Class Shokunin Craftsman
+Artisan Class Kajiya Swordsmith
+Artisan Class Yoroishi Armor Maker
+Artisan Class Yumishi Bow Maker
+Artisan Class Tepōkaji Gun Smith
+Artisan Class Hadaji Blade Polisher
+Merchant Class Akindo Merchant Trader
+Merchant Class Shōnin Commerce Person
+Merchant Class Chōnin Town Person
+Merchant Class Sankin Kotai Attendance Merchant
+Merchant Class Goyō-shōnin Government Purveyor
+Outcast Class Eta Untouchable Leather Worker
+Outcast Class Hinin Non Human Social Bottom
+Outcast Class Kawaramono River Bank People
+Outcast Class Sanjo Scattered Place People
+Religious Class Sōhei Warrior Monk
+Religious Class Yamabushi Mountain Ascetic
+Religious Class Hokke-shū Nichiren Sect Militant
+Religious Class Ikkō-ikki Single Minded League
+Religious Class Jōdo-shinshū True Pure Land
+Religious Class Rinnai-shū Rinzai Zen Sect
+Religious Class Sōtō-shū Soto Zen Sect

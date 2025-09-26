@@ -1,0 +1,113 @@
+aperture depth control
+shutter speed motion control
+ISO sensitivity noise balance
+exposure triangle relationship
+reciprocity law equivalent exposure
+exposure compensation fine adjustment
+metering mode light measurement
+spot metering precise area
+center-weighted metering balanced
+matrix metering intelligent analysis
+evaluative metering comprehensive
+multi-zone metering segmented
+incident light metering subject illumination
+reflected light metering surface brightness
+gray card 18% reference
+zone system Ansel Adams
+zone 0 pure black
+zone X pure white
+zone V middle gray
+highlight detail retention
+shadow detail recovery
+exposure latitude film tolerance
+dynamic range sensor capability
+clipping warning overexposure alert
+histogram exposure graph
+RGB histogram color channels
+luminosity histogram brightness
+expose to right ETTR technique
+expose for highlights protect brights
+develop for shadows lift darks
+sunny 16 rule daylight exposure
+exposure value EV system
+light value LV measurement
+APEX system additive exposure
+stop difference doubling halving
+third-stop precision fine control
+half-stop increment moderate adjustment
+full-stop increment dramatic change
+overexposure blown highlights
+underexposure blocked shadows
+optimal exposure perfect balance
+bracketing exposure insurance
+HDR exposure fusion
+exposure blending tone mapping
+graduated neutral density filter
+circular polarizing filter
+UV filter lens protection
+infrared filter heat wave
+color temperature filter correction
+warming filter golden enhancement
+cooling filter blue enhancement
+neutral density filter light reduction
+variable ND filter adjustable reduction
+big stopper extreme reduction
+little stopper moderate reduction
+reverse graduated filter horizon balance
+center spot filter selective focus
+star filter diffraction spikes
+soft focus filter dreamy effect
+fog filter atmospheric haze
+diffusion filter portrait softening
+contrast filter black white enhancement
+yellow filter blue sky darkening
+orange filter moderate contrast
+red filter dramatic sky
+green filter foliage separation
+blue filter haze penetration
+polarizer reflection control
+linear polarizer basic reflection removal
+circular polarizer autofocus compatible
+skylight filter UV absorption
+haze filter atmospheric clarity
+daylight filter tungsten correction
+tungsten filter daylight correction
+fluorescent filter green correction
+magenta filter fluorescent correction
+color correction filter white balance
+conversion filter source adjustment
+light balancing filter fine tuning
+dichroic filter color separation
+interference filter wavelength specific
+absorption filter subtractive color
+additive filter transmissive color
+subtractive filter absorptive color
+bandpass filter narrow transmission
+longpass filter wavelength above
+shortpass filter wavelength below
+notch filter specific blocking
+edge filter cutoff transition
+neutral filter density reduction
+graduated filter transition zone
+split filter dual effect
+double exposure multiple capture
+multiple exposure creative layering
+intentional camera movement ICM
+panning motion blur
+zooming dynamic effect
+rotation circular blur
+tilt shift selective focus
+miniature effect toy simulation
+bokeh quality background blur
+depth of field focus zone
+hyperfocal distance maximum depth
+infinity focus distant subjects
+macro photography close-up
+micro photography extreme magnification
+telephotography distant compression
+wide-angle photography expansive view
+fisheye photography spherical distortion
+panoramic photography stitched view
+HDR photography tone mapping
+long exposure time blur
+short exposure motion freeze

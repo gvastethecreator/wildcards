@@ -1,0 +1,103 @@
+Choropleth map shading
+Dot density distribution
+Proportional symbols
+Flow maps directional
+Isoline contours
+Cartogram distortion
+Small multiples comparison
+Animated time series
+Interactive filtering
+Drill down exploration
+Brushing linking
+Pan zoom navigation
+Hover details
+Click selection
+Multi touch gestures
+Voice queries
+Natural language
+SQL interface
+Python notebook
+R markdown
+Jupyter widgets
+Observable framework
+D3 custom visualization
+Plotly interactive
+Bokeh server apps
+Tableau public
+Power BI embedded
+Google Data Studio
+Looker dashboards
+Grafana monitoring
+Kibana elasticsearch
+Splunk analytics
+New Relic APM
+Datadog infrastructure
+Prometheus metrics
+InfluxDB time series
+TimescaleDB hybrid
+MongoDB charts
+MySQL workbench
+PostgreSQL pgAdmin
+Redis insight
+Neo4j bloom
+Cypher queries
+SPARQL semantic
+GraphQL explorer
+REST API documentation
+Swagger OpenAPI
+Postman collections
+Insomnia workspace
+curl commands
+HTTPie friendly
+Axios JavaScript
+Fetch modern
+XMLHttpRequest legacy
+WebSocket realtime
+Server sent events
+EventSource streaming
+Socket.io realtime
+SignalR Microsoft
+WebRTC peer
+MQTT messaging
+RabbitMQ queuing
+Apache Kafka
+Redis pub sub
+Firebase realtime
+Supabase postgres
+PlanetScale vitess
+Neon serverless
+Vercel edge
+Netlify functions
+AWS Lambda
+Google Cloud Functions
+Azure Functions
+Cloudflare Workers
+Deno Deploy
+Railway hosting
+Render cloud
+Heroku platform
+DigitalOcean apps
+Linode compute
+Vultr instances
+Hetzner dedicated
+OVH bare metal
+Scaleway elements
+Fly.io global
+Fastly CDN
+CloudFlare edge
+KeyCDN performance
+Amazon CloudFront
+Google Cloud CDN
+Azure CDN
+MaxCDN legacy
+StackPath security
+Bunny CDN affordable
+jsDelivr open source
+unpkg npm
+cdnjs libraries
+Bootstrap CDN
+jQuery CDN
+Font Awesome
+Google Fonts
+Adobe Fonts
+Typekit legacy

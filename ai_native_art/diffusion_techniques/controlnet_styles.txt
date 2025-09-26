@@ -1,0 +1,40 @@
+controlnet edge detection
+controlnet depth mapping
+controlnet pose estimation
+controlnet segmentation
+controlnet canny edge
+controlnet openpose
+controlnet depth2img
+controlnet normal mapping
+controlnet mlsd lines
+controlnet scribble guidance
+controlnet ip2p editing
+controlnet tile upscaling
+controlnet inpainting
+controlnet reference only
+controlnet shuffle attention
+controlnet lineart generation
+controlnet softedge detection
+controlnet pidinet edges
+controlnet hed boundaries
+controlnet mediapipe face
+controlnet hand detection
+controlnet body segmentation
+controlnet clothing masks
+controlnet background removal
+controlnet object detection
+controlnet scene parsing
+controlnet layout control
+controlnet composition guidance
+controlnet style transfer
+controlnet color guidance
+controlnet texture control
+controlnet lighting direction
+controlnet shadow mapping
+controlnet highlight control
+controlnet material guidance
+controlnet surface mapping
+controlnet pattern control
+controlnet detail enhancement
+controlnet quality boosting
+controlnet artifact removal

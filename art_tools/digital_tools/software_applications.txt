@@ -1,0 +1,47 @@
+Photoshop
+Illustrator
+Procreate
+Clip Studio Paint
+Krita
+SAI Paint Tool
+Corel Painter
+ArtRage
+Rebelle
+Paintstorm Studio
+OpenCanvas
+Artweaver
+MyPaint
+GIMP
+Affinity Photo
+Affinity Designer
+Sketchbook
+Adobe Fresco
+Infinite Painter
+ArtFlow
+Adobe Draw
+Adobe Sketch
+Concepts
+Autodesk Maya
+Blender
+ZBrush
+Substance Painter
+Substance Designer
+3ds Max
+Cinema 4D
+Houdini
+Mari
+Mudbox
+KeyShot
+V-Ray
+Octane Render
+Arnold Renderer
+Redshift
+Corona Renderer
+Maxwell Render
+Cycles
+Eevee
+Mental Ray
+RenderMan
+Unreal Engine
+Unity
+Marmoset Toolbag

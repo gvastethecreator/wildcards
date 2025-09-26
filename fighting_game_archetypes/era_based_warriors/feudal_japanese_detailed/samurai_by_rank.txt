@@ -1,0 +1,56 @@
+Daimyo Feudal Lord Domain Ruler
+Daimyo Sengoku Daimyo Warring States Lord
+Daimyo Tozama Daimyo Outside Lord
+Daimyo Fudai Daimyo Hereditary Vassal
+Daimyo Shinpan Daimyo Tokugawa Related
+Daimyo Kokudaka Rice Revenue Measurement
+Daimyo Sankin Kotai Alternate Attendance
+Hatamoto Direct Retainer Shogun Vassal
+Hatamoto Yoriai Conference Participant
+Hatamoto Kinju Personal Attendant
+Hatamoto Koke Master Ceremony
+Hatamoto Wakadoshiyori Junior Council
+Hatamoto Roju Senior Council
+Hatamoto Sobayonin Chamberlain
+Hatamoto Metsuke Inspector
+Gokenin Shogun Vassal Lower Rank
+Gokenin Bannerman Flag Bearer
+Gokenin Houseman Direct Service
+Gokenin Yoriki Assistant Police
+Gokenin Doshin Police Constable
+Karō Elder Retainer Chief Vassal
+Karō House Elder Domain Administrator
+Karō Senior Counselor Policy Advisor
+Karō Military Commander War Leader
+Tsukaiban Inspector General Domain Monitor
+Rusui Castle Keeper Fortress Guardian
+Bugyo Magistrate Administrator
+Bugyo Jisha Bugyo Temple Shrine
+Bugyo Kanjo Bugyo Finance
+Bugyo Machi Bugyo Town Magistrate
+Bugyo Ongoku Bugyo Remote Province
+Ashigaru Foot Soldier Light Infantry
+Ashigaru Spear Bearer Yari Fighter
+Ashigaru Arquebus Bearer Teppo Gunner
+Ashigaru Bow Bearer Yumi Archer
+Ashigaru Flag Bearer Nobori Standard
+Ashigaru Sandal Bearer Waraji Servant
+Ronin Masterless Samurai Wave Man
+Ronin Ako Ronin Forty Seven Loyal
+Ronin Unemployed Samurai Job Seeker
+Ronin Travelling Warrior Wandering Fighter
+Ronin Mercenary Samurai Hired Sword
+Ronin Outlaw Samurai Criminal Fighter
+Ronin Scholar Samurai Teacher Fighter
+Samurai Retainer Kashin Hereditary Service
+Samurai Retainer Kerai Personal Follower
+Samurai Retainer Roto Follower Group
+Samurai Retainer Komono Personal Servant
+Page Kosho Personal Attendant
+Page Koshogumi Page Group
+Squire Chugen Middle Rank Attendant
+Squire Komono Equipment Bearer
+Servant Genin Low Rank Follower
+Servant Ashi-garu Light Foot Soldier
+Servant Ninsoku Common Laborer
+Servant Yakko Servant Commoner

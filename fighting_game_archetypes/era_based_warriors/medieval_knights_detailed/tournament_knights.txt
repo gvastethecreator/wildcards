@@ -1,0 +1,58 @@
+Tournament Knight Joust Competitor Champion
+Tournament Knight Melee Combat Multiple Fighter
+Tournament Knight Pas d'Armes Passage Arms
+Tournament Knight Round Table Tournament
+Tournament Knight Court of Love Romantic
+Tournament Knight Lists Tournament Ground
+Tournament Knight Herald Tournament Official
+Tournament Knight Marshal Tournament Judge
+Tournament Knight Champion Tournament Victor
+Tournament Knight Chevalier Tournament Participant
+Knight Errant Wandering Adventure Seeker
+Knight Errant Quest Seeking Noble Fighter
+Knight Errant Damsel Rescue Chivalric
+Knight Errant Dragon Slayer Mythic Fighter
+Knight Errant Holy Grail Seeker Spiritual
+Knight Errant Adventure Romance Seeker
+Knight Errant Chivalric Romance Hero
+Knight Errant Arthurian Legend Participant
+Courtly Knight Court Noble Refined Fighter
+Courtly Knight Courtly Love Romantic Ideal
+Courtly Knight Troubadour Knight Poet Warrior
+Courtly Knight Chivalric Code Honor Fighter
+Courtly Knight Fine Amor Pure Love
+Courtly Knight Eleanor Aquitaine Court
+Courtly Knight Marie Champagne Patroness
+Courtly Knight Andreas Capellanus Love Rules
+Mercenary Knight Condottiere Italian Captain
+Mercenary Knight Free Company Leader
+Mercenary Knight Routier French Mercenary
+Mercenary Knight Brabançon Mercenary Company
+Mercenary Knight Catalan Company Eastern Mediterranean
+Mercenary Knight White Company English Italy
+Mercenary Knight Grand Company Breton
+Mercenary Knight Company of Adventure Hawkwood
+Castle Knight Castellan Castle Commander
+Castle Knight Constable Castle Military Officer
+Castle Knight Seneschal Castle Administrator
+Castle Knight Porter Castle Gatekeeper
+Castle Knight Watchman Castle Guard
+Castle Knight Garrison Castle Defender
+Castle Knight Keeper Castle Custodian
+Castle Knight Warden Castle Guardian
+Siege Knight Besieger Castle Attacker
+Siege Knight Sapper Tunnel Digger
+Siege Knight Engineer Siege Machine Operator
+Siege Knight Miner Castle Wall Underminer
+Siege Knight Escalade Ladder Climber
+Siege Knight Trebuchet Operator Stone Thrower
+Siege Knight Ballista Operator Bolt Shooter
+Siege Knight Mangon Catapult Operator
+Crusader Knight Holy Land Fighter
+Crusader Knight Jerusalem Kingdom Defender
+Crusader Knight Outremer Eastern Settler
+Crusader Knight Pilgrim Warrior Religious Fighter
+Crusader Knight Military Order Member
+Crusader Knight Frankish Crusader Western
+Crusader Knight Norman Crusader Conqueror
+Crusader Knight Reconquista Spanish Fighter

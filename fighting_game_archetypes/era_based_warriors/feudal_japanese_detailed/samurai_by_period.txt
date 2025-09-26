@@ -1,0 +1,55 @@
+Heian Period Samurai Court Noble Warrior
+Heian Period Samurai Fujiwara Clan Aristocrat
+Heian Period Samurai Taira Clan Military Family
+Heian Period Samurai Minamoto Clan Warrior Family  
+Heian Period Samurai Bushi Warrior Class Emergence
+Heian Period Samurai Private Army Mercenary
+Heian Period Samurai Provincial Governor Fighter
+Heian Period Samurai Capital Guard Court Protector
+Heian Period Samurai Mounted Archer Horse Fighter
+Heian Period Samurai Elegant Warrior Cultured Fighter
+Kamakura Period Samurai Shogunate Military Government
+Kamakura Period Samurai Minamoto Yoritomo First Shogun
+Kamakura Period Samurai Gokenin Vassal Retainer
+Kamakura Period Samurai Jito Estate Steward
+Kamakura Period Samurai Shugo Military Governor
+Kamakura Period Samurai Mongol Invasion Defender
+Kamakura Period Samurai Kamikaze Divine Wind Survivor
+Kamakura Period Samurai Hojo Regent Clan
+Kamakura Period Samurai Warrior Monk Sohei
+Kamakura Period Samurai Zen Buddhism Warrior Philosophy
+Muromachi Period Samurai Ashikaga Shogunate Warrior
+Muromachi Period Samurai Shugo Daimyo Provincial Lord
+Muromachi Period Samurai Onin War Fighter
+Muromachi Period Samurai Sengoku Warring States
+Muromachi Period Samurai Gekokujo Lower Overthrowing Upper
+Muromachi Period Samurai Ikki Peasant Uprising Fighter
+Muromachi Period Samurai Rennyo Ikkoshu Religious War
+Muromachi Period Samurai Footsoldier Ashigaru Spear
+Muromachi Period Samurai Castle Builder Fortification
+Muromachi Period Samurai Tea Ceremony Warrior Culture
+Sengoku Period Samurai Warring States Chaos
+Sengoku Period Samurai Oda Nobunaga Unifier
+Sengoku Period Samurai Toyotomi Hideyoshi Peasant General
+Sengoku Period Samurai Tokugawa Ieyasu Final Victor
+Sengoku Period Samurai Takeda Shingen Tiger Kai
+Sengoku Period Samurai Uesugi Kenshin Dragon Echigo
+Sengoku Period Samurai Date Masamune One Eye Dragon
+Sengoku Period Samurai Mori Clan Naval Power
+Sengoku Period Samurai Shimazu Clan Satsuma Fighter
+Sengoku Period Samurai Christian Samurai Convert Warrior
+Edo Period Samurai Tokugawa Shogunate Peacetime
+Edo Period Samurai Hatamoto Direct Retainer
+Edo Period Samurai Gokenin Shogun Vassal
+Edo Period Samurai Ronin Masterless Samurai
+Edo Period Samurai Bureaucrat Administrator Warrior
+Edo Period Samurai Neo-Confucian Scholar Warrior
+Edo Period Samurai Bunbu Ryodo Literary Military Way
+Edo Period Samurai Forty Seven Ronin Ako Incident
+Edo Period Samurai Shinsengumi Kyoto Police
+Edo Period Samurai Meiji Restoration Last Samurai
+Bakumatsu Period Samurai Foreign Threat Response
+Bakumatsu Period Samurai Sonno Joi Expel Barbarians
+Bakumatsu Period Samurai Imperial Loyalist Fighter
+Bakumatsu Period Samurai Shogunate Loyalist Fighter
+Bakumatsu Period Samurai Modern Weapon Adoption

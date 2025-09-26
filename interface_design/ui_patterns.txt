@@ -1,0 +1,110 @@
+Glassmorphism translucent layers
+Neumorphism soft extrusion
+Brutalism bold typography
+Memphis colorful geometric
+Y2K metallic chrome
+Frutiger Aero clean corporate
+Dark mode eye strain relief
+Light mode clarity bright
+High contrast accessibility
+Low contrast subtle elegance
+Monochrome sophisticated single
+Duotone artistic limitation
+Gradient smooth transition
+Flat design minimal clean
+Material design Google shadows
+Fluent design Microsoft depth
+Human Interface Guidelines Apple
+Atomic design system modular
+Design tokens consistent
+Component library reusable
+Style guide comprehensive
+Pattern library documented
+Brand guidelines adherent
+Visual hierarchy clear
+Typography scale harmonious
+Color palette systematic
+Icon set cohesive
+Illustration style consistent
+Photography treatment unified
+Animation principles natural
+Micro-interactions delightful
+Transition smooth seamless
+Loading state informative
+Empty state helpful guidance
+Error state recovery oriented
+Success state celebration
+Progress indicator reassuring
+Status update informative
+Notification badge attention
+Toast message temporary
+Modal dialog focused
+Sidebar navigation secondary
+Tab interface organized
+Accordion expandable content
+Carousel image rotation
+Timeline chronological display
+Card layout modular
+List structure organized
+Table data presentation
+Form input collection
+Button action trigger
+Link navigation pointer
+Menu selection options
+Search discovery tool
+Filter refinement control
+Sort organization method
+Pagination content division
+Breadcrumb navigation path
+Tag classification label
+Badge status indicator
+Tooltip helpful context
+Popover additional info
+Dropdown selection menu
+Checkbox multiple choice
+Radio button single selection
+Toggle switch binary
+Slider value adjustment
+Stepper incremental control
+Date picker calendar
+Time picker clock
+Color picker palette
+File upload drag drop
+Text editor rich formatting
+Code editor syntax highlighting
+Terminal command line
+Dashboard overview
+Analytics visualization
+Report generation
+Settings configuration
+Profile management
+Account administration
+Notification center
+Message inbox
+Activity feed
+Social timeline
+Comment thread
+Review rating
+Shopping cart
+Checkout process
+Payment form
+Invoice receipt
+Subscription management
+Billing history
+Usage metrics
+Performance monitoring
+System status
+Health check
+Error logging
+Debug information
+Version control
+Update notification
+Maintenance mode
+Offline capability
+Sync status
+Backup progress
+Security settings
+Privacy controls
+Accessibility options
+Language selection
+Theme customization

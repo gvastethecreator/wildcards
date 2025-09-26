@@ -1,0 +1,145 @@
+RAW processing uncompressed data
+JPEG processing compressed standard
+TIFF processing lossless quality
+DNG processing open standard
+exposure adjustment brightness control
+highlight recovery blown detail
+shadow lifting blocked detail
+white balance color temperature
+tint adjustment green-magenta
+vibrance intelligent saturation
+saturation global intensity
+clarity midtone contrast
+texture surface detail
+dehaze atmospheric clarity
+contrast global range
+brightness global lightness
+blacks darkest tones
+shadows dark tones
+whites brightest tones
+highlights bright tones
+tone curve precise control
+parametric curve intelligent
+point curve manual control
+RGB curve color channel
+luminance curve brightness only
+color grading creative tinting
+split toning highlight-shadow
+color wheels HSL control
+hue shift color rotation
+saturation boost color intensity
+luminance brightness channel
+red channel warm adjustment
+orange channel skin tone
+yellow channel foliage control
+green channel nature emphasis
+aqua channel water sky
+blue channel sky water
+purple channel flower accent
+magenta channel contrast
+masking selective adjustment
+luminosity mask brightness based
+color mask hue based
+range mask selection tool
+brush mask manual painting
+gradient mask smooth transition
+radial mask circular selection
+linear mask straight transition
+intersect mask overlap area
+subtract mask removal area
+invert mask opposite selection
+feather mask soft edge
+density mask opacity control
+flow mask accumulation
+auto mask intelligent edge
+sharpening detail enhancement
+masking sharpening selective
+amount sharpening strength
+radius sharpening size
+detail sharpening fine
+noise reduction artifact removal
+luminance noise brightness grain
+color noise chroma artifacts
+detail preservation edge protection
+contrast preservation local detail
+smoothness noise removal
+color smoothness chroma clean
+lens correction optical fix
+profile correction automatic
+manual correction custom
+vignetting corner darkening
+distortion barrel pincushion
+chromatic aberration color fringing
+defringe color removal
+upright perspective automatic
+vertical perspective keystone
+horizontal perspective lean
+rotate perspective angle
+aspect perspective ratio
+scale perspective size
+constrain crop proportional
+straighten horizon level
+crop composition refinement
+aspect ratio format
+orientation portrait landscape
+local adjustment selective edit
+brush adjustment manual paint
+linear gradient smooth transition
+radial gradient circular
+masking brush precision
+auto mask edge detection
+range mask tonal selection
+color range hue selection
+luminance range brightness
+depth range focus plane
+AI masking intelligent selection
+sky selection automatic
+subject selection AI powered
+people selection face detection
+object selection item isolation
+hair selection detail precision
+background selection environment
+replacement sky dramatic
+sky enhancement natural boost
+reflection enhancement water mirror
+light ray enhancement drama
+orton effect dreamy glow
+bleach bypass retain silver
+cross processing color shift
+vintage look nostalgic feel
+film emulation analog character
+grain addition texture
+border addition frame
+watermark protection branding
+metadata information embed
+color space working environment
+sRGB standard web
+Adobe RGB extended gamut
+ProPhoto RGB wide gamut
+color profile device specific
+soft proofing print preview
+gamut warning out range
+histogram clipping warning
+before after comparison
+virtual copy variation
+snapshot state save
+history panel step record
+reset original restore
+synchronize batch apply
+auto sync automatic match
+paste settings copy apply
+export output delivery
+print output physical
+web output digital
+social media sizing platform
+batch processing multiple files
+action recording automation
+preset custom settings
+template starting point
+develop module RAW processor
+library module organization
+map module location
+book module layout
+slideshow module presentation
+print module output
+web module gallery

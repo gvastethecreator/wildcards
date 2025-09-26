@@ -1,0 +1,118 @@
+Superposition multiple states
+Quantum entanglement spooky
+Wave function collapse
+Schrödinger cat alive dead
+Double slit interference
+Quantum tunneling barrier
+Uncertainty principle blur
+Observer effect measurement
+Probability amplitude waves
+Wave packet localization
+Phase relationship sync
+Coherence quantum state
+Decoherence environment
+Quantum noise random
+Quantum supremacy advantage
+Quantum volume measure
+Quantum error correction
+Fault tolerant computation
+Logical qubit protected
+Physical qubit noisy
+Gate fidelity precision
+Circuit depth complexity
+Quantum parallelism
+Exponential speedup
+Quantum algorithm
+Grover search faster
+Shor factorization
+Quantum simulation
+Variational quantum eigensolver
+Quantum approximate optimization
+Quantum machine learning
+Quantum neural networks
+Quantum generative models
+Quantum reinforcement learning
+Quantum feature maps
+Quantum kernels
+Quantum circuits
+Parameterized gates
+Quantum layers
+Hybrid classical quantum
+NISQ noisy intermediate
+Quantum advantage
+Quantum error mitigation
+Zero noise extrapolation
+Symmetry verification
+Randomized compiling
+Dynamical decoupling
+Composite pulses
+Quantum control
+Optimal control theory
+GRAPE algorithm
+Krotov method
+Pontryagin principle
+Quantum optimal control
+Adiabatic quantum computation
+Quantum annealing
+D-Wave systems
+Quantum Monte Carlo
+Path integral methods
+Feynman diagrams
+Quantum field theory
+Particle physics visualization
+Standard model
+Higgs field
+Gauge theory
+Yang-Mills equations
+Quantum chromodynamics
+Electroweak theory
+Grand unified theory
+Theory of everything
+String theory
+M-theory
+Loop quantum gravity
+Causal dynamical triangulation
+Emergent gravity
+Holographic principle
+AdS/CFT correspondence
+Black hole information
+Hawking radiation
+Wormhole traversable
+Einstein-Rosen bridge
+Spacetime geometry
+Curved manifold
+Riemannian geometry
+Differential forms
+Fiber bundles
+Gauge connections
+Curvature tensor
+Ricci scalar
+Einstein tensor
+Stress energy tensor
+Geodesic paths
+Parallel transport
+Covariant derivative
+Lie groups
+Symmetry breaking
+Phase transitions
+Order parameters
+Critical phenomena
+Universality class
+Renormalization group
+Fixed points
+Scale invariance
+Conformal symmetry
+Topological order
+Anyons braiding
+Quantum spin liquids
+Fractional quantum Hall
+Chern-Simons theory
+Topological insulators
+Majorana fermions
+Non-Abelian statistics
+Quantum error correction codes
+Stabilizer codes
+Surface codes
+Color codes
+Toric codes
+Quantum LDPC

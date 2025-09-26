@@ -1,0 +1,116 @@
+focal length perspective control
+wide-angle lens expansive view
+normal lens natural perspective
+telephoto lens compression effect
+super wide-angle extreme view
+ultra wide-angle immersive perspective
+standard lens human vision
+short telephoto portrait ideal
+medium telephoto compression
+long telephoto distant subjects
+super telephoto extreme magnification
+prime lens fixed focal
+zoom lens variable focal
+macro lens close focus
+fisheye lens hemispherical view
+tilt-shift lens perspective control
+mirror lens catadioptric design
+retrofocus lens wide angle design
+telephoto lens long focal design
+variable aperture zoom changing speed
+constant aperture zoom consistent speed
+fast lens wide aperture
+slow lens narrow aperture
+pancake lens compact profile
+portrait lens flattering focal
+landscape lens expansive coverage
+sports lens long reach
+wildlife lens extreme telephoto
+street lens versatile range
+travel lens all-purpose
+documentary lens authentic capture
+architectural lens distortion control
+real estate lens wide coverage
+product lens macro capability
+fashion lens portrait length
+beauty lens flattering compression
+event lens low light capability
+concert lens distant reach
+wedding lens versatile zoom
+food lens macro detail
+automotive lens dramatic angles
+aerial lens landscape coverage
+underwater lens aquatic clarity
+astrophotography lens star capture
+infrared lens heat detection
+UV lens ultraviolet capture
+specialty lens unique application
+vintage lens character rendering
+modern lens clinical sharpness
+coated lens reflection reduction
+uncoated lens natural rendering
+single coated basic protection
+multi-coated advanced protection
+nano coating premium protection
+fluorine coating weather protection
+aspherical element distortion correction
+low dispersion element chromatic correction
+extra-low dispersion superior correction
+fluorite element premium correction
+apochromatic lens color perfection
+achromatic lens basic correction
+superachromatic lens advanced correction
+image stabilization shake reduction
+optical stabilization lens-based
+sensor stabilization body-based
+hybrid stabilization dual system
+gyroscopic stabilization motion detection
+electromagnetic stabilization precise control
+piezoelectric stabilization rapid response
+floating element close focus
+internal focusing non-extending
+rear focusing back element
+front focusing front element
+helicoid focusing threaded barrel
+linear focusing smooth travel
+manual focus ring tactile control
+autofocus motor silent operation
+ultrasonic motor USM fast quiet
+stepper motor STM smooth video
+linear motor rapid precise
+piezoelectric motor compact efficient
+electromagnetic motor traditional reliable
+focus breathing focal shift
+focus hunting search behavior
+focus peaking manual aid
+focus magnification enlargement
+focus stacking depth extension
+hyperfocal focusing maximum depth
+zone focusing preset distance
+scale focusing distance marking
+infinity focusing distant subjects
+close focusing near capability
+minimum focusing distance closest approach
+magnification ratio size reproduction
+working distance subject space
+depth of field focus zone
+circle of confusion acceptable blur
+diffraction limiting aperture effect
+sweet spot optimal aperture
+corner sharpness edge performance
+center sharpness optical axis
+field curvature focus plane
+pincushion distortion inward bend
+barrel distortion outward bulge
+mustache distortion complex curve
+chromatic aberration color fringing
+longitudinal chromatic axial color
+lateral chromatic transverse color
+spherical aberration focus variation
+coma aberration off-axis blur
+astigmatism directional blur
+field flattening uniform focus
+vignetting corner darkening
+mechanical vignetting physical obstruction
+optical vignetting lens design
+natural vignetting light physics

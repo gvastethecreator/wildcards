@@ -1,0 +1,48 @@
+Chiaroscuro
+Tenebrism
+Rembrandt Lighting
+Caravaggio Style
+Leonardo Sfumato
+Vermeer Light
+Hopper Lighting
+Edward Hopper Style
+Film Noir Lighting
+High Key Lighting
+Low Key Lighting
+Split Lighting
+Loop Lighting
+Butterfly Lighting
+Broad Lighting
+Short Lighting
+Paramount Lighting
+Clamshell Lighting
+Three-Point Lighting
+Four-Point Lighting
+Five-Point Lighting
+Rembrandt Triangle
+Catchlight Placement
+Shadow Play
+Light and Shadow
+Contrast Control
+Tonal Range
+Dynamic Range
+Highlight Detail
+Shadow Detail
+Midtone Balance
+Exposure Control
+Light Direction
+Light Quality
+Light Color
+Light Temperature
+Warm Light
+Cool Light
+Color Temperature
+Kelvin Scale
+White Balance
+Color Correction
+Light Falloff
+Inverse Square Law
+Distance Effects
+Angle of Incidence
+Reflection Laws
+Refraction Effects

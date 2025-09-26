@@ -1,0 +1,124 @@
+point-of-view shot subjective
+objective shot neutral
+subjective shot emotional
+omniscient shot godlike
+limited shot restricted
+first-person shot immersive
+third-person shot observational
+bird's-eye shot aerial
+worm's-eye shot ground
+Dutch angle shot tilted
+straight angle shot level
+high angle shot looking-down
+low angle shot looking-up
+eye-level shot natural
+canted angle shot diagonal
+overhead shot top-down
+ground-level shot floor
+ceiling shot upward
+window shot framed
+doorway shot portal
+extreme high angle God's view
+extreme low angle worm perspective
+slight high angle subtle dominance
+slight low angle subtle power
+normal angle human perspective
+reverse angle opposite direction
+over-shoulder intimate conversation
+two-shot relationship frame
+three-shot group dynamic
+group shot ensemble cast
+wide shot environmental context
+medium wide shot social distance
+medium shot comfortable interaction
+medium close-up personal space
+close-up emotional intimacy
+extreme close-up intense detail
+insert shot detail emphasis
+cutaway shot context break
+reaction shot response capture
+establishing shot location context
+master shot complete coverage
+coverage shot angle variation
+pickup shot additional material
+insert POV character vision
+subjective POV emotional state
+objective POV neutral observation
+omniscient POV all-knowing
+limited POV restricted knowledge
+internal POV mental state
+external POV physical world
+character POV personal view
+narrator POV storyteller perspective
+author POV creator vision
+audience POV viewer experience
+camera POV mechanical eye
+lens POV optical perspective
+frame POV compositional view
+movement POV kinetic experience
+static POV stationary observation
+dynamic POV moving viewpoint
+fixed POV locked position
+floating POV weightless drift
+grounded POV earthbound view
+elevated POV raised perspective
+submerged POV underwater view
+interior POV inside space
+exterior POV outside view
+public POV social space
+private POV intimate space
+urban POV city environment
+rural POV countryside view
+natural POV wilderness perspective
+artificial POV constructed environment
+daylight POV solar illumination
+nighttime POV artificial lighting
+twilight POV mixed illumination
+dawn POV emerging light
+dusk POV fading light
+harsh POV strong contrast
+soft POV gentle gradation
+filtered POV diffused view
+direct POV unobstructed sight
+obstructed POV blocked vision
+reflected POV mirror image
+refracted POV bent light
+distorted POV altered reality
+clear POV sharp focus
+blurred POV soft focus
+sharp POV crisp definition
+hazy POV atmospheric softness
+transparent POV see-through
+opaque POV solid obstruction
+translucent POV filtered visibility
+backlit POV rim lighting
+frontlit POV direct illumination
+sidelit POV dramatic modeling
+underlit POV mysterious shadow
+overlit POV flat exposure
+motivated POV logical source
+unmotivated POV artistic choice
+realistic POV believable view
+stylized POV artistic interpretation
+documentary POV factual record
+fictional POV imagined reality
+surreal POV dreamlike state
+abstract POV non-representational
+symbolic POV metaphorical meaning
+literal POV direct representation
+handheld POV human movement
+steadicam POV smooth motion
+tripod POV stable frame
+dolly POV tracking movement
+crane POV vertical sweep
+jib POV flexible positioning
+slider POV linear motion
+gimbal POV stabilized movement
+drone POV aerial freedom
+vehicle POV transportation view
+walking POV pedestrian pace
+running POV urgent movement
+cycling POV wheeled perspective
+driving POV automotive view
+flying POV aviation perspective
+sailing POV maritime experience

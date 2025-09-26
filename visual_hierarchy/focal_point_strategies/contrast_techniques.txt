@@ -1,0 +1,121 @@
+size contrast emphasis
+color contrast attention
+brightness contrast focus
+texture contrast interest
+shape contrast uniqueness
+position contrast placement
+isolation contrast separation
+convergence line meeting
+framing natural borders
+leading lines direction
+depth contrast layering
+motion contrast stillness
+pattern break disruption
+negative space emphasis
+saturation contrast vibrancy
+temperature contrast warmth
+value contrast lightness
+edge contrast sharpness
+detail contrast complexity
+simplicity contrast clarity
+scale variation dramatic sizing
+proportion relationship balance
+proximity grouping elements
+similarity pattern unity
+closure completion tendency
+continuity flow direction
+symmetry balanced reflection
+asymmetry dynamic imbalance
+radial balance circular center
+crystallographic balance scattered
+mosaic balance chaotic unity
+occult balance hidden structure
+formal balance classical order
+informal balance casual arrangement
+active balance dynamic tension
+passive balance static calm
+obvious balance clear structure
+subtle balance implied order
+color weight visual mass
+value weight tonal mass
+texture weight surface mass
+shape weight form mass
+position weight placement mass
+direction weight movement mass
+luminosity contrast brightness
+hue contrast color wheel
+saturation contrast intensity
+temperature contrast warmth-cool
+simultaneous contrast relative perception
+successive contrast afterimage
+complementary contrast opposite colors
+analogous harmony adjacent colors
+triadic harmony three-color
+tetradic harmony four-color
+split-complementary modified contrast
+double-complementary complex harmony
+monochromatic single-hue
+achromatic without-color
+polychromatic many-color
+high-key light values
+low-key dark values
+middle-key balanced values
+full-key complete range
+limited-key restricted range
+major key bright mood
+minor key somber mood
+hard edge sharp definition
+soft edge gentle transition
+lost edge invisible boundary
+found edge visible boundary
+broken edge interrupted line
+implied edge suggested boundary
+contour edge outline
+silhouette edge shape boundary
+atmospheric edge distance softening
+geometric shape angular precision
+organic shape natural curves
+positive shape form presence
+negative shape space absence
+simple shape minimal complexity
+complex shape detailed intricacy
+static shape stable position
+dynamic shape movement suggestion
+large shape dominant presence
+small shape subordinate detail
+rough texture tactile surface
+smooth texture refined surface
+coarse texture aggressive feel
+fine texture delicate touch
+natural texture organic surface
+artificial texture manufactured finish
+uniform texture consistent pattern
+varied texture diverse surface
+matte texture non-reflective
+glossy texture reflective shine
+transparent texture see-through
+opaque texture solid coverage
+translucent texture filtered light
+directional texture oriented pattern
+random texture chaotic surface
+regular texture ordered pattern
+irregular texture disrupted order
+mechanical texture machine-made
+handmade texture craft quality
+weathered texture aged surface
+pristine texture perfect condition
+diagonal line dynamic energy
+horizontal line calm stability
+vertical line power strength
+curved line graceful flow
+straight line direct tension
+thick line bold presence
+thin line delicate whisper
+continuous line unbroken flow
+broken line interrupted rhythm
+implied line suggested connection
+psychic line invisible force
+axis line structural spine
+contour line edge definition
+gesture line expressive movement
+construction line structural guide

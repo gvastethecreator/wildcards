@@ -1,0 +1,59 @@
+Elite Praetorian Guard Emperor Personal Bodyguard
+Elite Praetorian Guard Urban Cohort City Police
+Elite Praetorian Guard Castra Praetoria Barracks
+Elite Praetorian Guard Sejanus Political Power
+Elite Praetorian Guard Emperor Maker Political Force
+Elite Urban Cohort Rome City Guard
+Elite Urban Cohort Fire Fighting Vigiles
+Elite Urban Cohort Riot Control Police
+Elite Urban Cohort Prefecture City Commander
+Elite Vigiles Night Watch Fire Brigade
+Elite Vigiles Seven Cohort City Division
+Elite Vigiles Former Slave Freedman
+Elite Speculatores Imperial Bodyguard Scout
+Elite Speculatores Intelligence Gathering Spy
+Elite Speculatores German Bodyguard Foreign
+Elite Scholae Palatinae Late Empire Guard
+Elite Scholae Palatinae Barbarian Recruit
+Elite Candidati White Uniform Guard
+Elite Candidati Imperial Presence Guard
+Elite Protectores Domestici Palace Protector
+Elite Protectores Domestici Future General
+Elite Excubitores Byzantine Guard Successor
+Elite Scholae Palatine Court School
+Elite Palatini Imperial Field Army
+Elite Palatini Regional Mobile Force
+Elite Comitatenses Late Roman Mobile
+Elite Joviani Herculiani Diocletian Guard
+Elite Lanciarii Spear Thrower Elite
+Elite Mattiarii Club Bearer Elite
+Elite Iovii Jupiter Guard Unit
+Elite Herculii Hercules Guard Unit
+Gladiator Thraex Thracian Style Fighter
+Gladiator Murmillo Fish Helmet Fighter
+Gladiator Retiarius Net Trident Fighter
+Gladiator Secutor Chaser Fighter
+Gladiator Hoplomachus Greek Style Fighter
+Gladiator Dimachaerus Dual Sword Fighter
+Gladiator Provocator Challenge Fighter
+Gladiator Essedarius Chariot Fighter
+Gladiator Andabata Blind Helmet Fighter
+Gladiator Laquearius Lasso Noose Fighter
+Gladiator Sagittarius Archer Fighter
+Gladiator Bestiarius Beast Fighter
+Gladiator Venator Hunter Fighter
+Gladiator Noxii Condemned Criminal Fighter
+Gladiator Rudis Wooden Sword Freedom
+Gladiator Lanista Gladiator Trainer Owner
+Gladiator School Ludus Training Ground
+Gladiator School Capua Spartacus Rebellion
+Gladiator School Rome Colosseum Fighter
+Gladiator School Regional Provincial Training
+Gladiator Revolt Spartacus Servile War
+Gladiator Revolt Crixus Gaul Fighter
+Gladiator Revolt Oenomaus German Fighter
+Naval Fighter Classis Fleet Sailor
+Naval Fighter Trireme Rower Warship
+Naval Fighter Marine Boarding Party
+Naval Fighter Ravenna Fleet Adriatic
+Naval Fighter Misenum Fleet Tyrrhenian

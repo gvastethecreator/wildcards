@@ -1,8 +1,286 @@
 # Wildcards de ComfyUI - Guía Completa
 
-Esta es una colección organizada de wildcards para ComfyUI, estructurada en categorías para facilitar su uso y mantenimiento.
+Esta es una colección masiva de wildcards para ComfyUI, estructurada en categorías avanzadas para facilitar su uso y mantenimiento. **Actualizada con tendencias 2025** incluyendo IA ética, sostenibilidad, espacios híbridos y neurociencia.
 
-## 📁 Estructura de Carpetas
+## 🚀 **NUEVAS CATEGORÍAS 2025**
+
+### 🌱 **Sustainability Advanced** - Sostenibilidad Avanzada
+```
+sustainability_advanced/
+├── circular_economy/           # Economía circular
+│   ├── zero_waste_lifestyle.txt      # Estilo de vida residuo cero
+│   ├── upcycling_innovations.txt     # Innovaciones en reciclaje creativo  
+│   └── regenerative_systems.txt     # Sistemas regenerativos
+├── climate_adaptation/         # Adaptación climática
+│   ├── resilient_communities.txt    # Comunidades resilientes
+│   ├── climate_refugees.txt         # Refugiados climáticos
+│   └── extreme_weather_survival.txt # Supervivencia clima extremo
+├── green_technology/          # Tecnología verde
+│   ├── carbon_capture_methods.txt   # Métodos captura carbono
+│   ├── renewable_energy_innovations.txt # Innovaciones energía renovable
+│   └── sustainable_materials.txt    # Materiales sostenibles
+└── environmental_activism/    # Activismo ambiental
+    ├── grassroots_movements.txt     # Movimientos de base
+    ├── eco_warriors.txt            # Guerreros ecológicos
+    └── conservation_heroes.txt     # Héroes conservacionistas
+```
+
+### 🤖 **AI Advanced** - IA Avanzada
+```
+ai_advanced/
+├── ai_ethics/                 # Ética de IA
+│   ├── algorithmic_bias.txt         # Sesgo algorítmico
+│   ├── ai_rights.txt               # Derechos de IA
+│   └── human_ai_collaboration.txt   # Colaboración humano-IA
+├── emerging_ai_roles/         # Roles emergentes de IA
+│   ├── ai_artists.txt              # Artistas IA
+│   ├── ai_therapists.txt           # Terapeutas IA
+│   └── ai_companions.txt           # Compañeros IA
+├── ai_visualization/          # Visualización de IA
+│   ├── neural_network_aesthetics.txt # Estéticas redes neuronales
+│   ├── data_art.txt                # Arte de datos
+│   └── algorithmic_beauty.txt      # Belleza algorítmica
+└── singularity_concepts/      # Conceptos singularidad
+    ├── posthuman_scenarios.txt     # Escenarios posthumanos
+    ├── consciousness_transfer.txt  # Transferencia conciencia
+    └── hybrid_intelligence.txt     # Inteligencia híbrida
+```
+
+### 🏢 **Hybrid Spaces** - Espacios Híbridos
+```
+hybrid_spaces/
+├── remote_work/              # Trabajo remoto
+│   ├── home_office_aesthetics.txt  # Estéticas oficina casa
+│   ├── virtual_backgrounds.txt     # Fondos virtuales
+│   ├── coworking_spaces.txt        # Espacios coworking
+│   └── nomad_setups.txt           # Configuraciones nómadas
+├── hybrid_events/            # Eventos híbridos
+│   └── virtual_conferences.txt     # Conferencias virtuales
+└── [Más subcategorías en desarrollo...]
+```
+
+### 🧠 **Neuroscience Wellness** - Neurociencia y Bienestar
+```
+neuroscience_wellness/
+├── brain_states/             # Estados cerebrales
+│   ├── flow_states.txt            # Estados de flujo
+│   ├── meditative_states.txt      # Estados meditativos
+│   ├── cognitive_enhancement.txt  # Mejora cognitiva
+│   └── neural_plasticity.txt      # Neuroplasticidad
+├── biofeedback/              # Biofeedback y monitoreo
+│   ├── eeg_patterns.txt           # Patrones EEG
+│   ├── heart_coherence.txt        # Coherencia cardíaca
+│   └── breath_techniques.txt      # Técnicas respiratorias
+└── [Más subcategorías disponibles...]
+```
+
+### 📱 **Content Creation Advanced** - Creación Contenido Avanzado
+```
+content_creation_advanced/
+├── platform_specific/        # Plataformas específicas
+│   ├── tiktok_aesthetics.txt      # Estéticas TikTok
+│   ├── instagram_stories.txt      # Instagram Stories
+│   ├── youtube_thumbnails.txt     # Thumbnails YouTube
+│   └── twitch_overlays.txt        # Overlays Twitch
+├── ai_workflows/              # Flujos de trabajo con IA
+│   ├── prompt_engineering.txt     # Ingeniería de prompts
+│   └── model_selection.txt        # Selección de modelos
+└── [Más subcategorías disponibles...]
+```
+
+### 🌐 **Viral Culture** - Cultura Viral *(EXPANDIDO)*
+```
+viral_culture/
+├── meme_formats.txt          # Formatos de memes (existente)
+├── internet_phenomena/       # Fenómenos de internet
+│   ├── viral_dances.txt           # Bailes virales
+│   └── catchphrases.txt           # Frases pegadizas
+├── platform_cultures/        # Culturas de plataforma
+│   ├── twitter_culture.txt        # Cultura Twitter
+│   └── reddit_culture.txt         # Cultura Reddit
+└── generational_slang/        # Jerga generacional
+    └── gen_z_terms.txt            # Términos Gen Z
+```
+
+### 🏥 **Wellness Aesthetics** - Estéticas de Bienestar *(EXPANDIDO)*
+```
+wellness_aesthetics/
+├── therapeutic_spaces.txt    # Espacios terapéuticos (existente)
+├── healing_environments/     # Ambientes curativos
+│   ├── meditation_spaces.txt     # Espacios de meditación
+│   └── yoga_studios.txt          # Estudios de yoga
+├── biophilic_design/         # Diseño biofílico
+│   └── natural_integration.txt   # Integración natural
+└── color_therapy/            # Terapia de color
+    └── calming_palettes.txt       # Paletas calmantes
+```
+
+### 🤖 **AI Native Art** - Arte Nativo de IA *(NUEVA CATEGORÍA)*
+```
+ai_native_art/
+├── diffusion_techniques/     # Técnicas de difusión
+│   ├── controlnet_styles.txt     # Estilos ControlNet
+│   └── lora_aesthetics.txt       # Estéticas LoRA
+└── prompt_architectures/     # Arquitecturas de prompts
+    ├── negative_prompt_strategies.txt # Estrategias de prompts negativos
+    └── weighted_prompting.txt        # Prompting ponderado
+```
+
+### 🌊 **Climate Visualization** - Visualización Climática *(NUEVA CATEGORÍA)*
+```
+climate_visualization/
+├── data_aesthetics/          # Estéticas de datos
+│   ├── temperature_gradients.txt # Gradientes de temperatura
+│   └── carbon_tracking.txt       # Seguimiento de carbono
+└── environmental_impact/     # Impacto ambiental
+    └── pollution_patterns.txt    # Patrones de contaminación
+```
+
+### 🤖 **Mechas** - Robots Gigantes *(NUEVA CATEGORÍA)*
+```
+mechas/
+├── types/                    # Tipos de mechas
+│   └── mech_types.txt            # Clasificaciones de mechas
+├── weapons/                  # Armamento y equipamiento
+│   └── mech_equipment.txt        # Armas y sistemas
+└── styles/                   # Estilos estéticos
+    └── mech_aesthetics.txt       # Estéticas por franquicia
+```
+
+### 🦖 **Kaijus** - Monstruos Gigantes *(NUEVA CATEGORÍA)*
+```
+kaijus/
+├── types/                    # Tipos de kaiju
+│   └── kaiju_types.txt           # Clasificaciones de kaiju
+├── abilities/                # Habilidades y poderes
+│   └── kaiju_powers.txt          # Poderes especiales
+└── origins/                  # Orígenes y trasfondos
+    └── kaiju_origins.txt         # Historias de origen
+```
+
+### 👹 **Demonology** - Demonología *(NUEVA CATEGORÍA)*
+```
+demonology/
+├── christian/                # Demonología cristiana
+│   └── christian_demons.txt      # Demonios del cristianismo
+├── islamic/                  # Demonología islámica
+│   └── islamic_jinn.txt          # Jinn y demonios islámicos
+└── japanese/                 # Demonología japonesa
+    └── japanese_yokai.txt        # Yokai y espíritus
+```
+
+### 👻 **Entities** - Entidades Sobrenaturales *(NUEVA CATEGORÍA)*
+```
+entities/
+├── cosmic/                   # Entidades cósmicas
+│   └── lovecraftian_entities.txt # Seres lovecraftianos
+├── interdimensional/         # Seres interdimensionales
+│   └── dimensional_beings.txt    # Entidades de otras dimensiones
+└── paranormal/               # Entidades paranormales
+    └── paranormal_entities.txt   # Fantasmas y espíritus
+```
+
+### 🚀 **Spaceships** - Naves Espaciales *(NUEVA CATEGORÍA)*
+```
+spaceships/
+├── types/                    # Tipos de naves
+│   └── iconic_ships.txt          # Naves icónicas de ficción
+├── functions/                # Funciones de naves
+│   └── ship_functions.txt        # Propósitos y roles
+└── aesthetics/               # Estilos estéticos
+    └── ship_styles.txt           # Estéticas por género
+```
+
+### 🧬 **Biomechanical** - Tecnología Biomecánica *(NUEVA CATEGORÍA)*
+```
+biomechanical/
+├── technology/               # Tecnología biomecánica
+│   └── biotech_systems.txt      # Sistemas biotecnológicos
+├── creatures/                # Criaturas híbridas
+│   └── hybrid_beings.txt        # Seres biomecánicos
+└── aesthetics/               # Estilos biomecánicos
+    └── bio_mechanical_styles.txt # Estéticas Giger y similares
+```
+
+### 🐉 **Fantasy Bestiary** - Bestiario Fantástico *(NUEVA CATEGORÍA)*
+```
+fantasy_bestiary/
+├── dragons.txt               # Dragones y wyverns
+└── elementals.txt            # Elementales de todos los tipos
+```
+
+### 👽 **Scifi Bestiary** - Bestiario Ciencia Ficción *(NUEVA CATEGORÍA)*
+```
+scifi_bestiary/
+├── alien_species.txt         # Especies alienígenas
+└── synthetic_life.txt        # Vida sintética y artificial
+```
+
+### ⏳ **Distant Histories** - Historias Lejanas *(NUEVA CATEGORÍA)*
+```
+distant_histories/
+├── lost_civilizations/       # Civilizaciones perdidas
+│   └── mythical_places.txt      # Lugares míticos
+├── prehistoric_eras/         # Eras prehistóricas
+│   └── geological_periods.txt   # Períodos geológicos
+└── ancient_technologies/     # Tecnologías ancestrales
+    └── lost_knowledge.txt        # Conocimientos perdidos
+```
+
+### 🐾 **Sistema de Colección de Criaturas** - Pokemon/Digimon Style *(NUEVA CATEGORÍA)*
+```
+pokemon/
+├── types/                    # Tipos pokemon
+│   └── elemental_types.txt       # Tipos elementales
+├── body_parts/               # Partes del cuerpo
+│   ├── distinctive_features.txt  # Características distintivas
+│   └── appendages.txt            # Extremidades y apéndices
+├── morphology/               # Morfología corporal
+│   └── body_shapes.txt           # Formas corporales
+└── textures/                 # Texturas y superficies
+    └── surface_qualities.txt     # Calidades de superficie
+
+digimon/
+├── levels/                   # Niveles de evolución
+│   └── evolution_stages.txt      # Etapas evolutivas
+├── attributes/               # Atributos digitales
+│   └── data_attributes.txt       # Atributos de datos
+└── families/                 # Familias de campo
+    └── field_families.txt        # Grupos familiares
+
+creature_morphology/
+├── head_features/            # Características cefálicas
+│   └── cranial_characteristics.txt # Rasgos craneales
+├── limb_structure/           # Estructura de extremidades
+│   └── appendage_types.txt       # Tipos de extremidades
+└── proportions/              # Proporciones corporales
+    └── size_relationships.txt    # Relaciones de tamaño
+
+elemental_traits/
+├── powers/                   # Poderes elementales
+│   └── ability_effects.txt      # Efectos de habilidades
+└── manifestations/           # Manifestaciones visuales
+    ├── visual_effects.txt        # Efectos visuales
+    └── power_displays.txt        # Despliegues de poder
+
+creature_aesthetics/
+├── patterns/                 # Patrones visuales
+│   └── surface_designs.txt      # Diseños de superficie
+├── colors/                   # Esquemas de color
+│   └── primary_schemes.txt      # Esquemas primarios
+└── markings/                 # Marcas corporales
+    └── body_accents.txt         # Acentos corporales
+
+mon_behaviors/
+├── personalities/            # Personalidades
+│   └── character_traits.txt     # Rasgos de carácter
+├── habitats/                 # Hábitats preferidos
+│   └── preferred_environments.txt # Entornos preferidos
+└── social_patterns/          # Patrones sociales
+    └── group_dynamics.txt        # Dinámicas grupales
+```
+
+## 📁 Estructura de Carpetas Completa
 
 ### 🎭 **Characters** - Personajes y Seres
 ```
@@ -381,6 +659,47 @@ sports/
     └── gear.txt       # (p. ej. helmet, racket, cleats)
 ```
 
+## 🎨 **CATEGORÍAS PROFESIONALES PARA ARTISTAS Y DISEÑADORES - NUEVA EXPANSIÓN 2025**
+
+### 👤 **Character Design Advanced** - Diseño de Personajes Profesional
+```
+characters/character_design_advanced/
+├── facial_features_advanced.txt    # Features faciales con contexto narrativo
+├── body_language_mastery.txt       # Lenguaje corporal cinematográfico
+└── costume_design_psychology.txt   # Psicología del vestuario y simbolismo
+```
+**Uso profesional**: `__characters/character_design_advanced/facial_features_advanced__` - Rasgos específicos como "piercing gaze with hidden vulnerability" o "weathered features telling stories of survival"
+
+### 👑 **Character Archetypes Advanced** - Arquetipos Contemporáneos
+```
+characters/character_archetypes_advanced/
+├── modern_psychological_archetypes.txt  # Arquetipos psicológicos modernos
+└── anti_hero_variations.txt            # Variaciones de anti-héroes complejos
+```
+**Uso profesional**: `__characters/character_archetypes_advanced/modern_psychological_archetypes__` - Como "digital nomad seeking authentic connections" o "AI ethicist grappling with consciousness questions"
+
+### 🎨 **Art Creation Professional** - Creación Artística Profesional
+```
+art_creation_professional/
+├── concept_art_techniques/
+│   ├── character_concept_development.txt  # Desarrollo de concept art
+│   └── color_theory_advanced.txt          # Teoría del color avanzada
+├── digital_art_mastery/
+│   └── brush_techniques_professional.txt  # Técnicas de pincel profesional
+└── professional_workflow/
+    ├── industry_standards.txt             # Estándares de la industria
+    └── artist_tools_mastery.txt           # Dominio de herramientas artísticas
+```
+**Uso profesional**: `__art_creation_professional/concept_art_techniques/character_concept_development__ using __art_creation_professional/digital_art_mastery/brush_techniques_professional__`
+
+### 🎬 **Visual Storytelling Advanced** - Narrativa Visual Profesional
+```
+visual_storytelling_advanced/composition_psychology/
+├── emotional_direction.txt     # Dirección emocional a través de composición
+└── cinematic_language.txt      # Lenguaje cinematográfico para storyboards
+```
+**Uso profesional**: `__visual_storytelling_advanced/composition_psychology/cinematic_language__ shot showing __visual_storytelling_advanced/composition_psychology/emotional_direction__`
+
 ### 🎨 **Colors** - Colores y Paletas
 ```
 colors/
@@ -452,6 +771,33 @@ __food/cuisines/world__
 __sports/types/sports__
 __colors/basic__
 __textures/surface__
+
+# Nuevas categorías especializadas 2025
+__mechas/types/mech_types__
+__mechas/weapons/mech_equipment__
+__mechas/styles/mech_aesthetics__
+__kaijus/types/kaiju_types__
+__kaijus/abilities/kaiju_powers__
+__kaijus/origins/kaiju_origins__
+__demonology/christian/christian_demons__
+__demonology/islamic/islamic_jinn__
+__demonology/japanese/japanese_yokai__
+__entities/cosmic/lovecraftian_entities__
+__entities/interdimensional/dimensional_beings__
+__entities/paranormal/paranormal_entities__
+__spaceships/types/iconic_ships__
+__spaceships/functions/ship_functions__
+__spaceships/aesthetics/ship_styles__
+__biomechanical/technology/biotech_systems__
+__biomechanical/creatures/hybrid_beings__
+__biomechanical/aesthetics/bio_mechanical_styles__
+__fantasy_bestiary/dragons__
+__fantasy_bestiary/elementals__
+__scifi_bestiary/alien_species__
+__scifi_bestiary/synthetic_life__
+__distant_histories/lost_civilizations/mythical_places__
+__distant_histories/prehistoric_eras/geological_periods__
+__distant_histories/ancient_technologies/lost_knowledge__
 __patterns/designs__
 __music/genres__
 __sounds/ambience__
@@ -473,8 +819,48 @@ __patterns/sacred_geometry__
 __colors/palettes_experimental__
 __sensory/synesthesia__
 __worldbuilding/physics_rules__
+
+# Nuevas categorías 2025
+__neuroscience_wellness/brain_states/cognitive_enhancement__
+__neuroscience_wellness/biofeedback/eeg_patterns__
+__content_creation_advanced/ai_workflows/prompt_engineering__
+__content_creation_advanced/platform_specific/instagram_stories__
+__viral_culture/internet_phenomena/viral_dances__
+__viral_culture/platform_cultures/twitter_culture__
+__wellness_aesthetics/healing_environments/meditation_spaces__
+__wellness_aesthetics/color_therapy/calming_palettes__
+__ai_native_art/diffusion_techniques/controlnet_styles__
+__ai_native_art/prompt_architectures/weighted_prompting__
+__climate_visualization/data_aesthetics/temperature_gradients__
+__climate_visualization/environmental_impact/pollution_patterns__
 __worldbuilding/economies__
 __worldbuilding/ecologies__
+
+# 🚀 NUEVAS CATEGORÍAS 2025 - Ejemplos de Uso Avanzado
+
+# Sostenibilidad y Ecología
+__sustainability_advanced/circular_economy/zero_waste_lifestyle__
+__sustainability_advanced/climate_adaptation/resilient_communities__
+__sustainability_advanced/green_technology/renewable_energy_innovations__
+__sustainability_advanced/environmental_activism/eco_warriors__
+
+# IA Ética y Avanzada
+__ai_advanced/ai_ethics/algorithmic_bias__
+__ai_advanced/emerging_ai_roles/ai_artists__
+__ai_advanced/ai_visualization/neural_network_aesthetics__
+__ai_advanced/singularity_concepts/posthuman_scenarios__
+
+# Espacios Híbridos y Trabajo Remoto
+__hybrid_spaces/remote_work/home_office_aesthetics__
+__hybrid_spaces/remote_work/virtual_backgrounds__
+__hybrid_spaces/remote_work/nomad_setups__
+__hybrid_spaces/hybrid_events/virtual_conferences__
+
+# Neurociencia y Bienestar
+__neuroscience_wellness/brain_states/flow_states__
+
+# Creación de Contenido Avanzado
+__content_creation_advanced/platform_specific/tiktok_aesthetics__
 __gaming/mechanics__
 __objects/relics_impossible__
 __actions/micro_actions__
@@ -500,6 +886,48 @@ __aesthetics/warm_natural__ scene with __objects/nature/flowers__, __technical/l
 ### Combinaciones Complejas
 ```
 A __characters/professions/fantasy__ in __characters/clothing/medieval__ standing in a __environments/landscapes/natural__, __technical/lighting/types__, shot with __technical/camera_settings/settings__, __styles/photography/techniques__ style
+```
+
+## 🔥 **COMBINACIONES AVANZADAS 2025**
+
+### **Concept Art Profesional**
+```
+__characters/character_archetypes_advanced/modern_psychological_archetypes__ character with __characters/character_design_advanced/facial_features_advanced__ and __characters/character_design_advanced/costume_design_psychology__, created using __art_creation_professional/concept_art_techniques/character_concept_development__ workflow
+```
+
+### **Character Design Cinematográfico**
+```
+__characters/character_archetypes_advanced/anti_hero_variations__ displaying __characters/character_design_advanced/body_language_mastery__, shot with __visual_storytelling_advanced/composition_psychology/cinematic_language__ framing using __visual_storytelling_advanced/composition_psychology/emotional_direction__
+```
+
+### **Flujo de Trabajo Artístico Profesional**
+```
+Professional digital art piece using __art_creation_professional/digital_art_mastery/brush_techniques_professional__ and __art_creation_professional/concept_art_techniques/color_theory_advanced__, following __art_creation_professional/professional_workflow/industry_standards__
+```
+
+### **Storyboarding y Narrativa Visual**
+```
+__visual_storytelling_advanced/composition_psychology/cinematic_language__ sequence showing __characters/character_design_advanced/body_language_mastery__ character expressing __visual_storytelling_advanced/composition_psychology/emotional_direction__
+```
+
+### **Sostenibilidad + Arte**
+```
+__sustainability_advanced/circular_economy/upcycling_innovations__ art installation in __environments/urban__, __ai_advanced/ai_visualization/data_art__ style, __technical/lighting/types__ illumination showing __sustainability_advanced/climate_adaptation/resilient_communities__
+```
+
+### **IA + Neurociencia**
+```
+__ai_advanced/emerging_ai_roles/ai_therapists__ helping human in __neuroscience_wellness/brain_states/flow_states__, __ai_advanced/ai_visualization/neural_network_aesthetics__ background, __hybrid_spaces/remote_work/virtual_backgrounds__ setting
+```
+
+### **Trabajo Híbrido + Tecnología**
+```
+__hybrid_spaces/remote_work/home_office_aesthetics__ workspace with __ai_advanced/ai_ethics/human_ai_collaboration__ system, __content_creation_advanced/platform_specific/tiktok_aesthetics__ content creation, __sustainability_advanced/green_technology/renewable_energy_innovations__ powered
+```
+
+### **Espacios Futuristas**
+```
+__ai_advanced/singularity_concepts/posthuman_scenarios__ character in __hybrid_spaces/hybrid_events/virtual_conferences__ environment, __neuroscience_wellness/brain_states/flow_states__ mental state, __sustainability_advanced/environmental_activism/eco_warriors__ mission
 ```
 
 ## 🆕 Nuevas Categorías de Worldbuilding y Game Design
@@ -748,12 +1176,34 @@ def random_wildcard(category, subcategory):
 
 ## 📊 Estadísticas
 
-- **Total de categorías principales**: 30+
-- **Total de subcategorías**: 100+
-- **Total de archivos**: 150+
-- **Elementos aproximados**: 8000+
+- **Total de categorías principales**: 45+
+- **Total de subcategorías**: 140+
+- **Total de archivos**: 210+
+- **Elementos aproximados**: 12000+
 
-### Nuevas Categorías Agregadas:
+### 🔥 Mega Expansión Temática (Septiembre 2025):
+
+#### **Primera Ola - Bienestar y Tecnología**:
+- **🧠 Neuroscience Wellness**: Estados cerebrales, biofeedback, neuroplasticidad
+- **📱 Content Creation Advanced**: AI workflows, plataformas específicas, herramientas profesionales
+- **🌐 Viral Culture**: Fenómenos de internet, culturas de plataforma, jerga generacional
+- **🏥 Wellness Aesthetics**: Ambientes curativos, diseño biofílico, terapia de color
+- **🤖 AI Native Art**: Técnicas de difusión, arquitecturas de prompts *(NUEVA)*
+- **🌊 Climate Visualization**: Estéticas de datos, impacto ambiental *(NUEVA)*
+
+#### **Segunda Ola - Sci-Fi y Fantástica**:
+- **🤖 Mechas**: Robots gigantes, armamento, estilos por franquicia *(NUEVA)*
+- **🦖 Kaijus**: Monstruos gigantes, poderes, orígenes *(NUEVA)*
+- **👹 Demonology**: Demonios por religiones (cristiana, islámica, japonesa) *(NUEVA)*
+- **👻 Entities**: Entidades cósmicas, interdimensionales, paranormales *(NUEVA)*
+- **🚀 Spaceships**: Naves espaciales por géneros y funciones *(NUEVA)*
+- **🧬 Biomechanical**: Tecnología biomecánica estilo H.R. Giger *(NUEVA)*
+- **🐉 Fantasy Bestiary**: Dragones, elementales, criaturas fantásticas *(NUEVA)*
+- **👽 Scifi Bestiary**: Especies alienígenas, vida sintética *(NUEVA)*
+- **⏳ Distant Histories**: Civilizaciones perdidas, eras prehistóricas *(NUEVA)*
+- **🐾 Sistema de Colección de Criaturas**: Pokemon/Digimon style con morfología, elementos, estética y comportamientos *(NUEVA)*
+
+### Categorías Clásicas Expandidas:
 - **Aesthetics**: Core aesthetics, cyber-retro, warm-natural, internet, subcultures, vibes
 - **Fashion**: Moda por décadas (1920s-2020s), brands internacionales/regionales, styles
 - **Gaming**: Art styles, géneros, eras del gaming  
@@ -816,6 +1266,16 @@ Para agregar nuevas wildcards:
 
 ---
 
-**Última actualización**: $(Get-Date -Format "dd/MM/yyyy")  
-**Versión**: 1.3  
-**Mantenido por**: Tu nombre/equipo
+**Última actualización**: 26/09/2025  
+**Versión**: 3.0 - Mega Expansión Temática  
+**Mantenido por**: Análisis automatizado y expansión estratégica
+
+### � Changelog Versión 3.0 - ¡LA EXPANSIÓN MÁS GRANDE!
+- ✅ **Primera Ola** (v2.0): 6 categorías expandidas/nuevas (bienestar, tecnología, clima)
+- ✅ **Segunda Ola** (v3.0): 9 categorías completamente nuevas (sci-fi, fantasía, historia)
+- ✅ **30+ nuevos archivos** especializados en géneros populares
+- ✅ **1000+ nuevos términos** específicos para generación con IA
+- ✅ **Cobertura completa**: Mechas, Kaijus, Demonología, Entidades, Naves, Biomecánica
+- ✅ **Bestiarios especializados**: Fantasy y Sci-Fi con criaturas detalladas
+- ✅ **Historias lejanas**: Civilizaciones perdidas y eras prehistóricas
+- ✅ **Documentación completamente actualizada** con todas las estructuras
